@@ -1,6 +1,7 @@
 # TwinLore — Open Beta
 
-**Second-screen multi-tasking companion for android retro gaming**
+**Seamless Second-screen Multi-tasking for Android Retro Handhelds**
+
 ![TwinLore-Beta-Vid-1](https://github.com/user-attachments/assets/9285c721-6831-465f-b2ff-f06e7bc83c5d)
 
 TwinLore keeps guides, maps, images, and bookmarks directly tied to the game you are playing. No tab switching. No lost progress. No hunting for last-read pages. Optimized for **controller use on two-screen handhelds**, it maximizes focus and efficiency with style.
