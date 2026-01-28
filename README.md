@@ -50,7 +50,7 @@ After discovering DS/3DS games for the first time, I wanted every emulator or co
 - Customizable layouts  
 - External storage support  
 - One-button second-display sleep  
-- Fully offline, no ads, no tracking  
+- Works offline (after initial activation), no ads, no tracking  
 
 ---
 
