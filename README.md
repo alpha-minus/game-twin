@@ -18,7 +18,7 @@ Note: This app was developed with AI assistance.
 [![Add Game Twin to Obtainium](https://github.com/ImranR98/Obtainium/raw/main/assets/graphics/badge_obtainium.png?raw=true)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.twinlore.app%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Falpha-minus%2Fgame-twin%22%2C%22author%22%3A%22alpha-minus%22%2C%22name%22%3A%22Game%20Twin%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Atrue%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%7D%22%7D)
 
 [![Version](https://img.shields.io/github/v/release/alpha-minus/game-twin?include_prereleases&label=version&color=blue)](https://github.com/alpha-minus/game-twin/releases/latest)
-[![Android](https://img.shields.io/badge/Android-12%2B-green)](https://github.com/alpha-minus/game-twin/releases/latest)
+[![Android](https://img.shields.io/badge/Android-13%2B-green)](https://github.com/alpha-minus/game-twin/releases/latest)
 
 ---
 
