@@ -35,8 +35,6 @@ Requires **Android 13 or newer**. Built with AI assistance.
 - **Library and sync.** Artwork-rich grid and list views, external storage, and sync through Syncthing, DriveSync or any folder-sync app.
 - **Apps.** Install emulators and companion apps directly or through Obtainium, arranged for the second screen.
 
-Full feature list and screenshots: **[game-twin.app](https://game-twin.app)**
-
 ### Devices
 
 Works on any Android 13+ phone or tablet. On handhelds it picks up your recent games from ES-DE, Cocoon, RetroArch, RetroAchievements and Steam, with full controller support. On dual-screen handhelds such as the AYN Thor the companion panel lives on the second screen while you play on the first, which is what the app was built around.
