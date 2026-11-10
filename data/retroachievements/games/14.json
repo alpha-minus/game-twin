@@ -1,0 +1,636 @@
+{
+  "consoleId": 14,
+  "consoleName": "Neo Geo Pocket",
+  "games": [
+    {
+      "Title": "~Homebrew~ Another Day in Hell",
+      "ID": 23731,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/092532.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 4,
+      "Points": 35,
+      "DateModified": "2025-04-23 17:34:46",
+      "ForumTopicID": 30633,
+      "Hashes": [
+        "b66c0335be91d86650e31c5942a69323"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Blocks",
+      "ID": 23744,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/092534.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 142,
+      "DateModified": "2024-06-16 23:08:12",
+      "ForumTopicID": 26945,
+      "Hashes": [
+        "e2b6d75c63b17e18cd02411f6ce1d6e4"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ BomberMan",
+      "ID": 23735,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/092533.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 119,
+      "DateModified": "2025-11-29 23:29:02",
+      "ForumTopicID": 33388,
+      "Hashes": [
+        "3f18507c9aa7e80b9aa75ce9e69de9ed"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Diamond Run",
+      "ID": 19896,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/059077.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 20,
+      "DateModified": "2022-06-11 13:56:25",
+      "ForumTopicID": 16940,
+      "Hashes": [
+        "0cd4aa9a72ececf14508de6ae6725ed1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Gears of Fate",
+      "ID": 23737,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/092540.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 42,
+      "DateModified": "2024-04-06 08:06:14",
+      "ForumTopicID": 26035,
+      "Hashes": [
+        "782c7aec693c95de10e05a268c023ce1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Lights!",
+      "ID": 23745,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/080444.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2023-08-09 23:09:34",
+      "ForumTopicID": 22859,
+      "Hashes": [
+        "1715311acd6bf2717a3b1bf70321d195"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mines",
+      "ID": 23741,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/087878.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 37,
+      "DateModified": "2024-01-11 02:47:34",
+      "ForumTopicID": 25026,
+      "Hashes": [
+        "6594d32d6774b616949a31641799472a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mr. Do!",
+      "ID": 23747,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/071132.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2023-08-07 19:56:46",
+      "ForumTopicID": 21120,
+      "Hashes": [
+        "2ee3331dd1e34020bbafdd91df0ce1bb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Puzzle Gems",
+      "ID": 23733,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/088863.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 16,
+      "DateModified": "2025-08-15 03:17:54",
+      "ForumTopicID": 25259,
+      "Hashes": [
+        "04a35a8f274479a061b88bdeee8ee6d4"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Snake",
+      "ID": 23738,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/077721.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 30,
+      "DateModified": "2023-07-15 23:52:37",
+      "ForumTopicID": 22590,
+      "Hashes": [
+        "62029cf9c8af82f4dd13bd0243693d32"
+      ]
+    },
+    {
+      "Title": "Big Bang Pro Wrestling",
+      "ID": 26881,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/095681.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 211,
+      "DateModified": "2024-05-04 07:18:46",
+      "ForumTopicID": 26332,
+      "Hashes": [
+        "184dc284995dc20ddce599426b9cac7d"
+      ]
+    },
+    {
+      "Title": "Biomotor Unitron",
+      "ID": 11572,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/069059.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 250,
+      "DateModified": "2023-08-12 04:28:05",
+      "ForumTopicID": 15608,
+      "Hashes": [
+        "f4bbe8cf42074b75c8a911bf7b0562d5"
+      ]
+    },
+    {
+      "Title": "Cool Boarders Pocket",
+      "ID": 16706,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/069315.png",
+      "NumAchievements": 88,
+      "NumLeaderboards": 82,
+      "Points": 487,
+      "DateModified": "2023-03-26 22:08:23",
+      "ForumTopicID": 20644,
+      "Hashes": [
+        "dc8fa0cedef94fe22a219f2eeca43dc0"
+      ]
+    },
+    {
+      "Title": "Cotton: Fantastic Night Dreams",
+      "ID": 11692,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/068923.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 1,
+      "Points": 214,
+      "DateModified": "2023-03-01 20:55:15",
+      "ForumTopicID": 20535,
+      "Hashes": [
+        "5a2a155706a201a1c0227c7fe671256f"
+      ]
+    },
+    {
+      "Title": "Crush Roller",
+      "ID": 13712,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/087717.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 28,
+      "Points": 235,
+      "DateModified": "2025-02-14 03:50:36",
+      "ForumTopicID": 20822,
+      "Hashes": [
+        "100f6086bbcd6bccd2ac6f79242f5a87"
+      ]
+    },
+    {
+      "Title": "Dark Arms",
+      "ID": 10297,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/062610.png",
+      "NumAchievements": 82,
+      "NumLeaderboards": 0,
+      "Points": 860,
+      "DateModified": "2025-12-18 15:12:25",
+      "ForumTopicID": 5891,
+      "Hashes": [
+        "4fb30b1b905ed1f975efb9a8fceb9a62",
+        "fe0e58d34d650ae5174ca03d3efc67b0"
+      ]
+    },
+    {
+      "Title": "Delta Warp",
+      "ID": 14396,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/046433.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 101,
+      "Points": 200,
+      "DateModified": "2022-05-23 19:31:48",
+      "ForumTopicID": 13614,
+      "Hashes": [
+        "64495ddd898f14e9c89e02179ab6f5e0",
+        "905a97b0100f8ee7080628bfef815a33",
+        "d4651757a3db5a8e5a5a64c337c6002f"
+      ]
+    },
+    {
+      "Title": "Faselei!",
+      "ID": 13167,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/019097.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 900,
+      "DateModified": "2025-07-06 08:37:28",
+      "ForumTopicID": 7418,
+      "Hashes": [
+        "f580078164dc2b8dffb9f38eeec1035d"
+      ]
+    },
+    {
+      "Title": "Fatal Fury F-Contact",
+      "ID": 14249,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/111246.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 2,
+      "Points": 300,
+      "DateModified": "2025-08-02 17:25:16",
+      "ForumTopicID": 13105,
+      "Hashes": [
+        "690a3397f20e31b2c4a2833f51670245"
+      ]
+    },
+    {
+      "Title": "Ganbare Neo Poke-kun",
+      "ID": 17338,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/057462.png",
+      "NumAchievements": 81,
+      "NumLeaderboards": 0,
+      "Points": 550,
+      "DateModified": "2026-01-29 17:41:34",
+      "ForumTopicID": 16343,
+      "Hashes": [
+        "99ed127490f9d5d6482d20cc6abc8056"
+      ]
+    },
+    {
+      "Title": "King of Fighters R-1: Pocket Fighting Series",
+      "ID": 33456,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/110951.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2025-06-26 20:53:34",
+      "ForumTopicID": 30601,
+      "Hashes": [
+        "347d0ef33c889cc826d214caf8475ae0"
+      ]
+    },
+    {
+      "Title": "King of Fighters R-2: Pocket Fighting Series",
+      "ID": 14250,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/111981.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 341,
+      "DateModified": "2025-02-14 14:57:53",
+      "ForumTopicID": 15510,
+      "Hashes": [
+        "b361ed78f6126f94179dc69fe4c58781"
+      ]
+    },
+    {
+      "Title": "Magical Drop Pocket",
+      "ID": 14270,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/070575.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 5,
+      "Points": 230,
+      "DateModified": "2024-07-21 02:47:15",
+      "ForumTopicID": 21016,
+      "Hashes": [
+        "6acfef5fe57d592ea7321e0e440c4ecf",
+        "ae92cd3536577bd18f03f34b475c26d6"
+      ]
+    },
+    {
+      "Title": "Metal Slug: 1st Mission",
+      "ID": 11691,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/015974.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 2,
+      "Points": 288,
+      "DateModified": "2022-11-14 20:40:30",
+      "ForumTopicID": 6195,
+      "Hashes": [
+        "4d3efef436c67d4f4e031951b97d64c8"
+      ]
+    },
+    {
+      "Title": "Metal Slug: 2nd Mission",
+      "ID": 11766,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/055068.png",
+      "NumAchievements": 141,
+      "NumLeaderboards": 0,
+      "Points": 692,
+      "DateModified": "2024-08-02 09:18:14",
+      "ForumTopicID": 6318,
+      "Hashes": [
+        "a58f7c41cd9e6c96cd5b4b477f022570"
+      ]
+    },
+    {
+      "Title": "Neo Turf Masters",
+      "ID": 14254,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/054740.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 213,
+      "DateModified": "2026-01-28 13:35:08",
+      "ForumTopicID": 15696,
+      "Hashes": [
+        "e055837bb0e227c1ddc3e68b0aa89ae9"
+      ]
+    },
+    {
+      "Title": "Nige-Ron-Pa",
+      "ID": 20405,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/064297.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 0,
+      "Points": 305,
+      "DateModified": "2023-10-13 13:40:40",
+      "ForumTopicID": 19138,
+      "Hashes": [
+        "866e717e2c684e073e6d034f5a56f7b7",
+        "9c73091689138179323ff48b279f8b1e"
+      ]
+    },
+    {
+      "Title": "Pac-Man",
+      "ID": 13350,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/039737.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 156,
+      "DateModified": "2020-05-31 06:09:00",
+      "ForumTopicID": 7883,
+      "Hashes": [
+        "ac5ad76d5e6614ae576c2c837f0fab1d"
+      ]
+    },
+    {
+      "Title": "Picture Puzzle",
+      "ID": 10345,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/070461.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 141,
+      "DateModified": "2023-06-20 13:56:50",
+      "ForumTopicID": 8767,
+      "Hashes": [
+        "81d3c10271ad5b09032dd00321b41aa0"
+      ]
+    },
+    {
+      "Title": "Pocket Tennis Color",
+      "ID": 14255,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/060804.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2022-08-16 19:23:36",
+      "ForumTopicID": 17671,
+      "Hashes": [
+        "c7bfc59b4cb593409541d4ccffe083b4"
+      ]
+    },
+    {
+      "Title": "Puzzle Link 2",
+      "ID": 14624,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/027384.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 21,
+      "Points": 555,
+      "DateModified": "2023-02-22 06:47:24",
+      "ForumTopicID": 9438,
+      "Hashes": [
+        "2a8f9cb76e56000769e08200d8b25182",
+        "9b30216da76c9de87caea93f13977396"
+      ]
+    },
+    {
+      "Title": "Rockman Battle & Fighters",
+      "ID": 12895,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/049949.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 370,
+      "DateModified": "2024-08-31 13:50:02",
+      "ForumTopicID": 7280,
+      "Hashes": [
+        "064b9408df8af7beb7890d8317273550",
+        "1ca3a6b4e23c51bdab70182c3406e73d",
+        "62ba425e8a32bb953dcf0dc36cdabbf2",
+        "c71af75c76778b8a2d32a0c6f170736e"
+      ]
+    },
+    {
+      "Title": "Samurai Shodown! 2: Pocket Fighting Series",
+      "ID": 13349,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/111247.png",
+      "NumAchievements": 105,
+      "NumLeaderboards": 15,
+      "Points": 675,
+      "DateModified": "2025-02-11 21:15:32",
+      "ForumTopicID": 14306,
+      "Hashes": [
+        "9b11b2632f926301096a40491042a089"
+      ]
+    },
+    {
+      "Title": "Shanghai Mini",
+      "ID": 16705,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/096561.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 0,
+      "Points": 121,
+      "DateModified": "2023-09-23 23:11:45",
+      "ForumTopicID": 18507,
+      "Hashes": [
+        "7c262a2c6390445170d0bf83290c939c"
+      ]
+    },
+    {
+      "Title": "SNK Gals' Fighters",
+      "ID": 13423,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/044652.png",
+      "NumAchievements": 67,
+      "NumLeaderboards": 0,
+      "Points": 464,
+      "DateModified": "2025-10-31 09:46:38",
+      "ForumTopicID": 14914,
+      "Hashes": [
+        "08922d2bdc6c80d56ddf50836ccad77c"
+      ]
+    },
+    {
+      "Title": "SNK vs. Capcom: Card Fighters 2: Expand Edition",
+      "ID": 14397,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/069469.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 2,
+      "Points": 990,
+      "DateModified": "2023-07-26 01:11:56",
+      "ForumTopicID": 18532,
+      "Hashes": [
+        "3c6c6e42d10b76bbccacf125f5d2b769",
+        "ebc0e8c33d1a5e5be5457ad988233feb"
+      ]
+    },
+    {
+      "Title": "SNK vs. Capcom: Card Fighters' Clash - Capcom and SNK Versions",
+      "ID": 14395,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/042684.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 1,
+      "Points": 465,
+      "DateModified": "2023-06-17 23:31:58",
+      "ForumTopicID": 12046,
+      "Hashes": [
+        "3bcc1c9ef59a75e3c2e6b49be6b84bab",
+        "74e8381e94565e21a3197449bb4423bf"
+      ]
+    },
+    {
+      "Title": "SNK vs. Capcom: The Match of the Millennium",
+      "ID": 10236,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/102894.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 7,
+      "Points": 700,
+      "DateModified": "2025-02-23 13:58:16",
+      "ForumTopicID": 7287,
+      "Hashes": [
+        "d7a3dc19391c754709a330d17710a1dc",
+        "dfea3ad9af4a631de6f97d86589b971e"
+      ]
+    },
+    {
+      "Title": "Sonic the Hedgehog: Pocket Adventure",
+      "ID": 11719,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/059550.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 1,
+      "Points": 530,
+      "DateModified": "2025-04-21 21:18:47",
+      "ForumTopicID": 6896,
+      "Hashes": [
+        "6123e8a783b146bdcdc6a9fa95abb0bd",
+        "b8a899ae2b0f1dfa0db5417de745a51e"
+      ]
+    },
+    {
+      "Title": "The King of Fighters: Battle de Paradise",
+      "ID": 32107,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/121640.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 22,
+      "Points": 305,
+      "DateModified": "2025-12-18 00:17:02",
+      "ForumTopicID": 28932,
+      "Hashes": [
+        "362e9c04ec255225eeb0a9dee8fcac1b",
+        "b16a89f1787c83212b964e7fb570a060"
+      ]
+    },
+    {
+      "Title": "The Last Blade: Beyond the Destiny",
+      "ID": 14271,
+      "ConsoleID": 14,
+      "ConsoleName": "Neo Geo Pocket",
+      "ImageIcon": "/Images/105531.png",
+      "NumAchievements": 98,
+      "NumLeaderboards": 5,
+      "Points": 589,
+      "DateModified": "2026-02-28 20:18:38",
+      "ForumTopicID": 20825,
+      "Hashes": [
+        "7dc5073a7a3de1c87a69be5941dff1f9",
+        "83fa4cb3c629aa57c12f9cec52c5a53d"
+      ]
+    }
+  ]
+}

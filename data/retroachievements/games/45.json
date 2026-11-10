@@ -1,0 +1,561 @@
+{
+  "consoleId": 45,
+  "consoleName": "Intellivision",
+  "games": [
+    {
+      "Title": "~Homebrew~ 4-Tris",
+      "ID": 17712,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/085100.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 6,
+      "Points": 305,
+      "DateModified": "2023-11-01 20:00:31",
+      "ForumTopicID": 21787,
+      "Hashes": [
+        "bdf1ffe620738e6f54740ded6e175693"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Antarctic Tales Enhanced Edition",
+      "ID": 24890,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/075084.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2023-06-16 16:51:29",
+      "ForumTopicID": 22087,
+      "Hashes": [
+        "27051b100ff89970d8a24291e8b6cb67"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Donkey Kong Arcade",
+      "ID": 31167,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/103208.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 144,
+      "DateModified": "2025-08-24 01:28:03",
+      "ForumTopicID": 28421,
+      "Hashes": [
+        "607d0a959d1c64f6feb66433b4171d5f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Flapee Bird",
+      "ID": 20037,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/059548.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 55,
+      "DateModified": "2022-06-24 08:38:48",
+      "ForumTopicID": 17114,
+      "Hashes": [
+        "5b065c30735a4b0feee2aac48ebaf633"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Princess Quest",
+      "ID": 22456,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/067722.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 2,
+      "Points": 241,
+      "DateModified": "2024-08-06 08:29:11",
+      "ForumTopicID": 20206,
+      "Hashes": [
+        "ed8e8a3c94b8f3b59579047a297cac32"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pumpkin Attack!",
+      "ID": 29151,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/093743.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2024-04-23 14:27:33",
+      "ForumTopicID": 26126,
+      "Hashes": [
+        "b593690baa3643df336e2385e9c24dfe"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Tag-Along Todd",
+      "ID": 20050,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/059685.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 9,
+      "Points": 74,
+      "DateModified": "2025-10-03 01:38:13",
+      "ForumTopicID": 17174,
+      "Hashes": [
+        "57e82ac5ef6c1bff0b810874c4b2c30c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Ultimate Pong",
+      "ID": 24463,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/073913.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-05-26 05:28:11",
+      "ForumTopicID": 21763,
+      "Hashes": [
+        "03a20a7287601bdae309693ca4f6f0b9"
+      ]
+    },
+    {
+      "Title": "Advanced Dungeons & Dragons: Cloudy Mountain",
+      "ID": 17395,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/041589.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2021-01-21 15:27:55",
+      "ForumTopicID": 12260,
+      "Hashes": [
+        "17fd2af3368c310fb7928dcfe0311514"
+      ]
+    },
+    {
+      "Title": "Advanced Dungeons & Dragons: Treasure of Tarmin",
+      "ID": 7404,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/041534.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 90,
+      "DateModified": "2025-05-05 02:34:08",
+      "ForumTopicID": 12268,
+      "Hashes": [
+        "0229a4889e18a37d1d631505d1cb83df"
+      ]
+    },
+    {
+      "Title": "Astrosmash",
+      "ID": 8283,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/041827.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 4,
+      "Points": 105,
+      "DateModified": "2021-02-25 23:03:52",
+      "ForumTopicID": 12352,
+      "Hashes": [
+        "8f6a5b5b65d84f947236e503d378370b"
+      ]
+    },
+    {
+      "Title": "Atlantis",
+      "ID": 10682,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/074345.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 3,
+      "Points": 265,
+      "DateModified": "2023-09-05 00:31:32",
+      "ForumTopicID": 21877,
+      "Hashes": [
+        "317ef1ee4d12df7ce7dd57dbc273b4b1"
+      ]
+    },
+    {
+      "Title": "Beauty and the Beast",
+      "ID": 6865,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/045512.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 4,
+      "Points": 100,
+      "DateModified": "2022-04-19 05:11:00",
+      "ForumTopicID": 13410,
+      "Hashes": [
+        "f6d0e268efe254dc4539fb6df5a6ce24"
+      ]
+    },
+    {
+      "Title": "BurgerTime",
+      "ID": 17859,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/050821.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 5,
+      "Points": 194,
+      "DateModified": "2023-08-28 22:10:35",
+      "ForumTopicID": 13539,
+      "Hashes": [
+        "d81075a4c254463724ac3bab0b500a08"
+      ]
+    },
+    {
+      "Title": "Buzz Bombers",
+      "ID": 10686,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/072479.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 343,
+      "DateModified": "2024-08-08 19:16:09",
+      "ForumTopicID": 21519,
+      "Hashes": [
+        "0032f034ed1d761d1f0dff79115fec78"
+      ]
+    },
+    {
+      "Title": "Checkers",
+      "ID": 28554,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/089354.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 23,
+      "DateModified": "2024-11-27 17:38:28",
+      "ForumTopicID": 25472,
+      "Hashes": [
+        "8122bb07816acdcb3f0a037b72f02142"
+      ]
+    },
+    {
+      "Title": "Commando",
+      "ID": 20501,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/066078.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 116,
+      "DateModified": "2024-07-21 13:59:39",
+      "ForumTopicID": 19588,
+      "Hashes": [
+        "9ff5833918a5accbfddc856258bc2d3b"
+      ]
+    },
+    {
+      "Title": "Demon Attack",
+      "ID": 8282,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/050928.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 135,
+      "DateModified": "2022-07-20 00:18:28",
+      "ForumTopicID": 13198,
+      "Hashes": [
+        "9855aefcc210df151ba3373d869e8b66"
+      ]
+    },
+    {
+      "Title": "Dig Dug",
+      "ID": 33029,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/124506.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 145,
+      "DateModified": "2026-02-18 14:35:11",
+      "ForumTopicID": 34492,
+      "Hashes": [
+        "a8f2aee64d0163309bf17e90c69fe5b9"
+      ]
+    },
+    {
+      "Title": "Diner",
+      "ID": 3600,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/072797.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 160,
+      "DateModified": "2021-09-10 22:07:58",
+      "ForumTopicID": 13428,
+      "Hashes": [
+        "ae3b9621c32fd1d327e2aa994e69f62a"
+      ]
+    },
+    {
+      "Title": "Donkey Kong",
+      "ID": 10678,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/111026.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 75,
+      "DateModified": "2024-08-22 11:47:35",
+      "ForumTopicID": 21788,
+      "Hashes": [
+        "a43d060b5e7c6155f7469bf3dd245de4"
+      ]
+    },
+    {
+      "Title": "Donkey Kong Junior",
+      "ID": 10684,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/086756.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 86,
+      "DateModified": "2024-01-24 18:20:12",
+      "ForumTopicID": 25176,
+      "Hashes": [
+        "4f16342d203da7af060cc6eec3d103f7"
+      ]
+    },
+    {
+      "Title": "Dracula",
+      "ID": 5947,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/049430.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2022-06-03 08:39:33",
+      "ForumTopicID": 13155,
+      "Hashes": [
+        "a52574877a018ef1ec10e0ff3038fbb9"
+      ]
+    },
+    {
+      "Title": "Frog Bog",
+      "ID": 5698,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/059527.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 35,
+      "DateModified": "2022-06-26 16:14:34",
+      "ForumTopicID": 17096,
+      "Hashes": [
+        "bb806b41644e33b6fc5a4d9d3f8c7aee"
+      ]
+    },
+    {
+      "Title": "Frogger",
+      "ID": 22044,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/066184.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 4,
+      "Points": 143,
+      "DateModified": "2024-08-05 16:29:38",
+      "ForumTopicID": 19658,
+      "Hashes": [
+        "523d46bcab6c0c11f0672562fe31cd47"
+      ]
+    },
+    {
+      "Title": "Ice Trek",
+      "ID": 6041,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/063207.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 121,
+      "DateModified": "2022-07-04 21:18:22",
+      "ForumTopicID": 12243,
+      "Hashes": [
+        "79d475ff853683ffd9be630628a491fa"
+      ]
+    },
+    {
+      "Title": "Lady Bug",
+      "ID": 18500,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/075020.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 8,
+      "Points": 371,
+      "DateModified": "2025-04-10 23:29:29",
+      "ForumTopicID": 26569,
+      "Hashes": [
+        "b512d919bf3db6f1e6b9a80835e032ec"
+      ]
+    },
+    {
+      "Title": "Las Vegas Blackjack and Poker",
+      "ID": 17418,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/101269.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 162,
+      "DateModified": "2024-08-23 13:12:30",
+      "ForumTopicID": 12320,
+      "Hashes": [
+        "6506a1bf0c749fc768cb6b5162e0cbd7"
+      ]
+    },
+    {
+      "Title": "Masters of the Universe: The Power of He-Man!",
+      "ID": 18029,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/060671.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 90,
+      "DateModified": "2021-12-02 18:36:48",
+      "ForumTopicID": 14116,
+      "Hashes": [
+        "aee9f481abd8c290e6a0c3990c185e60"
+      ]
+    },
+    {
+      "Title": "Mission X",
+      "ID": 29725,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/095724.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 10,
+      "Points": 210,
+      "DateModified": "2024-05-14 13:40:42",
+      "ForumTopicID": 26340,
+      "Hashes": [
+        "30f68d218bae18b69daeb9e273fdc9d0"
+      ]
+    },
+    {
+      "Title": "Pac-Man",
+      "ID": 25209,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/077978.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 96,
+      "DateModified": "2023-07-24 00:48:31",
+      "ForumTopicID": 22631,
+      "Hashes": [
+        "34b9e686aee6f418d431a2f9a5a5c0cb"
+      ]
+    },
+    {
+      "Title": "Pinball",
+      "ID": 18532,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/071027.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 1,
+      "Points": 384,
+      "DateModified": "2023-08-12 02:42:45",
+      "ForumTopicID": 21097,
+      "Hashes": [
+        "2828ce0b76c7f8a5e3a4569fac5c8eb9"
+      ]
+    },
+    {
+      "Title": "Shark! Shark!",
+      "ID": 14508,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/042643.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 165,
+      "DateModified": "2021-07-01 13:53:25",
+      "ForumTopicID": 12259,
+      "Hashes": [
+        "9f85b961e6c40c2c786026f460ae02fa"
+      ]
+    },
+    {
+      "Title": "Thin Ice",
+      "ID": 19908,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/059558.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2022-06-24 21:00:42",
+      "ForumTopicID": 16954,
+      "Hashes": [
+        "a3434d8d4314b1eba3662ed9c9e7faaa"
+      ]
+    },
+    {
+      "Title": "Tower of Doom",
+      "ID": 29769,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/096587.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 1,
+      "Points": 314,
+      "DateModified": "2024-11-18 20:14:15",
+      "ForumTopicID": 26482,
+      "Hashes": [
+        "95b106acaecab4fe3d43970eae893452"
+      ]
+    },
+    {
+      "Title": "Triple Action",
+      "ID": 17574,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/048979.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 24,
+      "DateModified": "2021-10-12 02:57:37",
+      "ForumTopicID": 12762,
+      "Hashes": [
+        "df8bf33772ee8a983ee67687a53a0d4a"
+      ]
+    },
+    {
+      "Title": "Tropical Trouble",
+      "ID": 24895,
+      "ConsoleID": 45,
+      "ConsoleName": "Intellivision",
+      "ImageIcon": "/Images/075468.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 4,
+      "Points": 118,
+      "DateModified": "2023-08-12 00:14:28",
+      "ForumTopicID": 22096,
+      "Hashes": [
+        "e5836f66acd6ba7b31c7dccda23b34dc"
+      ]
+    }
+  ]
+}

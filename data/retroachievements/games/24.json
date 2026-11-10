@@ -1,0 +1,618 @@
+{
+  "consoleId": 24,
+  "consoleName": "Pokemon Mini",
+  "games": [
+    {
+      "Title": "~Homebrew~ ~Demo~ 2048",
+      "ID": 24918,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/084819.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 160,
+      "DateModified": "2023-10-25 17:24:26",
+      "ForumTopicID": 24163,
+      "Hashes": [
+        "59a694c43054a267c434424edfb7aa10"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ gjpg",
+      "ID": 21565,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/064289.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2022-11-18 01:55:07",
+      "ForumTopicID": 19119,
+      "Hashes": [
+        "86756b56e0d2e6c40a9e746f67a2d1c0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Loopover",
+      "ID": 21715,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/064908.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 36,
+      "DateModified": "2023-09-02 23:24:33",
+      "ForumTopicID": 19316,
+      "Hashes": [
+        "be6a27e04fa02f2c7214431e0aa8a2cd"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ P-Type",
+      "ID": 19505,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/057381.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 6,
+      "DateModified": "2025-08-05 16:12:19",
+      "ForumTopicID": 16385,
+      "Hashes": [
+        "389dc3409fe795b18a0894548dd7bed6"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Pazuru",
+      "ID": 15908,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/051028.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 106,
+      "DateModified": "2023-06-19 16:28:50",
+      "ForumTopicID": 14686,
+      "Hashes": [
+        "ea7a26be47020af10058ac36a8b6d626"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Pokemon Orange",
+      "ID": 17393,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/045230.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 6,
+      "DateModified": "2021-06-16 02:58:14",
+      "ForumTopicID": 13305,
+      "Hashes": [
+        "de89be869046a1cd60ea469c6df8a2b3"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Silver Falls: Monsters in North Island",
+      "ID": 28820,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/103570.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2026-01-04 22:40:06",
+      "ForumTopicID": 28546,
+      "Hashes": [
+        "0ce0bead3ee9911765d3d0eb097ee7e7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Wooloo's Run Away",
+      "ID": 21685,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/112410.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 17,
+      "DateModified": "2023-05-04 00:54:00",
+      "ForumTopicID": 19200,
+      "Hashes": [
+        "890fed94636776716a2b7b0754c8d5be"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Zelda Mini",
+      "ID": 18331,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/109281.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 9,
+      "DateModified": "2023-06-16 04:42:56",
+      "ForumTopicID": 14722,
+      "Hashes": [
+        "d204bb4f33c0034dc6cdd8c9b6ff9846"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Prototype~ PokeMaze",
+      "ID": 15722,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/053899.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2022-03-01 05:51:10",
+      "ForumTopicID": 14454,
+      "Hashes": [
+        "db53ab1335e95df2b33d4ef3735d7af6"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Bat Trip",
+      "ID": 22050,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/066241.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 25,
+      "DateModified": "2023-01-15 17:02:45",
+      "ForumTopicID": 19684,
+      "Hashes": [
+        "f8cac8a6bec766f8f6905b77aab3b29f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cortex",
+      "ID": 15725,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/046870.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 5,
+      "Points": 155,
+      "DateModified": "2021-08-23 02:57:35",
+      "ForumTopicID": 13702,
+      "Hashes": [
+        "f03d77b9353c9b875a6331275bb480a5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ DeathTrap",
+      "ID": 19498,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/057364.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 35,
+      "DateModified": "2023-04-21 11:16:30",
+      "ForumTopicID": 16380,
+      "Hashes": [
+        "e82230f90504c966610a31b8186ff419"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Flappy Bird",
+      "ID": 17676,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/043991.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2022-02-10 03:19:40",
+      "ForumTopicID": 12957,
+      "Hashes": [
+        "613cb77ff503f8fd374727526b6a1581"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Frank the Fruit Fly",
+      "ID": 14713,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/044267.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 29,
+      "DateModified": "2021-11-27 06:41:00",
+      "ForumTopicID": 13014,
+      "Hashes": [
+        "3e3c37a97fa0c772bdb0237b3c220315"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Galactix",
+      "ID": 15726,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/031481.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2023-08-25 21:54:06",
+      "ForumTopicID": 12889,
+      "Hashes": [
+        "4e66ffdb6eed6652e4a443247a74038a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hamburger in Space!",
+      "ID": 19708,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/059505.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 13,
+      "DateModified": "2022-06-19 02:33:05",
+      "ForumTopicID": 16655,
+      "Hashes": [
+        "decbb5eacc06db3b4e9f6d206b3bffb9"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ LightsOut",
+      "ID": 15727,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/044362.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 90,
+      "DateModified": "2025-05-26 18:53:23",
+      "ForumTopicID": 13025,
+      "Hashes": [
+        "43dbd3bda79b2e72276ef444152b695f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mini Cookie",
+      "ID": 18257,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/057573.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 42,
+      "DateModified": "2024-12-28 11:08:36",
+      "ForumTopicID": 16439,
+      "Hashes": [
+        "78197d139406095e68b0043fbf004860"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mini Running Ant",
+      "ID": 37098,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/121286.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 43,
+      "DateModified": "2025-12-06 12:37:02",
+      "ForumTopicID": 33448,
+      "Hashes": [
+        "ef8984f9e252298296f373598ca63e7e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pac-It",
+      "ID": 19568,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/057780.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 53,
+      "DateModified": "2023-08-12 06:03:39",
+      "ForumTopicID": 16513,
+      "Hashes": [
+        "c73d85b16295266a4e3fe62ecdb761b2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Petals Around the Rose",
+      "ID": 15730,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/053574.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 5,
+      "DateModified": "2024-04-29 16:39:25",
+      "ForumTopicID": 15312,
+      "Hashes": [
+        "fc837a8a99829a4879dc37adb3435e5e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ PokeMaze",
+      "ID": 19706,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/058035.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 48,
+      "DateModified": "2025-10-19 11:12:45",
+      "ForumTopicID": 16606,
+      "Hashes": [
+        "d48392de0e6a80497c1955042ad38611"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pokemon Mini Ambulation",
+      "ID": 38036,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/124653.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 39,
+      "DateModified": "2026-02-20 17:56:47",
+      "ForumTopicID": 34555,
+      "Hashes": [
+        "0156b0b9c002b4f9b9fec777d4503594"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pokemon Party mini 2",
+      "ID": 19709,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/058049.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 40,
+      "DateModified": "2022-05-20 22:09:57",
+      "ForumTopicID": 16622,
+      "Hashes": [
+        "8a69cc5a94afb712e9b313d13ef7a8a2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pokemon Psychic Seeds",
+      "ID": 15724,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/041749.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 35,
+      "Points": 320,
+      "DateModified": "2021-02-01 15:16:38",
+      "ForumTopicID": 10435,
+      "Hashes": [
+        "092819a9abe895f6a0b70a685a854aa7",
+        "ab2d43a547fee0ae36db0eac3657242b"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ PokeSnake",
+      "ID": 15723,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/041806.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 46,
+      "DateModified": "2021-11-21 22:03:31",
+      "ForumTopicID": 10189,
+      "Hashes": [
+        "473b191bc7833fb62388e1d9f21a241c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pongemon",
+      "ID": 17311,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/040495.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 62,
+      "DateModified": "2021-01-01 16:40:11",
+      "ForumTopicID": 12008,
+      "Hashes": [
+        "3fbd1d94969da4070f37763861763486"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ SOKOmini",
+      "ID": 15728,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/040875.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 8,
+      "Points": 80,
+      "DateModified": "2024-12-04 23:07:33",
+      "ForumTopicID": 11049,
+      "Hashes": [
+        "2586b3aa4989969c0b200a57c13f5aae",
+        "6048dce48222e4d75e8fdce9c2f55c39"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Sonic Arena",
+      "ID": 15729,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/059717.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 6,
+      "DateModified": "2024-06-14 17:48:50",
+      "ForumTopicID": 16384,
+      "Hashes": [
+        "e1fc9f3b2a32990eb0c479c40d28049d"
+      ]
+    },
+    {
+      "Title": "Pichu Bros. mini",
+      "ID": 14714,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/124476.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 6,
+      "Points": 100,
+      "DateModified": "2025-11-26 07:36:31",
+      "ForumTopicID": 10021,
+      "Hashes": [
+        "8a7ef76eacdeec95cee4f5e5939ccd17",
+        "a587b6f5aa51fc8506ae818127e5d1b3"
+      ]
+    },
+    {
+      "Title": "Pokemon Party mini",
+      "ID": 11781,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/122876.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 7,
+      "Points": 80,
+      "DateModified": "2024-10-20 21:37:05",
+      "ForumTopicID": 9646,
+      "Hashes": [
+        "0823b8d49dc88033659f0d4eae114907",
+        "199aaed9afb5851c4d39ef78c29b86d1",
+        "4266d987e4203c3da2a2da1b3c2e2d39",
+        "96f6a0cedc7471a0357271dc799ed342",
+        "E0A064E6D758F958752A49C0CE798388"
+      ]
+    },
+    {
+      "Title": "Pokemon Pinball mini",
+      "ID": 14715,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/028399.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 86,
+      "Points": 250,
+      "DateModified": "2024-12-19 17:14:29",
+      "ForumTopicID": 10102,
+      "Hashes": [
+        "086ec88930aa624a09d470858ccc9911",
+        "842551cdd9e0cafdf2a6a57159d5bbc8"
+      ]
+    },
+    {
+      "Title": "Pokemon Puzzle Collection",
+      "ID": 14703,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/114699.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2020-04-30 08:04:55",
+      "ForumTopicID": 9636,
+      "Hashes": [
+        "1bb47758e8ea1c5ba39acf4a1d10c78e"
+      ]
+    },
+    {
+      "Title": "Pokemon Puzzle Collection Vol. 2",
+      "ID": 14707,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/027884.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2024-03-31 03:31:53",
+      "ForumTopicID": 9644,
+      "Hashes": [
+        "302c418edc3e9d4ff8430b9662a11d1b",
+        "66809741517a2f0809cacd6acdd77b27"
+      ]
+    },
+    {
+      "Title": "Pokemon Race mini",
+      "ID": 14716,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/121547.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 16,
+      "Points": 539,
+      "DateModified": "2022-08-01 10:07:01",
+      "ForumTopicID": 9658,
+      "Hashes": [
+        "1ee515c92cda64696b5085f19c752b57",
+        "8b50be4cf91a6a3268f5be5e67120056"
+      ]
+    },
+    {
+      "Title": "Pokemon Shock Tetris",
+      "ID": 14717,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/035887.png",
+      "NumAchievements": 114,
+      "NumLeaderboards": 22,
+      "Points": 645,
+      "DateModified": "2023-08-03 04:40:49",
+      "ForumTopicID": 9971,
+      "Hashes": [
+        "f100caf74574aeabe5084f3b5c9e03d2"
+      ]
+    },
+    {
+      "Title": "Pokemon Sodateyasan mini",
+      "ID": 11789,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/027881.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 110,
+      "DateModified": "2024-11-24 17:56:15",
+      "ForumTopicID": 9623,
+      "Hashes": [
+        "0eb5e7e191ce056f3ee2c6572bc61906",
+        "0f78ee2c193fc8d0c129f051f262dcdf"
+      ]
+    },
+    {
+      "Title": "Pokemon Zany Cards",
+      "ID": 14718,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/094647.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 159,
+      "DateModified": "2025-11-05 19:52:37",
+      "ForumTopicID": 10042,
+      "Hashes": [
+        "28ddb09ed326df90b706aa61a851c732"
+      ]
+    },
+    {
+      "Title": "Togepi no Daibouken",
+      "ID": 14701,
+      "ConsoleID": 24,
+      "ConsoleName": "Pokemon Mini",
+      "ImageIcon": "/Images/027860.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 3,
+      "Points": 283,
+      "DateModified": "2024-04-07 22:39:29",
+      "ForumTopicID": 9628,
+      "Hashes": [
+        "a4eb2facaa5beb947f306ced2bf5cd15",
+        "cac3842f010dba9e4155e459111b6ebd"
+      ]
+    }
+  ]
+}

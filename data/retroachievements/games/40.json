@@ -1,0 +1,2165 @@
+{
+  "consoleId": 40,
+  "consoleName": "Dreamcast",
+  "games": [
+    {
+      "Title": "~Hack~ Resident Evil 2: Special Edition",
+      "ID": 25503,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/085051.png",
+      "NumAchievements": 96,
+      "NumLeaderboards": 0,
+      "Points": 684,
+      "DateModified": "2024-09-18 16:23:56",
+      "ForumTopicID": 23005,
+      "Hashes": [
+        "709749676bb335a1f4e134b030254642",
+        "3afb59a182653ca85f537b600a96e051"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Wolflame",
+      "ID": 32944,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/123134.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 4,
+      "Points": 275,
+      "DateModified": "2026-01-27 02:03:14",
+      "ForumTopicID": 29760,
+      "Hashes": [
+        "d8ae1ecba98f051f410e6533bcda39c2"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Castlevania: Resurrection",
+      "ID": 24223,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/106466.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 36,
+      "DateModified": "2025-09-02 07:58:03",
+      "ForumTopicID": 23328,
+      "Hashes": [
+        "d59ca0093f3fd239289f6c2f71b8a9b8"
+      ]
+    },
+    {
+      "Title": "102 Dalmatians: Puppies to the Rescue",
+      "ID": 17750,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/101666.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 4,
+      "Points": 363,
+      "DateModified": "2024-12-01 22:52:57",
+      "ForumTopicID": 16735,
+      "Hashes": [
+        "eed6d6c6dc3ec82337b622b06fc78211"
+      ]
+    },
+    {
+      "Title": "18 Wheeler: American Pro Trucker",
+      "ID": 9761,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049899.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 15,
+      "Points": 168,
+      "DateModified": "2023-04-26 05:18:56",
+      "ForumTopicID": 14591,
+      "Hashes": [
+        "aa5429328078f39078610df43a6446ff",
+        "aa571861964e9f58437f609239cbfb7c"
+      ]
+    },
+    {
+      "Title": "Aerowings",
+      "ID": 6364,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/104812.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 8,
+      "Points": 250,
+      "DateModified": "2024-11-20 01:15:54",
+      "ForumTopicID": 28770,
+      "Hashes": [
+        "e6c32a3ae1f3d0cdf16396d9f952801d",
+        "360e6005c40b6ce071f09be3f5e2139e",
+        "f799439f77f9c3e07e520ded95f6ddea"
+      ]
+    },
+    {
+      "Title": "Army Men: Sarge's Heroes",
+      "ID": 6551,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/080073.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 17,
+      "Points": 342,
+      "DateModified": "2025-06-19 10:33:57",
+      "ForumTopicID": 18889,
+      "Hashes": [
+        "0c80b03e9d7eaa77e6054c9b5696b6e2"
+      ]
+    },
+    {
+      "Title": "Bangai-O",
+      "ID": 3490,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/070641.png",
+      "NumAchievements": 90,
+      "NumLeaderboards": 88,
+      "Points": 500,
+      "DateModified": "2023-05-06 21:23:52",
+      "ForumTopicID": 15391,
+      "Hashes": [
+        "f0b70a851520ad68743d1af22a8a4b3f"
+      ]
+    },
+    {
+      "Title": "BIOHAZARD CODE: Veronica Kanzenban",
+      "ID": 3866,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051133.png",
+      "NumAchievements": 127,
+      "NumLeaderboards": 18,
+      "Points": 1208,
+      "DateModified": "2025-08-31 21:28:12",
+      "ForumTopicID": 14602,
+      "Hashes": [
+        "1085232889d7467fdd3584dbc9bfa4de",
+        "134628d0a307b81894b697d18ef6ba39",
+        "1431a4e76cee8d3f5cd4148c27689c08",
+        "1fee2b728919b6ba2e1c5ab6dc8c6264",
+        "26cde520c1f9d34acb827d1562998481",
+        "2f81c543f96b5c0d87cb1e0ea4af42b4",
+        "39375c10b2daefe40896de2af5054681",
+        "4f692826f0907696517e7baadbc015ad",
+        "62a1e2f97fe414ed5e8f1cc4aa5e0918",
+        "6f8127cf7adf8eefbca9e7965b10d57f",
+        "70eac7a42fa92431f4310705bcdb1d07",
+        "74c5b43005b2986ced3d6dc0b5c14794",
+        "7e6cf01c246aff37b9dea8cdbf37636e",
+        "80076159f28a062edf928d53b07eb2e7",
+        "96309a2142797e9e31a84da0775b1051",
+        "9d9af10c3e852e5666456875768e03e7",
+        "aca03c0c4395236f3a3acea96ad12a95",
+        "b2dca7bf3dddba49ef036e98366b4fa8",
+        "b35b683749ea211bcd47de5e785f1aba",
+        "b602d175560777f55db64aeb442bd63d",
+        "b643657cc1013e82d67fac80e77d783f",
+        "bf21c8caec2037ee405b3cb94705204a",
+        "c6db2dc40552d6dc19feb59a4dbffbad",
+        "dd42a2c178f4065d9dee8ed4923b4543"
+      ]
+    },
+    {
+      "Title": "Bomberman Online",
+      "ID": 15326,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/120540.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 0,
+      "Points": 365,
+      "DateModified": "2026-01-05 22:24:15",
+      "ForumTopicID": 31910,
+      "Hashes": [
+        "ebee803a43d98f94ec40b18904490e14"
+      ]
+    },
+    {
+      "Title": "Bomberman Online [Subset - Multiplayer]",
+      "ID": 34563,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/120541.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 124,
+      "DateModified": "2025-11-19 11:56:11",
+      "ForumTopicID": 32273,
+      "Hashes": [
+        "47fc98f54ff09de13b8b063768933de6"
+      ]
+    },
+    {
+      "Title": "Buzz Lightyear of Star Command",
+      "ID": 316,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/114162.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 0,
+      "Points": 525,
+      "DateModified": "2025-01-27 08:27:09",
+      "ForumTopicID": 20055,
+      "Hashes": [
+        "9edee9f48068e7449f53a79a82c8dfff"
+      ]
+    },
+    {
+      "Title": "Cannon Spike",
+      "ID": 17836,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052398.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 340,
+      "DateModified": "2022-04-04 03:48:38",
+      "ForumTopicID": 14594,
+      "Hashes": [
+        "687a2d974858b262d13ac7f3ac4d3c75"
+      ]
+    },
+    {
+      "Title": "Capcom vs. SNK 2: Millionaire Fighting 2001",
+      "ID": 347,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083569.png",
+      "NumAchievements": 105,
+      "NumLeaderboards": 2,
+      "Points": 745,
+      "DateModified": "2024-08-30 23:56:42",
+      "ForumTopicID": 15932,
+      "Hashes": [
+        "f489afc519749c0e5c8cf8a6b57e28df",
+        "8ba5d0b271cdd94718ab13b5c04605e6"
+      ]
+    },
+    {
+      "Title": "Capcom vs. SNK: Millennium Fight 2000",
+      "ID": 10845,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/113353.png",
+      "NumAchievements": 107,
+      "NumLeaderboards": 8,
+      "Points": 566,
+      "DateModified": "2023-11-02 05:01:47",
+      "ForumTopicID": 18798,
+      "Hashes": [
+        "cdcfbcff862a15d6cd29b07a941fd60e"
+      ]
+    },
+    {
+      "Title": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+      "ID": 18598,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/086702.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 2,
+      "Points": 435,
+      "DateModified": "2023-12-12 13:59:31",
+      "ForumTopicID": 24318,
+      "Hashes": [
+        "f8d653f481d4b88ab78c403bee102574"
+      ]
+    },
+    {
+      "Title": "Cardcaptor Sakura: Tomoyo no Video Daisakusen",
+      "ID": 18542,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053233.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 2,
+      "Points": 115,
+      "DateModified": "2022-04-03 22:26:51",
+      "ForumTopicID": 15281,
+      "Hashes": [
+        "a1e515c0273c374469ebea341f7afb1b"
+      ]
+    },
+    {
+      "Title": "Centipede",
+      "ID": 25682,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/105093.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 75,
+      "Points": 478,
+      "DateModified": "2025-09-20 23:34:40",
+      "ForumTopicID": 23247,
+      "Hashes": [
+        "f3abb4ce1b8323b1a0f50d952fb335b0"
+      ]
+    },
+    {
+      "Title": "Chicken Run",
+      "ID": 28090,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/088453.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 11,
+      "Points": 187,
+      "DateModified": "2025-02-25 15:52:16",
+      "ForumTopicID": 25104,
+      "Hashes": [
+        "8f1a9e2297e1472d8a0f486487f26d75"
+      ]
+    },
+    {
+      "Title": "ChuChu Rocket!",
+      "ID": 3442,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049895.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 25,
+      "Points": 291,
+      "DateModified": "2025-03-10 03:46:12",
+      "ForumTopicID": 17638,
+      "Hashes": [
+        "692e9944f6287d7f08bcd11f7c1a99c7",
+        "9da5ddf9e7d14d46e942f43e0ee0f354"
+      ]
+    },
+    {
+      "Title": "Coaster Works",
+      "ID": 29211,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/107743.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 45,
+      "Points": 195,
+      "DateModified": "2025-02-17 20:07:37",
+      "ForumTopicID": 29739,
+      "Hashes": [
+        "911fba77cced5ebad1a99794eb04fa49"
+      ]
+    },
+    {
+      "Title": "Confidential Mission",
+      "ID": 18544,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/069742.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 8,
+      "Points": 400,
+      "DateModified": "2026-02-06 04:00:58",
+      "ForumTopicID": 21695,
+      "Hashes": [
+        "9f4be15d8137a1d8fca9c06289916c97"
+      ]
+    },
+    {
+      "Title": "Cosmic Smash",
+      "ID": 3857,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049893.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 51,
+      "Points": 379,
+      "DateModified": "2025-08-17 19:37:59",
+      "ForumTopicID": 18728,
+      "Hashes": [
+        "c7978ab185ae13d6d1e22d48089e9807"
+      ]
+    },
+    {
+      "Title": "Crazy Taxi",
+      "ID": 3399,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/122047.png",
+      "NumAchievements": 82,
+      "NumLeaderboards": 23,
+      "Points": 1045,
+      "DateModified": "2023-09-01 20:55:12",
+      "ForumTopicID": 14577,
+      "Hashes": [
+        "e0dc1587750ef747cc873230b96a50bb"
+      ]
+    },
+    {
+      "Title": "Crazy Taxi 2",
+      "ID": 3400,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/121534.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 20,
+      "Points": 716,
+      "DateModified": "2025-06-17 10:20:44",
+      "ForumTopicID": 26237,
+      "Hashes": [
+        "6861beeda49ace256e3af64cfbdce859"
+      ]
+    },
+    {
+      "Title": "Cyber Troopers Virtual-On: Oratorio Tangram",
+      "ID": 8179,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053540.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 14,
+      "Points": 510,
+      "DateModified": "2022-11-23 18:14:04",
+      "ForumTopicID": 15598,
+      "Hashes": [
+        "8b32cfa97a5030b16cef6ad8bbca3b00"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution: 2nd Mix - Dreamcast Edition",
+      "ID": 19421,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/059110.png",
+      "NumAchievements": 114,
+      "NumLeaderboards": 179,
+      "Points": 1185,
+      "DateModified": "2023-03-30 12:12:15",
+      "ForumTopicID": 16948,
+      "Hashes": [
+        "3f437b40e6e64b93c288a193292b910b"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution: Club Version - Dreamcast Edition",
+      "ID": 19420,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/059342.png",
+      "NumAchievements": 103,
+      "NumLeaderboards": 178,
+      "Points": 1060,
+      "DateModified": "2022-07-04 01:56:16",
+      "ForumTopicID": 17015,
+      "Hashes": [
+        "0e6710233d1c687c870fc6c0deeaa481"
+      ]
+    },
+    {
+      "Title": "Daytona USA 2001",
+      "ID": 8412,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053537.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 16,
+      "Points": 338,
+      "DateModified": "2025-10-12 17:44:45",
+      "ForumTopicID": 17437,
+      "Hashes": [
+        "02d78cda793af4743591446655573428"
+      ]
+    },
+    {
+      "Title": "Dead or Alive 2",
+      "ID": 3456,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053973.png",
+      "NumAchievements": 74,
+      "NumLeaderboards": 4,
+      "Points": 430,
+      "DateModified": "2025-02-09 22:08:26",
+      "ForumTopicID": 15367,
+      "Hashes": [
+        "ad3b97608af024f0289a3f9e6128f464",
+        "b22807a718da48c5d54131813ece3bea"
+      ]
+    },
+    {
+      "Title": "Dino Crisis",
+      "ID": 3504,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053652.png",
+      "NumAchievements": 77,
+      "NumLeaderboards": 5,
+      "Points": 740,
+      "DateModified": "2025-11-28 14:32:00",
+      "ForumTopicID": 17690,
+      "Hashes": [
+        "5773bf1be85affe875d2dcff5ab4b483",
+        "eb0a5220a6b0b7b128b46ae06cd01637"
+      ]
+    },
+    {
+      "Title": "Donald Duck: Goin' Quackers",
+      "ID": 9547,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/113908.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 0,
+      "Points": 287,
+      "DateModified": "2024-07-05 09:27:53",
+      "ForumTopicID": 14606,
+      "Hashes": [
+        "d3f38e73541714944d20a2f4437b5186"
+      ]
+    },
+    {
+      "Title": "Dynamite Cop",
+      "ID": 6552,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052624.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 6,
+      "Points": 595,
+      "DateModified": "2024-12-07 15:28:55",
+      "ForumTopicID": 14596,
+      "Hashes": [
+        "4ca9e9e3da0f2a6c93e4b5510f53912e"
+      ]
+    },
+    {
+      "Title": "Ecco the Dolphin: Defender of the Future",
+      "ID": 3872,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051225.png",
+      "NumAchievements": 75,
+      "NumLeaderboards": 0,
+      "Points": 525,
+      "DateModified": "2023-01-13 20:04:46",
+      "ForumTopicID": 14597,
+      "Hashes": [
+        "edf827581b59afcd18efaf701f5c744d"
+      ]
+    },
+    {
+      "Title": "Evolution 2: Far Off Promise",
+      "ID": 6671,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/082184.png",
+      "NumAchievements": 109,
+      "NumLeaderboards": 0,
+      "Points": 786,
+      "DateModified": "2025-07-26 14:49:29",
+      "ForumTopicID": 23236,
+      "Hashes": [
+        "642d60ce0704cc22146bde04095906ea"
+      ]
+    },
+    {
+      "Title": "Evolution: The World of Sacred Device",
+      "ID": 6648,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053245.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 0,
+      "Points": 455,
+      "DateModified": "2024-12-23 18:57:42",
+      "ForumTopicID": 15280,
+      "Hashes": [
+        "b9f833bbe7d6c425469ed110c7c4dadf"
+      ]
+    },
+    {
+      "Title": "Frame Gride",
+      "ID": 20055,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/059780.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 14,
+      "Points": 360,
+      "DateModified": "2023-09-03 20:09:06",
+      "ForumTopicID": 17200,
+      "Hashes": [
+        "836b42b4af8cd165f1bee277d88ef39a"
+      ]
+    },
+    {
+      "Title": "Frame Gride [Subset - S Rank]",
+      "ID": 22034,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/066086.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2022-12-31 01:11:46",
+      "ForumTopicID": 17200,
+      "Hashes": [
+        "3c1e14cf4e4616bf5a6b4fe4c8edcec6"
+      ]
+    },
+    {
+      "Title": "Garou: Mark of the Wolves",
+      "ID": 280,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/113372.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 7,
+      "Points": 445,
+      "DateModified": "2025-12-07 15:58:58",
+      "ForumTopicID": 29334,
+      "Hashes": [
+        "8b3166e1f96be84e14072a2f9d876feb"
+      ]
+    },
+    {
+      "Title": "Gauntlet Legends",
+      "ID": 3739,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/081037.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 33,
+      "Points": 629,
+      "DateModified": "2025-12-22 17:49:06",
+      "ForumTopicID": 24033,
+      "Hashes": [
+        "074ad91b0a9500b1edeecf446f8788f5"
+      ]
+    },
+    {
+      "Title": "Godzilla Generations: Maximum Impact",
+      "ID": 22845,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/069826.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 5,
+      "Points": 226,
+      "DateModified": "2024-05-23 20:05:48",
+      "ForumTopicID": 20696,
+      "Hashes": [
+        "ffbb2657da75fa1625f635ab50f10498"
+      ]
+    },
+    {
+      "Title": "Grandia II",
+      "ID": 3488,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/073563.png",
+      "NumAchievements": 76,
+      "NumLeaderboards": 0,
+      "Points": 370,
+      "DateModified": "2025-01-05 10:30:07",
+      "ForumTopicID": 14578,
+      "Hashes": [
+        "33f1c369641f500bcf6279052d19fc12",
+        "a5992b58a2d6c8752ac8548462f69c15",
+        "fbdca07d1ec67e677dd7284fbd7e4017"
+      ]
+    },
+    {
+      "Title": "Guilty Gear X",
+      "ID": 462,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053644.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 17,
+      "Points": 465,
+      "DateModified": "2025-12-06 23:29:14",
+      "ForumTopicID": 22711,
+      "Hashes": [
+        "a46984ec09d4f360dd91b8bd57608f10"
+      ]
+    },
+    {
+      "Title": "Guilty Gear X [Subset - Omni Survivalist]",
+      "ID": 9677,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/123439.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 800,
+      "DateModified": "2023-07-26 16:50:34",
+      "ForumTopicID": null,
+      "Hashes": []
+    },
+    {
+      "Title": "Headhunter",
+      "ID": 6368,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/054012.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 700,
+      "DateModified": "2025-01-10 20:17:20",
+      "ForumTopicID": 15570,
+      "Hashes": [
+        "51b9731eecf6109ee7e3a531efa802c9",
+        "afd2ded7374c0e2a2d890ad595d786a2"
+      ]
+    },
+    {
+      "Title": "Ikaruga",
+      "ID": 3435,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053204.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 21,
+      "Points": 596,
+      "DateModified": "2023-06-04 18:05:12",
+      "ForumTopicID": 14593,
+      "Hashes": [
+        "05c1605a79e909c6e1f32f0c7c7bfe91"
+      ]
+    },
+    {
+      "Title": "Illbleed",
+      "ID": 7118,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049903.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 0,
+      "Points": 465,
+      "DateModified": "2023-09-29 16:45:56",
+      "ForumTopicID": 14612,
+      "Hashes": [
+        "315b07880e2f597a6bcf5cfd5e817bbb"
+      ]
+    },
+    {
+      "Title": "Jet Set Radio",
+      "ID": 3403,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052103.png",
+      "NumAchievements": 128,
+      "NumLeaderboards": 47,
+      "Points": 1210,
+      "DateModified": "2025-07-24 13:51:38",
+      "ForumTopicID": 14580,
+      "Hashes": [
+        "b2b3745f73c48d20999093cf20f5a543"
+      ]
+    },
+    {
+      "Title": "JoJo's Bizarre Adventure",
+      "ID": 348,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/101436.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 0,
+      "Points": 378,
+      "DateModified": "2025-05-26 16:42:16",
+      "ForumTopicID": 27847,
+      "Hashes": [
+        "99c3b215e69ebfc91372282749e35b76"
+      ]
+    },
+    {
+      "Title": "Kao the Kangaroo",
+      "ID": 6698,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053543.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 415,
+      "DateModified": "2025-07-15 05:20:57",
+      "ForumTopicID": 16736,
+      "Hashes": [
+        "7b25445bc7926f5978420d69334c6234"
+      ]
+    },
+    {
+      "Title": "Kidou Senshi Gundam: Renpou vs. Zeon DX",
+      "ID": 6361,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/060389.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 2,
+      "Points": 286,
+      "DateModified": "2024-12-07 21:01:47",
+      "ForumTopicID": 15592,
+      "Hashes": [
+        "2bf2e6451c194365f5e05a7242571647"
+      ]
+    },
+    {
+      "Title": "Kiss: Psycho Circus - The Nightmare Child",
+      "ID": 8918,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052590.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 0,
+      "Points": 395,
+      "DateModified": "2024-05-19 21:23:19",
+      "ForumTopicID": 15081,
+      "Hashes": [
+        "09f84da4ba177e954737e1cdb4cc69c8"
+      ]
+    },
+    {
+      "Title": "L.O.L.: Lack of Love",
+      "ID": 10840,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052424.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 90,
+      "DateModified": "2025-09-10 01:32:19",
+      "ForumTopicID": 14678,
+      "Hashes": [
+        "4ab193310e28704b961c75105bc5233e",
+        "5a0d53ce943cc6ea758784ce1252d340"
+      ]
+    },
+    {
+      "Title": "Looney Tunes: Space Race",
+      "ID": 4566,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/113325.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 12,
+      "Points": 205,
+      "DateModified": "2022-03-12 03:35:38",
+      "ForumTopicID": 14608,
+      "Hashes": [
+        "f59eebed2336cf35178aa6760de10bd6"
+      ]
+    },
+    {
+      "Title": "Magic: The Gathering",
+      "ID": 6564,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051709.png",
+      "NumAchievements": 100,
+      "NumLeaderboards": 1,
+      "Points": 600,
+      "DateModified": "2024-12-30 14:31:20",
+      "ForumTopicID": 14748,
+      "Hashes": [
+        "34eebb474f59169824c55cbdd0cf4d1c"
+      ]
+    },
+    {
+      "Title": "Maken X",
+      "ID": 3751,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/050993.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 11,
+      "Points": 419,
+      "DateModified": "2023-10-02 14:31:40",
+      "ForumTopicID": 22636,
+      "Hashes": [
+        "65ce9e83d854ee2e41c8e4db3c111fb7"
+      ]
+    },
+    {
+      "Title": "Marvel vs. Capcom 2: New Age of Heroes",
+      "ID": 3452,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/106814.png",
+      "NumAchievements": 122,
+      "NumLeaderboards": 1,
+      "Points": 910,
+      "DateModified": "2024-12-21 19:48:21",
+      "ForumTopicID": 14640,
+      "Hashes": [
+        "a0fdf6b41f138d322a87f8d7a0ae0775"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat Gold",
+      "ID": 6366,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/056848.png",
+      "NumAchievements": 71,
+      "NumLeaderboards": 16,
+      "Points": 401,
+      "DateModified": "2024-03-29 14:50:42",
+      "ForumTopicID": 15868,
+      "Hashes": [
+        "fff3471a50a8070f33e7997a5ce747d1"
+      ]
+    },
+    {
+      "Title": "Ms. Pac-Man Maze Madness",
+      "ID": 8601,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/065893.png",
+      "NumAchievements": 67,
+      "NumLeaderboards": 0,
+      "Points": 630,
+      "DateModified": "2022-09-01 18:12:10",
+      "ForumTopicID": 17574,
+      "Hashes": [
+        "abb2559773062cc533fcf20b7f254b40"
+      ]
+    },
+    {
+      "Title": "MSR: Metropolis Street Racer",
+      "ID": 343,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051253.png",
+      "NumAchievements": 76,
+      "NumLeaderboards": 0,
+      "Points": 662,
+      "DateModified": "2025-03-18 10:14:13",
+      "ForumTopicID": 14615,
+      "Hashes": [
+        "ef0a51da3348792a9b8f5a2c805ea043"
+      ]
+    },
+    {
+      "Title": "Nakoruru: Ano Hito kara no Okurimono",
+      "ID": 25325,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/082631.png",
+      "NumAchievements": 65,
+      "NumLeaderboards": 0,
+      "Points": 155,
+      "DateModified": "2024-12-13 05:19:10",
+      "ForumTopicID": 23060,
+      "Hashes": [
+        "710963461fcb3c5ca76cdd758e097744"
+      ]
+    },
+    {
+      "Title": "NFL 2K",
+      "ID": 32005,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/113750.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 160,
+      "DateModified": "2026-01-23 18:25:26",
+      "ForumTopicID": 32928,
+      "Hashes": [
+        "4d039b3ab67e742a8d106bc5cf53d448"
+      ]
+    },
+    {
+      "Title": "Pen Pen TriIcelon",
+      "ID": 10839,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/121730.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 173,
+      "DateModified": "2022-07-28 10:10:46",
+      "ForumTopicID": 14777,
+      "Hashes": [
+        "085679291df1b35468901c89fc874775"
+      ]
+    },
+    {
+      "Title": "Phantasy Star Online Ver. 2",
+      "ID": 10828,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052594.png",
+      "NumAchievements": 169,
+      "NumLeaderboards": 0,
+      "Points": 1855,
+      "DateModified": "2024-09-29 12:13:00",
+      "ForumTopicID": 14890,
+      "Hashes": [
+        "9181677ea271be5fa1e1215a76bea565"
+      ]
+    },
+    {
+      "Title": "Pop'n Music",
+      "ID": 30101,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/099053.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 50,
+      "Points": 380,
+      "DateModified": "2025-01-05 04:09:36",
+      "ForumTopicID": 27028,
+      "Hashes": [
+        "a2e09b9b28c2ca6a2a2de2302c5258ed"
+      ]
+    },
+    {
+      "Title": "Pop'n Music 2",
+      "ID": 30144,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/099290.png",
+      "NumAchievements": 129,
+      "NumLeaderboards": 186,
+      "Points": 939,
+      "DateModified": "2025-01-19 01:02:55",
+      "ForumTopicID": 27148,
+      "Hashes": [
+        "fa25fa1ce73b86cc8290105654021d61"
+      ]
+    },
+    {
+      "Title": "Pop'n Music 3: Append Disc",
+      "ID": 30118,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/099294.png",
+      "NumAchievements": 112,
+      "NumLeaderboards": 146,
+      "Points": 852,
+      "DateModified": "2025-01-19 01:06:44",
+      "ForumTopicID": 27045,
+      "Hashes": [
+        "e6a4bd0968a21a5bb558165a0cc64318"
+      ]
+    },
+    {
+      "Title": "Pop'n Music 4: Append Disc",
+      "ID": 30121,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/099295.png",
+      "NumAchievements": 110,
+      "NumLeaderboards": 184,
+      "Points": 836,
+      "DateModified": "2024-11-09 01:47:24",
+      "ForumTopicID": 27055,
+      "Hashes": [
+        "f0a72e9e0a785358109e7821a4026b97"
+      ]
+    },
+    {
+      "Title": "Power Stone",
+      "ID": 3396,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/121097.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 210,
+      "DateModified": "2023-03-13 19:47:45",
+      "ForumTopicID": 15031,
+      "Hashes": [
+        "ece134d7eabbefa54ab10afc866c52c9",
+        "f4ae7c4457320fb953995a2293791866"
+      ]
+    },
+    {
+      "Title": "Power Stone 2",
+      "ID": 3397,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/123950.png",
+      "NumAchievements": 103,
+      "NumLeaderboards": 0,
+      "Points": 1263,
+      "DateModified": "2025-05-14 23:10:40",
+      "ForumTopicID": 15278,
+      "Hashes": [
+        "bb5fee3d05497901343e688b28cec7b2"
+      ]
+    },
+    {
+      "Title": "Power Stone 2 [Subset - Adventure 8 Difficulty]",
+      "ID": 22698,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/123951.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 1050,
+      "DateModified": "2022-04-27 18:48:04",
+      "ForumTopicID": 20624,
+      "Hashes": [
+        "d191724819455c9ff52ae876567d56cc"
+      ]
+    },
+    {
+      "Title": "Project Justice",
+      "ID": 8302,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053539.png",
+      "NumAchievements": 202,
+      "NumLeaderboards": 0,
+      "Points": 1074,
+      "DateModified": "2023-10-27 04:59:20",
+      "ForumTopicID": 16221,
+      "Hashes": [
+        "04dae242a45f1e4e892df42fe1e44fb8"
+      ]
+    },
+    {
+      "Title": "Puyo Puyo Da!",
+      "ID": 19345,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083753.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 242,
+      "DateModified": "2023-10-15 05:11:13",
+      "ForumTopicID": 23476,
+      "Hashes": [
+        "809e6a8441753d6a6871a3382ccb8089"
+      ]
+    },
+    {
+      "Title": "Puyo Puyo Da! [Subset - Full Chain]",
+      "ID": 26982,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/084951.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 0,
+      "Points": 1080,
+      "DateModified": "2023-12-26 21:25:01",
+      "ForumTopicID": 24287,
+      "Hashes": [
+        "063df55acd0fe88b7ca7c180829674d9"
+      ]
+    },
+    {
+      "Title": "Puyo Puyo Fever",
+      "ID": 8564,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/124182.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 6,
+      "Points": 229,
+      "DateModified": "2022-05-03 13:50:36",
+      "ForumTopicID": 14575,
+      "Hashes": [
+        "2bc74892989afec32bcf6bda51216b94"
+      ]
+    },
+    {
+      "Title": "Rayman 2: The Great Escape",
+      "ID": 3492,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/065096.png",
+      "NumAchievements": 81,
+      "NumLeaderboards": 7,
+      "Points": 705,
+      "DateModified": "2026-01-06 03:41:42",
+      "ForumTopicID": 16120,
+      "Hashes": [
+        "8ddbdfbe90a07971ff022900afb15b30"
+      ]
+    },
+    {
+      "Title": "Record of Lodoss War",
+      "ID": 3865,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/075046.png",
+      "NumAchievements": 107,
+      "NumLeaderboards": 0,
+      "Points": 651,
+      "DateModified": "2025-08-25 19:11:30",
+      "ForumTopicID": 14576,
+      "Hashes": [
+        "32c6e521298ac0871413e34b917e0e55"
+      ]
+    },
+    {
+      "Title": "Resident Evil 2",
+      "ID": 3859,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/112587.png",
+      "NumAchievements": 178,
+      "NumLeaderboards": 26,
+      "Points": 1835,
+      "DateModified": "2026-01-12 00:59:40",
+      "ForumTopicID": 14700,
+      "Hashes": [
+        "3894b9eed7b8c559df96475645eeb262",
+        "b88a34974e0e3229e612d996eb6863b6"
+      ]
+    },
+    {
+      "Title": "Resident Evil 2 [Subset - Bonus]",
+      "ID": 25590,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/081647.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 1810,
+      "DateModified": "2023-10-05 00:37:57",
+      "ForumTopicID": 23055,
+      "Hashes": [
+        "f582c73c8364c6c0b8c8d133c178a076",
+        "8e9594c82d73b1eb7e798318585be2b1"
+      ]
+    },
+    {
+      "Title": "Resident Evil 3: Nemesis",
+      "ID": 9015,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/107815.png",
+      "NumAchievements": 101,
+      "NumLeaderboards": 1,
+      "Points": 1103,
+      "DateModified": "2025-12-17 17:10:00",
+      "ForumTopicID": 14583,
+      "Hashes": [
+        "99dbe36beafa47a6680051205828697b",
+        "d9ca8c9b37c449dad9888f7b9f58aa2f"
+      ]
+    },
+    {
+      "Title": "Resident Evil 3: Nemesis [Subset - Bonus]",
+      "ID": 24629,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/074311.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 6,
+      "Points": 1200,
+      "DateModified": "2023-11-25 12:31:10",
+      "ForumTopicID": 24179,
+      "Hashes": [
+        "65b58387c67360272888b0325bb6676a"
+      ]
+    },
+    {
+      "Title": "Resident Evil 3: Nemesis [Subset - Nemesis Hunter]",
+      "ID": 24471,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/107708.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 485,
+      "DateModified": "2023-07-19 12:32:25",
+      "ForumTopicID": 21785,
+      "Hashes": [
+        "ecaf17c8067cf7d36bdb0a760f271820"
+      ]
+    },
+    {
+      "Title": "Resident Evil 3: Nemesis [Subset - Speedrun Showcase]",
+      "ID": 27233,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/086456.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 15,
+      "Points": 1316,
+      "DateModified": "2025-04-04 00:25:43",
+      "ForumTopicID": 24397,
+      "Hashes": [
+        "fd9f65cc14d428f2dbae93207d7cc1d6"
+      ]
+    },
+    {
+      "Title": "Rez",
+      "ID": 3419,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049896.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 9,
+      "Points": 585,
+      "DateModified": "2025-05-09 13:16:43",
+      "ForumTopicID": 14600,
+      "Hashes": [
+        "53559dc64d7148f2ab22cfb0b7920697",
+        "c98afdd2a220a5a3376d4ba5d876d683"
+      ]
+    },
+    {
+      "Title": "Samba de Amigo",
+      "ID": 3454,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/119176.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 73,
+      "Points": 410,
+      "DateModified": "2022-09-17 03:22:10",
+      "ForumTopicID": 14570,
+      "Hashes": [
+        "4f5d0f3f1c20df06b7b9a086c2c55999"
+      ]
+    },
+    {
+      "Title": "Samba de Amigo Ver. 2000",
+      "ID": 20415,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/061451.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 99,
+      "Points": 511,
+      "DateModified": "2022-10-25 12:58:44",
+      "ForumTopicID": 18006,
+      "Hashes": [
+        "84b6b459f44c7ab10a6e3efd5271039b"
+      ]
+    },
+    {
+      "Title": "Sega Bass Fishing",
+      "ID": 4594,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051264.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 8,
+      "Points": 245,
+      "DateModified": "2025-06-07 11:42:40",
+      "ForumTopicID": 14595,
+      "Hashes": [
+        "7f0518922757b2da630f8bdaa91ff6ac"
+      ]
+    },
+    {
+      "Title": "Sega GT",
+      "ID": 8392,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052059.png",
+      "NumAchievements": 118,
+      "NumLeaderboards": 22,
+      "Points": 725,
+      "DateModified": "2025-05-28 17:07:41",
+      "ForumTopicID": 14886,
+      "Hashes": [
+        "95f7b75a8f9fdcac5f5c51338b8a9511"
+      ]
+    },
+    {
+      "Title": "Sega Rally Championship 2",
+      "ID": 8443,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/097499.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 50,
+      "Points": 365,
+      "DateModified": "2024-09-22 17:57:33",
+      "ForumTopicID": 26736,
+      "Hashes": [
+        "7e024a6b068b5fdf0998ca777a3f416d"
+      ]
+    },
+    {
+      "Title": "Sega Smash Pack: Volume 1",
+      "ID": 19152,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/058329.png",
+      "NumAchievements": 451,
+      "NumLeaderboards": 184,
+      "Points": 4055,
+      "DateModified": "2025-12-07 22:19:03",
+      "ForumTopicID": 16171,
+      "Hashes": [
+        "d98b50bdfabec5be349bb8ef4ce4fabf"
+      ]
+    },
+    {
+      "Title": "Seventh Cross: Evolution",
+      "ID": 18546,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/104422.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 470,
+      "DateModified": "2024-11-12 12:15:59",
+      "ForumTopicID": 28703,
+      "Hashes": [
+        "577645d68dd4b42f3b8ff7b043e843ef"
+      ]
+    },
+    {
+      "Title": "Shenmue",
+      "ID": 3398,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/121381.png",
+      "NumAchievements": 83,
+      "NumLeaderboards": 10,
+      "Points": 652,
+      "DateModified": "2026-02-05 15:25:38",
+      "ForumTopicID": 14581,
+      "Hashes": [
+        "113e3f65802d595c817f2278f231b901",
+        "969a6332dad6949459b8c6e7131bf3ab",
+        "b6db46f6803d0eecb35b3af9215c9368",
+        "f4400a783413bc178fa14ae19d66e7c0"
+      ]
+    },
+    {
+      "Title": "Shenmue [Subset - Notebook Challenge]",
+      "ID": 27585,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/088310.png",
+      "NumAchievements": 198,
+      "NumLeaderboards": 0,
+      "Points": 359,
+      "DateModified": "2024-01-28 13:59:16",
+      "ForumTopicID": 24585,
+      "Hashes": [
+        "f7a70615388110917f91cf2afe976ead",
+        "d5f889e30214e2e56bcab860910652cc",
+        "bec88b47a8932048a8dd60bc3f5e7609"
+      ]
+    },
+    {
+      "Title": "Shin Seiki Evangelion: Typing e Keikaku",
+      "ID": 10830,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052629.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2023-09-29 08:03:04",
+      "ForumTopicID": 14569,
+      "Hashes": [
+        "723a43a6749749c72724eca18d7f70b7"
+      ]
+    },
+    {
+      "Title": "Shin Seiki Evangelion: Typing Hokan Keikaku",
+      "ID": 10837,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052615.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 439,
+      "DateModified": "2023-09-16 18:20:14",
+      "ForumTopicID": 14889,
+      "Hashes": [
+        "37ffaf4e5e755f120b88bcefbe53f291",
+        "740f7b62a860aa25cb078486fd1a8343"
+      ]
+    },
+    {
+      "Title": "Silent Scope",
+      "ID": 6390,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/055053.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 127,
+      "Points": 493,
+      "DateModified": "2022-04-19 14:01:18",
+      "ForumTopicID": 15755,
+      "Hashes": [
+        "ca000124b65dc2df51f6db472a676a02"
+      ]
+    },
+    {
+      "Title": "Skies of Arcadia",
+      "ID": 3443,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/087673.png",
+      "NumAchievements": 140,
+      "NumLeaderboards": 0,
+      "Points": 789,
+      "DateModified": "2025-11-05 13:02:45",
+      "ForumTopicID": 14579,
+      "Hashes": [
+        "24bd2bf95276cdd151c6f960b162c631",
+        "276661ab8bea50afcc1b7a1e48d25ff8",
+        "6e18b7264826413e55df3161cc13000e",
+        "bb17728a4b639184f8115b640ff3dd30",
+        "7f9b2ac12e50351f9288c6a3f9a9ad24",
+        "8f4f564a17eefd6b356168a9a4f02464"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure",
+      "ID": 3416,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051849.png",
+      "NumAchievements": 100,
+      "NumLeaderboards": 0,
+      "Points": 970,
+      "DateModified": "2026-02-19 17:10:10",
+      "ForumTopicID": 14587,
+      "Hashes": [
+        "cb73faf2595353269a7846a034517420",
+        "ae01371343d0d3a264b93cd5b7f8e119",
+        "c09140970e7b797dcac7e8a79319eb54"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure [Subset - Chao Garden]",
+      "ID": 19185,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/066013.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 5,
+      "Points": 465,
+      "DateModified": "2023-07-16 03:35:32",
+      "ForumTopicID": 16197,
+      "Hashes": [
+        "dc085dd35498961b1cc165ae3b3b5bd1"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure [Subset - Official DLC]",
+      "ID": 22863,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/122804.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 7,
+      "Points": 149,
+      "DateModified": "2023-05-01 21:24:38",
+      "ForumTopicID": 20760,
+      "Hashes": [
+        "17daffe5c6e225a4ea502e8f345fe742",
+        "8663f447c7b05a812e4405674e8f345e",
+        "ae7ca5e32c6ef30ab17f533e65afd381"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure 2",
+      "ID": 3417,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/066091.png",
+      "NumAchievements": 147,
+      "NumLeaderboards": 155,
+      "Points": 942,
+      "DateModified": "2025-02-27 12:29:24",
+      "ForumTopicID": 14568,
+      "Hashes": [
+        "7982b9cde5c45a838a8c656962505c8f",
+        "ada3c364c783021884b066a4ad7ee49c",
+        "ce69a844244e3666e274938dfd72983d",
+        "ff83b45ad98a2290096f787fea410836"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure 2 [Subset - Ring Attack & Animal Chase]",
+      "ID": 24940,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/124475.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 0,
+      "Points": 425,
+      "DateModified": "2023-12-10 14:41:51",
+      "ForumTopicID": 22234,
+      "Hashes": [
+        "7f4c693103a75c2c2a460013bb771968"
+      ]
+    },
+    {
+      "Title": "Sonic Adventure Tournament Disk",
+      "ID": 26475,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083828.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 175,
+      "DateModified": "2023-12-25 01:26:57",
+      "ForumTopicID": 23834,
+      "Hashes": [
+        "34308d525dfa540eaefae81f4a517556"
+      ]
+    },
+    {
+      "Title": "Sonic Shuffle",
+      "ID": 6639,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/105810.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 27,
+      "Points": 605,
+      "DateModified": "2025-04-10 12:28:11",
+      "ForumTopicID": 19781,
+      "Hashes": [
+        "776e089db00eb7949bb24cffd25f1c10"
+      ]
+    },
+    {
+      "Title": "Soulcalibur",
+      "ID": 3395,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/074721.png",
+      "NumAchievements": 88,
+      "NumLeaderboards": 59,
+      "Points": 832,
+      "DateModified": "2025-08-30 14:17:03",
+      "ForumTopicID": 15087,
+      "Hashes": [
+        "50844bc6a7fc8d09b21cd213403dd432"
+      ]
+    },
+    {
+      "Title": "South Park Rally",
+      "ID": 6675,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/119106.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 22,
+      "Points": 316,
+      "DateModified": "2026-01-30 18:23:58",
+      "ForumTopicID": 32630,
+      "Hashes": [
+        "e99e25d6403217abd5a8f883306c42b6"
+      ]
+    },
+    {
+      "Title": "Space Channel 5",
+      "ID": 3484,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049902.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2023-09-19 06:57:02",
+      "ForumTopicID": 14573,
+      "Hashes": [
+        "c4bf8962f85ba1b74409a4c0c5cb3db2"
+      ]
+    },
+    {
+      "Title": "Space Channel 5: Part 2",
+      "ID": 6685,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052073.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 495,
+      "DateModified": "2025-04-21 19:08:38",
+      "ForumTopicID": 14647,
+      "Hashes": [
+        "b74d77edda51ce82836246d754073c1f"
+      ]
+    },
+    {
+      "Title": "Spider-Man",
+      "ID": 10848,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/107337.png",
+      "NumAchievements": 96,
+      "NumLeaderboards": 23,
+      "Points": 825,
+      "DateModified": "2025-08-26 02:01:20",
+      "ForumTopicID": 18133,
+      "Hashes": [
+        "29b6a3ad956dbd79475ca1e7d00a6a51"
+      ]
+    },
+    {
+      "Title": "Star Wars - Episode I: Jedi Power Battles",
+      "ID": 6419,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/053569.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 20,
+      "Points": 655,
+      "DateModified": "2025-10-25 10:56:04",
+      "ForumTopicID": 15307,
+      "Hashes": [
+        "9cfbb85f22d77b43aba881739c08fc37"
+      ]
+    },
+    {
+      "Title": "Street Fighter Alpha 3",
+      "ID": 10825,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/097032.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 77,
+      "Points": 603,
+      "DateModified": "2025-01-20 05:46:45",
+      "ForumTopicID": 26510,
+      "Hashes": [
+        "87920dcec367af3113d3ac972015c752"
+      ]
+    },
+    {
+      "Title": "Street Fighter III: 3rd Strike",
+      "ID": 345,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/077090.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 1,
+      "Points": 410,
+      "DateModified": "2025-10-17 23:24:57",
+      "ForumTopicID": 19442,
+      "Hashes": [
+        "249333f7bd39d6d729e9b5e5d49219c6"
+      ]
+    },
+    {
+      "Title": "Street Fighter III: 3rd Strike [Subset - Master Street Fighter]",
+      "ID": 21900,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/076842.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2023-09-19 15:24:22",
+      "ForumTopicID": 19470,
+      "Hashes": [
+        "0857e7d0bec7c4fc30450108ea92b51c"
+      ]
+    },
+    {
+      "Title": "Street Fighter III: Double Impact",
+      "ID": 10850,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/086768.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 4,
+      "Points": 561,
+      "DateModified": "2025-08-30 16:01:42",
+      "ForumTopicID": 24720,
+      "Hashes": [
+        "1142370d1040f5f7d8b3267e12d30d4e"
+      ]
+    },
+    {
+      "Title": "Super Magnetic Neo",
+      "ID": 15372,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/060459.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 116,
+      "Points": 339,
+      "DateModified": "2024-07-22 04:01:26",
+      "ForumTopicID": 17519,
+      "Hashes": [
+        "204d6c2a1261a5131d86444a4e6ff095"
+      ]
+    },
+    {
+      "Title": "Super Puzzle Fighter II X for Matching Service",
+      "ID": 8529,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/074722.png",
+      "NumAchievements": 79,
+      "NumLeaderboards": 0,
+      "Points": 770,
+      "DateModified": "2024-11-21 12:44:54",
+      "ForumTopicID": 15122,
+      "Hashes": [
+        "11f2a6c51bf6abb0654a72687584cd58"
+      ]
+    },
+    {
+      "Title": "Sword of the Berserk: Guts' Rage",
+      "ID": 17366,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/106577.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 9,
+      "Points": 235,
+      "DateModified": "2025-01-17 05:10:19",
+      "ForumTopicID": 15461,
+      "Hashes": [
+        "2ea9f3da7f9aa53b5958a54dd9bcb3f0",
+        "3513ef170cc4aa525cefc1b3393edacc",
+        "c862a4b53d0a5e7b594a8254994df0a7"
+      ]
+    },
+    {
+      "Title": "Tech Romancer",
+      "ID": 307,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/057604.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 0,
+      "Points": 1380,
+      "DateModified": "2022-05-14 21:04:19",
+      "ForumTopicID": 16222,
+      "Hashes": [
+        "2103e231be2ea211a5330b9b4865a97c"
+      ]
+    },
+    {
+      "Title": "The Grinch",
+      "ID": 22055,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/087331.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 6,
+      "Points": 270,
+      "DateModified": "2025-12-10 03:21:57",
+      "ForumTopicID": 24611,
+      "Hashes": [
+        "65c70b029d6b8cc2e8697e51821f90bf"
+      ]
+    },
+    {
+      "Title": "The House of the Dead 2",
+      "ID": 3440,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/060823.png",
+      "NumAchievements": 87,
+      "NumLeaderboards": 28,
+      "Points": 655,
+      "DateModified": "2025-01-15 18:24:43",
+      "ForumTopicID": 16518,
+      "Hashes": [
+        "d5a1ab57cb7cd4c0f3c676f5496dd4aa"
+      ]
+    },
+    {
+      "Title": "The King of Fighters 2002",
+      "ID": 26340,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/109238.png",
+      "NumAchievements": 82,
+      "NumLeaderboards": 44,
+      "Points": 870,
+      "DateModified": "2026-02-17 00:14:15",
+      "ForumTopicID": 32284,
+      "Hashes": [
+        "3d6f6d39631db8633c14e69ed9f0a07e"
+      ]
+    },
+    {
+      "Title": "The King of Fighters: Evolution",
+      "ID": 24052,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083589.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 3,
+      "Points": 470,
+      "DateModified": "2025-12-04 03:23:35",
+      "ForumTopicID": 22471,
+      "Hashes": [
+        "650f02286c028f48c8929218f7d3f626",
+        "4cf6d6e830ee40a961ea3d8dff4fe8b1"
+      ]
+    },
+    {
+      "Title": "The Ring: Terror's Realm",
+      "ID": 8407,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/063492.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 234,
+      "DateModified": "2023-10-29 23:14:33",
+      "ForumTopicID": 18642,
+      "Hashes": [
+        "e90f76ee2a62aaf8ad8bda9f852dd1cd"
+      ]
+    },
+    {
+      "Title": "The Typing of the Dead",
+      "ID": 3441,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051120.png",
+      "NumAchievements": 71,
+      "NumLeaderboards": 15,
+      "Points": 751,
+      "DateModified": "2025-09-30 10:32:44",
+      "ForumTopicID": 14571,
+      "Hashes": [
+        "6f9352c89bb8e9c12cbead45743e3464"
+      ]
+    },
+    {
+      "Title": "Tokyo Xtreme Racer",
+      "ID": 10836,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083607.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2025-05-08 01:16:46",
+      "ForumTopicID": 14843,
+      "Hashes": [
+        "7d88f8782d4471a4430bc5ce5e924c62"
+      ]
+    },
+    {
+      "Title": "Tokyo Xtreme Racer 2",
+      "ID": 10842,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083608.png",
+      "NumAchievements": 142,
+      "NumLeaderboards": 39,
+      "Points": 1265,
+      "DateModified": "2022-02-12 18:14:15",
+      "ForumTopicID": 14574,
+      "Hashes": [
+        "47726dcdcc53d30802fc498677aff352"
+      ]
+    },
+    {
+      "Title": "Tony Hawk's Pro Skater",
+      "ID": 10833,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/071234.png",
+      "NumAchievements": 111,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2023-04-14 19:18:41",
+      "ForumTopicID": 21154,
+      "Hashes": [
+        "6c60d5234b3b4905c245000ba5d3c614"
+      ]
+    },
+    {
+      "Title": "Tony Hawk's Pro Skater 2",
+      "ID": 346,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051141.png",
+      "NumAchievements": 79,
+      "NumLeaderboards": 21,
+      "Points": 733,
+      "DateModified": "2023-07-25 14:16:45",
+      "ForumTopicID": 14549,
+      "Hashes": [
+        "2b41b1768ff1f700046461a48fce2fa1"
+      ]
+    },
+    {
+      "Title": "Toy Commander",
+      "ID": 15391,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052140.png",
+      "NumAchievements": 95,
+      "NumLeaderboards": 51,
+      "Points": 511,
+      "DateModified": "2025-08-29 01:00:47",
+      "ForumTopicID": 14590,
+      "Hashes": [
+        "02043f3b491db09fb0567b891f2b7d9a"
+      ]
+    },
+    {
+      "Title": "Toy Story 2: Buzz Lightyear to the Rescue!",
+      "ID": 18590,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/103351.png",
+      "NumAchievements": 90,
+      "NumLeaderboards": 0,
+      "Points": 619,
+      "DateModified": "2025-11-22 23:29:49",
+      "ForumTopicID": 17059,
+      "Hashes": [
+        "efc1e1340d4b1baf4699af5bbf29e940"
+      ]
+    },
+    {
+      "Title": "Trigger Heart Exelica",
+      "ID": 8132,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/052126.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 14,
+      "Points": 350,
+      "DateModified": "2022-03-06 08:18:53",
+      "ForumTopicID": 14922,
+      "Hashes": [
+        "e277efc5b468f23142dd06b9d7a2186d"
+      ]
+    },
+    {
+      "Title": "Ultimate Fighting Championship",
+      "ID": 364,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/105348.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 490,
+      "DateModified": "2026-02-19 13:09:54",
+      "ForumTopicID": 28901,
+      "Hashes": [
+        "9aae68de710d38e2d2e4536640a6c0a3"
+      ]
+    },
+    {
+      "Title": "Under Defeat",
+      "ID": 10831,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/051521.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 3,
+      "Points": 625,
+      "DateModified": "2023-09-06 15:53:31",
+      "ForumTopicID": 14572,
+      "Hashes": [
+        "e5e936665ef9cd765b90b7451b305b1d"
+      ]
+    },
+    {
+      "Title": "Vigilante 8: 2nd Offense",
+      "ID": 4532,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/089137.png",
+      "NumAchievements": 77,
+      "NumLeaderboards": 6,
+      "Points": 635,
+      "DateModified": "2025-08-09 21:40:15",
+      "ForumTopicID": 25400,
+      "Hashes": [
+        "05d46326a30a3516965e208d7fc9468b"
+      ]
+    },
+    {
+      "Title": "Virtua Fighter 3tb",
+      "ID": 4539,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/092667.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 242,
+      "DateModified": "2025-01-21 11:41:38",
+      "ForumTopicID": 25825,
+      "Hashes": [
+        "aedd80fce657d6cc259f85726d2b0242"
+      ]
+    },
+    {
+      "Title": "Virtua Tennis",
+      "ID": 9778,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/049906.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 25,
+      "Points": 385,
+      "DateModified": "2025-09-23 22:06:05",
+      "ForumTopicID": 21608,
+      "Hashes": [
+        "bc8036e1b3bf3f55a00f4ddba1fbba0f"
+      ]
+    },
+    {
+      "Title": "Virtua Tennis 2",
+      "ID": 406,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/087668.png",
+      "NumAchievements": 84,
+      "NumLeaderboards": 41,
+      "Points": 593,
+      "DateModified": "2024-10-06 18:09:59",
+      "ForumTopicID": 22883,
+      "Hashes": [
+        "8f8dd2c630d4557465636cb83657d077"
+      ]
+    },
+    {
+      "Title": "Wacky Races",
+      "ID": 10827,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/083575.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 24,
+      "Points": 330,
+      "DateModified": "2023-07-10 22:17:37",
+      "ForumTopicID": 14884,
+      "Hashes": [
+        "7efbcc214081d134037fdbf0fd32688c"
+      ]
+    },
+    {
+      "Title": "Walt Disney World Quest: Magical Racing Tour",
+      "ID": 20067,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/060903.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 13,
+      "Points": 300,
+      "DateModified": "2023-03-26 07:57:27",
+      "ForumTopicID": 17237,
+      "Hashes": [
+        "d66413658a114080ff179cc9f89c9335"
+      ]
+    },
+    {
+      "Title": "Who Wants to Be a Millionaire",
+      "ID": 18961,
+      "ConsoleID": 40,
+      "ConsoleName": "Dreamcast",
+      "ImageIcon": "/Images/055518.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 26,
+      "DateModified": "2022-06-03 08:21:34",
+      "ForumTopicID": 15950,
+      "Hashes": [
+        "c2d1e564ad14d0301761fdd3b5546583"
+      ]
+    }
+  ]
+}

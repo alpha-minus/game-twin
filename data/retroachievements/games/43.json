@@ -1,0 +1,606 @@
+{
+  "consoleId": 43,
+  "consoleName": "3DO Interactive Multiplayer",
+  "games": [
+    {
+      "Title": "~Homebrew~ Wreckman",
+      "ID": 24160,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/072219.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 150,
+      "DateModified": "2024-09-29 16:15:24",
+      "ForumTopicID": 21428,
+      "Hashes": [
+        "33031a9305cab3eb38af9f163fafe307"
+      ]
+    },
+    {
+      "Title": "Alone in the Dark",
+      "ID": 8368,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/049674.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 0,
+      "Points": 392,
+      "DateModified": "2025-11-13 02:36:10",
+      "ForumTopicID": 10915,
+      "Hashes": [
+        "4d7f2e1b2e8b9d9d14f083fae44d9760"
+      ]
+    },
+    {
+      "Title": "Alone in the Dark II",
+      "ID": 7895,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/054278.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2022-03-18 05:04:33",
+      "ForumTopicID": 15595,
+      "Hashes": [
+        "2b8f6037654255aac56ff5c12c0b44e6"
+      ]
+    },
+    {
+      "Title": "Bust-A-Move",
+      "ID": 16642,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/045183.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 4,
+      "Points": 285,
+      "DateModified": "2026-02-14 14:59:22",
+      "ForumTopicID": 13289,
+      "Hashes": [
+        "eaf126ac57d5cf5e83a8db06c9a3fdf8"
+      ]
+    },
+    {
+      "Title": "Crime Patrol 2: Drug Wars",
+      "ID": 16827,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/070557.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 15,
+      "Points": 151,
+      "DateModified": "2024-08-03 19:55:38",
+      "ForumTopicID": 23069,
+      "Hashes": [
+        "bdbcafe60b41f0be7ec07cac9515cb38"
+      ]
+    },
+    {
+      "Title": "Doctor Hauzer",
+      "ID": 16480,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/066342.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2026-02-28 16:45:33",
+      "ForumTopicID": 34711,
+      "Hashes": [
+        "a410e2a915e386078db71bd49c7193bd"
+      ]
+    },
+    {
+      "Title": "Doom",
+      "ID": 16617,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/087527.png",
+      "NumAchievements": 88,
+      "NumLeaderboards": 2,
+      "Points": 565,
+      "DateModified": "2026-02-28 01:53:38",
+      "ForumTopicID": 20474,
+      "Hashes": [
+        "c93cbef8e885c2ec83bc1732890a0d1f"
+      ]
+    },
+    {
+      "Title": "Dragon's Lair",
+      "ID": 16826,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/054482.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 194,
+      "DateModified": "2024-06-24 14:16:08",
+      "ForumTopicID": 15637,
+      "Hashes": [
+        "468d11b409bce3ff2facee054a8494ad"
+      ]
+    },
+    {
+      "Title": "Escape from Monster Manor",
+      "ID": 17743,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/044805.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2021-06-09 08:14:53",
+      "ForumTopicID": 13161,
+      "Hashes": [
+        "76d55d10938f936b9707d4578e8440a7"
+      ]
+    },
+    {
+      "Title": "Fatty Bear's Birthday Surprise",
+      "ID": 16411,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/063142.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2026-01-11 11:22:39",
+      "ForumTopicID": 18421,
+      "Hashes": [
+        "7a7a41a239fe4d026be6dfa761933fb5"
+      ]
+    },
+    {
+      "Title": "Fatty Bear's Funpack",
+      "ID": 16412,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/062555.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 0,
+      "Points": 175,
+      "DateModified": "2024-10-09 20:33:12",
+      "ForumTopicID": 11078,
+      "Hashes": [
+        "f148536a4e707a4418aad19ba80a9515"
+      ]
+    },
+    {
+      "Title": "Gex",
+      "ID": 1009,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/058493.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 339,
+      "DateModified": "2026-02-03 14:22:13",
+      "ForumTopicID": 11266,
+      "Hashes": [
+        "f51d8d468bb19f621777fedd3e025365"
+      ]
+    },
+    {
+      "Title": "Hello Kitty: Asobi no Omochabako",
+      "ID": 21353,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/110745.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 31,
+      "DateModified": "2025-04-22 16:32:49",
+      "ForumTopicID": 30589,
+      "Hashes": [
+        "89bda405b722c648e28576f4652011e9"
+      ]
+    },
+    {
+      "Title": "Hitchcock ni Chousen | Alfred Hitchcock Presents",
+      "ID": 20239,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/060370.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 101,
+      "DateModified": "2022-07-25 12:06:13",
+      "ForumTopicID": 17494,
+      "Hashes": [
+        "d215521cc942a81b1439162469c53809"
+      ]
+    },
+    {
+      "Title": "Jurassic Park Interactive",
+      "ID": 16640,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/039092.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 295,
+      "DateModified": "2024-03-10 20:05:04",
+      "ForumTopicID": 25727,
+      "Hashes": [
+        "bbb1a1c3fc825365407dae73a65e2c61"
+      ]
+    },
+    {
+      "Title": "Kingdom: The Far Reaches",
+      "ID": 8400,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/083874.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2025-02-08 06:29:15",
+      "ForumTopicID": 23857,
+      "Hashes": [
+        "32295bd44a4885b170d2073739d4fec2"
+      ]
+    },
+    {
+      "Title": "Lost Eden",
+      "ID": 16391,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/124709.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 185,
+      "DateModified": "2026-02-22 18:45:03",
+      "ForumTopicID": 34590,
+      "Hashes": [
+        "ffcdae9fd53f70a7cd5f55a8233b001f"
+      ]
+    },
+    {
+      "Title": "Mad Dog II: The Lost Gold",
+      "ID": 21265,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/105718.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 126,
+      "DateModified": "2025-01-28 02:10:16",
+      "ForumTopicID": 29073,
+      "Hashes": [
+        "d2843fb9937587e9a0b77e067770b0ab"
+      ]
+    },
+    {
+      "Title": "MegaRace",
+      "ID": 16837,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/106839.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 34,
+      "Points": 420,
+      "DateModified": "2025-04-11 20:43:52",
+      "ForumTopicID": 29510,
+      "Hashes": [
+        "6adf88dffbb1e563aac10098f3bf5fa7"
+      ]
+    },
+    {
+      "Title": "Mind Teazzer",
+      "ID": 16550,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/056991.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 81,
+      "DateModified": "2022-06-04 00:20:34",
+      "ForumTopicID": 16239,
+      "Hashes": [
+        "2d13fca9767858fb7b93da2c74f525f9"
+      ]
+    },
+    {
+      "Title": "Myst",
+      "ID": 16839,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/040336.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 1,
+      "Points": 225,
+      "DateModified": "2024-12-10 20:38:16",
+      "ForumTopicID": 11885,
+      "Hashes": [
+        "e3254945201de3d713abe8ba9338efae"
+      ]
+    },
+    {
+      "Title": "Onee-san to Issho! Janken Paradise",
+      "ID": 20506,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/124343.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2022-09-28 05:38:51",
+      "ForumTopicID": 18233,
+      "Hashes": [
+        "d902e9258441bc01d81dc15f2a39d1d7"
+      ]
+    },
+    {
+      "Title": "Onee-san to Issho! Kisekae Paradise",
+      "ID": 20507,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/124323.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 37,
+      "DateModified": "2024-11-01 08:31:17",
+      "ForumTopicID": 28615,
+      "Hashes": [
+        "c4cd53e4b988b699029ab11b27657c59"
+      ]
+    },
+    {
+      "Title": "Plumbers Don't Wear Ties",
+      "ID": 16397,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/063499.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 21,
+      "DateModified": "2022-08-15 14:16:50",
+      "ForumTopicID": 10993,
+      "Hashes": [
+        "4570e692ac07d2242ab9141f1bb9000d"
+      ]
+    },
+    {
+      "Title": "Pretty Soldier Sailor Moon S",
+      "ID": 16406,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/068544.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 430,
+      "DateModified": "2024-11-03 04:06:04",
+      "ForumTopicID": 14934,
+      "Hashes": [
+        "01293a81ca1a0ee3cda2d5f398e403e4"
+      ]
+    },
+    {
+      "Title": "Putt-Putt Goes to the Moon",
+      "ID": 16410,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/120069.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 3,
+      "Points": 64,
+      "DateModified": "2025-11-09 02:53:17",
+      "ForumTopicID": 33074,
+      "Hashes": [
+        "43def02afa11f26ffea31c45307020be"
+      ]
+    },
+    {
+      "Title": "Putt-Putt Joins the Parade",
+      "ID": 16408,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/062557.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2026-02-23 12:49:58",
+      "ForumTopicID": 31815,
+      "Hashes": [
+        "999b527d58caefa2fd9a285b459ab30b"
+      ]
+    },
+    {
+      "Title": "Rise of the Robots",
+      "ID": 16852,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/103683.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 185,
+      "DateModified": "2024-11-01 02:36:16",
+      "ForumTopicID": 28598,
+      "Hashes": [
+        "923d162e786de7c32c5e2496603914fb"
+      ]
+    },
+    {
+      "Title": "Seal of the Pharaoh",
+      "ID": 7705,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/093518.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 202,
+      "DateModified": "2024-11-24 20:15:12",
+      "ForumTopicID": 25998,
+      "Hashes": [
+        "cd54d1e1b8d680a9f1085b30ee992411"
+      ]
+    },
+    {
+      "Title": "Shelley Duvall's It's a Bird's Life",
+      "ID": 21309,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/079055.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 13,
+      "DateModified": "2023-07-27 05:46:16",
+      "ForumTopicID": 22733,
+      "Hashes": [
+        "e1a98c71e85e3db717339b607739bac4"
+      ]
+    },
+    {
+      "Title": "Soccer Kid",
+      "ID": 16859,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/121099.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 7,
+      "Points": 372,
+      "DateModified": "2026-01-28 00:05:20",
+      "ForumTopicID": 33347,
+      "Hashes": [
+        "b79873ed2deb0136207869a855a76d4d"
+      ]
+    },
+    {
+      "Title": "Star Wars: Rebel Assault",
+      "ID": 16864,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/112976.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 3,
+      "Points": 500,
+      "DateModified": "2025-06-05 12:30:31",
+      "ForumTopicID": 31059,
+      "Hashes": [
+        "90e4b7dda0d2b9d5117086271bdfa5ff"
+      ]
+    },
+    {
+      "Title": "Starblade",
+      "ID": 16865,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/075910.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2023-10-28 15:55:57",
+      "ForumTopicID": 22287,
+      "Hashes": [
+        "15a0ecf45f13bcb56e5ece58e0085622"
+      ]
+    },
+    {
+      "Title": "Strahl",
+      "ID": 17739,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/072526.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 136,
+      "DateModified": "2021-06-02 14:20:16",
+      "ForumTopicID": 13157,
+      "Hashes": [
+        "7df7061b2830e9d95e5f822a68cd2188"
+      ]
+    },
+    {
+      "Title": "Super Street Fighter II Turbo",
+      "ID": 16528,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/070133.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 2,
+      "Points": 337,
+      "DateModified": "2022-02-26 19:40:01",
+      "ForumTopicID": 11229,
+      "Hashes": [
+        "c2a97a18e2db5297518bd25fdf047c85"
+      ]
+    },
+    {
+      "Title": "The Incredible Machine",
+      "ID": 16832,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/059738.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 179,
+      "Points": 225,
+      "DateModified": "2022-06-30 06:02:24",
+      "ForumTopicID": 17180,
+      "Hashes": [
+        "1a1438fb896409e1edff3d8c327debec"
+      ]
+    },
+    {
+      "Title": "The Yakyuuken Special: Kon'ya wa 8-kaisen!!",
+      "ID": 20265,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/060686.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2022-08-03 22:01:34",
+      "ForumTopicID": 17585,
+      "Hashes": [
+        "cb4fa2a7d8b6c1750ef10cced6336885"
+      ]
+    },
+    {
+      "Title": "Trip'd",
+      "ID": 16508,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/036024.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 2,
+      "Points": 575,
+      "DateModified": "2020-08-06 12:49:13",
+      "ForumTopicID": 11153,
+      "Hashes": [
+        "8657b3440b4c177edf2e6e9607b0c319"
+      ]
+    },
+    {
+      "Title": "Wolfenstein 3D",
+      "ID": 16872,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/052178.png",
+      "NumAchievements": 336,
+      "NumLeaderboards": 90,
+      "Points": 2080,
+      "DateModified": "2025-01-10 12:57:35",
+      "ForumTopicID": 12501,
+      "Hashes": [
+        "71841df1c47503cce8a735dffd3898db"
+      ]
+    },
+    {
+      "Title": "Yu Yu Hakusho",
+      "ID": 16407,
+      "ConsoleID": 43,
+      "ConsoleName": "3DO Interactive Multiplayer",
+      "ImageIcon": "/Images/067623.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 340,
+      "DateModified": "2023-08-26 07:44:06",
+      "ForumTopicID": 11168,
+      "Hashes": [
+        "9a14a399c139faccfe4a356d5384d0a0"
+      ]
+    }
+  ]
+}

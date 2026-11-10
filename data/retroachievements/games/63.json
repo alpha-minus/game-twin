@@ -1,0 +1,1152 @@
+{
+  "consoleId": 63,
+  "consoleName": "Watara Supervision",
+  "games": [
+    {
+      "Title": "~Homebrew~ AntiAir Mini",
+      "ID": 33069,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/121298.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 37,
+      "DateModified": "2025-12-07 17:04:18",
+      "ForumTopicID": 33454,
+      "Hashes": [
+        "8b5071a6648aecbf86fe6e44a5a2e3c7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Assembloids",
+      "ID": 17660,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/096563.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 4,
+      "Points": 88,
+      "DateModified": "2025-06-09 22:15:37",
+      "ForumTopicID": 26411,
+      "Hashes": [
+        "6dd574473abfe47583c81a2fe33d3d02"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Bomber",
+      "ID": 23775,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/070412.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2023-03-31 05:54:41",
+      "ForumTopicID": 20965,
+      "Hashes": [
+        "7a905b02571bfd0a7fdbb03b0637af4f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Chase",
+      "ID": 23771,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/092329.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 143,
+      "DateModified": "2024-03-14 19:56:20",
+      "ForumTopicID": 25803,
+      "Hashes": [
+        "c077ce97c8d134230a68006ccc788b60"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Horde",
+      "ID": 23770,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/071680.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2023-07-17 16:11:22",
+      "ForumTopicID": 20952,
+      "Hashes": [
+        "4048c11b1be067483fa948724fbb9869"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Shoot",
+      "ID": 23772,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/093571.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 2,
+      "Points": 340,
+      "DateModified": "2024-04-07 02:29:56",
+      "ForumTopicID": 26037,
+      "Hashes": [
+        "19b3812f3a3ffbf3eff501521078c5a2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Shuriken",
+      "ID": 29755,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/096162.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 63,
+      "DateModified": "2025-02-04 10:43:27",
+      "ForumTopicID": 29608,
+      "Hashes": [
+        "6f4938e6ea4b8e62479a0081c4ab3ab5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Snake",
+      "ID": 23773,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/071897.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 170,
+      "DateModified": "2023-07-13 22:25:09",
+      "ForumTopicID": 21403,
+      "Hashes": [
+        "a7055f5cd9a3101e26ce62dd022c3635"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Stinger",
+      "ID": 29756,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/096163.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2025-03-09 02:47:52",
+      "ForumTopicID": 30021,
+      "Hashes": [
+        "6cfe4c52ddc5afca426889a210eb1e99"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cross Verbix",
+      "ID": 23774,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/078154.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 70,
+      "DateModified": "2025-04-05 21:06:28",
+      "ForumTopicID": 22630,
+      "Hashes": [
+        "a989076fdf62db8e63b5604d579a1e72"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mazy Mini",
+      "ID": 31767,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/107283.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 61,
+      "DateModified": "2025-02-07 19:08:54",
+      "ForumTopicID": 28785,
+      "Hashes": [
+        "646dfa79b64831f3b32b8b7b4b209ac4"
+      ]
+    },
+    {
+      "Title": "Alien",
+      "ID": 17601,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/050014.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2024-10-18 17:10:55",
+      "ForumTopicID": 12903,
+      "Hashes": [
+        "cf443f0a812ac7c34e33469f9e8132a8"
+      ]
+    },
+    {
+      "Title": "Balloon Fight",
+      "ID": 17589,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043483.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 240,
+      "DateModified": "2025-04-18 04:27:18",
+      "ForumTopicID": 12837,
+      "Hashes": [
+        "3d33521248e9b3968aa1a1bebc9cef24"
+      ]
+    },
+    {
+      "Title": "Block Buster",
+      "ID": 17602,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043895.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2021-05-01 07:00:21",
+      "ForumTopicID": 12879,
+      "Hashes": [
+        "95ffd2ff15dbb96e00a01641627b6e8a"
+      ]
+    },
+    {
+      "Title": "Brain Power",
+      "ID": 17597,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043807.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 83,
+      "DateModified": "2025-11-21 18:12:32",
+      "ForumTopicID": 12907,
+      "Hashes": [
+        "b7c5c8e371aef8b6772cc1b905612f2e"
+      ]
+    },
+    {
+      "Title": "Bubble World",
+      "ID": 17603,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044216.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2021-05-08 14:44:08",
+      "ForumTopicID": 12866,
+      "Hashes": [
+        "b5c895fd2d9d85399def107ca8e6fdd4"
+      ]
+    },
+    {
+      "Title": "Carrier",
+      "ID": 17588,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043515.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 94,
+      "DateModified": "2021-04-26 15:25:54",
+      "ForumTopicID": 12836,
+      "Hashes": [
+        "d365fedc3073ad3e9231ecb763ed3072"
+      ]
+    },
+    {
+      "Title": "Cave Wonders",
+      "ID": 17604,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043903.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 46,
+      "DateModified": "2021-05-01 13:35:11",
+      "ForumTopicID": 12854,
+      "Hashes": [
+        "7d62668f72381a077688e91383109495"
+      ]
+    },
+    {
+      "Title": "Challenger Tank",
+      "ID": 17605,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044288.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 82,
+      "DateModified": "2021-05-13 21:56:59",
+      "ForumTopicID": 13009,
+      "Hashes": [
+        "879479a6589df76a78f6a0622f2f46d5"
+      ]
+    },
+    {
+      "Title": "Chimera",
+      "ID": 17606,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043707.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 65,
+      "DateModified": "2021-04-27 12:33:35",
+      "ForumTopicID": 12856,
+      "Hashes": [
+        "b0cd30f6b9d94b301346300d2b5341d9",
+        "d906273a6e173c34b0a696669b22f8ab"
+      ]
+    },
+    {
+      "Title": "Chinese Checkers",
+      "ID": 17624,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043680.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 35,
+      "DateModified": "2021-09-04 13:47:32",
+      "ForumTopicID": 12870,
+      "Hashes": [
+        "f90280e19a99be521fc4294d96e14298"
+      ]
+    },
+    {
+      "Title": "Classic Casino",
+      "ID": 17615,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043616.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 132,
+      "DateModified": "2022-05-06 21:38:07",
+      "ForumTopicID": 12860,
+      "Hashes": [
+        "6f6b636be7a380c20b375af9997aa45c"
+      ]
+    },
+    {
+      "Title": "Climber",
+      "ID": 17607,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043529.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 4,
+      "Points": 230,
+      "DateModified": "2021-05-15 04:22:41",
+      "ForumTopicID": 12843,
+      "Hashes": [
+        "d23a1614f0b9c8a789cef61733323399"
+      ]
+    },
+    {
+      "Title": "Cross High",
+      "ID": 17625,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043689.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 9,
+      "Points": 60,
+      "DateModified": "2021-04-25 22:11:01",
+      "ForumTopicID": 12877,
+      "Hashes": [
+        "f5118265b7a4ed27d756099dd3928fa2"
+      ]
+    },
+    {
+      "Title": "Crystball",
+      "ID": 17613,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043726.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2023-08-29 23:56:12",
+      "ForumTopicID": 12849,
+      "Hashes": [
+        "d1c8064fdbf3e35f23030c23ccb4c053"
+      ]
+    },
+    {
+      "Title": "Dancing Block",
+      "ID": 17626,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043857.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 95,
+      "DateModified": "2023-06-23 08:00:03",
+      "ForumTopicID": 12915,
+      "Hashes": [
+        "caeed584599c441ecd6a5bbc202cfae8"
+      ]
+    },
+    {
+      "Title": "Delta Hero",
+      "ID": 17595,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/053031.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2021-04-23 22:57:43",
+      "ForumTopicID": 12842,
+      "Hashes": [
+        "b8195c48954c03dbd665da359ed77dc5"
+      ]
+    },
+    {
+      "Title": "Dream World",
+      "ID": 17627,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044054.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 29,
+      "DateModified": "2021-05-19 05:30:30",
+      "ForumTopicID": 13057,
+      "Hashes": [
+        "43d15c879126e97708aef98d16de92f4"
+      ]
+    },
+    {
+      "Title": "Eagle Plan",
+      "ID": 17636,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043740.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 208,
+      "DateModified": "2021-04-28 07:12:14",
+      "ForumTopicID": 12892,
+      "Hashes": [
+        "48481be2481d1a1f2fbdae426d58df6e"
+      ]
+    },
+    {
+      "Title": "Earth Defender",
+      "ID": 17637,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044405.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 83,
+      "DateModified": "2021-05-17 21:31:22",
+      "ForumTopicID": 13045,
+      "Hashes": [
+        "9f130a26b3843d6a59da894b3692b978"
+      ]
+    },
+    {
+      "Title": "Fatal Craft",
+      "ID": 17609,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043579.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 136,
+      "DateModified": "2021-04-24 12:16:59",
+      "ForumTopicID": 12844,
+      "Hashes": [
+        "622a64039da1bb856ddae1c89c1d909b"
+      ]
+    },
+    {
+      "Title": "Final Combat",
+      "ID": 17638,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044348.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 47,
+      "DateModified": "2021-05-15 23:23:12",
+      "ForumTopicID": 13029,
+      "Hashes": [
+        "9f3af1177933d8ba8a9f5f0514edaebc"
+      ]
+    },
+    {
+      "Title": "Galactic Crusader",
+      "ID": 17639,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044193.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 72,
+      "DateModified": "2021-05-09 20:38:58",
+      "ForumTopicID": 12981,
+      "Hashes": [
+        "7cf57d6b9ac5d2935369be34d553d04d"
+      ]
+    },
+    {
+      "Title": "Galaxy Fighter",
+      "ID": 17592,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/058362.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 25,
+      "DateModified": "2021-04-22 15:54:13",
+      "ForumTopicID": 12840,
+      "Hashes": [
+        "4ce6953562364bf13333f91a2fb7106e"
+      ]
+    },
+    {
+      "Title": "Grand Prix",
+      "ID": 17594,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/063182.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 8,
+      "Points": 56,
+      "DateModified": "2021-04-29 18:16:28",
+      "ForumTopicID": 12841,
+      "Hashes": [
+        "cbaeae37f45ac9ce039779ec3fd1e840"
+      ]
+    },
+    {
+      "Title": "Happy Pairs",
+      "ID": 17640,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043970.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 54,
+      "Points": 93,
+      "DateModified": "2021-05-03 16:39:16",
+      "ForumTopicID": 12941,
+      "Hashes": [
+        "9584f03505b901570909d72cca88b10c"
+      ]
+    },
+    {
+      "Title": "Happy Race",
+      "ID": 17598,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044083.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 4,
+      "Points": 84,
+      "DateModified": "2021-05-05 20:17:56",
+      "ForumTopicID": 12959,
+      "Hashes": [
+        "6e90d2a3b9fc22a35ed886d3947ba22a"
+      ]
+    },
+    {
+      "Title": "Hash Blocks",
+      "ID": 17641,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044265.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 31,
+      "DateModified": "2021-05-12 22:18:03",
+      "ForumTopicID": 13001,
+      "Hashes": [
+        "33d66c6e198a63784e9d169291a737c5"
+      ]
+    },
+    {
+      "Title": "Hero Hawk",
+      "ID": 17642,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044418.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2021-05-18 16:21:45",
+      "ForumTopicID": 13054,
+      "Hashes": [
+        "7272f41de036309c6b75bff001ea70c8"
+      ]
+    },
+    {
+      "Title": "Hero Kid",
+      "ID": 17623,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044444.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 66,
+      "DateModified": "2021-05-19 14:17:30",
+      "ForumTopicID": 12868,
+      "Hashes": [
+        "21395a6d09d75dc9ad2fe40a757815c7"
+      ]
+    },
+    {
+      "Title": "Honey Bee",
+      "ID": 17591,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043558.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2021-04-24 16:25:08",
+      "ForumTopicID": 12839,
+      "Hashes": [
+        "52b72b95b4240c66e4fefeb1485bd394"
+      ]
+    },
+    {
+      "Title": "Jacky Lucky",
+      "ID": 17643,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044310.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 49,
+      "DateModified": "2021-05-15 13:17:12",
+      "ForumTopicID": 13021,
+      "Hashes": [
+        "2570fc334466c45fd05488089cf396b5"
+      ]
+    },
+    {
+      "Title": "Jaguar Bomber",
+      "ID": 17644,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/060085.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 90,
+      "DateModified": "2023-05-15 13:48:17",
+      "ForumTopicID": 13103,
+      "Hashes": [
+        "a896fc8bc1eba73a0689cb587c665e94"
+      ]
+    },
+    {
+      "Title": "John Adventure",
+      "ID": 17622,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043746.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 156,
+      "DateModified": "2024-11-10 17:53:47",
+      "ForumTopicID": 12867,
+      "Hashes": [
+        "c1c6a01a67c0cb26c85e81f862f19e67"
+      ]
+    },
+    {
+      "Title": "Journey to the West",
+      "ID": 17618,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043803.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 90,
+      "DateModified": "2021-04-28 21:35:52",
+      "ForumTopicID": 12863,
+      "Hashes": [
+        "7bac0340d2497a1d6d8553f14765dfc3"
+      ]
+    },
+    {
+      "Title": "Juggler",
+      "ID": 17645,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044242.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 46,
+      "DateModified": "2022-06-06 21:00:21",
+      "ForumTopicID": 12996,
+      "Hashes": [
+        "fd60a857d2c8d82f9b51c574910b9c83"
+      ]
+    },
+    {
+      "Title": "Kabi-Island: Gold in Island",
+      "ID": 17593,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043568.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 5,
+      "Points": 145,
+      "DateModified": "2024-05-07 16:35:04",
+      "ForumTopicID": 12853,
+      "Hashes": [
+        "4beed52bbf858ed057260b3b57b94494"
+      ]
+    },
+    {
+      "Title": "Kitchen War",
+      "ID": 17619,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/066237.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 33,
+      "DateModified": "2021-10-29 09:12:24",
+      "ForumTopicID": 12869,
+      "Hashes": [
+        "a753cbbeb25563928aaf9b01b9be66fb"
+      ]
+    },
+    {
+      "Title": "Kung-Fu Street",
+      "ID": 17635,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044062.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2021-05-19 05:22:44",
+      "ForumTopicID": 12881,
+      "Hashes": [
+        "bcfc1c956d7fd886ae0fd9dd6de4bef3"
+      ]
+    },
+    {
+      "Title": "Linear Racing",
+      "ID": 17646,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043911.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 18,
+      "Points": 78,
+      "DateModified": "2023-02-18 15:37:24",
+      "ForumTopicID": 12926,
+      "Hashes": [
+        "e3535104fd48c0ed3240b03065ea3a1f"
+      ]
+    },
+    {
+      "Title": "Magincross",
+      "ID": 17647,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044222.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 34,
+      "DateModified": "2021-05-10 23:26:09",
+      "ForumTopicID": 12985,
+      "Hashes": [
+        "84fe136fd254f26d2a6b33a251ef7f0a"
+      ]
+    },
+    {
+      "Title": "Majong",
+      "ID": 17648,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/058167.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2022-05-22 04:01:44",
+      "ForumTopicID": 16355,
+      "Hashes": [
+        "57c7f913afe11d5c30252280a31eb04a",
+        "84e6a39d21d4bbbf266566f8d5beeee2"
+      ]
+    },
+    {
+      "Title": "Matta Blatta",
+      "ID": 17649,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/060086.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2021-08-06 10:01:25",
+      "ForumTopicID": 13011,
+      "Hashes": [
+        "946e0afdcd689697e0461b9a217c6495"
+      ]
+    },
+    {
+      "Title": "Olympic Trials",
+      "ID": 17650,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043768.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 7,
+      "Points": 84,
+      "DateModified": "2021-04-26 22:08:23",
+      "ForumTopicID": 12883,
+      "Hashes": [
+        "5bdbff8fa9a0a8ce2157dedccfa7106d"
+      ]
+    },
+    {
+      "Title": "P-52 Sea Battle",
+      "ID": 17610,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043574.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2021-06-15 19:23:52",
+      "ForumTopicID": 12845,
+      "Hashes": [
+        "c38e1c1c617d9611d3f6069a03024708"
+      ]
+    },
+    {
+      "Title": "PacBoy & Mouse",
+      "ID": 17651,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044170.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 58,
+      "DateModified": "2021-05-10 07:50:23",
+      "ForumTopicID": 12977,
+      "Hashes": [
+        "8f78dff4f064c7bd993060919b385c67"
+      ]
+    },
+    {
+      "Title": "Pacific Battle",
+      "ID": 17652,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044388.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 76,
+      "DateModified": "2024-09-01 18:09:09",
+      "ForumTopicID": 13033,
+      "Hashes": [
+        "214747cd1c32e7bb8dcfdf15595e6d94"
+      ]
+    },
+    {
+      "Title": "Penguin Hideout",
+      "ID": 17608,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043559.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 70,
+      "DateModified": "2021-04-22 15:36:09",
+      "ForumTopicID": 12847,
+      "Hashes": [
+        "0ec15e7b722003989ec0094423e691f9",
+        "504d378933cb037f9d047279306ed520"
+      ]
+    },
+    {
+      "Title": "Police Bust",
+      "ID": 17621,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044065.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 1,
+      "Points": 115,
+      "DateModified": "2023-02-07 04:04:47",
+      "ForumTopicID": 12865,
+      "Hashes": [
+        "3abc347ec03fe567dacfb851bec308f8",
+        "427488cb0f3251a46e923f9e8608ff80"
+      ]
+    },
+    {
+      "Title": "Popo Team",
+      "ID": 17590,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/087646.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 140,
+      "DateModified": "2021-04-21 16:53:16",
+      "ForumTopicID": 12838,
+      "Hashes": [
+        "56c9c900eb04ee31963b256f530592c8"
+      ]
+    },
+    {
+      "Title": "Pyramid",
+      "ID": 17616,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043614.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 28,
+      "DateModified": "2021-04-22 20:15:24",
+      "ForumTopicID": 12861,
+      "Hashes": [
+        "15cd9f6729d5ad8ec2752fa0fe8b71ba"
+      ]
+    },
+    {
+      "Title": "Recycle Design",
+      "ID": 17653,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/050076.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 6,
+      "Points": 268,
+      "DateModified": "2023-06-26 14:49:15",
+      "ForumTopicID": 13056,
+      "Hashes": [
+        "0a07c444324d0b41546e2363679360da"
+      ]
+    },
+    {
+      "Title": "Scaffolder",
+      "ID": 17599,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044262.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 30,
+      "Points": 70,
+      "DateModified": "2022-05-21 11:10:23",
+      "ForumTopicID": 12949,
+      "Hashes": [
+        "7816deddb48c44df99c6bb3535c1dc88",
+        "c07638809b49f2c922c4d4d7519e6f9c"
+      ]
+    },
+    {
+      "Title": "Soccer Champion",
+      "ID": 17654,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044026.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2021-07-25 11:22:28",
+      "ForumTopicID": 12963,
+      "Hashes": [
+        "a6b4dee95c8995a1d5e31ee1c9c7086b"
+      ]
+    },
+    {
+      "Title": "Sonny X'Press",
+      "ID": 17655,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043940.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2021-05-02 11:14:18",
+      "ForumTopicID": 12934,
+      "Hashes": [
+        "b076cac52175ac41f0a673037b3bb07f"
+      ]
+    },
+    {
+      "Title": "Space Fighter",
+      "ID": 17656,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044144.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 64,
+      "DateModified": "2021-05-07 21:42:36",
+      "ForumTopicID": 12969,
+      "Hashes": [
+        "6a29877dad0a05cc10b8f15a38ff3369"
+      ]
+    },
+    {
+      "Title": "Sssnake",
+      "ID": 17596,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044769.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 50,
+      "DateModified": "2022-01-28 10:51:24",
+      "ForumTopicID": 12901,
+      "Hashes": [
+        "073cfcdefb73cf2bf9bc8b1978022432"
+      ]
+    },
+    {
+      "Title": "Super Block",
+      "ID": 17661,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044498.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 125,
+      "DateModified": "2021-05-20 21:25:15",
+      "ForumTopicID": 13064,
+      "Hashes": [
+        "c85c839b5ded60edc0dc2c7a1b5d8a60"
+      ]
+    },
+    {
+      "Title": "Super Kong",
+      "ID": 17611,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043519.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 3,
+      "Points": 120,
+      "DateModified": "2021-04-25 00:43:15",
+      "ForumTopicID": 12846,
+      "Hashes": [
+        "d5ef26274492796050e53a1f5416152a"
+      ]
+    },
+    {
+      "Title": "Super Pang",
+      "ID": 17612,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/048943.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 3,
+      "Points": 157,
+      "DateModified": "2024-11-21 13:07:54",
+      "ForumTopicID": 12850,
+      "Hashes": [
+        "c93782ad97197a5134bb82a65bba1a54"
+      ]
+    },
+    {
+      "Title": "Tasac 2010",
+      "ID": 17632,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/060087.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2025-03-27 17:48:52",
+      "ForumTopicID": 12876,
+      "Hashes": [
+        "e0ed04b139740452995d962827759a7f"
+      ]
+    },
+    {
+      "Title": "Tennis Pro '92",
+      "ID": 17657,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044067.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 81,
+      "DateModified": "2022-03-24 22:20:13",
+      "ForumTopicID": 13013,
+      "Hashes": [
+        "0a4c64f3aba648eaa8e0a74f1db8336c"
+      ]
+    },
+    {
+      "Title": "Thunder Shooting",
+      "ID": 17658,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/060227.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-07-06 12:47:25",
+      "ForumTopicID": 13065,
+      "Hashes": [
+        "3e10d0160fe3f3ae1818f44ea422a622"
+      ]
+    },
+    {
+      "Title": "Treasure Hunter",
+      "ID": 17659,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/044070.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2021-05-22 04:04:54",
+      "ForumTopicID": 13069,
+      "Hashes": [
+        "c5f068b51d50b4e86d63fe7404984002"
+      ]
+    },
+    {
+      "Title": "Untouchable",
+      "ID": 17600,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/060089.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2021-04-22 03:43:58",
+      "ForumTopicID": 12851,
+      "Hashes": [
+        "960b42f19443b8f897a4c85686f3ad59"
+      ]
+    },
+    {
+      "Title": "Witty Cat",
+      "ID": 17620,
+      "ConsoleID": 63,
+      "ConsoleName": "Watara Supervision",
+      "ImageIcon": "/Images/043816.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 304,
+      "DateModified": "2021-05-01 18:13:53",
+      "ForumTopicID": 12864,
+      "Hashes": [
+        "1cce14e748212e75c21966f12ac5fe1a",
+        "947c928e09e9f4061ef419a130f95c4b"
+      ]
+    }
+  ]
+}

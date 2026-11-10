@@ -1,0 +1,521 @@
+{
+  "consoleId": 57,
+  "consoleName": "Fairchild Channel F",
+  "games": [
+    {
+      "Title": "~Homebrew~ 2048-F8",
+      "ID": 20267,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/073722.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 178,
+      "DateModified": "2023-06-06 01:53:38",
+      "ForumTopicID": 21731,
+      "Hashes": [
+        "88c078fe7229add65f031b601064543e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ 3rees",
+      "ID": 10302,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/078095.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2023-07-20 18:25:29",
+      "ForumTopicID": 22642,
+      "Hashes": [
+        "1a7590de88e21345f60ec2bc8b2b9269"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Boxing",
+      "ID": 22567,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/075425.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 13,
+      "DateModified": "2023-07-02 01:42:36",
+      "ForumTopicID": 22338,
+      "Hashes": [
+        "65a71a450cae1e60589efcf9b1a10456"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Centipede",
+      "ID": 20237,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060334.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2023-04-14 20:01:09",
+      "ForumTopicID": 17468,
+      "Hashes": [
+        "74c3961468a024d30095b0b4314e4eb0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Fnvader",
+      "ID": 8985,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/071685.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 25,
+      "DateModified": "2023-09-22 16:50:10",
+      "ForumTopicID": 21337,
+      "Hashes": [
+        "5f2c587bf948be2b67cfae924e4508bb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Shark",
+      "ID": 22416,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/068673.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 21,
+      "DateModified": "2023-08-12 00:13:57",
+      "ForumTopicID": 20498,
+      "Hashes": [
+        "3f101828e1e64235a673f337addb3952"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Space Race",
+      "ID": 22592,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/116526.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 3,
+      "Points": 26,
+      "DateModified": "2025-08-14 19:32:45",
+      "ForumTopicID": 31923,
+      "Hashes": [
+        "b604104cacfda30315b60b00b3ca5ade"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Speed Race",
+      "ID": 9086,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/069127.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 36,
+      "DateModified": "2023-03-07 05:43:30",
+      "ForumTopicID": 20592,
+      "Hashes": [
+        "a7b94e4941ed058ff4af9cedc21b808b",
+        "b17b3c8744c4ac8a550212b016dcae5b"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Submarine",
+      "ID": 25416,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/081056.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 12,
+      "DateModified": "2023-08-17 20:00:53",
+      "ForumTopicID": 22980,
+      "Hashes": [
+        "ece8baaf22ef385939e5c37e496cc60c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Tents and Trees",
+      "ID": 20238,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060509.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 53,
+      "DateModified": "2025-05-26 18:27:42",
+      "ForumTopicID": 17469,
+      "Hashes": [
+        "0d272a1c51bfe148ad12105f3f39446d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Videocart-27: Pac-Man",
+      "ID": 20217,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060573.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 37,
+      "DateModified": "2022-07-28 14:27:23",
+      "ForumTopicID": 17450,
+      "Hashes": [
+        "1ae3fb8784c395c07bbd37bb44476871"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Videocart-28: Tetris",
+      "ID": 20220,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060574.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 29,
+      "DateModified": "2024-12-14 16:57:20",
+      "ForumTopicID": 17460,
+      "Hashes": [
+        "2aebeda05478e8b7f5c1eca037ac6c2f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ wrdl-f",
+      "ID": 20231,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060381.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 69,
+      "DateModified": "2022-07-28 00:09:10",
+      "ForumTopicID": 17452,
+      "Hashes": [
+        "745479a23fb09dda3df3179c56719ca8"
+      ]
+    },
+    {
+      "Title": "Hockey & Tennis",
+      "ID": 9072,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/111304.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 17,
+      "DateModified": "2025-12-18 21:48:44",
+      "ForumTopicID": 33447,
+      "Hashes": [
+        "95d339631d867c8f1d15a5f2ec26069d",
+        "ac9804d4c0e9d07e33472e3726ed15c3",
+        "da98f4bb3242ab80d76629021bb27585"
+      ]
+    },
+    {
+      "Title": "Videocart-01: Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle",
+      "ID": 20216,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/110733.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 42,
+      "DateModified": "2024-05-28 20:16:22",
+      "ForumTopicID": 26681,
+      "Hashes": [
+        "7e5c26a6d1f9a90c68669a9800ba522d"
+      ]
+    },
+    {
+      "Title": "Videocart-02: Desert Fox & Shooting Gallery",
+      "ID": 10290,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074265.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 32,
+      "DateModified": "2026-02-05 20:50:37",
+      "ForumTopicID": 21774,
+      "Hashes": [
+        "4f11f13cbca685cb20e888f87b3b1586"
+      ]
+    },
+    {
+      "Title": "Videocart-03: Video Blackjack",
+      "ID": 9084,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060732.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2025-07-15 19:33:49",
+      "ForumTopicID": 17600,
+      "Hashes": [
+        "b074c867f235fb69ced96c6916673b45"
+      ]
+    },
+    {
+      "Title": "Videocart-04: Spitfire",
+      "ID": 10299,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/071376.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 49,
+      "DateModified": "2024-07-08 20:46:11",
+      "ForumTopicID": 17457,
+      "Hashes": [
+        "1b409fe1154584f4d1ab76b344a73d99"
+      ]
+    },
+    {
+      "Title": "Videocart-06: Math Quiz I (Addition & Subtraction)",
+      "ID": 9083,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074221.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2022-07-30 12:21:35",
+      "ForumTopicID": 17459,
+      "Hashes": [
+        "a8e6103fcae4d0f9e14d9edcfc3fc493"
+      ]
+    },
+    {
+      "Title": "Videocart-07: Math Quiz II (Multiplication & Division)",
+      "ID": 9085,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074222.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 28,
+      "DateModified": "2022-07-23 10:46:37",
+      "ForumTopicID": 17479,
+      "Hashes": [
+        "86b77eafdf7b806e19e01724987e384f"
+      ]
+    },
+    {
+      "Title": "Videocart-08: Magic Numbers",
+      "ID": 9082,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/065444.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 37,
+      "DateModified": "2023-08-28 13:32:45",
+      "ForumTopicID": 19448,
+      "Hashes": [
+        "4c10fa5c7316c59efa241043fc67dfa8"
+      ]
+    },
+    {
+      "Title": "Videocart-10: Maze, Jailbreak, Blind-Man's-Bluff, Trailblazer",
+      "ID": 10301,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/111675.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 47,
+      "DateModified": "2023-08-12 03:40:00",
+      "ForumTopicID": 17484,
+      "Hashes": [
+        "6565df74539476d66fd78de1bac0259c"
+      ]
+    },
+    {
+      "Title": "Videocart-13: Robot War, Torpedo Alley",
+      "ID": 9058,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060788.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2022-10-23 10:51:31",
+      "ForumTopicID": 17480,
+      "Hashes": [
+        "3783b6ac359e21b99cfa17773aa811c6"
+      ]
+    },
+    {
+      "Title": "Videocart-14: Sonar Search",
+      "ID": 20219,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060666.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 85,
+      "DateModified": "2022-07-27 22:23:12",
+      "ForumTopicID": 17497,
+      "Hashes": [
+        "4cb12edae37df23851884b82ca410754"
+      ]
+    },
+    {
+      "Title": "Videocart-15: Memory Match",
+      "ID": 20215,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/061018.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2022-07-24 12:37:03",
+      "ForumTopicID": 17602,
+      "Hashes": [
+        "2b3ca549e27579e4519a765fd8f52d0f"
+      ]
+    },
+    {
+      "Title": "Videocart-16: Dodge-It",
+      "ID": 10303,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/104469.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 25,
+      "DateModified": "2025-09-27 06:17:31",
+      "ForumTopicID": 17456,
+      "Hashes": [
+        "6ffedaed3c5cd8ba74d98901849cc451"
+      ]
+    },
+    {
+      "Title": "Videocart-18: Hangman",
+      "ID": 10305,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074266.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 42,
+      "DateModified": "2022-07-26 15:16:36",
+      "ForumTopicID": 17482,
+      "Hashes": [
+        "0124cd0b61df5502aabd59029ccb6d5a",
+        "913ecbaa30816c6d78de8651251761fc",
+        "c2a44d22d3865b036479e9311c74d3ad"
+      ]
+    },
+    {
+      "Title": "Videocart-19: Checkers",
+      "ID": 8976,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060786.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 125,
+      "DateModified": "2023-10-03 14:16:58",
+      "ForumTopicID": 17488,
+      "Hashes": [
+        "35d61d40ef7ec337cba092aabac74dbd"
+      ]
+    },
+    {
+      "Title": "Videocart-20: Video Whizball",
+      "ID": 10304,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/097587.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 99,
+      "DateModified": "2025-10-16 09:15:47",
+      "ForumTopicID": 26656,
+      "Hashes": [
+        "90a9b3952568f91502a7088bfb0ae07e"
+      ]
+    },
+    {
+      "Title": "Videocart-21: Bowling",
+      "ID": 20213,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074267.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2022-07-24 04:41:58",
+      "ForumTopicID": 17524,
+      "Hashes": [
+        "25e231e7a464a32b4715bfb47af89240"
+      ]
+    },
+    {
+      "Title": "Videocart-22: Slot Machine",
+      "ID": 20218,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074268.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2022-07-28 14:56:57",
+      "ForumTopicID": 17577,
+      "Hashes": [
+        "dfb66ee145fab65062fdeadafc8dc34c"
+      ]
+    },
+    {
+      "Title": "Videocart-23: Galactic Space Wars",
+      "ID": 10306,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074269.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 27,
+      "DateModified": "2022-07-28 22:36:08",
+      "ForumTopicID": 17463,
+      "Hashes": [
+        "9e0711b140e22729687db1e1354980ab"
+      ]
+    },
+    {
+      "Title": "Videocart-26: Alien Invasion",
+      "ID": 8990,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/060665.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 222,
+      "DateModified": "2022-09-27 21:08:15",
+      "ForumTopicID": 17473,
+      "Hashes": [
+        "f7bf7d55a7660ffa80d08ad1ba903ff7"
+      ]
+    },
+    {
+      "Title": "Videoplay-20: Schach | Chess",
+      "ID": 9009,
+      "ConsoleID": 57,
+      "ConsoleName": "Fairchild Channel F",
+      "ImageIcon": "/Images/074270.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-02-10 22:57:34",
+      "ForumTopicID": 17453,
+      "Hashes": [
+        "5568205f926333914dedc8ef8bf16af2"
+      ]
+    }
+  ]
+}

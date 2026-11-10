@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude vault storage from backup -->
+    <exclude domain="file" path="vaults/" />
+    <!-- Artwork thumbnails are regenerated from source artwork on demand. Both cache
+         generations are listed: the -v2 directory is the live one, and the unsuffixed
+         one still exists on installs that have not yet regenerated. Auto Backup has a
+         hard 25 MB per-app quota and silently disables backup for ALL app data when
+         exceeded, so a large library's thumbs must never count against it. -->
+    <exclude domain="file" path="carousel-thumbs/" />
+    <exclude domain="file" path="carousel-thumbs-v2/" />
+</full-backup-content>
+
+
+

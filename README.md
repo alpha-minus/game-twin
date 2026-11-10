@@ -65,21 +65,56 @@ The app does reach the network for things you ask it to do: artwork and metadata
 
 - **[Impressum](https://game-twin.app/impressum)**
 - **Privacy policy:** [Deutsch](https://game-twin.app/datenschutz-app) · [English](https://game-twin.app/privacy-app)
-- **Terms of use (EULA):** [Deutsch](https://game-twin.app/nutzungsbedingungen) · [English](https://game-twin.app/terms)
+- **Terms of use:** [Deutsch](https://game-twin.app/nutzungsbedingungen) · [English](https://game-twin.app/terms)
 
 The terms of use and the privacy policy linked above are the binding versions, and the same text ships inside the app under Settings, About.
 
 ### Licensing
 
-Game Twin is **proprietary software. Copyright © 2026 Mert Aslantürk. All rights reserved.** The application is free to download and use. Optional paid Special Editions add cosmetic app logos and change nothing else; every feature is free for everyone. They are sold by Sold through Link, LLC (formerly Lemon Squeezy) as Merchant of Record, so the purchase contract is with them.
+Copyright © 2026 Mert Aslantürk.
 
-This repository is **not open source**. The "Source code (zip)" links GitHub attaches to every release are generated automatically and contain only this repository's documentation, not the application source. The repository exists to host releases and to make updates work through Obtainium.
+Game Twin is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See [`LICENSE`](LICENSE) for the full text.
+
+The open-source components the app bundles keep their own licenses; their notices are in [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) and, in the app, under **Settings, About, Open Source Licenses**.
+
+Optional paid Special Editions add cosmetic app logos and change nothing else; every feature is free for everyone. They are sold by Sold through Link, LLC (formerly Lemon Squeezy) as Merchant of Record, so the purchase contract is with them.
+
+### Name and artwork
+
+The GPL covers the source code. It does **not** grant rights to the **Game Twin name and logo** or to the **edition artwork** (the app icons, emblems and splash images under `app/src/main/res/drawable-nodpi/`, `app/src/main/res/mipmap-*/` and `app/src/main/res/drawable-*/app_emblem_*`). All rights to those are reserved. If you distribute a modified build, replace them and give it a different name, so nobody mistakes it for the official app.
 
 ### Third-party content and trademarks
 
 Game Twin is an independent project and is **not affiliated with, endorsed by or sponsored by** any of the platforms it works with, including RetroAchievements, Valve/Steam, GameFAQs, GameSpot, Fandom, IGN, StrategyWiki, VGMaps, Neoseeker, YouTube/Google, RetroArch, EmulationStation Desktop Edition (ES-DE), Cocoon and Obtainium. All product names, logos and trademarks belong to their respective owners and are used for identification only.
 
 Guides, walkthroughs, maps, box art and other reference material you view or save through Game Twin remain the **copyrighted property of their authors and the sites hosting them**. Game Twin does not host, create, sell or redistribute any of it; it helps you find and keep your own copy, on your own device, for personal, non-commercial use. You are responsible for complying with the terms of each source you access. Rights holders with a concern can reach me at the address below.
+
+---
+
+## Building from source
+
+Requirements: JDK 17 and the Android SDK (compileSdk 35). Point Gradle at your SDK with `sdk.dir` in `local.properties` (Android Studio does this for you), then:
+
+```sh
+./gradlew assembleDebug          # debug APK
+./gradlew testDebugUnitTest      # unit tests (Robolectric, no device needed)
+```
+
+**API keys.** Nothing secret is checked in. Every online feature works with keys the user enters in Settings (Steam Web API, SteamGridDB, RetroAchievements, Gemini). Official builds additionally bundle default keys, which the build reads from `local.properties`:
+
+```properties
+steamApiKey=...
+steamGridDbApiKey=...
+theGamesDbApiKey=...
+retroAchievementsApiKey=...
+keyObfuscationMask=<any random string>
+```
+
+Leave them out and the app builds normally, just without defaults. If you set any of them, release builds refuse to package until all five are present, so a release never ships a half-configured key set. The obfuscation only keeps keys out of plain-text greps of the APK; anyone can extract a bundled key, so use keys you are allowed to share with your users.
+
+**Release signing.** Release builds are signed with the keystore described by `app/keystore.properties` (`storeFile`, `storePassword`, `keyAlias`, `keyPassword`). Without that file the release APK is left unsigned.
+
+**Test fixtures.** The parser tests for guide sites run against dummy pages: the markup of real GameFAQs, IGN, VGMaps and other pages with every word of their text replaced, so no third-party content is included. The bundled guide catalogs are regenerated by `@Ignore`d tests from page captures you save locally under `app/catalog-sources/` (git-ignored); each regenerator's KDoc lists the steps.
 
 ---
 

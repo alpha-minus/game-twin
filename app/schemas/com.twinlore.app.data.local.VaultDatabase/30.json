@@ -1,0 +1,1694 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 30,
+    "identityHash": "03672d2683fd9c950a2096cbc120e52a",
+    "entities": [
+      {
+        "tableName": "vaults",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `romPath` TEXT, `romFilename` TEXT, `artworkVibrantArgb` INTEGER, `systemeid` TEXT, `gameId` TEXT, `source` TEXT, `raGameId` TEXT, `steamAppId` TEXT, `artwork_resource_id` TEXT, `guide_resource_id` TEXT, `map_resource_id` TEXT, `launchIntentJson` TEXT, `lastOpened` INTEGER, `createdAt` INTEGER NOT NULL, `folder_name` TEXT, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "romPath",
+            "columnName": "romPath",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "romFilename",
+            "columnName": "romFilename",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "artworkVibrantArgb",
+            "columnName": "artworkVibrantArgb",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "systemeid",
+            "columnName": "systemeid",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "gameId",
+            "columnName": "gameId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "source",
+            "columnName": "source",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "raGameId",
+            "columnName": "raGameId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "steamAppId",
+            "columnName": "steamAppId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "artworkResourceId",
+            "columnName": "artwork_resource_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "guideResourceId",
+            "columnName": "guide_resource_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "mapResourceId",
+            "columnName": "map_resource_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "launchIntentJson",
+            "columnName": "launchIntentJson",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "lastOpened",
+            "columnName": "lastOpened",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "folderName",
+            "columnName": "folder_name",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "saved_tabs",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `title` TEXT NOT NULL, `url` TEXT NOT NULL, `scrollPosition` INTEGER NOT NULL, `zoomLevel` REAL NOT NULL, `isFavorite` INTEGER NOT NULL, `isMap` INTEGER NOT NULL, `isCurrentContent` INTEGER NOT NULL, `tab_order` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `lastAccessed` INTEGER NOT NULL, `fileType` TEXT NOT NULL, `fileName` TEXT, `lastPdfPage` INTEGER NOT NULL, `pdfScrollOffset` REAL NOT NULL, `resource_id` TEXT, `scroll_normalized_anchor` TEXT, `scroll_occurrence_index` INTEGER NOT NULL, `scroll_ratio` REAL NOT NULL, `focused_scroll_marker_id` TEXT, `favicon_bytes` BLOB, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "url",
+            "columnName": "url",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "scrollPosition",
+            "columnName": "scrollPosition",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "zoomLevel",
+            "columnName": "zoomLevel",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isFavorite",
+            "columnName": "isFavorite",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isMap",
+            "columnName": "isMap",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isCurrentContent",
+            "columnName": "isCurrentContent",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "order",
+            "columnName": "tab_order",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastAccessed",
+            "columnName": "lastAccessed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "fileType",
+            "columnName": "fileType",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "fileName",
+            "columnName": "fileName",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "lastPdfPage",
+            "columnName": "lastPdfPage",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pdfScrollOffset",
+            "columnName": "pdfScrollOffset",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "resourceId",
+            "columnName": "resource_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "scrollNormalizedAnchor",
+            "columnName": "scroll_normalized_anchor",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "scrollOccurrenceIndex",
+            "columnName": "scroll_occurrence_index",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "scrollRatio",
+            "columnName": "scroll_ratio",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "focusedScrollMarkerId",
+            "columnName": "focused_scroll_marker_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "faviconBytes",
+            "columnName": "favicon_bytes",
+            "affinity": "BLOB",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_saved_tabs_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_saved_tabs_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "ra_game_cache",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`vaultId` TEXT NOT NULL, `raGameId` INTEGER NOT NULL, `jsonSnapshot` TEXT, `lastSyncedAt` INTEGER NOT NULL, `highestAwardKind` TEXT, `userRank` INTEGER, `numAwardedSoft` INTEGER NOT NULL DEFAULT 0, `numAwardedHardcore` INTEGER NOT NULL DEFAULT 0, `numAchievements` INTEGER NOT NULL DEFAULT 0, PRIMARY KEY(`vaultId`))",
+        "fields": [
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "raGameId",
+            "columnName": "raGameId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "jsonSnapshot",
+            "columnName": "jsonSnapshot",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "lastSyncedAt",
+            "columnName": "lastSyncedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "highestAwardKind",
+            "columnName": "highestAwardKind",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "userRank",
+            "columnName": "userRank",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "numAwardedSoft",
+            "columnName": "numAwardedSoft",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "numAwardedHardcore",
+            "columnName": "numAwardedHardcore",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "numAchievements",
+            "columnName": "numAchievements",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "vaultId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "steam_game_cache",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`vaultId` TEXT NOT NULL, `steamAppId` INTEGER NOT NULL, `jsonSnapshot` TEXT NOT NULL, `lastSyncedAt` INTEGER NOT NULL, `numUnlocked` INTEGER NOT NULL DEFAULT 0, `numAchievements` INTEGER NOT NULL DEFAULT 0, PRIMARY KEY(`vaultId`))",
+        "fields": [
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "steamAppId",
+            "columnName": "steamAppId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "jsonSnapshot",
+            "columnName": "jsonSnapshot",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastSyncedAt",
+            "columnName": "lastSyncedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "numUnlocked",
+            "columnName": "numUnlocked",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "numAchievements",
+            "columnName": "numAchievements",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "vaultId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "saved_maps",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `title` TEXT NOT NULL, `resource_id` TEXT, `map_order` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `lastAccessed` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "resourceId",
+            "columnName": "resource_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "order",
+            "columnName": "map_order",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastAccessed",
+            "columnName": "lastAccessed",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_saved_maps_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_saved_maps_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "checklist_tags",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `name` TEXT NOT NULL, `color` INTEGER NOT NULL, `sortOrder` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "color",
+            "columnName": "color",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_checklist_tags_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_tags_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "checklist_items",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `tagId` TEXT NOT NULL, `sectionId` TEXT NOT NULL, `title` TEXT NOT NULL, `completed` INTEGER NOT NULL, `sortOrder` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`tagId`) REFERENCES `checklist_tags`(`id`) ON UPDATE NO ACTION ON DELETE NO ACTION , FOREIGN KEY(`sectionId`) REFERENCES `checklist_sections`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "tagId",
+            "columnName": "tagId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sectionId",
+            "columnName": "sectionId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "completed",
+            "columnName": "completed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_checklist_items_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_items_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          },
+          {
+            "name": "index_checklist_items_tagId",
+            "unique": false,
+            "columnNames": [
+              "tagId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_items_tagId` ON `${TABLE_NAME}` (`tagId`)"
+          },
+          {
+            "name": "index_checklist_items_sectionId",
+            "unique": false,
+            "columnNames": [
+              "sectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_items_sectionId` ON `${TABLE_NAME}` (`sectionId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          },
+          {
+            "table": "checklist_tags",
+            "onDelete": "NO ACTION",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "tagId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          },
+          {
+            "table": "checklist_sections",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "sectionId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "checklist_tabs",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `name` TEXT NOT NULL, `color` INTEGER NOT NULL, `sortOrder` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "color",
+            "columnName": "color",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_checklist_tabs_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_tabs_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "checklist_sections",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `tabId` TEXT NOT NULL, `name` TEXT NOT NULL, `expanded` INTEGER NOT NULL, `sortOrder` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`tabId`) REFERENCES `checklist_tabs`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "tabId",
+            "columnName": "tabId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "expanded",
+            "columnName": "expanded",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sortOrder",
+            "columnName": "sortOrder",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_checklist_sections_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_sections_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          },
+          {
+            "name": "index_checklist_sections_tabId",
+            "unique": false,
+            "columnNames": [
+              "tabId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_checklist_sections_tabId` ON `${TABLE_NAME}` (`tabId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          },
+          {
+            "table": "checklist_tabs",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "tabId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "favorite_apps",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`packageName` TEXT NOT NULL, `addedAt` INTEGER NOT NULL, PRIMARY KEY(`packageName`))",
+        "fields": [
+          {
+            "fieldPath": "packageName",
+            "columnName": "packageName",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "addedAt",
+            "columnName": "addedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "packageName"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "resource_files",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vault_id` TEXT, `kind` TEXT NOT NULL, `filename` TEXT NOT NULL, `size_bytes` INTEGER NOT NULL, `home_relative_path` TEXT, `absolute_path` TEXT, `mime_type` TEXT, `source` TEXT NOT NULL, `last_seen_at` INTEGER NOT NULL, `created_at` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vault_id`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vault_id",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "kind",
+            "columnName": "kind",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "filename",
+            "columnName": "filename",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sizeBytes",
+            "columnName": "size_bytes",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "homeRelativePath",
+            "columnName": "home_relative_path",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "absolutePath",
+            "columnName": "absolute_path",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "mimeType",
+            "columnName": "mime_type",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "source",
+            "columnName": "source",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastSeenAt",
+            "columnName": "last_seen_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "created_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_resource_files_vault_id",
+            "unique": false,
+            "columnNames": [
+              "vault_id"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_resource_files_vault_id` ON `${TABLE_NAME}` (`vault_id`)"
+          },
+          {
+            "name": "index_resource_files_vault_id_kind",
+            "unique": false,
+            "columnNames": [
+              "vault_id",
+              "kind"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_resource_files_vault_id_kind` ON `${TABLE_NAME}` (`vault_id`, `kind`)"
+          },
+          {
+            "name": "index_resource_files_filename_size_bytes",
+            "unique": false,
+            "columnNames": [
+              "filename",
+              "size_bytes"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_resource_files_filename_size_bytes` ON `${TABLE_NAME}` (`filename`, `size_bytes`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vault_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "map_markers",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `resource_file_id` TEXT NOT NULL, `label` TEXT, `x_norm` REAL NOT NULL, `y_norm` REAL NOT NULL, `color` INTEGER, `created_at` INTEGER NOT NULL, `zoom` REAL NOT NULL, `offset_x` REAL NOT NULL, `offset_y` REAL NOT NULL, `style_id` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`resource_file_id`) REFERENCES `resource_files`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "resourceFileId",
+            "columnName": "resource_file_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "label",
+            "columnName": "label",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "xNorm",
+            "columnName": "x_norm",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "yNorm",
+            "columnName": "y_norm",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "color",
+            "columnName": "color",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "created_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "zoom",
+            "columnName": "zoom",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "offsetX",
+            "columnName": "offset_x",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "offsetY",
+            "columnName": "offset_y",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "styleId",
+            "columnName": "style_id",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_map_markers_resource_file_id",
+            "unique": false,
+            "columnNames": [
+              "resource_file_id"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_map_markers_resource_file_id` ON `${TABLE_NAME}` (`resource_file_id`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "resource_files",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "resource_file_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "page_bookmarks",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `saved_tab_id` TEXT NOT NULL, `label` TEXT, `scroll_position` INTEGER NOT NULL, `created_at` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`saved_tab_id`) REFERENCES `saved_tabs`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "savedTabId",
+            "columnName": "saved_tab_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "label",
+            "columnName": "label",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "scrollPosition",
+            "columnName": "scroll_position",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "created_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_page_bookmarks_saved_tab_id",
+            "unique": false,
+            "columnNames": [
+              "saved_tab_id"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_page_bookmarks_saved_tab_id` ON `${TABLE_NAME}` (`saved_tab_id`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "saved_tabs",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "saved_tab_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "scroll_markers",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `saved_tab_id` TEXT NOT NULL, `scroll_position` INTEGER NOT NULL, `marker_order` INTEGER NOT NULL, `created_at` INTEGER NOT NULL, `label` TEXT NOT NULL, `occurrence_index` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`saved_tab_id`) REFERENCES `saved_tabs`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "savedTabId",
+            "columnName": "saved_tab_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "scrollPosition",
+            "columnName": "scroll_position",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "markerOrder",
+            "columnName": "marker_order",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "created_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "label",
+            "columnName": "label",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "occurrenceIndex",
+            "columnName": "occurrence_index",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_scroll_markers_saved_tab_id",
+            "unique": false,
+            "columnNames": [
+              "saved_tab_id"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_scroll_markers_saved_tab_id` ON `${TABLE_NAME}` (`saved_tab_id`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "saved_tabs",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "saved_tab_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "media_search_paths",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `uri` TEXT NOT NULL, `label` TEXT NOT NULL, `origin` TEXT NOT NULL, `last_scanned_at` INTEGER, `created_at` INTEGER NOT NULL, `disabled` INTEGER NOT NULL DEFAULT 0, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "uri",
+            "columnName": "uri",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "label",
+            "columnName": "label",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "origin",
+            "columnName": "origin",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastScannedAt",
+            "columnName": "last_scanned_at",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "created_at",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "disabled",
+            "columnName": "disabled",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "media_search_index",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `search_path_id` TEXT NOT NULL, `absolute_path` TEXT, `relative_path` TEXT, `filename` TEXT NOT NULL, `normalized_basename` TEXT NOT NULL, `normalized_path_tokens` TEXT NOT NULL, `ext_lower` TEXT NOT NULL, `size_bytes` INTEGER NOT NULL, `mtime` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`search_path_id`) REFERENCES `media_search_paths`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "searchPathId",
+            "columnName": "search_path_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "absolutePath",
+            "columnName": "absolute_path",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "relativePath",
+            "columnName": "relative_path",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "filename",
+            "columnName": "filename",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "normalizedBasename",
+            "columnName": "normalized_basename",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "normalizedPathTokens",
+            "columnName": "normalized_path_tokens",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "extLower",
+            "columnName": "ext_lower",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sizeBytes",
+            "columnName": "size_bytes",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "mtime",
+            "columnName": "mtime",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_media_search_index_search_path_id",
+            "unique": false,
+            "columnNames": [
+              "search_path_id"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_media_search_index_search_path_id` ON `${TABLE_NAME}` (`search_path_id`)"
+          },
+          {
+            "name": "index_media_search_index_search_path_id_normalized_basename",
+            "unique": false,
+            "columnNames": [
+              "search_path_id",
+              "normalized_basename"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_media_search_index_search_path_id_normalized_basename` ON `${TABLE_NAME}` (`search_path_id`, `normalized_basename`)"
+          },
+          {
+            "name": "index_media_search_index_search_path_id_normalized_path_tokens",
+            "unique": false,
+            "columnNames": [
+              "search_path_id",
+              "normalized_path_tokens"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_media_search_index_search_path_id_normalized_path_tokens` ON `${TABLE_NAME}` (`search_path_id`, `normalized_path_tokens`)"
+          },
+          {
+            "name": "index_media_search_index_filename_size_bytes",
+            "unique": false,
+            "columnNames": [
+              "filename",
+              "size_bytes"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_media_search_index_filename_size_bytes` ON `${TABLE_NAME}` (`filename`, `size_bytes`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "media_search_paths",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "search_path_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "media_search_dirs",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `search_path_id` TEXT NOT NULL, `relative_dir` TEXT NOT NULL, `mtime` INTEGER NOT NULL, `normalized_name` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`), FOREIGN KEY(`search_path_id`) REFERENCES `media_search_paths`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "searchPathId",
+            "columnName": "search_path_id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "relativeDir",
+            "columnName": "relative_dir",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "mtime",
+            "columnName": "mtime",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "normalizedName",
+            "columnName": "normalized_name",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "''"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_media_search_dirs_search_path_id_relative_dir",
+            "unique": true,
+            "columnNames": [
+              "search_path_id",
+              "relative_dir"
+            ],
+            "orders": [],
+            "createSql": "CREATE UNIQUE INDEX IF NOT EXISTS `index_media_search_dirs_search_path_id_relative_dir` ON `${TABLE_NAME}` (`search_path_id`, `relative_dir`)"
+          },
+          {
+            "name": "index_media_search_dirs_search_path_id_normalized_name",
+            "unique": false,
+            "columnNames": [
+              "search_path_id",
+              "normalized_name"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_media_search_dirs_search_path_id_normalized_name` ON `${TABLE_NAME}` (`search_path_id`, `normalized_name`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "media_search_paths",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "search_path_id"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "library_meta",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `schemaVersion` INTEGER NOT NULL, `lastWrittenAtMillis` INTEGER NOT NULL, `lastWrittenDeviceId` TEXT NOT NULL, `lastWrittenDeviceLabel` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "schemaVersion",
+            "columnName": "schemaVersion",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastWrittenAtMillis",
+            "columnName": "lastWrittenAtMillis",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastWrittenDeviceId",
+            "columnName": "lastWrittenDeviceId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastWrittenDeviceLabel",
+            "columnName": "lastWrittenDeviceLabel",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "browser_tabs",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `vaultId` TEXT NOT NULL, `url` TEXT NOT NULL, `title` TEXT NOT NULL, `faviconBytes` BLOB, `scrollY` INTEGER NOT NULL DEFAULT 0, `tab_order` INTEGER NOT NULL DEFAULT 0, `history_json` TEXT NOT NULL DEFAULT '[]', `history_index` INTEGER NOT NULL DEFAULT 0, `lastAccessed` INTEGER NOT NULL, `createdAt` INTEGER NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`vaultId`) REFERENCES `vaults`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "vaultId",
+            "columnName": "vaultId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "url",
+            "columnName": "url",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "faviconBytes",
+            "columnName": "faviconBytes",
+            "affinity": "BLOB",
+            "notNull": false
+          },
+          {
+            "fieldPath": "scrollY",
+            "columnName": "scrollY",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "tabOrder",
+            "columnName": "tab_order",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "historyJson",
+            "columnName": "history_json",
+            "affinity": "TEXT",
+            "notNull": true,
+            "defaultValue": "'[]'"
+          },
+          {
+            "fieldPath": "historyIndex",
+            "columnName": "history_index",
+            "affinity": "INTEGER",
+            "notNull": true,
+            "defaultValue": "0"
+          },
+          {
+            "fieldPath": "lastAccessed",
+            "columnName": "lastAccessed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAt",
+            "columnName": "createdAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_browser_tabs_vaultId",
+            "unique": false,
+            "columnNames": [
+              "vaultId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_browser_tabs_vaultId` ON `${TABLE_NAME}` (`vaultId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "vaults",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "vaultId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '03672d2683fd9c950a2096cbc120e52a')"
+    ]
+  }
+}

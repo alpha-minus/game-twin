@@ -1,0 +1,31 @@
+# Build output
+.gradle/
+/build/
+/app/build/
+app/release/
+*.apk
+*.aab
+
+# Local configuration and secrets (never commit these)
+local.properties
+app/keystore.properties
+*.keystore
+*.jks
+.env
+
+# Crash dumps and logs
+hs_err_pid*.log
+*.log
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Local tool state
+.claude/
+.remember/
+.superpowers/
+.worktrees/
+perf-runs/

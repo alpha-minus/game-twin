@@ -1,0 +1,601 @@
+{
+  "consoleId": 28,
+  "consoleName": "Virtual Boy",
+  "games": [
+    {
+      "Title": "~Homebrew~ 3D Crosswords",
+      "ID": 17020,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/074662.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 23,
+      "DateModified": "2023-06-07 02:50:02",
+      "ForumTopicID": 21970,
+      "Hashes": [
+        "cef10df7728f4398af46d51efc89d3d0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Advanced Pasta Cooking Simulator",
+      "ID": 19567,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057774.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2024-06-28 19:24:13",
+      "ForumTopicID": 16510,
+      "Hashes": [
+        "a1b32c3b70ad0875fada464d681867f7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ BLOX",
+      "ID": 13161,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/071526.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 62,
+      "Points": 144,
+      "DateModified": "2023-07-15 03:59:25",
+      "ForumTopicID": 21295,
+      "Hashes": [
+        "f82d4c9fdd81518537d88f70c6602bb5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ BLOX 2",
+      "ID": 17019,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/087530.png",
+      "NumAchievements": 82,
+      "NumLeaderboards": 0,
+      "Points": 1145,
+      "DateModified": "2024-08-08 00:09:22",
+      "ForumTopicID": 24682,
+      "Hashes": [
+        "cc91d6389df2c9777919e8e8ab2c0e66"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Castle of Doom",
+      "ID": 19564,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057769.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 1,
+      "Points": 60,
+      "DateModified": "2022-06-02 05:10:34",
+      "ForumTopicID": 16508,
+      "Hashes": [
+        "fcfbeeca4bb33af756b025136c8b2549"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Fishbone",
+      "ID": 13162,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/067289.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 5,
+      "Points": 223,
+      "DateModified": "2023-01-28 07:42:58",
+      "ForumTopicID": 16410,
+      "Hashes": [
+        "eee8be03986ddbc3ada91b10a543f17e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Flappy Cheep Cheep",
+      "ID": 19509,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057489.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2022-05-08 03:22:19",
+      "ForumTopicID": 16422,
+      "Hashes": [
+        "2176fae66e175a5bf9fc0266b627cc6f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Game Hero",
+      "ID": 19858,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/058757.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 103,
+      "DateModified": "2022-06-05 17:48:42",
+      "ForumTopicID": 16845,
+      "Hashes": [
+        "d7adb3f627d0a3bf058e56eb7bd9c58d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ GoSub",
+      "ID": 19510,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057495.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2022-05-07 08:03:26",
+      "ForumTopicID": 16423,
+      "Hashes": [
+        "907c7f10093cfcab371754efae8ed279"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hamburgers En Route to Switzerland",
+      "ID": 22399,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/068533.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 228,
+      "DateModified": "2023-05-06 18:58:57",
+      "ForumTopicID": 20439,
+      "Hashes": [
+        "45aa19c4b2f10c7ef6782b0cb356e265"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hyper Fighting",
+      "ID": 17734,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/044874.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 166,
+      "DateModified": "2022-08-08 21:14:22",
+      "ForumTopicID": 13121,
+      "Hashes": [
+        "c2047a94dcb0db30794c8533ba625622",
+        "8d7068bc51669a2f0db46fef5b72e6cb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mario Kart: Virtual Cup",
+      "ID": 13947,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/049112.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 4,
+      "Points": 25,
+      "DateModified": "2025-01-28 19:54:06",
+      "ForumTopicID": 8234,
+      "Hashes": [
+        "4b8c8b6a7711a005dd896b3ee9b8d0f1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pineapple 64",
+      "ID": 13163,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/077720.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 7,
+      "DateModified": "2023-07-19 20:40:27",
+      "ForumTopicID": 22595,
+      "Hashes": [
+        "c81e121e78b63137305b9098bb5a2ad9"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Red Square",
+      "ID": 21681,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/064376.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2025-08-27 20:17:58",
+      "ForumTopicID": 19154,
+      "Hashes": [
+        "9c372321204b9fa65f9324f98aae53ff"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Soviet Union 2010",
+      "ID": 19874,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/121140.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 3,
+      "Points": 143,
+      "DateModified": "2025-12-01 17:35:44",
+      "ForumTopicID": 33390,
+      "Hashes": [
+        "74d21ea01f97ac19e018d7f5a3e3bc7c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ VB Racing",
+      "ID": 13164,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057480.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 5,
+      "Points": 45,
+      "DateModified": "2022-05-16 15:09:55",
+      "ForumTopicID": 16416,
+      "Hashes": [
+        "819b9dccf1437c3bb126670b171d7c59"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ VUE Snake",
+      "ID": 19544,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057770.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 9,
+      "Points": 95,
+      "DateModified": "2022-05-14 00:35:52",
+      "ForumTopicID": 16442,
+      "Hashes": [
+        "ccfa400a0ff3d717dad36a3f736fd34d"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Bound High!",
+      "ID": 16580,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/051790.png",
+      "NumAchievements": 78,
+      "NumLeaderboards": 2,
+      "Points": 500,
+      "DateModified": "2022-02-08 17:20:16",
+      "ForumTopicID": 14814,
+      "Hashes": [
+        "a460e2660fa951e9d4e3b05aee9f5018"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Space Pinball",
+      "ID": 17749,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/087330.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 7,
+      "Points": 220,
+      "DateModified": "2025-03-12 01:05:18",
+      "ForumTopicID": 13191,
+      "Hashes": [
+        "31073126fad41777357391ecc36d6f7f"
+      ]
+    },
+    {
+      "Title": "Galactic Pinball",
+      "ID": 11702,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/033511.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 5,
+      "Points": 315,
+      "DateModified": "2020-11-25 22:11:34",
+      "ForumTopicID": 7411,
+      "Hashes": [
+        "85260599fdada2e137053a8647aa0d06"
+      ]
+    },
+    {
+      "Title": "Golf",
+      "ID": 14302,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/061247.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 1,
+      "Points": 125,
+      "DateModified": "2022-08-28 12:42:35",
+      "ForumTopicID": 17693,
+      "Hashes": [
+        "977c4da800dacfac1a1402781670f872"
+      ]
+    },
+    {
+      "Title": "Innsmouth no Yakata",
+      "ID": 13041,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/099256.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 0,
+      "Points": 445,
+      "DateModified": "2024-05-27 01:52:44",
+      "ForumTopicID": 10141,
+      "Hashes": [
+        "1eb964d0eaa3223cfefdcc99a6265c88",
+        "4698a0b151d95bbbb833e2a523a12be7"
+      ]
+    },
+    {
+      "Title": "Jack Bros.",
+      "ID": 11700,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/122410.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 0,
+      "Points": 836,
+      "DateModified": "2024-03-29 07:56:56",
+      "ForumTopicID": 6951,
+      "Hashes": [
+        "05ba60f0ac1aacedd57321f0ed5f62ca",
+        "1b177fe2dd12ec1d67f6a43502f8d391",
+        "8819d31f9922dc2eea31a051f4d6d667",
+        "ee873c9969c15e92ca9a0f689c4ce5ea"
+      ]
+    },
+    {
+      "Title": "Mario Clash",
+      "ID": 11171,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/073200.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 236,
+      "DateModified": "2020-11-15 21:16:38",
+      "ForumTopicID": 5497,
+      "Hashes": [
+        "B1B3A25CE8FB4F406BF82B8765D307D0"
+      ]
+    },
+    {
+      "Title": "Mario's Tennis",
+      "ID": 12861,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/055719.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 331,
+      "DateModified": "2025-10-26 12:19:19",
+      "ForumTopicID": 7086,
+      "Hashes": [
+        "38ecc2c5a745a80d32eb9e8e413358c4"
+      ]
+    },
+    {
+      "Title": "Nester's Funky Bowling",
+      "ID": 12595,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/044429.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2022-01-02 06:50:56",
+      "ForumTopicID": 6935,
+      "Hashes": [
+        "0285dc41d75be8419d12472f20025305"
+      ]
+    },
+    {
+      "Title": "Panic Bomber",
+      "ID": 12492,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/035698.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 11,
+      "Points": 220,
+      "DateModified": "2025-11-30 16:07:49",
+      "ForumTopicID": 11054,
+      "Hashes": [
+        "467247d5e3383d066005565bf8218436"
+      ]
+    },
+    {
+      "Title": "Red Alarm",
+      "ID": 13079,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/049800.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 9,
+      "Points": 530,
+      "DateModified": "2024-05-07 14:49:42",
+      "ForumTopicID": 13995,
+      "Hashes": [
+        "e56e85761f52a613b34079d5322088ce"
+      ]
+    },
+    {
+      "Title": "SD Gundam: Dimension War",
+      "ID": 12720,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/059612.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2022-11-07 09:51:19",
+      "ForumTopicID": 16415,
+      "Hashes": [
+        "1cf8c69d8a740d6ef3aab54deced31c4",
+        "45825104799b74d36740d486f3f0cdf2"
+      ]
+    },
+    {
+      "Title": "Space Invaders: Virtual Collection",
+      "ID": 12910,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/024221.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 4,
+      "Points": 625,
+      "DateModified": "2025-05-16 15:13:15",
+      "ForumTopicID": 8529,
+      "Hashes": [
+        "7607f6f918615263512b17e56797c9aa",
+        "bb4aa9566437572802079c89452666e7"
+      ]
+    },
+    {
+      "Title": "Space Squash",
+      "ID": 17013,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/071463.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 1,
+      "Points": 429,
+      "DateModified": "2023-08-16 17:10:48",
+      "ForumTopicID": 15492,
+      "Hashes": [
+        "09c5f3143c25d1d30a3470e571653e48"
+      ]
+    },
+    {
+      "Title": "Teleroboxer",
+      "ID": 12721,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/043032.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 355,
+      "DateModified": "2024-06-12 07:50:06",
+      "ForumTopicID": 7410,
+      "Hashes": [
+        "0742a861a599fe3361aac6ebef6745a7"
+      ]
+    },
+    {
+      "Title": "V-Tetris",
+      "ID": 12935,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/109672.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 5,
+      "Points": 340,
+      "DateModified": "2023-04-28 19:30:56",
+      "ForumTopicID": 7366,
+      "Hashes": [
+        "262bbae465f851ded3bb7cf46e375224"
+      ]
+    },
+    {
+      "Title": "Vertical Force",
+      "ID": 11701,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/053439.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 290,
+      "DateModified": "2022-01-30 19:35:05",
+      "ForumTopicID": 7841,
+      "Hashes": [
+        "87c38f66d5b9ead72af22f515a3a5f51",
+        "c1f23aa9a6b5130a4971b4566dc19289"
+      ]
+    },
+    {
+      "Title": "Virtual Bowling",
+      "ID": 13078,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/057648.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 204,
+      "DateModified": "2025-12-12 04:22:11",
+      "ForumTopicID": 16414,
+      "Hashes": [
+        "5b11d402f7e322c71a7d4fa6503631fa"
+      ]
+    },
+    {
+      "Title": "Virtual Boy: Wario Land",
+      "ID": 11703,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/110960.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 2,
+      "Points": 475,
+      "DateModified": "2025-08-18 16:48:33",
+      "ForumTopicID": 7053,
+      "Hashes": [
+        "fb4dc9f4ebd506702eb49e99a62bd803"
+      ]
+    },
+    {
+      "Title": "Virtual Fishing",
+      "ID": 17014,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/054624.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 24,
+      "Points": 182,
+      "DateModified": "2025-04-19 16:28:23",
+      "ForumTopicID": 15449,
+      "Hashes": [
+        "c03e792d8628c3c5729fdcae1620fb9a",
+        "ef6e68d193dae7eb9f51face69e9dcf9"
+      ]
+    },
+    {
+      "Title": "Virtual Lab",
+      "ID": 17015,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/099038.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 2,
+      "Points": 130,
+      "DateModified": "2022-04-08 18:47:26",
+      "ForumTopicID": 15303,
+      "Hashes": [
+        "1cec316aca8827fdf99c685a1ee49dbc",
+        "bd6bc0cdb310969583c442f9c8509fc0"
+      ]
+    },
+    {
+      "Title": "Waterworld",
+      "ID": 13077,
+      "ConsoleID": 28,
+      "ConsoleName": "Virtual Boy",
+      "ImageIcon": "/Images/105115.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2022-02-04 22:47:36",
+      "ForumTopicID": 15150,
+      "Hashes": [
+        "110a83bc070559c5cc5634a8b5cae274"
+      ]
+    }
+  ]
+}

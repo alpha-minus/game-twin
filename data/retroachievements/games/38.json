@@ -1,0 +1,1748 @@
+{
+  "consoleId": 38,
+  "consoleName": "Apple II",
+  "games": [
+    {
+      "Title": "~Homebrew~ Flapple Bird",
+      "ID": 20042,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/059611.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2023-05-25 18:14:21",
+      "ForumTopicID": 17137,
+      "Hashes": [
+        "a317e53a10a9db16d7471b23907116c9"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Portal",
+      "ID": 16129,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/058824.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 18,
+      "DateModified": "2023-02-06 00:22:58",
+      "ForumTopicID": 20212,
+      "Hashes": [
+        "a375198073297139a26db57347f93e90"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pyramid of Ra",
+      "ID": 32349,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105505.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2024-12-07 04:27:28",
+      "ForumTopicID": 28992,
+      "Hashes": [
+        "20b0f9a506f759ea815dbacd3eadcd7d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Sudoku",
+      "ID": 14674,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/027637.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 25,
+      "DateModified": "2022-11-21 18:48:09",
+      "ForumTopicID": 9563,
+      "Hashes": [
+        "bd92a051c2098b3090b865365caa3571"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Where in Hell is Carmen Santiago?",
+      "ID": 33413,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/110950.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 40,
+      "DateModified": "2025-04-24 18:57:32",
+      "ForumTopicID": 30570,
+      "Hashes": [
+        "fd57e7627fec7a3e889d2342653fc180"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Mario Bros.",
+      "ID": 14183,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/071861.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 2,
+      "Points": 330,
+      "DateModified": "2023-05-01 15:08:40",
+      "ForumTopicID": 21384,
+      "Hashes": [
+        "30de3faafa79af65f7b901bf6365503a"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Battle of Hoth",
+      "ID": 20871,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/106434.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2025-03-21 04:32:17",
+      "ForumTopicID": 28872,
+      "Hashes": [
+        "01fa5ae0a155665e31421491e03d7c2e"
+      ]
+    },
+    {
+      "Title": "A.E.",
+      "ID": 22130,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105275.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 105,
+      "DateModified": "2025-11-26 23:33:25",
+      "ForumTopicID": 28938,
+      "Hashes": [
+        "957c6ac3752bcd138b7b6932db34b51d",
+        "a4df0c61d951483d8bbea9a03f3449a0"
+      ]
+    },
+    {
+      "Title": "Akalabeth: World of Doom",
+      "ID": 14025,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/109427.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 135,
+      "DateModified": "2025-03-23 11:37:27",
+      "ForumTopicID": 30175,
+      "Hashes": [
+        "001d722ff7618f70700eaa8989afbcca"
+      ]
+    },
+    {
+      "Title": "Alf: The First Adventure",
+      "ID": 32138,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105400.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 90,
+      "DateModified": "2025-04-12 16:47:10",
+      "ForumTopicID": 29525,
+      "Hashes": [
+        "73f514f8d70eafa2097f5ac8659168c0"
+      ]
+    },
+    {
+      "Title": "Apple Bowl",
+      "ID": 22163,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/079906.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2023-12-13 05:00:28",
+      "ForumTopicID": 24673,
+      "Hashes": [
+        "ac05cb753b77cf22622493c51bc47203"
+      ]
+    },
+    {
+      "Title": "Black Magic",
+      "ID": 20414,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/072447.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 141,
+      "DateModified": "2023-06-06 16:29:10",
+      "ForumTopicID": 18007,
+      "Hashes": [
+        "57ce0a35c7580cc964368da2887b878e",
+        "b2f2706629fbf84b980659d6535ced33"
+      ]
+    },
+    {
+      "Title": "Both Barrels",
+      "ID": 32563,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105803.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 35,
+      "DateModified": "2025-01-04 15:45:58",
+      "ForumTopicID": 29154,
+      "Hashes": [
+        "b3ad5f8c06e5721ffa7e0bcc0eabe6c1"
+      ]
+    },
+    {
+      "Title": "Breakout",
+      "ID": 14022,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/026034.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2020-06-19 19:07:06",
+      "ForumTopicID": 9070,
+      "Hashes": [
+        "daff679b6c57e6a9213212b4c7a79093"
+      ]
+    },
+    {
+      "Title": "Castle Wolfenstein",
+      "ID": 13929,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/022803.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 144,
+      "DateModified": "2024-05-19 15:22:41",
+      "ForumTopicID": 14912,
+      "Hashes": [
+        "462ffae94631792f90ef2e9541b79a9f",
+        "519dd5c639ae29dde3a8e7c0b33beeb1",
+        "d3ec33dd785a8ef8f7a2e43fe01ef58a"
+      ]
+    },
+    {
+      "Title": "Cavern Creatures",
+      "ID": 31970,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105330.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 110,
+      "DateModified": "2025-07-06 16:40:27",
+      "ForumTopicID": 28951,
+      "Hashes": [
+        "52942323c85627c51b3d2e6dbf7c6f5d"
+      ]
+    },
+    {
+      "Title": "Ceiling Zero",
+      "ID": 25365,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/080655.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 160,
+      "DateModified": "2025-11-27 02:25:47",
+      "ForumTopicID": 22906,
+      "Hashes": [
+        "d58a501d06db3f852884aafda9f55a41"
+      ]
+    },
+    {
+      "Title": "Championship Lode Runner",
+      "ID": 22830,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107571.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 335,
+      "DateModified": "2025-02-09 16:08:08",
+      "ForumTopicID": 29396,
+      "Hashes": [
+        "e325257fba1fe7e149ff314cb9decf5c"
+      ]
+    },
+    {
+      "Title": "Conan: Hall of Volta",
+      "ID": 30974,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105384.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2025-03-17 21:44:53",
+      "ForumTopicID": 29399,
+      "Hashes": [
+        "c528fa485c130352470ce07f33334223",
+        "d8f4bafb48c1b663bdb846037dca15e0"
+      ]
+    },
+    {
+      "Title": "Congo Bongo",
+      "ID": 32457,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105792.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 70,
+      "DateModified": "2025-04-29 08:03:25",
+      "ForumTopicID": 29123,
+      "Hashes": [
+        "8704f64bbcbe161a9cb84751354585dc"
+      ]
+    },
+    {
+      "Title": "Cranston Manor",
+      "ID": 31996,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107101.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-03-29 16:12:41",
+      "ForumTopicID": 29581,
+      "Hashes": [
+        "14eaf619c453cef19fd54a15508c5b60"
+      ]
+    },
+    {
+      "Title": "Dangerous Dave in the Deserted Pirate's Hideout",
+      "ID": 19570,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/057809.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 121,
+      "DateModified": "2023-08-12 03:12:53",
+      "ForumTopicID": 16546,
+      "Hashes": [
+        "41fdddcf581d2c01657c95d59a585c30"
+      ]
+    },
+    {
+      "Title": "Dark Lord",
+      "ID": 32644,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105855.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2024-12-27 16:30:56",
+      "ForumTopicID": 29152,
+      "Hashes": [
+        "dceb7f41c35891323a35a2ed81a55b45",
+        "41673ba6275bb4665e22616e33799d47"
+      ]
+    },
+    {
+      "Title": "Demon's Forge",
+      "ID": 32722,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/111250.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2025-01-27 00:25:09",
+      "ForumTopicID": 29272,
+      "Hashes": [
+        "d1e28255dcaa07d4f8291639bec84d2b"
+      ]
+    },
+    {
+      "Title": "Donald Duck's Playground",
+      "ID": 22129,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/108238.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 4,
+      "Points": 59,
+      "DateModified": "2025-04-13 19:54:50",
+      "ForumTopicID": 19879,
+      "Hashes": [
+        "60f45339fbe46f408592bca103cfe39a",
+        "5eec6a88baa3f36a219a13125f6e2163"
+      ]
+    },
+    {
+      "Title": "Donald's Alphabet Chase",
+      "ID": 22160,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105862.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 9,
+      "DateModified": "2023-09-22 14:25:33",
+      "ForumTopicID": 23490,
+      "Hashes": [
+        "b6712d0f0a84e8fb7bf8c0461bd11eb4"
+      ]
+    },
+    {
+      "Title": "Donkey Kong",
+      "ID": 14184,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/060961.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2024-09-16 16:15:44",
+      "ForumTopicID": 17753,
+      "Hashes": [
+        "a3bcfbb732ad5a21d95b909d7bf17a23"
+      ]
+    },
+    {
+      "Title": "Eamon",
+      "ID": 14023,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105195.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 109,
+      "DateModified": "2025-11-19 12:55:33",
+      "ForumTopicID": 12778,
+      "Hashes": [
+        "28f6c1441dfea996109c4ab873b62f21",
+        "cd9606608fe597756ed837539abc15d2",
+        "d0547f0598246d18e59b64d42b9742bb",
+        "3d593e026bd24e69d1ad69d0407475e6",
+        "5b615c94e389f34f593c2cbd97799474",
+        "cceba6ca3466b9b0f810bbba0e6e496f",
+        "87626d7c0a8df6ab4835e016664dfc46",
+        "9ac9538d6a05c356fb6f17b9b904f13d",
+        "fa24a35a016658170d6ed68f68c40771",
+        "97f2e02ff4235abd2df7426c0b8aa438"
+      ]
+    },
+    {
+      "Title": "Evolution",
+      "ID": 17741,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/044781.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 84,
+      "DateModified": "2022-05-10 07:02:54",
+      "ForumTopicID": 13156,
+      "Hashes": [
+        "b5a99fe7eb633705189f6d87ab3b819f"
+      ]
+    },
+    {
+      "Title": "Fix It",
+      "ID": 27437,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/085904.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 203,
+      "DateModified": "2023-11-29 10:39:32",
+      "ForumTopicID": 24523,
+      "Hashes": [
+        "fcf1978328dec5ddffcbeaa0c0d40209",
+        "d0cdf48d06543609bb633fb51568b1ad"
+      ]
+    },
+    {
+      "Title": "Fraction Munchers",
+      "ID": 32114,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/113434.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 216,
+      "DateModified": "2025-12-04 02:08:20",
+      "ForumTopicID": 28924,
+      "Hashes": [
+        "7ed0c718a8798062b9774e2c6e230a10"
+      ]
+    },
+    {
+      "Title": "Frog Jump: Ordering Numbers",
+      "ID": 33058,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/108850.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 16,
+      "DateModified": "2025-03-16 01:47:20",
+      "ForumTopicID": 30088,
+      "Hashes": [
+        "f03195e9fac7e2d69bd94d0189eeb141"
+      ]
+    },
+    {
+      "Title": "Galaxian",
+      "ID": 16188,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/045062.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 185,
+      "DateModified": "2024-11-21 12:50:29",
+      "ForumTopicID": 13283,
+      "Hashes": [
+        "7e6783f2d7880b3792b311366eaf61f1",
+        "209ec3cf2429fa740f30c401916cb059"
+      ]
+    },
+    {
+      "Title": "Gold Rush!",
+      "ID": 18959,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055444.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2024-03-03 18:06:20",
+      "ForumTopicID": 25228,
+      "Hashes": [
+        "0c21eeed49f7eaa4ad68948626639b03",
+        "d09912eede9424eafc4ad463fee93eba",
+        "bdcfed7a8d7d3146cf061a45fa2c84d8",
+        "53ce40c404777fb07d6797b27a13d81b",
+        "cc578760f16cf582da130725016c4244",
+        "c0f155abf5cab2b5f3d3258d69f63547",
+        "7b523fd100e14f721c9cdc548ebd48bb",
+        "5afa32799f94e53cb3825d49adff8a45",
+        "434a9d62a1577e21d362ba56d6445f9f",
+        "e7f0f9f6f27fe2ee535a8a187fa5994b",
+        "af9f48002cf9412fb346912669a55de6",
+        "ca650f407d3bd06d400c10342d3853bb",
+        "bb76158b741ed7d5e9c403858149ecbe",
+        "0ed1ef9c085aca863340ea948449e847",
+        "18df775193b32eab624b8bf1cbc39e61",
+        "9b9a67399b2cb7ff3dd4e9d2270a2321"
+      ]
+    },
+    {
+      "Title": "Hard Hat Mack",
+      "ID": 14322,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/072529.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 2,
+      "Points": 170,
+      "DateModified": "2023-05-04 01:44:08",
+      "ForumTopicID": 21004,
+      "Hashes": [
+        "2fb9e6d698d5ca4c6c28ec4fd72acc5c",
+        "aba173f5138eb06495c484aa0fca25b2"
+      ]
+    },
+    {
+      "Title": "Indiana Jones and the Temple of Doom",
+      "ID": 32161,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/108397.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2025-03-16 14:21:38",
+      "ForumTopicID": 29874,
+      "Hashes": [
+        "b7ff77f70a15a05295f8a7b104bd8907",
+        "71e31e6ab2bf001f7838e75e9811ca33"
+      ]
+    },
+    {
+      "Title": "Investigating Plant Growth",
+      "ID": 31972,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105094.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2025-03-19 17:42:57",
+      "ForumTopicID": 28868,
+      "Hashes": [
+        "c5be505df9347b7ffffe2bbe074fa975"
+      ]
+    },
+    {
+      "Title": "Karateka",
+      "ID": 13936,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/100598.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 51,
+      "DateModified": "2024-08-07 18:18:14",
+      "ForumTopicID": 27549,
+      "Hashes": [
+        "c4e9ba49171ba4724ca4fac2d96f7791"
+      ]
+    },
+    {
+      "Title": "King's Quest",
+      "ID": 14398,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/026836.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-05-23 18:33:59",
+      "ForumTopicID": 9303,
+      "Hashes": [
+        "0abf79679eb7d33ccae220ab9229cb27",
+        "13a81608986755022e048338450afb1a",
+        "1895ddb08c2068a66f9df3765a29f5bf",
+        "34f8869a6f033195023d3b60ce814ecd",
+        "5ce474d9ee686f66ffff6e6f26a90418",
+        "6a2bd8ce8b19436d2ce455b751aadb31",
+        "92088fe43463ece00e33e0cc150c4a0e",
+        "c5c91d02d70478080f376e280592db9d",
+        "c7d0d8e28da4c4ee93ef059230260c62",
+        "ebb389599debac2b554c431bfb0f919c",
+        "f4c6c8c11e3fab4fc22e44be3c535f67",
+        "38027dd56819f2a03c5945179866332a",
+        "ad6f0b49d6777a4baa9fa645be8f8c72",
+        "3df2f894d07e22b18631053d7dd3d00a"
+      ]
+    },
+    {
+      "Title": "King's Quest II: Romancing the Throne",
+      "ID": 17138,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/041448.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2022-09-07 00:06:39",
+      "ForumTopicID": 11869,
+      "Hashes": [
+        "0fe0171c101d92659530af44be9df553",
+        "239f0238141ba3ecb100d015d543ac1f",
+        "46ca9ce71dd984496684fc671fb18af1",
+        "51fecf807b7369288714fa67492d0209",
+        "654f982ff24269dedf646052ec469f94",
+        "74571c7ecfa0f2f6686a8ff70029b595",
+        "9998017630a30d635dff03bbd5515925",
+        "d8549ae7a488ab18289a02c13461d24b",
+        "da01ed6b55920013f63e2d79fbb15660",
+        "e077d01f89c5d87fdf1f85890f579ed4",
+        "0717faca504daa539e6b2771e256d3ed",
+        "56443afd0f1fd3bef2d7b1765d4c3b01",
+        "313fb09806ab5696be6ebfa710688d6b",
+        "8e7ae73692d8fed3260f1b609d941049",
+        "30c74c11694ae9797931bcc3e54aa310"
+      ]
+    },
+    {
+      "Title": "King's Quest III: To Heir is Human",
+      "ID": 17931,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/048189.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2022-07-29 20:26:30",
+      "ForumTopicID": 13944,
+      "Hashes": [
+        "1ca154925f519bbed3e71d2819088cb7",
+        "22eec53103e160640d4dddfa5241ef59",
+        "2a46afecdc07d35ccec48ab1d599a9c1",
+        "3988249f343013a5f6b77f7849768c5c",
+        "39defab9848473f907ae74014bf3043d",
+        "4c139a3f6766f3c3e18d60fef7395fc3",
+        "4d9e6c26013dbfd5cc69b7d2f6cf64f4",
+        "56ee4e9df35fc0a381b429229d56b0a6",
+        "5f7173c2f1b83c1d3f1689d2e6828527",
+        "60002b432259775ae0ebaa570d9028b8",
+        "672bc970b2fb7ce5196aaea5f352db0a",
+        "6797501abd69a5ebf43a0afd7a1a123a",
+        "7d9c8e44565f77a456edec06a7ab7522",
+        "a728e92049696db5e164d95ef3fdb7cc",
+        "ae274568a27e15729cc50a0251e57ca7",
+        "bf8e0f8706328c2bd14caf31d4bf1375",
+        "e1a71ac3ac8bbb76054985608d17ecae",
+        "eecff1ef24c4e4a6c127d6dc75266cdb",
+        "f35cf26bef5a3e60e5a0cbedfe39a038",
+        "f852ac1bc5dd5399fa4643498e6b3676",
+        "007c38d9195c68203e017c004298a7e2",
+        "17cc68fd948ae386a252fe3f508ea848",
+        "698039cd1a7926f6e806dd03b8192c5d",
+        "f0293e5bc8d30dfa34f5ad857afbeb28",
+        "e3d0682cde08222e5e4c4b58bb6d4528",
+        "8680c098461eddf2d035f1cc9cda978e",
+        "6f4365ed05c7f39381b0fbc624e57e4a",
+        "5c0baf421d5df433c247d10f0f2c95c8",
+        "657acdea6b385143eb1591934ac5ff33",
+        "8779df142b46cae6837a6536a109c444"
+      ]
+    },
+    {
+      "Title": "King's Quest IV: The Perils of Rosella",
+      "ID": 18952,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055411.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 227,
+      "DateModified": "2023-12-20 20:26:31",
+      "ForumTopicID": 24663,
+      "Hashes": [
+        "2648141a6e66b21393332d2aafb12c4d",
+        "da07139cb035afe5ce0c7e22d328fb5e",
+        "8a5d200bdcbced560d4909353f261313",
+        "63437eb5bf3a7abb729379f2d249ee5a",
+        "a7482109ea51ea787440abd221d45d18",
+        "2fd4768b0b84fcc1d699bd89d58c4365",
+        "b3ab225f9999018d396f2090434c0298",
+        "ba972c0e987bf9fbaa20bc2d87bf7ed6",
+        "3ba47a7e6371c86b8263b0a8ead4f151",
+        "468496a71fb71ea4f2185f282f37578a",
+        "bd40f55c1d509bf37f321a7ff0860237",
+        "9a199c2e1c05d0703a10a444e23e9557",
+        "1973093045b7d45abc3b01e1358cce99",
+        "a81635e7c78aa0b9b1943328ace3c258",
+        "c578d2209649bcd13a2f0c3348f47883",
+        "2f72caaae8e445733c92fbdf50a1d8f5"
+      ]
+    },
+    {
+      "Title": "La Femme qui ne supportait pas les ordinateurs...",
+      "ID": 14391,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/026041.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2019-07-12 20:34:47",
+      "ForumTopicID": 9074,
+      "Hashes": [
+        "9d3749dceb156e166fea18765263ba92",
+        "b70feb11a48af379b44300e8a20e47ca"
+      ]
+    },
+    {
+      "Title": "Leisure Suit Larry in the Land of the Lounge Lizards",
+      "ID": 13935,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/089294.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 117,
+      "DateModified": "2024-02-08 03:23:46",
+      "ForumTopicID": 8200,
+      "Hashes": [
+        "3883aa9885c29ab327c234d5801f74e4",
+        "48efe5e32963ed8b794221b0f5283972",
+        "58385d0c76c5d01990e0be16062e8633",
+        "a4c727ffd18b58414b1cd6c975829de2",
+        "bc7cb21febf7b3e6b405fae9fa03a4e8"
+      ]
+    },
+    {
+      "Title": "Lemonade Stand",
+      "ID": 26622,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/084380.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2023-10-24 00:41:37",
+      "ForumTopicID": 24073,
+      "Hashes": [
+        "6d11ec35cae44ebab4550e6a0edff8bd"
+      ]
+    },
+    {
+      "Title": "Lode Runner",
+      "ID": 14225,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/024502.png",
+      "NumAchievements": 159,
+      "NumLeaderboards": 1,
+      "Points": 500,
+      "DateModified": "2022-07-09 14:16:54",
+      "ForumTopicID": 8675,
+      "Hashes": [
+        "98ba542f94d25a635fd313710fd758f9",
+        "b2397861f6b8974134d238ad3ad9c4fc",
+        "f491b82b944c8d55c7ce82c3056df556"
+      ]
+    },
+    {
+      "Title": "Lunar Greenhouse",
+      "ID": 20057,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/059929.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2023-10-24 06:42:35",
+      "ForumTopicID": 17268,
+      "Hashes": [
+        "7ca5fbd67cb158ed65abec3bd8564348"
+      ]
+    },
+    {
+      "Title": "Maniac Mansion",
+      "ID": 16360,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/045613.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2022-11-15 18:08:06",
+      "ForumTopicID": 13452,
+      "Hashes": [
+        "18ec40ab05a0a4b6a9344ed5ab398f20",
+        "296a70f4211395db9dde69552bf381d7",
+        "394d0b39eb51ee850c45c31591f1bc7c",
+        "6d3e9a44861d2e34df5e081eca2d72b3",
+        "fa971de45d11f586136d12adda9cfc3f",
+        "fd7e3593570af7bcbfbfd030063849d2"
+      ]
+    },
+    {
+      "Title": "Megabots",
+      "ID": 14024,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/059567.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 335,
+      "DateModified": "2023-08-28 16:12:51",
+      "ForumTopicID": 8482,
+      "Hashes": [
+        "1208cc0b1d18d6b6b077164fca770c9b"
+      ]
+    },
+    {
+      "Title": "Mind Castle I",
+      "ID": 32652,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105894.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2024-12-30 17:18:22",
+      "ForumTopicID": 29186,
+      "Hashes": [
+        "7869888adaca87239fced64787fb6aed"
+      ]
+    },
+    {
+      "Title": "Mind Castle II",
+      "ID": 32653,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105977.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2025-01-04 00:33:58",
+      "ForumTopicID": 29217,
+      "Hashes": [
+        "936aecbb8fd34a410dc8ac6f153474f5"
+      ]
+    },
+    {
+      "Title": "Mission: Asteroid",
+      "ID": 31997,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107035.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-03-03 21:16:00",
+      "ForumTopicID": 29227,
+      "Hashes": [
+        "4cdace0399c61ccb173a4c1c6a5edf60"
+      ]
+    },
+    {
+      "Title": "Mixed Up Mother Goose",
+      "ID": 18954,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/112935.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 59,
+      "DateModified": "2025-05-30 00:33:50",
+      "ForumTopicID": 30783,
+      "Hashes": [
+        "15f23a580ecd3e9d9efea3b45cbc05ae",
+        "dcdca0c58c46b2b4847cf91b52962191"
+      ]
+    },
+    {
+      "Title": "Ms. Pac-Man",
+      "ID": 26718,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/118367.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 7,
+      "Points": 216,
+      "DateModified": "2025-11-08 19:04:39",
+      "ForumTopicID": 32392,
+      "Hashes": [
+        "8e5f4483c7b8d819875d91f6e75e4095"
+      ]
+    },
+    {
+      "Title": "Mystery House",
+      "ID": 18955,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/099024.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-03-23 22:43:23",
+      "ForumTopicID": 21203,
+      "Hashes": [
+        "2dbf63fd426870235da903fee3c5fcfe"
+      ]
+    },
+    {
+      "Title": "Newbery Winners: Bridge to Terabithia",
+      "ID": 32479,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105601.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 14,
+      "DateModified": "2025-06-24 02:27:51",
+      "ForumTopicID": 29037,
+      "Hashes": [
+        "fb49ae5e13807c32c385330880167797"
+      ]
+    },
+    {
+      "Title": "Nibbler",
+      "ID": 14724,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/082301.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 152,
+      "DateModified": "2023-09-11 12:39:20",
+      "ForumTopicID": 23311,
+      "Hashes": [
+        "e1c816373c793c50c96b62ad5fb7500f"
+      ]
+    },
+    {
+      "Title": "Number Munchers",
+      "ID": 14034,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/073051.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 110,
+      "DateModified": "2020-04-05 21:50:55",
+      "ForumTopicID": 8437,
+      "Hashes": [
+        "9b55fc36780dcdc7be8e7149d08af750"
+      ]
+    },
+    {
+      "Title": "Odell Lake",
+      "ID": 14231,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/024582.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2019-10-20 11:14:02",
+      "ForumTopicID": 8694,
+      "Hashes": [
+        "235600cb734020deef456a14617225b0"
+      ]
+    },
+    {
+      "Title": "Pac-Man",
+      "ID": 13932,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/042346.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 3,
+      "Points": 190,
+      "DateModified": "2023-05-18 15:43:58",
+      "ForumTopicID": 12498,
+      "Hashes": [
+        "6d323b42925299e361579b50c60bd32e",
+        "c30fd9280c403e711b66ae9d7bdbcbca"
+      ]
+    },
+    {
+      "Title": "Paranoiak",
+      "ID": 14038,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/023640.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 160,
+      "DateModified": "2025-09-17 21:13:59",
+      "ForumTopicID": 8448,
+      "Hashes": [
+        "9771f313dda522e8c65407e94c173fb2",
+        "ddc76a12c8dcd197b8d5395bf80f9461",
+        "fc40e6016f06eb748ead9b072c53b6aa"
+      ]
+    },
+    {
+      "Title": "Pooyan",
+      "ID": 26106,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/106770.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 23,
+      "DateModified": "2025-03-16 07:52:27",
+      "ForumTopicID": 28926,
+      "Hashes": [
+        "2f4aa83a3de7b99c33fac3a773b09d37"
+      ]
+    },
+    {
+      "Title": "Prince of Persia",
+      "ID": 13925,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/022788.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 275,
+      "DateModified": "2025-11-27 05:35:41",
+      "ForumTopicID": 8193,
+      "Hashes": [
+        "4f319042ecb13e6a6090456d18b2aef3",
+        "7314dbc241b9a21cc004eb428bb7e070",
+        "d566f78651f70fad171111bf38e2cfca",
+        "d7c976c61c01f620e7cb1d3a5d432601"
+      ]
+    },
+    {
+      "Title": "Questprobe Featuring the Hulk",
+      "ID": 14320,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/087719.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 111,
+      "DateModified": "2026-01-22 22:37:52",
+      "ForumTopicID": 24989,
+      "Hashes": [
+        "142eb7771b9767548fe8c68baefbb0b0",
+        "4211479afa2281582afd474bac7c863b",
+        "c05df3fa4a519917d7fd05f2ce52aaca"
+      ]
+    },
+    {
+      "Title": "Rainy Day Games",
+      "ID": 25207,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/084802.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 36,
+      "DateModified": "2026-02-12 00:15:17",
+      "ForumTopicID": 24184,
+      "Hashes": [
+        "e256e4abeaf9af224902ca7c6bb8654d"
+      ]
+    },
+    {
+      "Title": "Realm of Impossibility",
+      "ID": 31991,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105451.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 18,
+      "Points": 235,
+      "DateModified": "2025-04-03 05:45:45",
+      "ForumTopicID": 28927,
+      "Hashes": [
+        "9c57651762323da6c786df1bd1c9984e"
+      ]
+    },
+    {
+      "Title": "Space Quest II: Vohaul's Revenge",
+      "ID": 18958,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055440.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2024-12-22 05:45:14",
+      "ForumTopicID": 28970,
+      "Hashes": [
+        "37323a3833c87cf78344621cb6f07050",
+        "c98952f0fbb1c27a92dbf053a875f721",
+        "42707d78fe179c092d692a05c71927bc",
+        "5045844b415d6f0df37ead4bd1deb11c",
+        "27e95535fc4d12ad25e44be6f9ce9c42",
+        "dc2dc9e66f498812e6d04a1048023e4f",
+        "a9b5edcebfb5fe8d9d90c60235822c38",
+        "6c999ec3a98c6126e04608e34f34413d"
+      ]
+    },
+    {
+      "Title": "Space Quest: Chapter 1 - The Sarien Encounter",
+      "ID": 18951,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055611.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 4,
+      "Points": 200,
+      "DateModified": "2025-04-07 00:08:33",
+      "ForumTopicID": 15948,
+      "Hashes": [
+        "1b0829123798c8a2621bd5bec09447f9",
+        "2ab3435530a899c6064f069bceb2c0df",
+        "2d10b0a2eec341411d45f0f9b705be62",
+        "37e78e57ee8b8dc52a4af06a7f8fad90",
+        "500e83093b5011d7e752cf9858b34d9b",
+        "54e297b5007e72458f760bba4e1154f5",
+        "68b4687a664173975d280789b55ed51a",
+        "75bcc6ddb2d10af7d645d0caeee7ca18",
+        "7fcc5367140b92865ea9f7b798774296",
+        "99ec7fd32ea5b9369cc764691194e3da",
+        "a6329c61ffe49b690bce3833a1c251c7",
+        "ab261515b456c2dd6c1d7ae6a6c13178",
+        "be57e9d546be71d721c32b5dc14719b4",
+        "cccd7ad05ef9730acaa6285213a22700",
+        "d63fa32740d865e1d5eeefe5fbe098fc",
+        "fb8e7bee636e36fbb599188155b56627",
+        "fb967dd9b5618c059c25dab5d3662f41"
+      ]
+    },
+    {
+      "Title": "Space Subtraction",
+      "ID": 20419,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/071389.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 5,
+      "Points": 24,
+      "DateModified": "2023-05-05 04:51:14",
+      "ForumTopicID": 21051,
+      "Hashes": [
+        "4b24f3c661a58a466930abb4f60c44e6"
+      ]
+    },
+    {
+      "Title": "Spare Change",
+      "ID": 18693,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/054301.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 117,
+      "DateModified": "2023-09-05 17:12:36",
+      "ForumTopicID": 15541,
+      "Hashes": [
+        "c0dd0c4390de706afc0a1e2e48e181af"
+      ]
+    },
+    {
+      "Title": "Stickybear Math 2",
+      "ID": 27029,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/087497.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2023-12-29 19:26:36",
+      "ForumTopicID": 24889,
+      "Hashes": [
+        "f9bc68768f40f145955ca341b9976b00"
+      ]
+    },
+    {
+      "Title": "Stickybear Shapes",
+      "ID": 27028,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/085166.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 9,
+      "DateModified": "2023-11-03 04:56:27",
+      "ForumTopicID": 24334,
+      "Hashes": [
+        "53fc8eedaa36e3546ca874ea5d26d408"
+      ]
+    },
+    {
+      "Title": "Super Bunny",
+      "ID": 24889,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107350.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 156,
+      "DateModified": "2025-03-16 18:55:54",
+      "ForumTopicID": 28928,
+      "Hashes": [
+        "60a895659d2db3dad79a4b3eba7642a8",
+        "4d27bccbad1092b7eb7b06f5df038df2"
+      ]
+    },
+    {
+      "Title": "Super Othello",
+      "ID": 25283,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/078762.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2024-01-18 01:16:23",
+      "ForumTopicID": 23131,
+      "Hashes": [
+        "9e059aea68928d80ff77ea225045395b"
+      ]
+    },
+    {
+      "Title": "Swashbuckler",
+      "ID": 22170,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/066862.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 145,
+      "DateModified": "2023-01-20 00:42:23",
+      "ForumTopicID": 19950,
+      "Hashes": [
+        "6f44d0ab68ebcc8c72b8082e15dba419"
+      ]
+    },
+    {
+      "Title": "Tapper",
+      "ID": 14215,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/083205.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 3,
+      "Points": 350,
+      "DateModified": "2024-08-27 05:59:50",
+      "ForumTopicID": 23614,
+      "Hashes": [
+        "baa866c80409d9ec9972273210b96132"
+      ]
+    },
+    {
+      "Title": "Tempete sur les Bermudes",
+      "ID": 22568,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/068635.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 48,
+      "DateModified": "2025-09-09 09:14:15",
+      "ForumTopicID": 20501,
+      "Hashes": [
+        "5a053ac8277ebd949c0d88c385388eca",
+        "5c8b398eea4363b3efad4100a58bf6ba"
+      ]
+    },
+    {
+      "Title": "The Black Cauldron",
+      "ID": 14478,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/039491.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-06-27 01:09:20",
+      "ForumTopicID": 9398,
+      "Hashes": [
+        "02de27187fd6446daae8303066611f13",
+        "0d0ef0cace8ccde940c06781efe2fd78",
+        "3493f40aec829f98e4cf6ff739ff0f81",
+        "66f82e26d9417757ece6253dc140967c",
+        "6af43b5d837688b373529947d3fb04fc",
+        "8899ad83dbda2e772393f98abefdc058",
+        "89d90b22588fc4217348e334c60c6900",
+        "9214fdb0b3a53c5f4160ac681a2002bd",
+        "a7cea209c45dacf4474753a701b4229d",
+        "dbcc564fdd15795c4b994af26a01a09e",
+        "20521505afaa87bb93533172f0ab5467",
+        "7ee36f4258c655325bef305300bd6f6e",
+        "db2d941216029330a9fe89a65dfdd459",
+        "a3fad474e60da976c32c29bf7db7d7f7",
+        "147464e241a0b6065c49e1880f0f6e0a"
+      ]
+    },
+    {
+      "Title": "The Dark Crystal",
+      "ID": 18957,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107454.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-04-15 17:14:18",
+      "ForumTopicID": 29680,
+      "Hashes": [
+        "6e530176714c4accaa0975fc127f767b",
+        "64d7c44540c341832213258d4e9d099e",
+        "c119adee8fe46f45c03b1e4fbdfea059",
+        "59b0d152c4fcfcf064c9488af3f444f3",
+        "8c419c88edf6f36cc3c60061997dbb60",
+        "133277cd78897f0a9a3c3c76c4919e5b",
+        "d587819b395b331434ec083b6cc56a04",
+        "c325ea40e0b8864f121c1d35d90f3534"
+      ]
+    },
+    {
+      "Title": "The Hitchhiker's Guide to the Galaxy",
+      "ID": 16168,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105117.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 1,
+      "Points": 186,
+      "DateModified": "2026-01-06 23:13:54",
+      "ForumTopicID": 10483,
+      "Hashes": [
+        "ce0b5e83a40016079574409e405c5e7c"
+      ]
+    },
+    {
+      "Title": "The Lurking Horror",
+      "ID": 22860,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/069699.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 1,
+      "Points": 136,
+      "DateModified": "2025-09-02 08:57:54",
+      "ForumTopicID": 20750,
+      "Hashes": [
+        "d17bc88c8170b5f63ff55d5ae723a58f"
+      ]
+    },
+    {
+      "Title": "The Rocky Horror Show",
+      "ID": 32089,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107630.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-03-05 01:47:53",
+      "ForumTopicID": 29799,
+      "Hashes": [
+        "9893862a9a93f438f68884e3970ccc50"
+      ]
+    },
+    {
+      "Title": "The Wizard of Oz",
+      "ID": 32104,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/114412.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2025-03-20 00:29:36",
+      "ForumTopicID": 28916,
+      "Hashes": [
+        "73c4587d0a3d6521f098e2c6feb2370b",
+        "2a300b2238167a5e616690046f6216c3",
+        "af4c28edaac7efa7d866c49ec7f96421",
+        "1e98b45543bfa45cd8b4dbd96c3323a8"
+      ]
+    },
+    {
+      "Title": "Time Zone",
+      "ID": 32343,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107206.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2025-03-18 15:28:56",
+      "ForumTopicID": 29782,
+      "Hashes": [
+        "15f0390bb59ae0ee1b05c8a3549f9136",
+        "97175de30b2c232eac3a4cd281194787",
+        "a6512ace8ae19d68452e393a37273896",
+        "8b43e21a6bbefe126c9a25d0cf79311c",
+        "b38299459778943bd504870277547738",
+        "42113d37e9be4db9e87a7ff0de37bcf1",
+        "48d54c62f5fac4b3b4e5661d60e4cac0",
+        "05fea0fa803ef62bede527772c8f6cd5",
+        "8ea8f8bb7cfb30e23430445736f49ea6",
+        "543840d1ac12097de2bb21b31ec61283",
+        "357df1fd3cbfc808c7c48d5a2d11a49b",
+        "bfa5c0df411c2cc599e6db0fd55632f1"
+      ]
+    },
+    {
+      "Title": "Trinity",
+      "ID": 25627,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/082253.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 1,
+      "Points": 166,
+      "DateModified": "2025-06-26 19:26:04",
+      "ForumTopicID": 23270,
+      "Hashes": [
+        "7fcf5e1ee6c41594d138760a32eb79b4",
+        "f41cad109c9a98522796f47b46f76dc2"
+      ]
+    },
+    {
+      "Title": "Ultima I: The First Age of Darkness",
+      "ID": 13926,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/068874.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2024-10-18 01:41:55",
+      "ForumTopicID": 18665,
+      "Hashes": [
+        "301a1f55e3ac6f5dd283fd199a380cc0",
+        "6531bea603d8e36665de43c8a306a355",
+        "5dedadc45f7ece58f779be1b6923c697"
+      ]
+    },
+    {
+      "Title": "Ultima II: Revenge of the Enchantress",
+      "ID": 22745,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/069166.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2025-04-01 11:18:18",
+      "ForumTopicID": 23156,
+      "Hashes": [
+        "291a52352de2f6346e3865f211d3b019",
+        "4009dad9f2d6882514c5a9b0c164abba",
+        "56ac22c53f7abae9316d0592dce5787f"
+      ]
+    },
+    {
+      "Title": "Ultima III: Exodus",
+      "ID": 27573,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/088348.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 220,
+      "DateModified": "2025-02-07 21:05:56",
+      "ForumTopicID": 28969,
+      "Hashes": [
+        "ee355b7f0fe5447c9e7de4a4b80e3690",
+        "99fa9d5c91ec95cefad32fa57d3463cc"
+      ]
+    },
+    {
+      "Title": "Ultima IV: Quest of the Avatar",
+      "ID": 27574,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/088349.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 1,
+      "Points": 400,
+      "DateModified": "2025-06-26 15:44:35",
+      "ForumTopicID": 29709,
+      "Hashes": [
+        "40d402ce16e5beaaeba319ae3ba66bce",
+        "0f474d0a535e14f28b020d1050037e94",
+        "20d945cc40de1dac36a7561d5956f644",
+        "1609a5cb17140e694ca3e9041b2d3f50",
+        "c89b0b45333d336aca11af5d8449a7bb",
+        "702459f52eace781dc8faf0ad0fa60f3",
+        "3b5c55cf1f1e74a2d01ebcd37326e3f3",
+        "6f8625bd37422cc9977aa306ff4342fc"
+      ]
+    },
+    {
+      "Title": "Ultima V: Warriors of Destiny",
+      "ID": 27575,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/088350.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 0,
+      "Points": 575,
+      "DateModified": "2025-07-13 23:07:19",
+      "ForumTopicID": 29756,
+      "Hashes": [
+        "d641fc4c79ec5628f3ecaad5b82b85b3",
+        "42052bb3a7c492edfad9a614019894cf",
+        "c93274855abf94a53e3c565f2901c4f9",
+        "d974c645bc50002751f3ff83c69fb09b",
+        "67f5c52a96c0fcf14277aa040f40835c",
+        "dc00b3716ae020f06a56ed9ec69a0178",
+        "f03829460cd5a2eed6ba462509c5ebc9",
+        "182bf7619e91986d0ef77b923b98c167",
+        "b913c9f4d09e68b7fce8d2fe0f3f658c",
+        "63c6323c43545624ed0076d3bd74dc90",
+        "97c1270a23e4f0869387a7f27c38a6b8",
+        "fa501d6291fd7f79f24061f4417adc47",
+        "e52d5759de785fc34792dc3dc216d696",
+        "0d0ef46237a5970d634a338ccde5e2ce",
+        "206f0fadd2daf14b191bce6072f8455c",
+        "163b975aa865aab6740294a859651935"
+      ]
+    },
+    {
+      "Title": "Ulysses and the Golden Fleece",
+      "ID": 31999,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107145.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-03-16 12:36:37",
+      "ForumTopicID": 29594,
+      "Hashes": [
+        "d837732de99cf814e160d93672f1c559",
+        "391cc09141418de2a6c929fa907babe9",
+        "49256e89c1badaf8c523015cb1c39375",
+        "3fb477266fdced934332c803a78105b4"
+      ]
+    },
+    {
+      "Title": "Viper",
+      "ID": 22529,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/068166.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2023-02-18 01:00:04",
+      "ForumTopicID": 20406,
+      "Hashes": [
+        "c8ae6c569a8eeba48afea85881b1ff37"
+      ]
+    },
+    {
+      "Title": "Wasteland",
+      "ID": 14021,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/045506.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 1,
+      "Points": 300,
+      "DateModified": "2025-05-05 16:08:32",
+      "ForumTopicID": 8571,
+      "Hashes": [
+        "8369f8bd8971ac160998b6b44d40dd8a",
+        "8942c0af30f7d4d8a8c3061d28eb3dff",
+        "9fc328d5eab51b6b52952f941160adf7",
+        "d7530f1821131dc54a08a12a85b5ede9",
+        "e54a6559ac78c2ec08e34efa291ab5f8"
+      ]
+    },
+    {
+      "Title": "Wheel of Fortune",
+      "ID": 32091,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105211.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2025-03-19 01:44:20",
+      "ForumTopicID": 28913,
+      "Hashes": [
+        "94a70fed0893d60084b59d4e4a955924",
+        "5f7d5ebc16f129d6967fff6539e272fb",
+        "a67b2944154b4dda4731cb2e31d81691"
+      ]
+    },
+    {
+      "Title": "Where in North Dakota is Carmen Sandiego?",
+      "ID": 25719,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/084787.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 161,
+      "DateModified": "2025-11-17 23:17:55",
+      "ForumTopicID": 24175,
+      "Hashes": [
+        "f8390801d740b6537268e72cabc6cc5d",
+        "6cb0d076de2acd89366e053de6196ebe"
+      ]
+    },
+    {
+      "Title": "Where in the World is Carmen Sandiego?",
+      "ID": 14037,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/105240.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2025-03-19 00:12:41",
+      "ForumTopicID": 8447,
+      "Hashes": [
+        "e20582a89ba7076bf3181d55268da290",
+        "912ffd8be228c97deaaeb08e7520176c"
+      ]
+    },
+    {
+      "Title": "Winnie the Pooh in the Hundred Acre Wood",
+      "ID": 32905,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/107069.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2025-02-06 01:55:58",
+      "ForumTopicID": 29622,
+      "Hashes": [
+        "48d5a95911742c869ce8a93086f87072",
+        "eac803c863cd1fc78f21b666b30f618d"
+      ]
+    },
+    {
+      "Title": "Wizard and the Princess",
+      "ID": 32003,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/106853.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-05-12 18:49:20",
+      "ForumTopicID": 29513,
+      "Hashes": [
+        "9110002bfa805d4c87712ca5c508efce"
+      ]
+    },
+    {
+      "Title": "Word Munchers",
+      "ID": 18715,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/073050.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 3,
+      "Points": 209,
+      "DateModified": "2022-03-14 11:56:30",
+      "ForumTopicID": 15615,
+      "Hashes": [
+        "1f02c711f1df715bb45f34cecb6f45f2"
+      ]
+    },
+    {
+      "Title": "Zork I: The Great Underground Empire",
+      "ID": 13924,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055668.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2023-05-26 06:00:57",
+      "ForumTopicID": 16052,
+      "Hashes": [
+        "b3f18618df671c8722f3daa12a2671ab"
+      ]
+    },
+    {
+      "Title": "Zork II: The Wizard of Frobozz",
+      "ID": 18584,
+      "ConsoleID": 38,
+      "ConsoleName": "Apple II",
+      "ImageIcon": "/Images/055669.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 2,
+      "Points": 101,
+      "DateModified": "2026-02-13 16:11:07",
+      "ForumTopicID": 16054,
+      "Hashes": [
+        "fd40f31ccfd801186a02160b9fa51f05"
+      ]
+    }
+  ]
+}

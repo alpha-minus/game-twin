@@ -1,0 +1,6027 @@
+{
+  "consoleId": 6,
+  "consoleName": "Game Boy Color",
+  "games": [
+    {
+      "Title": "~Hack~ Crystal Clear",
+      "ID": 13389,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066026.png",
+      "NumAchievements": 195,
+      "NumLeaderboards": 0,
+      "Points": 1293,
+      "DateModified": "2025-11-27 16:30:42",
+      "ForumTopicID": 7569,
+      "Hashes": [
+        "1123cb2949f5bb4d53a3eab8e4805687",
+        "3737dfc080c16b0ee36db9313186eb79",
+        "c0e8119c74ed66f63db381f424a9d16d",
+        "3357b45c4a5756403f29b9a0f316455b"
+      ]
+    },
+    {
+      "Title": "~Hack~ Digimon Adventure TCG Remastered",
+      "ID": 32384,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/122118.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 365,
+      "DateModified": "2026-01-03 13:20:32",
+      "ForumTopicID": 30707,
+      "Hashes": [
+        "13f4e8da51ddefe4a505800a10ae4122"
+      ]
+    },
+    {
+      "Title": "~Hack~ Joel's Bizarre Pokeventure",
+      "ID": 8685,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/119347.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 95,
+      "DateModified": "2025-10-21 20:48:06",
+      "ForumTopicID": 32800,
+      "Hashes": [
+        "983280a80520ef5f0bcca28a5abedc6c"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Black and White 3: Genesis",
+      "ID": 24118,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115933.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 0,
+      "Points": 383,
+      "DateModified": "2025-08-04 05:14:59",
+      "ForumTopicID": 22992,
+      "Hashes": [
+        "8e2b1b69fc12a4e75abd8063a55aa6ef"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Crystal Kaizo",
+      "ID": 14431,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041176.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 460,
+      "DateModified": "2025-12-11 16:59:19",
+      "ForumTopicID": 12132,
+      "Hashes": [
+        "5f2ec6aa0cc32882cdaa6da4c2912f09"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Fool's Gold",
+      "ID": 16252,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/090889.png",
+      "NumAchievements": 124,
+      "NumLeaderboards": 0,
+      "Points": 894,
+      "DateModified": "2022-08-29 20:29:00",
+      "ForumTopicID": 10625,
+      "Hashes": [
+        "b59b68a73e51cc88fbe03a444ee99cce"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Gold 97: Reforged | Pokemon Silver 97: Reforged",
+      "ID": 17429,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066027.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 385,
+      "DateModified": "2021-02-10 09:11:34",
+      "ForumTopicID": 12337,
+      "Hashes": [
+        "ebb39e56cc46891de74e890395f34df9",
+        "fc111493b98b37d4c115d09add3319e1",
+        "a1477422064292527d7e4a2dc174ba3b"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Kalos Crystal",
+      "ID": 9269,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/091204.png",
+      "NumAchievements": 81,
+      "NumLeaderboards": 0,
+      "Points": 576,
+      "DateModified": "2025-11-27 05:33:35",
+      "ForumTopicID": 14971,
+      "Hashes": [
+        "2263a0286dced3d5b2a8b3ce543cd6ee"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Orb Version",
+      "ID": 17358,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041021.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 0,
+      "Points": 665,
+      "DateModified": "2021-01-01 16:41:42",
+      "ForumTopicID": 12106,
+      "Hashes": [
+        "e3de09f287b5e8b60c32b69b76f0cd83"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Pinball Generations",
+      "ID": 6081,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084083.png",
+      "NumAchievements": 67,
+      "NumLeaderboards": 4,
+      "Points": 601,
+      "DateModified": "2025-05-14 08:46:52",
+      "ForumTopicID": 23549,
+      "Hashes": [
+        "2eff5bdfc65a4d6419f2e9e7cd396339"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Polished Crystal",
+      "ID": 16191,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/123087.png",
+      "NumAchievements": 173,
+      "NumLeaderboards": 0,
+      "Points": 1157,
+      "DateModified": "2026-02-11 01:19:13",
+      "ForumTopicID": 10424,
+      "Hashes": [
+        "53d90e468c9eae4d602feacc6295a021",
+        "54f6a58d3a865531925e688d78a33c8f"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon Prism Version",
+      "ID": 9491,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113781.png",
+      "NumAchievements": 94,
+      "NumLeaderboards": 0,
+      "Points": 1221,
+      "DateModified": "2025-11-28 04:09:14",
+      "ForumTopicID": 5871,
+      "Hashes": [
+        "3cd828587eb8d3fe818d57f99b3a3c95",
+        "489453e65d1b07a2f04a27135acdc5ba",
+        "5de4f04f745c1ab89f08f74f63760991",
+        "e72a3532f47fe0c7cf3160cf6f80713d"
+      ]
+    },
+    {
+      "Title": "~Hack~ Pokemon TCG Neo",
+      "ID": 25072,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/078094.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2024-12-24 16:06:28",
+      "ForumTopicID": 22501,
+      "Hashes": [
+        "f41d48344cea1846a014820aae02d73f"
+      ]
+    },
+    {
+      "Title": "~Hack~ Rick Astley: The Game",
+      "ID": 18258,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/050774.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 12,
+      "DateModified": "2022-01-17 22:59:15",
+      "ForumTopicID": 14459,
+      "Hashes": [
+        "93d2d9acc1e9cd454ccb575100ce5070"
+      ]
+    },
+    {
+      "Title": "~Hack~ The Legend of Zelda: Archipelago",
+      "ID": 22849,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069603.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 49,
+      "DateModified": "2023-03-10 23:59:31",
+      "ForumTopicID": 20704,
+      "Hashes": [
+        "0eb06307fe73c3d23744987457c93515"
+      ]
+    },
+    {
+      "Title": "~Hack~ The Legend of Zelda: Hard Awakening DX",
+      "ID": 6251,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025126.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 340,
+      "DateModified": "2022-12-10 10:16:49",
+      "ForumTopicID": 2059,
+      "Hashes": [
+        "004f82ab432f77c3114644337fdd5b08",
+        "64b5b80b005cc6e470c7aa9844ac3f8b"
+      ]
+    },
+    {
+      "Title": "~Hack~ The Legend of Zelda: New Awakening",
+      "ID": 9028,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/048541.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 335,
+      "DateModified": "2024-10-13 01:05:03",
+      "ForumTopicID": 14006,
+      "Hashes": [
+        "301f97ba8ef635f053296d9ef53e991c"
+      ]
+    },
+    {
+      "Title": "~Hack~ Touhoumon Ordinary Version",
+      "ID": 16595,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112859.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 0,
+      "Points": 379,
+      "DateModified": "2025-11-28 22:31:28",
+      "ForumTopicID": 11460,
+      "Hashes": [
+        "3e19e48ae832620c023f8c5f62129b99"
+      ]
+    },
+    {
+      "Title": "~Hack~ Wario Land 3: The Master Quest",
+      "ID": 14226,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069384.png",
+      "NumAchievements": 88,
+      "NumLeaderboards": 25,
+      "Points": 1371,
+      "DateModified": "2024-05-08 22:59:31",
+      "ForumTopicID": 8680,
+      "Hashes": [
+        "3c6e2b0d1f6cb35be8650c9cd28e2d9a",
+        "b706ffbac4d97d13573bb20c0c2dace2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Five Nights at Freddy's",
+      "ID": 25397,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/083746.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 12,
+      "DateModified": "2025-04-21 00:04:17",
+      "ForumTopicID": 23811,
+      "Hashes": [
+        "59e32f8c38b3400bc147a470c88fb582"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Metroid Dread",
+      "ID": 6396,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/070319.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 21,
+      "DateModified": "2022-03-14 19:06:52",
+      "ForumTopicID": 15496,
+      "Hashes": [
+        "b694cf3747aea6ac213cf2401f0ad421"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Mina the Hollower GBC Demake",
+      "ID": 18707,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/111710.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 20,
+      "DateModified": "2023-01-05 21:44:01",
+      "ForumTopicID": 15604,
+      "Hashes": [
+        "ae74b0c434f0097cfd674a66d47062cc"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ The New Adventures of Sonic the Hedgehog",
+      "ID": 31955,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110539.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 6,
+      "Points": 46,
+      "DateModified": "2025-07-14 14:08:49",
+      "ForumTopicID": 30486,
+      "Hashes": [
+        "ebb4915a6897804a2cbf72cd7f60d4f5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ A 20 Second Platformer",
+      "ID": 22589,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/092885.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 11,
+      "DateModified": "2023-04-26 20:20:20",
+      "ForumTopicID": 21370,
+      "Hashes": [
+        "900f66d94349339d3b416b5ff0806314"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Blinky's Revenge",
+      "ID": 22124,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/118223.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2025-09-20 00:52:52",
+      "ForumTopicID": 29284,
+      "Hashes": [
+        "4948bfdacce45f5c1d0facab23f3ba54"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Borbo's Quest",
+      "ID": 29774,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/096605.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 35,
+      "DateModified": "2024-05-15 00:11:11",
+      "ForumTopicID": 26496,
+      "Hashes": [
+        "71b5b10dd41f6c8449cb9ca52dd6e590"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Bub-O Escape",
+      "ID": 25705,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084878.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2023-11-12 04:34:44",
+      "ForumTopicID": 23318,
+      "Hashes": [
+        "0a39332adc6d7d82bf1e4f58d3062615"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Bulb",
+      "ID": 19793,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/058407.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 245,
+      "DateModified": "2024-04-10 18:47:54",
+      "ForumTopicID": 16750,
+      "Hashes": [
+        "5ec1bf9b053b191634c3d32638878132"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cardinal Island",
+      "ID": 35915,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/119928.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 207,
+      "DateModified": "2025-11-11 19:52:24",
+      "ForumTopicID": 33054,
+      "Hashes": [
+        "0144019e6a624ab7e9483fdf9cb0601f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Castlevania: Circle of the Moon - GBC Edition",
+      "ID": 19541,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/088301.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 12,
+      "DateModified": "2025-11-18 01:01:53",
+      "ForumTopicID": 16574,
+      "Hashes": [
+        "4daf9a94ff78252257e22a34516e5105"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Combo Fishing",
+      "ID": 31934,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105177.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 87,
+      "DateModified": "2024-11-28 19:55:42",
+      "ForumTopicID": 28840,
+      "Hashes": [
+        "029cd8ae6b130b91918597239464cc35"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Dangan GB2",
+      "ID": 26734,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086240.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 12,
+      "Points": 465,
+      "DateModified": "2023-12-04 06:05:19",
+      "ForumTopicID": 24089,
+      "Hashes": [
+        "82ab96cba5233ec4a07cf21d81e625b7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Dashosaur DX",
+      "ID": 33493,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/111154.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 89,
+      "DateModified": "2025-05-02 14:05:22",
+      "ForumTopicID": 30676,
+      "Hashes": [
+        "598881aec8a8044ff00d353567a54f4a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Date with Falco",
+      "ID": 31974,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105152.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 33,
+      "DateModified": "2024-11-27 02:26:45",
+      "ForumTopicID": 28875,
+      "Hashes": [
+        "1145a60834a2f5910559e33cde6b6d1a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Days Without",
+      "ID": 28796,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/092886.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 13,
+      "DateModified": "2024-02-25 22:07:36",
+      "ForumTopicID": 25621,
+      "Hashes": [
+        "a51e8561778943f794942070f137ecb6"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Enceladus",
+      "ID": 30128,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112090.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 49,
+      "DateModified": "2024-06-30 00:56:32",
+      "ForumTopicID": 27075,
+      "Hashes": [
+        "70b4c73e34c53ac818d15daa6682c396"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Fable: 20th Anniversary Demake",
+      "ID": 33577,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/111512.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2025-10-18 16:25:51",
+      "ForumTopicID": 30736,
+      "Hashes": [
+        "160d4da4a787f957fbd5079db6ee86b2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Feed IT Souls",
+      "ID": 25708,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/082360.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 107,
+      "DateModified": "2023-11-07 04:56:05",
+      "ForumTopicID": 23341,
+      "Hashes": [
+        "6d66fe14e66911e36c483ecfccc01615"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ FIGHTER on the Path of GLORY",
+      "ID": 30820,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101463.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 56,
+      "DateModified": "2024-08-29 08:55:00",
+      "ForumTopicID": 27822,
+      "Hashes": [
+        "5be268f2761c76de1a0f86efc0f6bd50"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Frasier Fantasy",
+      "ID": 28141,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/124453.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 74,
+      "DateModified": "2026-02-27 00:00:40",
+      "ForumTopicID": 34497,
+      "Hashes": [
+        "25ef30a66b243c1af2baffcfc835ac14"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ G-ZERO World GP",
+      "ID": 31323,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/103875.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 15,
+      "Points": 290,
+      "DateModified": "2025-01-22 19:43:03",
+      "ForumTopicID": 28665,
+      "Hashes": [
+        "3e151d9bfd7b36a80ef475a98863a001"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Go Catch 'Em",
+      "ID": 18811,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113263.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 78,
+      "DateModified": "2025-06-09 09:22:22",
+      "ForumTopicID": 21963,
+      "Hashes": [
+        "bdb05d090a09740ae2c176b218b9fb8e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Grimace's Birthday",
+      "ID": 14606,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/075071.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 4,
+      "Points": 99,
+      "DateModified": "2025-08-25 20:12:17",
+      "ForumTopicID": 22099,
+      "Hashes": [
+        "2b8b271eae1f3b2e5b3053b22273fa44",
+        "5246b47da10ed6e48cbf58b5ee81e5c1",
+        "7a0eadc011668df92933dec1e5b316b0",
+        "f80034c5241a063e200bce777a9f41fa",
+        "264d3c43bf615252c32370b5b0613c78"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hatsune Miku Bomb Squad",
+      "ID": 30725,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101115.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 27,
+      "DateModified": "2024-09-06 21:45:45",
+      "ForumTopicID": 27693,
+      "Hashes": [
+        "6364d4ca7ea0f83981e97c12fd08ea97"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hime's Quest",
+      "ID": 22353,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/068576.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-12-23 04:06:08",
+      "ForumTopicID": 20507,
+      "Hashes": [
+        "e16141de4a31074438eb44e808fb6789"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hollow Knight Silksong",
+      "ID": 29047,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/111197.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 87,
+      "DateModified": "2025-10-20 22:45:00",
+      "ForumTopicID": 26517,
+      "Hashes": [
+        "e384387fff6714b7a97b62a6b4bcb61a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hong Kong 2099",
+      "ID": 12775,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/078126.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2020-09-14 22:54:17",
+      "ForumTopicID": 11476,
+      "Hashes": [
+        "c1dd8c5952ea02286616d3ff0d8c54cb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Invasion of the Geminorons",
+      "ID": 28609,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089774.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 3,
+      "Points": 56,
+      "DateModified": "2024-09-01 17:28:51",
+      "ForumTopicID": 25560,
+      "Hashes": [
+        "e23dccb89bb7741e37f3ffd10287e232"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Inventory Full",
+      "ID": 32817,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/106550.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 32,
+      "DateModified": "2025-01-24 00:33:26",
+      "ForumTopicID": 29448,
+      "Hashes": [
+        "e9bf8b6977020c869dc5f2d3304961c2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Karpe Diem: Pokemon Fishing Contest",
+      "ID": 30896,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/121540.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 22,
+      "DateModified": "2024-09-08 04:29:03",
+      "ForumTopicID": 28010,
+      "Hashes": [
+        "c3ff18fa6209d7302f91948b1ae42843"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Knights of the Zodiac: The Phoenix Returns",
+      "ID": 20610,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/062463.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 2,
+      "Points": 405,
+      "DateModified": "2024-10-27 19:53:07",
+      "ForumTopicID": 19038,
+      "Hashes": [
+        "fc0712c84209785a3a78e6a04dc5b89c",
+        "7acc4ab4a83726cd2873271f82ef3f63",
+        "a208b6e3cea582b1e45255031b6b7152",
+        "f79c225fbc24ff9844d5b2f012a8541e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Little Dungeon Renovator",
+      "ID": 30882,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/111692.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 26,
+      "DateModified": "2024-09-05 07:22:06",
+      "ForumTopicID": 27891,
+      "Hashes": [
+        "c93bd5f1928944452cee933dce345f89"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ MAGE and the Grimoire of BEAST",
+      "ID": 30726,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101123.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 96,
+      "DateModified": "2024-08-23 09:40:43",
+      "ForumTopicID": 27699,
+      "Hashes": [
+        "afe14eef683f3eb910b67ea2e3feb124"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ My Saturday Grounded",
+      "ID": 29790,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/098028.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 12,
+      "DateModified": "2024-07-04 03:21:37",
+      "ForumTopicID": 26537,
+      "Hashes": [
+        "02d5f8a622ba5255eb544fc38ef81728"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Noble Blood",
+      "ID": 30935,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102468.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 11,
+      "DateModified": "2024-09-23 18:31:39",
+      "ForumTopicID": 28186,
+      "Hashes": [
+        "aaafb103c5c85e50a024b61e14f30497"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Octopus Stressus",
+      "ID": 26179,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084169.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 3,
+      "Points": 35,
+      "DateModified": "2025-02-17 17:30:03",
+      "ForumTopicID": 23959,
+      "Hashes": [
+        "077fb84e685b20d693a637593a77b8c8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Office Combat",
+      "ID": 7297,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072218.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 11,
+      "DateModified": "2023-05-03 00:24:44",
+      "ForumTopicID": 21489,
+      "Hashes": [
+        "340d4314e654e05fa9a4705181799096"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Opossum Country",
+      "ID": 18962,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/068476.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 13,
+      "DateModified": "2023-02-23 05:45:23",
+      "ForumTopicID": 18137,
+      "Hashes": [
+        "5c0ed7c257219b6fab67c5f9d9ab25f8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Oshinui Tune",
+      "ID": 33660,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112810.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 69,
+      "DateModified": "2025-06-02 03:18:50",
+      "ForumTopicID": 31017,
+      "Hashes": [
+        "0a23d354e139f40fe409fce3fc1f503c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Piecrust",
+      "ID": 16386,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041842.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 36,
+      "DateModified": "2021-02-04 20:50:49",
+      "ForumTopicID": 10976,
+      "Hashes": [
+        "d076ab5be2ec4972376de685c3705ff2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pine Creek",
+      "ID": 29960,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/098624.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 76,
+      "DateModified": "2024-09-29 12:12:01",
+      "ForumTopicID": 26929,
+      "Hashes": [
+        "f2a7d981ff292ef19673ca132c00ce02"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ POCKET OF HORROR",
+      "ID": 33630,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112617.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 125,
+      "DateModified": "2025-05-25 14:53:34",
+      "ForumTopicID": 30949,
+      "Hashes": [
+        "9c0bd5dba991be5143c060374b125c7d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Postie",
+      "ID": 20036,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/059539.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 22,
+      "DateModified": "2022-06-25 00:18:57",
+      "ForumTopicID": 17109,
+      "Hashes": [
+        "fcdeae417e8bdf89f1300311e4be5c57"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Postman Pat's Trail Game",
+      "ID": 28352,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/114448.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 5,
+      "Points": 22,
+      "DateModified": "2025-07-03 23:15:27",
+      "ForumTopicID": 31384,
+      "Hashes": [
+        "161d839487a5b618c50eeb95b839ac8c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Remote Control Shuriken",
+      "ID": 28383,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089036.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 45,
+      "DateModified": "2024-02-03 05:16:16",
+      "ForumTopicID": 25372,
+      "Hashes": [
+        "09ec8f62034f0219e0a82e3f01f48ba7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Repugnant Bounty",
+      "ID": 22650,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/070057.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 3,
+      "Points": 160,
+      "DateModified": "2024-05-25 20:31:25",
+      "ForumTopicID": 20701,
+      "Hashes": [
+        "c096d9b04e8439b7f6973c226c720ca1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Retro Quiz Tower: JAM Edition",
+      "ID": 24391,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112764.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 21,
+      "DateModified": "2023-07-12 10:31:26",
+      "ForumTopicID": 21703,
+      "Hashes": [
+        "93d1eae88ac42199afa4e45a9900182d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Rezal",
+      "ID": 30765,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102514.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 33,
+      "DateModified": "2024-09-24 07:47:35",
+      "ForumTopicID": 27792,
+      "Hashes": [
+        "9a5ca9da453a74e3e6745eecea8a009d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Skinner & The Superintendent",
+      "ID": 24006,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071352.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 22,
+      "DateModified": "2024-08-30 16:15:22",
+      "ForumTopicID": 21151,
+      "Hashes": [
+        "df2e5192e40caf52dd514895255fd5e5",
+        "ea90aa4b07d6e1e43434b1ed1b471f4e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Slender: The 8 Pages",
+      "ID": 24124,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071726.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 26,
+      "DateModified": "2023-04-23 00:43:12",
+      "ForumTopicID": 21346,
+      "Hashes": [
+        "4165032fb478ebda7e15d35deb5937a8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Dassalo Land",
+      "ID": 30719,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102868.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 13,
+      "Points": 58,
+      "DateModified": "2024-10-16 00:38:02",
+      "ForumTopicID": 27644,
+      "Hashes": [
+        "41c1911a80b9138f89868540723c2cdd"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Doggo WOW WAN",
+      "ID": 28166,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/087634.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 3,
+      "Points": 204,
+      "DateModified": "2024-06-28 22:32:43",
+      "ForumTopicID": 24948,
+      "Hashes": [
+        "b9032a7c44305f4fbba30891427c03fb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Jacked Up Tomato Face Johnson",
+      "ID": 20371,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061190.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 3,
+      "Points": 56,
+      "DateModified": "2022-08-26 00:43:16",
+      "ForumTopicID": 17892,
+      "Hashes": [
+        "d2a65d336cec301779641a1699ad96d8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Mario Bros. Mini",
+      "ID": 31200,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/103697.png",
+      "NumAchievements": 75,
+      "NumLeaderboards": 65,
+      "Points": 334,
+      "DateModified": "2024-12-23 22:30:18",
+      "ForumTopicID": 28602,
+      "Hashes": [
+        "14a2442e6b50b2617e58ffe10ed6a970"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ SWORDSMAN on the ETERNAL JOURNEY",
+      "ID": 30764,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102763.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2024-10-12 15:43:49",
+      "ForumTopicID": 28292,
+      "Hashes": [
+        "f67e8aa1d9c49401bfbc8dd148223d99"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Taiyaki Fabulous Museum of Fish",
+      "ID": 32004,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105175.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2024-12-04 07:22:37",
+      "ForumTopicID": 28900,
+      "Hashes": [
+        "9b3077bf785168c3d19d05173c443421"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Best Text Adventure",
+      "ID": 29687,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/095562.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 9,
+      "DateModified": "2024-04-27 08:58:19",
+      "ForumTopicID": 26291,
+      "Hashes": [
+        "e15744f9e33180f5825c0242900f5a89"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Mandalorian - Chapter 3: The Sin",
+      "ID": 28190,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/093505.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2024-04-01 21:40:37",
+      "ForumTopicID": 26002,
+      "Hashes": [
+        "91c3d238305f308e00fca917d996bb40"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Mayor of Sanctuary",
+      "ID": 29152,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/094389.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 1,
+      "Points": 152,
+      "DateModified": "2024-06-03 16:56:37",
+      "ForumTopicID": 26098,
+      "Hashes": [
+        "8e8c54501fee6101a0a42df1c23adc5c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Melting Apartment",
+      "ID": 31975,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105151.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 41,
+      "DateModified": "2024-11-27 04:58:48",
+      "ForumTopicID": 28876,
+      "Hashes": [
+        "8f325b05c4d5cb9b98fe8ac87e310525"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Mist",
+      "ID": 28238,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/092887.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2024-01-08 01:30:59",
+      "ForumTopicID": 25000,
+      "Hashes": [
+        "dafb6629c51cdf4bb11f9b6154321aa0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Tobu Tobu Girl Deluxe",
+      "ID": 15738,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/031424.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 12,
+      "Points": 275,
+      "DateModified": "2023-09-09 13:17:58",
+      "ForumTopicID": 10163,
+      "Hashes": [
+        "c48f26f5079ad1b411c78fbcb2738d67"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Touhou Pocket Festival: Show of Scale",
+      "ID": 33405,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110178.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 20,
+      "DateModified": "2025-05-14 03:13:48",
+      "ForumTopicID": 30433,
+      "Hashes": [
+        "1ac382c4ddb6912cd2ecc8fb3d970122"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ TUNIC",
+      "ID": 24117,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072016.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 38,
+      "DateModified": "2023-09-19 17:54:17",
+      "ForumTopicID": 21440,
+      "Hashes": [
+        "5d92f768e7b8d371cc3aac98b3b6a2fe"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Unearthed",
+      "ID": 20559,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/062306.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 148,
+      "DateModified": "2022-10-18 20:19:10",
+      "ForumTopicID": 18343,
+      "Hashes": [
+        "09bc56a467f95a19a357174c5710db74"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Walfie's Nonograms",
+      "ID": 38014,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/124659.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 151,
+      "Points": 136,
+      "DateModified": "2026-02-22 18:13:03",
+      "ForumTopicID": 34475,
+      "Hashes": [
+        "f5fdffc669c29483760655c7f5ff90f4"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ What Friends Are For",
+      "ID": 33108,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109577.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 6,
+      "Points": 86,
+      "DateModified": "2025-03-22 02:24:48",
+      "ForumTopicID": 30210,
+      "Hashes": [
+        "71844ae14b67fbe97b0ab5655e5a87b0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Wishing Sarah",
+      "ID": 29775,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/096775.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 64,
+      "DateModified": "2024-06-13 22:52:54",
+      "ForumTopicID": 26497,
+      "Hashes": [
+        "83e0f56f6315f46aaf4e7b77576b00e9",
+        "f7eba1c53b02624852daea423a71c4ea"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Magi-Nation: Keeper's Quest",
+      "ID": 24989,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101661.png",
+      "NumAchievements": 118,
+      "NumLeaderboards": 56,
+      "Points": 531,
+      "DateModified": "2024-09-18 02:33:31",
+      "ForumTopicID": 27774,
+      "Hashes": [
+        "2206b879b38982ed995cdcbc927b7ba2"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Pokemon Picross",
+      "ID": 16597,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/121546.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 92,
+      "DateModified": "2021-07-13 15:53:06",
+      "ForumTopicID": 11477,
+      "Hashes": [
+        "35d2e7924408a3460e5c1a770acf3a8a",
+        "707b0c695cf7d015e5862bc1fcbda77c",
+        "c720f6f16ca28b942701855c73d75c3e"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Resident Evil",
+      "ID": 2370,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/040116.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2020-10-20 11:56:45",
+      "ForumTopicID": 7153,
+      "Hashes": [
+        "c3c3932d5471bc0028ade1cd7a102d43",
+        "cb0e23b09470002fe33732b1f0e02b06"
+      ]
+    },
+    {
+      "Title": "~Prototype~ South Park",
+      "ID": 7964,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110556.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 154,
+      "DateModified": "2025-05-27 16:24:04",
+      "ForumTopicID": 30512,
+      "Hashes": [
+        "a537394fbf3378116a27a57ca6d588b7"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Towers II: Plight of the Stargazer",
+      "ID": 19553,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/057683.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 96,
+      "DateModified": "2023-10-03 04:50:47",
+      "ForumTopicID": 18813,
+      "Hashes": [
+        "2b0ad9175fa23c2e278e2174d08df821"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ 2003 Crash II Advance",
+      "ID": 8550,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/083616.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 73,
+      "DateModified": "2023-11-01 20:23:14",
+      "ForumTopicID": 4008,
+      "Hashes": [
+        "927abf95eaada539668c2e71d35be5c7",
+        "94cdb66509527746395b3eed6b16fd73"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Donkey Kong 5: The Journey of Over Time and Space",
+      "ID": 8539,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/047608.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 302,
+      "DateModified": "2025-12-21 15:31:48",
+      "ForumTopicID": 9463,
+      "Hashes": [
+        "8b886cb1735b86e7547fc59e52312edf"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Matel Gear II",
+      "ID": 17031,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052505.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 250,
+      "DateModified": "2025-02-14 03:47:59",
+      "ForumTopicID": 15050,
+      "Hashes": [
+        "6c1a506cce71ba5ef0b2693bc76c1979",
+        "f4722b46c20a872a5060d23681ff9024"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Rockman 8",
+      "ID": 16370,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/087849.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2024-01-10 15:34:54",
+      "ForumTopicID": 15895,
+      "Hashes": [
+        "b2bcbf7da3619e14ea86d6aaa2800c7d",
+        "c451d94988287dd003458d7978bbe627"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Terrifying 911",
+      "ID": 8926,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063338.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 6,
+      "Points": 272,
+      "DateModified": "2025-03-04 01:54:32",
+      "ForumTopicID": 15222,
+      "Hashes": [
+        "a6051d0058be5b2f3be03c87e51efcf1",
+        "a7a2c27cb6fc2c6cf67eb8af2b99c612",
+        "bdc0d61bf526990fda1fd569af8e8ff8"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Zook Hero 2",
+      "ID": 8239,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/050333.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2023-07-18 21:59:35",
+      "ForumTopicID": 5512,
+      "Hashes": [
+        "9f7b706359d6b0663361c1ec77127da2",
+        "c194c03c9d31ec629fd126551f7364fe"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Zook Hero Z",
+      "ID": 8228,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/050272.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 386,
+      "DateModified": "2025-06-29 00:14:04",
+      "ForumTopicID": 3249,
+      "Hashes": [
+        "e0de3c983ef60c8dffea04248c9e6ba9"
+      ]
+    },
+    {
+      "Title": "007: The World Is Not Enough",
+      "ID": 2581,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/049181.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2021-04-11 15:45:30",
+      "ForumTopicID": 2799,
+      "Hashes": [
+        "1f1fb3cf8783f880bc796d667be60231"
+      ]
+    },
+    {
+      "Title": "10-Pin Bowling",
+      "ID": 5185,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/036471.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2021-12-14 21:31:03",
+      "ForumTopicID": 8342,
+      "Hashes": [
+        "6b055c6d12e477fbfd7bed1b495d56f7"
+      ]
+    },
+    {
+      "Title": "102 Dalmatians: Puppies to the Rescue",
+      "ID": 5061,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/060696.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 1,
+      "Points": 205,
+      "DateModified": "2022-12-09 20:18:46",
+      "ForumTopicID": 17620,
+      "Hashes": [
+        "2b7e2442d503ce368fc93a9ebf0f70ef"
+      ]
+    },
+    {
+      "Title": "1942",
+      "ID": 5062,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063512.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 12,
+      "Points": 155,
+      "DateModified": "2025-11-20 01:10:08",
+      "ForumTopicID": 18894,
+      "Hashes": [
+        "a31652b6d1e7fc647c4af7b9dfe05ff5"
+      ]
+    },
+    {
+      "Title": "Aladdin",
+      "ID": 7638,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/096418.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 4,
+      "Points": 299,
+      "DateModified": "2025-07-05 20:44:00",
+      "ForumTopicID": 25702,
+      "Hashes": [
+        "644c2c3cf2dc2e3fce741844e497a18f"
+      ]
+    },
+    {
+      "Title": "Alfred's Adventure",
+      "ID": 4080,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/049212.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 11,
+      "Points": 255,
+      "DateModified": "2025-10-21 04:56:29",
+      "ForumTopicID": 2315,
+      "Hashes": [
+        "bcc135b000c1c54f12f4ae87c7673b0c"
+      ]
+    },
+    {
+      "Title": "Alice in Wonderland",
+      "ID": 4097,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069065.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2026-01-30 15:54:30",
+      "ForumTopicID": 15689,
+      "Hashes": [
+        "265de745b9b6c8e84e02acbf80d0428e"
+      ]
+    },
+    {
+      "Title": "Animorphs",
+      "ID": 2583,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066208.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 177,
+      "DateModified": "2023-05-20 13:22:18",
+      "ForumTopicID": 17661,
+      "Hashes": [
+        "12e82cb028ed40cdc0c80b2d2e3cf0cb",
+        "6d9ab3b90805908d732c275157e29c79"
+      ]
+    },
+    {
+      "Title": "Antz",
+      "ID": 4950,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/048931.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 2,
+      "Points": 283,
+      "DateModified": "2021-04-11 11:43:52",
+      "ForumTopicID": 1927,
+      "Hashes": [
+        "a4b695325ac28be2e388f5b9186987ba",
+        "e4c1111dcc4dc23860ce016daf584dc1"
+      ]
+    },
+    {
+      "Title": "Arthur's Absolutely Fun Day!",
+      "ID": 4099,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113697.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2025-12-30 02:00:00",
+      "ForumTopicID": 6811,
+      "Hashes": [
+        "3d630cb2ff52e7fedfca6c938b82fa24"
+      ]
+    },
+    {
+      "Title": "Asterix & Obelix",
+      "ID": 2501,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/048473.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 7,
+      "Points": 345,
+      "DateModified": "2026-01-05 00:54:35",
+      "ForumTopicID": 6338,
+      "Hashes": [
+        "6efc4c27d06564f9000667c029ad02a3"
+      ]
+    },
+    {
+      "Title": "Asterix: Search for Dogmatix",
+      "ID": 5022,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054759.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 185,
+      "DateModified": "2022-12-15 10:01:54",
+      "ForumTopicID": 11618,
+      "Hashes": [
+        "1faa6e2a7ec92b95ce32fa2682038b9b"
+      ]
+    },
+    {
+      "Title": "Asteroids",
+      "ID": 4921,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025466.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 2,
+      "Points": 419,
+      "DateModified": "2025-01-26 00:58:48",
+      "ForumTopicID": 7917,
+      "Hashes": [
+        "cfac8209d5119235f678303dfb3cc0f2"
+      ]
+    },
+    {
+      "Title": "Atlantis: The Lost Empire",
+      "ID": 17359,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/043864.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2024-10-14 14:44:19",
+      "ForumTopicID": 12123,
+      "Hashes": [
+        "e24141ed6fc94b149bbf43b4bd9658e8"
+      ]
+    },
+    {
+      "Title": "Azure Dreams",
+      "ID": 4100,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066585.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 460,
+      "DateModified": "2024-09-12 15:32:05",
+      "ForumTopicID": 5364,
+      "Hashes": [
+        "464acbe3c82887db897c39cdba877237",
+        "f6b6ddfaaf03392dc469f4eed49ec15d"
+      ]
+    },
+    {
+      "Title": "Baby Felix: Halloween",
+      "ID": 5072,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025193.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2024-12-05 10:06:23",
+      "ForumTopicID": 8853,
+      "Hashes": [
+        "45c4b87d2e3fe86fccc6941ffd724098"
+      ]
+    },
+    {
+      "Title": "Ballistic",
+      "ID": 13091,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110176.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 4,
+      "Points": 105,
+      "DateModified": "2025-04-06 22:25:21",
+      "ForumTopicID": 30421,
+      "Hashes": [
+        "3b783f3fded9c61f2f9bb1d956bfd6cd"
+      ]
+    },
+    {
+      "Title": "Barbie: Fashion Pack Games",
+      "ID": 6009,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/118235.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 40,
+      "DateModified": "2025-09-21 20:38:00",
+      "ForumTopicID": 32381,
+      "Hashes": [
+        "45eeade46bd85f80af13af9dce572b9c"
+      ]
+    },
+    {
+      "Title": "Barbie: Magic Genie Adventure",
+      "ID": 2130,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/055613.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 1,
+      "Points": 203,
+      "DateModified": "2026-02-10 20:12:01",
+      "ForumTopicID": 32854,
+      "Hashes": [
+        "829da007514e8a1ccc7efe6a7ee5226f"
+      ]
+    },
+    {
+      "Title": "Barbie: Ocean Discovery",
+      "ID": 10659,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/120964.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 69,
+      "DateModified": "2024-12-07 21:13:58",
+      "ForumTopicID": 6364,
+      "Hashes": [
+        "89de435cb69325b42d569015ca09f49f"
+      ]
+    },
+    {
+      "Title": "Barbie: Pet Rescue",
+      "ID": 11206,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/120984.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2025-02-28 02:15:18",
+      "ForumTopicID": 29919,
+      "Hashes": [
+        "dccb2adec6b97ac35614414a427abdbb"
+      ]
+    },
+    {
+      "Title": "Bass Masters Classic",
+      "ID": 9684,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110130.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 9,
+      "Points": 69,
+      "DateModified": "2025-11-13 11:56:27",
+      "ForumTopicID": 30419,
+      "Hashes": [
+        "3bfa6eca3e26c8b4ee8e31ac7064085a"
+      ]
+    },
+    {
+      "Title": "Batman Beyond: Return of the Joker",
+      "ID": 8571,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113443.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 135,
+      "DateModified": "2023-01-22 19:29:45",
+      "ForumTopicID": 19989,
+      "Hashes": [
+        "19cd9d45c6bb221613101b22c72593b2",
+        "cdf275a96518efd2236f0bbb5321c0e3"
+      ]
+    },
+    {
+      "Title": "BattleTanx",
+      "ID": 8630,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066987.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 0,
+      "Points": 240,
+      "DateModified": "2023-01-31 02:07:59",
+      "ForumTopicID": 19969,
+      "Hashes": [
+        "4b146ce804a9b9c90467742508a67b5f",
+        "4ca71b12d89a5bcfcc52095081ae9f51"
+      ]
+    },
+    {
+      "Title": "Beatmania GB",
+      "ID": 6135,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/047951.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 46,
+      "Points": 660,
+      "DateModified": "2025-11-17 20:31:25",
+      "ForumTopicID": 1980,
+      "Hashes": [
+        "e7c022031cb882912e81970eb63d4f61"
+      ]
+    },
+    {
+      "Title": "Beatmania GB: GotchaMix 2",
+      "ID": 4526,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/122217.png",
+      "NumAchievements": 133,
+      "NumLeaderboards": 108,
+      "Points": 1300,
+      "DateModified": "2023-08-09 00:10:06",
+      "ForumTopicID": 9181,
+      "Hashes": [
+        "490cf7b762f7b735f249c3a3107c3e55"
+      ]
+    },
+    {
+      "Title": "Beatmania GB2: GotchaMix",
+      "ID": 6171,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054090.png",
+      "NumAchievements": 95,
+      "NumLeaderboards": 0,
+      "Points": 550,
+      "DateModified": "2020-08-07 21:52:05",
+      "ForumTopicID": 1994,
+      "Hashes": [
+        "25f20cdc0f6f70d0bc5430a9b0d48742"
+      ]
+    },
+    {
+      "Title": "Benjamin Blumchen: Ein verruckter Tag im Zoo",
+      "ID": 12829,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/045317.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2021-06-22 07:41:37",
+      "ForumTopicID": 13343,
+      "Hashes": [
+        "39e9649316e36bad957e98a2170df6d0"
+      ]
+    },
+    {
+      "Title": "Billy Bob's Huntin' 'n' Fishin'",
+      "ID": 2206,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/097044.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 102,
+      "DateModified": "2024-05-29 10:14:14",
+      "ForumTopicID": 26582,
+      "Hashes": [
+        "70739bd1b6eb0ecb06fe5954f94d74fc"
+      ]
+    },
+    {
+      "Title": "Bionic Commando: Elite Forces",
+      "ID": 6524,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/019006.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 0,
+      "Points": 213,
+      "DateModified": "2024-04-11 08:34:07",
+      "ForumTopicID": 6534,
+      "Hashes": [
+        "b3347b3219a7183697e83655f4628827"
+      ]
+    },
+    {
+      "Title": "Blue's Clues: Blue's Alphabet Book",
+      "ID": 12827,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/098339.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 14,
+      "Points": 35,
+      "DateModified": "2024-06-17 18:34:47",
+      "ForumTopicID": 14417,
+      "Hashes": [
+        "6af9bb4957485a0f5cebc9b44e805392",
+        "e3846151ea7d911c9b0b76de2fe5239a"
+      ]
+    },
+    {
+      "Title": "Bob the Builder: Fix It Fun!",
+      "ID": 8848,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072712.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2023-05-13 20:48:21",
+      "ForumTopicID": 21564,
+      "Hashes": [
+        "19b640026da40602272559d1ed35bbba",
+        "65ddb5e5db1b3f932d44a28c802e63cc"
+      ]
+    },
+    {
+      "Title": "Bomberman Max: Ain Version",
+      "ID": 22474,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071845.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 385,
+      "DateModified": "2023-03-28 23:27:40",
+      "ForumTopicID": 20264,
+      "Hashes": [
+        "54c8522c1d924a05bb05ac6673f023e6"
+      ]
+    },
+    {
+      "Title": "Bomberman Max: Ain Version [Subset - Max Charabom Levels]",
+      "ID": 23793,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/070729.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 450,
+      "DateModified": "2023-04-01 23:53:25",
+      "ForumTopicID": 20971,
+      "Hashes": [
+        "715e2085de32c99e487426ee7af8fa01"
+      ]
+    },
+    {
+      "Title": "Bomberman Max: Blue Champion",
+      "ID": 7107,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/051740.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 370,
+      "DateModified": "2023-10-06 00:29:36",
+      "ForumTopicID": 2687,
+      "Hashes": [
+        "c987f711dfb9cba8dc1174219877360f"
+      ]
+    },
+    {
+      "Title": "Bomberman Max: Red Challenger",
+      "ID": 7102,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/051850.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 370,
+      "DateModified": "2024-12-10 00:34:27",
+      "ForumTopicID": 2688,
+      "Hashes": [
+        "1757723cf346be2cea58d0fc4ed4cfa9"
+      ]
+    },
+    {
+      "Title": "Bomberman Quest",
+      "ID": 5108,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/051742.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2023-09-03 14:56:08",
+      "ForumTopicID": 2446,
+      "Hashes": [
+        "ad358f284c3303db01212016ed3944d5",
+        "e6f36322946499f2f55b724c3db916cd"
+      ]
+    },
+    {
+      "Title": "Buffy the Vampire Slayer",
+      "ID": 7109,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113126.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 155,
+      "DateModified": "2025-03-20 09:42:43",
+      "ForumTopicID": 21672,
+      "Hashes": [
+        "49561c4082206a7e5d5ca2032be81eed"
+      ]
+    },
+    {
+      "Title": "Bugs Bunny and Lola Bunny: Operation Carrot Patch",
+      "ID": 11165,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/015109.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2022-12-02 01:27:17",
+      "ForumTopicID": 5501,
+      "Hashes": [
+        "d5a558f3f63771ac1e40d53976e090ef"
+      ]
+    },
+    {
+      "Title": "Bugs Bunny in Crazy Castle 4",
+      "ID": 6274,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/085334.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 81,
+      "Points": 555,
+      "DateModified": "2025-11-01 17:10:13",
+      "ForumTopicID": 12893,
+      "Hashes": [
+        "0877a4b1765287c5b50ea53a47a1d7ad",
+        "30567b9d1cf0881fee0e15cdfdc250da",
+        "c8fafcbb7a673765ade44b404b734a92"
+      ]
+    },
+    {
+      "Title": "Bugs Bunny: Crazy Castle 3",
+      "ID": 686,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054345.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 163,
+      "DateModified": "2021-06-28 21:17:23",
+      "ForumTopicID": 2289,
+      "Hashes": [
+        "2ebf6f830013d8702eebf93955db52d5"
+      ]
+    },
+    {
+      "Title": "Buzz Lightyear of Star Command",
+      "ID": 10849,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/114100.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2023-08-28 14:45:05",
+      "ForumTopicID": 12100,
+      "Hashes": [
+        "560e27a4d80b88280d8ad7358467c301"
+      ]
+    },
+    {
+      "Title": "Caterpillar Construction Zone",
+      "ID": 7687,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/122051.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2023-08-31 12:31:24",
+      "ForumTopicID": 10242,
+      "Hashes": [
+        "046af13647ed4777510aa86fcb753bf9"
+      ]
+    },
+    {
+      "Title": "Caterpillar Construction Zone [Subset - Speedrun]",
+      "ID": 25633,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113234.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 205,
+      "DateModified": "2023-10-31 13:43:46",
+      "ForumTopicID": 23172,
+      "Hashes": [
+        "8c82887c5462f642b8283c0fde55f314"
+      ]
+    },
+    {
+      "Title": "Catwoman",
+      "ID": 6732,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041292.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 169,
+      "DateModified": "2022-05-18 17:01:06",
+      "ForumTopicID": 12208,
+      "Hashes": [
+        "482a7fe10c3e3d10127bbb08447a15cb"
+      ]
+    },
+    {
+      "Title": "Catz: Your Virtual Petz Palz",
+      "ID": 18593,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/100270.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 0,
+      "Points": 630,
+      "DateModified": "2024-10-23 18:44:08",
+      "ForumTopicID": 27480,
+      "Hashes": [
+        "695e4a82d1a97859365e3b5d5ba28e8c",
+        "349aebf94c9ae3e1dce9d2a01894bae8"
+      ]
+    },
+    {
+      "Title": "Centipede",
+      "ID": 4871,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/056480.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 5,
+      "Points": 175,
+      "DateModified": "2023-02-19 17:30:08",
+      "ForumTopicID": 4712,
+      "Hashes": [
+        "6815ec13f522fd65637be46220371704"
+      ]
+    },
+    {
+      "Title": "Chicken Run",
+      "ID": 4182,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101140.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2021-05-30 15:51:24",
+      "ForumTopicID": 2960,
+      "Hashes": [
+        "bda8c4e5e18070924261823e5fca655c"
+      ]
+    },
+    {
+      "Title": "Commander Keen",
+      "ID": 6526,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/011088.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 251,
+      "DateModified": "2021-05-10 20:40:33",
+      "ForumTopicID": 4717,
+      "Hashes": [
+        "94d2aa3fbda301f9c0d0c16e00743183"
+      ]
+    },
+    {
+      "Title": "Conker's Pocket Tales",
+      "ID": 4893,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/114693.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 12,
+      "Points": 337,
+      "DateModified": "2025-04-11 22:16:31",
+      "ForumTopicID": 1395,
+      "Hashes": [
+        "fee6336f969c9e72e9b78be53d512c1e"
+      ]
+    },
+    {
+      "Title": "Croc",
+      "ID": 4184,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/116782.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 255,
+      "DateModified": "2023-05-26 04:19:46",
+      "ForumTopicID": 5405,
+      "Hashes": [
+        "0552078f981c2ef3977f2dfeee19510a"
+      ]
+    },
+    {
+      "Title": "Croc 2",
+      "ID": 12943,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/107247.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 18,
+      "Points": 202,
+      "DateModified": "2025-03-15 16:54:07",
+      "ForumTopicID": 30031,
+      "Hashes": [
+        "03a8bcab4b2975fa2d850d18c728ea9c"
+      ]
+    },
+    {
+      "Title": "Crystalis",
+      "ID": 6385,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/083493.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 0,
+      "Points": 197,
+      "DateModified": "2024-10-10 03:33:22",
+      "ForumTopicID": 2391,
+      "Hashes": [
+        "dbe50c96e614d6ab8a32e3ee8ec68aa6",
+        "f36a0ed25a601c039b1171d9daf241d6"
+      ]
+    },
+    {
+      "Title": "Daffy Duck: Fowl Play",
+      "ID": 6080,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/042771.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 173,
+      "DateModified": "2021-05-23 05:50:59",
+      "ForumTopicID": 4718,
+      "Hashes": [
+        "882a7b4d2cadedd7ed2e21d22ca8f93d"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution GB",
+      "ID": 7130,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061325.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 18,
+      "Points": 835,
+      "DateModified": "2023-10-30 19:08:16",
+      "ForumTopicID": 7039,
+      "Hashes": [
+        "c7cf1e919682b3ee613dd155cc12a15a"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution GB: Disney Mix",
+      "ID": 6181,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/057759.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 32,
+      "Points": 725,
+      "DateModified": "2023-10-30 16:13:51",
+      "ForumTopicID": 7147,
+      "Hashes": [
+        "dbada1fdfaba283bede36852843f5ed8"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution GB2",
+      "ID": 12842,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061326.png",
+      "NumAchievements": 71,
+      "NumLeaderboards": 60,
+      "Points": 895,
+      "DateModified": "2023-10-30 18:32:31",
+      "ForumTopicID": 7160,
+      "Hashes": [
+        "7f306f573ca9759fa2f7aa167ca2dd74"
+      ]
+    },
+    {
+      "Title": "Dance Dance Revolution GB3",
+      "ID": 11582,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061327.png",
+      "NumAchievements": 81,
+      "NumLeaderboards": 74,
+      "Points": 966,
+      "DateModified": "2023-10-30 16:49:44",
+      "ForumTopicID": 7155,
+      "Hashes": [
+        "3ced79ad60ab5195058d5d658550f04f"
+      ]
+    },
+    {
+      "Title": "Dancing Furby",
+      "ID": 18594,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/053428.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 13,
+      "Points": 95,
+      "DateModified": "2024-06-24 07:45:35",
+      "ForumTopicID": 15333,
+      "Hashes": [
+        "ed517a9923865f4e4945ca4095313fe2"
+      ]
+    },
+    {
+      "Title": "Das Geheimnis der Happy Hippo-Insel",
+      "ID": 17975,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/048559.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 42,
+      "DateModified": "2022-11-25 14:49:57",
+      "ForumTopicID": 14012,
+      "Hashes": [
+        "3bc2db27baff012307501c31d49922ac",
+        "5535a76f0ee88d244edbbf3c843eb72f"
+      ]
+    },
+    {
+      "Title": "Deer Hunter",
+      "ID": 32799,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112401.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 44,
+      "DateModified": "2025-05-20 04:38:59",
+      "ForumTopicID": 29324,
+      "Hashes": [
+        "11d3ca80ad24431babbec7a675d83bed"
+      ]
+    },
+    {
+      "Title": "Dexter's Laboratory: Robot Rampage",
+      "ID": 3632,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/062617.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 267,
+      "DateModified": "2022-11-19 07:01:55",
+      "ForumTopicID": 10722,
+      "Hashes": [
+        "2a147b2d7731ac26a999390c3f5ff2ac"
+      ]
+    },
+    {
+      "Title": "Die Original Moorhuhnjagd",
+      "ID": 4702,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072537.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 180,
+      "DateModified": "2019-10-24 15:32:01",
+      "ForumTopicID": 8005,
+      "Hashes": [
+        "2382edc04a323a227ea793e33c749c79"
+      ]
+    },
+    {
+      "Title": "Dogz: Your Virtual Petz Palz",
+      "ID": 4982,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/100271.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 0,
+      "Points": 630,
+      "DateModified": "2024-07-30 18:17:09",
+      "ForumTopicID": 27479,
+      "Hashes": [
+        "227444a8cc81dc579ba4fb76c9cb8b46",
+        "4040e7a81ee393909429f0bfcbeb1e47"
+      ]
+    },
+    {
+      "Title": "Donald Duck: Goin' Quackers",
+      "ID": 4187,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072505.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 325,
+      "DateModified": "2023-05-06 08:35:05",
+      "ForumTopicID": 7664,
+      "Hashes": [
+        "4fd68c1cf8b57e90a5b11b054fc68b46",
+        "5315c21eaffde4a641a02d89f18e2a95"
+      ]
+    },
+    {
+      "Title": "Donkey Kong Country",
+      "ID": 5021,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/046978.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 1,
+      "Points": 305,
+      "DateModified": "2025-02-26 14:31:13",
+      "ForumTopicID": 5248,
+      "Hashes": [
+        "7841066ac7182f036e85682a18ad8134",
+        "dc94079146ee90d7dd7d72280a3faad5"
+      ]
+    },
+    {
+      "Title": "Doug's Big Game",
+      "ID": 4188,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/034512.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 180,
+      "DateModified": "2024-04-20 13:48:28",
+      "ForumTopicID": 3069,
+      "Hashes": [
+        "19e0d71a2a6090e0f59607ca4da9b156"
+      ]
+    },
+    {
+      "Title": "Dracula: Crazy Vampire",
+      "ID": 4189,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025180.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 16,
+      "Points": 250,
+      "DateModified": "2024-11-17 17:18:48",
+      "ForumTopicID": 8723,
+      "Hashes": [
+        "192aec8dca7656463be56991f497cff3"
+      ]
+    },
+    {
+      "Title": "Dragon Ball Z: Legendary Super Warriors",
+      "ID": 5594,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/121631.png",
+      "NumAchievements": 81,
+      "NumLeaderboards": 0,
+      "Points": 585,
+      "DateModified": "2025-11-22 16:23:43",
+      "ForumTopicID": 1643,
+      "Hashes": [
+        "ac46bc779e1e844674de1d4c13d06f96",
+        "c663691b1eca7eeeb501c4d00b4b186f",
+        "ffa003fa747731a9fd547260598538cb"
+      ]
+    },
+    {
+      "Title": "Dragon Dance",
+      "ID": 5129,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063135.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 0,
+      "Points": 485,
+      "DateModified": "2021-11-30 22:09:53",
+      "ForumTopicID": 8764,
+      "Hashes": [
+        "0c6a0f2add131ca4afd24763fe3c3a04"
+      ]
+    },
+    {
+      "Title": "Dragon Quest I & II",
+      "ID": 3818,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/093949.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 477,
+      "DateModified": "2025-07-11 00:23:31",
+      "ForumTopicID": 3280,
+      "Hashes": [
+        "c3987a4d734c37b7d8324f654a45de70"
+      ]
+    },
+    {
+      "Title": "Dragon Quest III",
+      "ID": 697,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/067978.png",
+      "NumAchievements": 138,
+      "NumLeaderboards": 0,
+      "Points": 901,
+      "DateModified": "2025-05-05 20:17:37",
+      "ForumTopicID": 1922,
+      "Hashes": [
+        "b74b6132326bafcd75e415ddcd9a2932"
+      ]
+    },
+    {
+      "Title": "Dragon Quest III [Subset - Gold Medals]",
+      "ID": 20026,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/059481.png",
+      "NumAchievements": 166,
+      "NumLeaderboards": 0,
+      "Points": 1750,
+      "DateModified": "2023-08-15 17:19:21",
+      "ForumTopicID": 17045,
+      "Hashes": [
+        "498e4e521efe5539290ca6c4425d34cd"
+      ]
+    },
+    {
+      "Title": "Dragon Quest Monsters",
+      "ID": 3608,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086568.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 0,
+      "Points": 763,
+      "DateModified": "2025-03-19 02:12:55",
+      "ForumTopicID": 1624,
+      "Hashes": [
+        "1ca6579359f21d8e27b446f865bf6b83"
+      ]
+    },
+    {
+      "Title": "Dragon Quest Monsters 2",
+      "ID": 5105,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086569.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 0,
+      "Points": 581,
+      "DateModified": "2024-09-06 02:13:04",
+      "ForumTopicID": 12547,
+      "Hashes": [
+        "8e79dcdee0e15ef069b3f376a0fee37d",
+        "f71ac6ac4bb335f59bfd2b594d47ab49"
+      ]
+    },
+    {
+      "Title": "Driver: You Are The Wheelman",
+      "ID": 4190,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/103085.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 18,
+      "Points": 215,
+      "DateModified": "2024-12-06 15:30:04",
+      "ForumTopicID": 6997,
+      "Hashes": [
+        "413e1acd7847d628364163eb2c97cecd"
+      ]
+    },
+    {
+      "Title": "F1 Championship Season 2000",
+      "ID": 25855,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/100356.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 51,
+      "Points": 415,
+      "DateModified": "2025-07-29 15:35:40",
+      "ForumTopicID": 31090,
+      "Hashes": [
+        "4448c35bebf32629e23f64c61cc50565"
+      ]
+    },
+    {
+      "Title": "Fix and Foxi - Episode 1: Lupo",
+      "ID": 4301,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/039490.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2020-10-17 05:05:06",
+      "ForumTopicID": 6339,
+      "Hashes": [
+        "9f77adbb0a6af7bd85d21a8ef9fdea49"
+      ]
+    },
+    {
+      "Title": "Frogger",
+      "ID": 4129,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/073198.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 8,
+      "Points": 122,
+      "DateModified": "2021-12-14 21:28:31",
+      "ForumTopicID": 3003,
+      "Hashes": [
+        "7f1830171eec29ac72ae976d4dfdfc65",
+        "d5ebdbeda4156b34e3c0f01d55a4221c",
+        "d94e22b4c08ab3c7b1929f5490adcbf2"
+      ]
+    },
+    {
+      "Title": "Frogger 2",
+      "ID": 28271,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089158.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 34,
+      "Points": 130,
+      "DateModified": "2024-10-30 16:47:25",
+      "ForumTopicID": 25121,
+      "Hashes": [
+        "6db4b6a1cceebc9ab2629c83a5c838ae"
+      ]
+    },
+    {
+      "Title": "Game & Watch Gallery 2",
+      "ID": 5369,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113331.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 29,
+      "Points": 411,
+      "DateModified": "2026-01-11 23:42:18",
+      "ForumTopicID": 3660,
+      "Hashes": [
+        "cbf4a5b2ff566554b014118e3d0e3e9a"
+      ]
+    },
+    {
+      "Title": "Game & Watch Gallery 3",
+      "ID": 6533,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113332.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 34,
+      "Points": 516,
+      "DateModified": "2022-11-25 03:38:54",
+      "ForumTopicID": 6340,
+      "Hashes": [
+        "f1bb0127347994b46258adbda0dc0b16"
+      ]
+    },
+    {
+      "Title": "Gex 3: Deep Pocket Gecko",
+      "ID": 6791,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/045851.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2025-01-07 05:36:09",
+      "ForumTopicID": 2331,
+      "Hashes": [
+        "91eb6db42e92e2df05cc2b40f0dbc2f0"
+      ]
+    },
+    {
+      "Title": "Ghosts 'n Goblins",
+      "ID": 8667,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/046314.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 1,
+      "Points": 363,
+      "DateModified": "2023-06-21 03:14:19",
+      "ForumTopicID": 11008,
+      "Hashes": [
+        "9b846e9a4eb6b80cdbc8e6c82f2b9e9e"
+      ]
+    },
+    {
+      "Title": "Godzilla: The Series",
+      "ID": 7125,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/108408.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 151,
+      "DateModified": "2025-02-25 03:55:31",
+      "ForumTopicID": 29862,
+      "Hashes": [
+        "149073afd1cf8ae83783143a166592f7",
+        "7b4345daf8ebda416a84c5932bf817ec"
+      ]
+    },
+    {
+      "Title": "Godzilla: The Series - Monster Wars",
+      "ID": 7736,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/124283.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 2,
+      "Points": 210,
+      "DateModified": "2026-02-17 04:55:40",
+      "ForumTopicID": 34416,
+      "Hashes": [
+        "6f67b154450bd3d88924c179f8165721",
+        "597bd5a8aa26af757cba57aff575eaa3"
+      ]
+    },
+    {
+      "Title": "Grandia: Parallel Trippers",
+      "ID": 3649,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084579.png",
+      "NumAchievements": 152,
+      "NumLeaderboards": 2,
+      "Points": 924,
+      "DateModified": "2025-12-15 13:03:58",
+      "ForumTopicID": 23618,
+      "Hashes": [
+        "5679de3c41c63c6b9dc9432c7ed1105a",
+        "76cadd4218948451ffc46fad1d0c8359"
+      ]
+    },
+    {
+      "Title": "Gute Zeiten, Schlechte Zeiten: Quiz",
+      "ID": 22137,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112926.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 79,
+      "DateModified": "2025-05-29 22:39:07",
+      "ForumTopicID": 31042,
+      "Hashes": [
+        "a9cc81bffb2d1d3a9caa38f04e6f6c1d"
+      ]
+    },
+    {
+      "Title": "Halloween Racer",
+      "ID": 6276,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069453.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 6,
+      "Points": 170,
+      "DateModified": "2025-10-12 15:52:38",
+      "ForumTopicID": 32636,
+      "Hashes": [
+        "2e20e9cbff75913f4e123242a404a2a9"
+      ]
+    },
+    {
+      "Title": "Hamtaro: Ham-Hams Unite!",
+      "ID": 4920,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025041.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 1,
+      "Points": 231,
+      "DateModified": "2025-11-18 19:22:30",
+      "ForumTopicID": 6341,
+      "Hashes": [
+        "06157785417d6fe5c73388eb573981dc",
+        "48ce279084e1fc7a9136cc211f4fad5d"
+      ]
+    },
+    {
+      "Title": "Harry Potter and the Chamber of Secrets",
+      "ID": 2818,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/085763.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 8,
+      "Points": 485,
+      "DateModified": "2024-12-05 02:30:40",
+      "ForumTopicID": 2883,
+      "Hashes": [
+        "bc60280596bce42d050b764b647dc39b"
+      ]
+    },
+    {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "ID": 2547,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/059761.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 0,
+      "Points": 400,
+      "DateModified": "2024-09-03 12:37:28",
+      "ForumTopicID": 689,
+      "Hashes": [
+        "ba85a2ae8aa5829c440eef2d5549506c"
+      ]
+    },
+    {
+      "Title": "Harvest Moon 2 GBC",
+      "ID": 5155,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/059691.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 348,
+      "DateModified": "2023-08-10 11:46:04",
+      "ForumTopicID": 3442,
+      "Hashes": [
+        "121cec82c0c9e7c476060ad2521739d4",
+        "2b853ce3d85f790cc101c7bd6f8f1b91",
+        "74c9fe928dd97ae193e9f937ce340dcc",
+        "a539a7a02639395ad8d7723199c81eae"
+      ]
+    },
+    {
+      "Title": "Harvest Moon 3 GBC",
+      "ID": 5143,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/087833.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 4,
+      "Points": 400,
+      "DateModified": "2025-11-15 04:47:40",
+      "ForumTopicID": 6343,
+      "Hashes": [
+        "0ff9df46aca45161d1dfa7eee8509c1f"
+      ]
+    },
+    {
+      "Title": "Harvest Moon GBC",
+      "ID": 5151,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/051639.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 453,
+      "DateModified": "2025-12-02 03:17:24",
+      "ForumTopicID": 6342,
+      "Hashes": [
+        "498c0a50a5e5cde16127617a97ad6162",
+        "c1fe25c0a347903e391fd3d0d584316d",
+        "cef633780478127fd5cd3b040e2504fc"
+      ]
+    },
+    {
+      "Title": "Hello Kitty no Magical Museum",
+      "ID": 11149,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/053496.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 21,
+      "DateModified": "2022-02-18 19:00:35",
+      "ForumTopicID": 5472,
+      "Hashes": [
+        "80a38e6992aca201386e581cf1f817ff",
+        "b868fa9f3cecfa2d39df43a5d1b13b60"
+      ]
+    },
+    {
+      "Title": "Hollywood Pinball",
+      "ID": 12950,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063202.png",
+      "NumAchievements": 85,
+      "NumLeaderboards": 7,
+      "Points": 955,
+      "DateModified": "2025-12-07 05:20:45",
+      "ForumTopicID": 11182,
+      "Hashes": [
+        "9889afc5b4e72c9f96db8e6b4260f6b7"
+      ]
+    },
+    {
+      "Title": "Hot Wheels: Stunt Track Driver",
+      "ID": 7666,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025592.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 6,
+      "Points": 169,
+      "DateModified": "2023-01-25 21:09:28",
+      "ForumTopicID": 8400,
+      "Hashes": [
+        "9a908fd85216b1b3a994ec75d2cf9318"
+      ]
+    },
+    {
+      "Title": "Hugo: Black Diamond Fever",
+      "ID": 20498,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/083492.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 6,
+      "Points": 200,
+      "DateModified": "2022-10-14 21:46:05",
+      "ForumTopicID": 18219,
+      "Hashes": [
+        "0762fc989c52652b2660f26be0830f20"
+      ]
+    },
+    {
+      "Title": "John Romero's Daikatana",
+      "ID": 3819,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063217.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-12-15 19:59:05",
+      "ForumTopicID": 14916,
+      "Hashes": [
+        "d1934b308085c92b2ee492faa0d159c2"
+      ]
+    },
+    {
+      "Title": "Kapt'n Blaubar: Die verruckte Schatzsuche",
+      "ID": 26399,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089479.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 99,
+      "DateModified": "2025-08-30 00:43:10",
+      "ForumTopicID": 25496,
+      "Hashes": [
+        "433d5df048561d0a276a56b210e25d9b"
+      ]
+    },
+    {
+      "Title": "Keitai Denjuu Telefang: Power Version",
+      "ID": 15932,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/059166.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 355,
+      "DateModified": "2020-05-24 10:54:10",
+      "ForumTopicID": 10230,
+      "Hashes": [
+        "e0cb7315349851951532a959fd50eb9d",
+        "bae9542c90b3b440572f554f6181538c"
+      ]
+    },
+    {
+      "Title": "Kikansha Thomas: Sodor-tou no Nakama-tachi",
+      "ID": 6082,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052054.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2024-09-02 16:37:05",
+      "ForumTopicID": 14784,
+      "Hashes": [
+        "1a0aac7a746e247879d6b970bf9a9f32"
+      ]
+    },
+    {
+      "Title": "Kinniku Banzuke GB: Chousensha wa Kimida!",
+      "ID": 30712,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101113.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 317,
+      "DateModified": "2024-08-17 14:44:27",
+      "ForumTopicID": 27599,
+      "Hashes": [
+        "d4876d692dcb6ca68786e1df3af361a6"
+      ]
+    },
+    {
+      "Title": "Kirby Tilt 'n' Tumble",
+      "ID": 709,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/087633.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 259,
+      "DateModified": "2026-02-24 13:41:08",
+      "ForumTopicID": 17297,
+      "Hashes": [
+        "ad33cbeed8ee1a0c30416bc887fc9182",
+        "f2e24776d93082362c9b435abc167d89"
+      ]
+    },
+    {
+      "Title": "Knockout Kings",
+      "ID": 7748,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/103178.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2024-12-23 19:05:35",
+      "ForumTopicID": 3009,
+      "Hashes": [
+        "64fa89b64514a71651c1b8dc629ba8f3"
+      ]
+    },
+    {
+      "Title": "Legend of the River King 2",
+      "ID": 7708,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/081097.png",
+      "NumAchievements": 76,
+      "NumLeaderboards": 209,
+      "Points": 728,
+      "DateModified": "2023-10-16 03:29:19",
+      "ForumTopicID": 22914,
+      "Hashes": [
+        "3519c45ce55aad2f0565513723c90672"
+      ]
+    },
+    {
+      "Title": "Legend of the River King GBC",
+      "ID": 4056,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/036380.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 46,
+      "Points": 430,
+      "DateModified": "2025-12-18 22:41:08",
+      "ForumTopicID": 11171,
+      "Hashes": [
+        "b397066e3cad5ae33a31e4adfff0bff5"
+      ]
+    },
+    {
+      "Title": "LEGO Island 2: The Brickster's Revenge",
+      "ID": 14166,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041476.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 85,
+      "DateModified": "2019-10-20 10:52:01",
+      "ForumTopicID": 9127,
+      "Hashes": [
+        "1d0ea47375fca723c0f86a5178e545f3",
+        "2a1efef6d25431529b0d2f5063f63a17"
+      ]
+    },
+    {
+      "Title": "LEGO Stunt Rally",
+      "ID": 711,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/055741.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 1,
+      "Points": 140,
+      "DateModified": "2024-08-17 00:46:20",
+      "ForumTopicID": 11517,
+      "Hashes": [
+        "3d75b453859c2c6f1c84b68ca987adda",
+        "c468c6d714a2d86e2f68bdcdbb40b658"
+      ]
+    },
+    {
+      "Title": "Lil' Monster",
+      "ID": 4924,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061044.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 2,
+      "Points": 280,
+      "DateModified": "2026-02-18 04:08:31",
+      "ForumTopicID": 21253,
+      "Hashes": [
+        "17233eaf718e241f290d6590ef1b42a9"
+      ]
+    },
+    {
+      "Title": "Looney Tunes Collector: Alert!",
+      "ID": 6536,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105174.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 111,
+      "DateModified": "2025-11-30 22:34:24",
+      "ForumTopicID": 12375,
+      "Hashes": [
+        "164c4fcfe733d89fff3ddc42b017c5ca",
+        "9562a0aad16857f2f1a8e4169163c18a"
+      ]
+    },
+    {
+      "Title": "Looney Tunes Collector: Marvin Strikes Back!",
+      "ID": 6538,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/078753.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 142,
+      "DateModified": "2025-02-20 18:16:45",
+      "ForumTopicID": 24856,
+      "Hashes": [
+        "fdf704aff61ad3e6848642241ddb6032"
+      ]
+    },
+    {
+      "Title": "Looney Tunes: Twouble!",
+      "ID": 4058,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061702.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 5,
+      "Points": 155,
+      "DateModified": "2022-09-30 12:52:05",
+      "ForumTopicID": 17087,
+      "Hashes": [
+        "1d31fa1e431ec840e5f769fdd019405f"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Hirameku Puzzle Dai-2-gou",
+      "ID": 15928,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052564.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2020-03-11 08:50:45",
+      "ForumTopicID": 14127,
+      "Hashes": [
+        "693e77e4cd9c3845693f695a87f4444a",
+        "a9ee6c9625c9bd187bc7fd90df3a4fc4"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Hirameku Puzzle Dai-3-gou",
+      "ID": 15930,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052565.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2020-03-17 18:42:47",
+      "ForumTopicID": 14128,
+      "Hashes": [
+        "417ae48b7e288b62fe2540541244fc31",
+        "8dbab7618855360b2029bdf2841067ab"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Hirameku Puzzle Soukangou",
+      "ID": 15929,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052566.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 64,
+      "Points": 15,
+      "DateModified": "2021-04-26 08:00:45",
+      "ForumTopicID": 12496,
+      "Hashes": [
+        "68e0db3785bc843790d6de9c3877003f",
+        "de3c7f4b7df2d8c95ea1c5c622c332e8"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Kangaeru Puzzle Dai-2-gou",
+      "ID": 15926,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052239.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 80,
+      "Points": 75,
+      "DateModified": "2023-06-05 11:45:02",
+      "ForumTopicID": 15011,
+      "Hashes": [
+        "6f5aca1f721a92eb956286809f2af28d",
+        "74a81cf1c74134091da70b06380285fc"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Kangaeru Puzzle Dai-3-gou",
+      "ID": 15927,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052281.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 80,
+      "Points": 75,
+      "DateModified": "2022-01-17 06:21:02",
+      "ForumTopicID": 15012,
+      "Hashes": [
+        "c16f93ef289c6524dff09b8906eef668",
+        "4cf4a9af727673fa31cfe9d991428b6a"
+      ]
+    },
+    {
+      "Title": "Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou",
+      "ID": 15925,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052400.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 80,
+      "Points": 40,
+      "DateModified": "2021-04-26 08:15:00",
+      "ForumTopicID": 14972,
+      "Hashes": [
+        "41c2515a1dda83aadfd0a134bc62656b",
+        "4e5d7a1b65b52af7ca88e0b7b2016197"
+      ]
+    },
+    {
+      "Title": "Luca no Puzzle de Daibouken!",
+      "ID": 11153,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113722.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 5,
+      "Points": 115,
+      "DateModified": "2025-06-18 05:54:40",
+      "ForumTopicID": 31226,
+      "Hashes": [
+        "74a6b62520a30ff28d5a7d19a7108c27"
+      ]
+    },
+    {
+      "Title": "Lucky Luke",
+      "ID": 6203,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/122119.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 170,
+      "DateModified": "2021-04-23 05:13:19",
+      "ForumTopicID": 2593,
+      "Hashes": [
+        "7cf3670a8f345344e4789e41503d7da6",
+        "eb76fda958f100fb791111b928ffe46f"
+      ]
+    },
+    {
+      "Title": "Lucky Luke: Desperado Train",
+      "ID": 21528,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/100657.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 240,
+      "DateModified": "2023-01-11 17:21:01",
+      "ForumTopicID": 19039,
+      "Hashes": [
+        "31770f7197ea4a7ff99cad7cef5c58b8"
+      ]
+    },
+    {
+      "Title": "Lufia: The Legend Returns",
+      "ID": 2502,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/107710.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 0,
+      "Points": 644,
+      "DateModified": "2025-01-03 05:38:00",
+      "ForumTopicID": 2126,
+      "Hashes": [
+        "a00012533e76649f4e7e1b7aa5a9ee07"
+      ]
+    },
+    {
+      "Title": "M&M's Minis Madness",
+      "ID": 3625,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/106415.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2020-05-31 05:30:04",
+      "ForumTopicID": 3440,
+      "Hashes": [
+        "0bfac235a5bd9cd57d7b3e7e83993458",
+        "c7bcdd8ace2dfac5fdce889880472f80"
+      ]
+    },
+    {
+      "Title": "Magi Nation",
+      "ID": 4731,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/097866.png",
+      "NumAchievements": 66,
+      "NumLeaderboards": 3,
+      "Points": 541,
+      "DateModified": "2024-05-30 02:37:33",
+      "ForumTopicID": 7416,
+      "Hashes": [
+        "1624f857098ca278b15629914f48352b",
+        "8415b4e07b327b60c4a3323dbe85080a",
+        "a990d69d7dd73a7110aa6d9b95dce3a6"
+      ]
+    },
+    {
+      "Title": "Magical Chase",
+      "ID": 12881,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061046.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 2,
+      "Points": 905,
+      "DateModified": "2025-06-15 05:23:43",
+      "ForumTopicID": 25594,
+      "Hashes": [
+        "d5eed827954ed163ddf65fa32892361d",
+        "f722b68c0f532ed567397a3e53909ccf"
+      ]
+    },
+    {
+      "Title": "Magical Drop",
+      "ID": 13121,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/118355.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 3,
+      "Points": 90,
+      "DateModified": "2026-02-18 00:08:01",
+      "ForumTopicID": 8473,
+      "Hashes": [
+        "af157e560d1ff87970c1bd2ee90d0932"
+      ]
+    },
+    {
+      "Title": "Magical Tetris Challenge",
+      "ID": 7304,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041043.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 145,
+      "DateModified": "2024-06-09 19:10:33",
+      "ForumTopicID": 3290,
+      "Hashes": [
+        "4ff574fadd50a18d7e93fe0d7dc4c8d1",
+        "7fd49763f6a8aceb6aea4cfe601a8b10",
+        "a13623a452327ede4553ee2bd1b89a1a"
+      ]
+    },
+    {
+      "Title": "Mario Golf",
+      "ID": 1403,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/080115.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 6,
+      "Points": 455,
+      "DateModified": "2025-11-21 14:47:18",
+      "ForumTopicID": 3237,
+      "Hashes": [
+        "71156f1794556acd255ae256d8195e32",
+        "83f791645ce282093a9d59c121ffc49d",
+        "c43ce6e1c66e6fcfc259762a9244a63d"
+      ]
+    },
+    {
+      "Title": "Mario Tennis",
+      "ID": 5043,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/080421.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 11,
+      "Points": 666,
+      "DateModified": "2025-11-21 01:50:53",
+      "ForumTopicID": 26256,
+      "Hashes": [
+        "50af67f7321d84bd052f0e793ee0613c",
+        "a320f9de83767bb1bc1bbbc6fbd96011",
+        "d7f63bbb351a95d73d085a58c8e9f449"
+      ]
+    },
+    {
+      "Title": "Mary-Kate & Ashley: Get a Clue!",
+      "ID": 11592,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/065909.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2022-12-27 15:04:19",
+      "ForumTopicID": 19568,
+      "Hashes": [
+        "cc7639a2269210338b52e626096a99d9"
+      ]
+    },
+    {
+      "Title": "McDonald's Monogatari: Honobono Tenchou Ikusei Game",
+      "ID": 20088,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/060011.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 5,
+      "Points": 78,
+      "DateModified": "2022-07-14 12:59:26",
+      "ForumTopicID": 17319,
+      "Hashes": [
+        "e6009a3556e22fa2f42134999759d366"
+      ]
+    },
+    {
+      "Title": "Medarot 3: Kabuto Version",
+      "ID": 16089,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/106988.png",
+      "NumAchievements": 149,
+      "NumLeaderboards": 7,
+      "Points": 977,
+      "DateModified": "2025-10-06 15:18:16",
+      "ForumTopicID": 27576,
+      "Hashes": [
+        "cbc55f3bb98f8c0443917ae477e56e51",
+        "66039ffd2bd4ec27b8dd43c3ee0b7b7c",
+        "0ca36ed6f60bd296619be20a1ea046f7",
+        "6ecf562c4b58d714473106a82a053701"
+      ]
+    },
+    {
+      "Title": "Medarot 3: Kuwagata Version",
+      "ID": 16090,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/106989.png",
+      "NumAchievements": 149,
+      "NumLeaderboards": 7,
+      "Points": 962,
+      "DateModified": "2025-03-20 11:33:52",
+      "ForumTopicID": 27577,
+      "Hashes": [
+        "dabfbdc9aba5f2edc21f884c52881e0d",
+        "debaaabe98cfca4555b1f775d5ea35a2",
+        "b378d40a74b79cfcc58984534c4ca25a",
+        "78e8483109e9c5ca67cbae6e4f33b20f"
+      ]
+    },
+    {
+      "Title": "Mega Man Xtreme",
+      "ID": 713,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/023366.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 398,
+      "DateModified": "2025-08-01 16:47:11",
+      "ForumTopicID": 1078,
+      "Hashes": [
+        "4681f5b931a2e60ca163facd1adf56ed"
+      ]
+    },
+    {
+      "Title": "Mega Man Xtreme 2",
+      "ID": 4912,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/023367.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 416,
+      "DateModified": "2025-07-14 18:02:40",
+      "ForumTopicID": 1245,
+      "Hashes": [
+        "1f64989765f605d05cbd013e7ffcc352",
+        "89dba0a531a1cba6c8142fe1a3557dd5"
+      ]
+    },
+    {
+      "Title": "Megami Tensei Gaiden: Last Bible II",
+      "ID": 8009,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/056329.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 1,
+      "Points": 405,
+      "DateModified": "2022-06-06 12:50:57",
+      "ForumTopicID": 7584,
+      "Hashes": [
+        "5c426fda8368066cf7e30587876af631"
+      ]
+    },
+    {
+      "Title": "Meitantei Conan: Karakuri Jiin Satsujin Jiken",
+      "ID": 12804,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/017556.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 135,
+      "DateModified": "2022-01-28 10:31:16",
+      "ForumTopicID": 6925,
+      "Hashes": [
+        "1689c2205cc7b3bd020e85d2ea73fdf7",
+        "3a3e92c106a8674642e0ee3c0c793a9f"
+      ]
+    },
+    {
+      "Title": "Meitantei Conan: Kigantou Hihou Densetsu",
+      "ID": 12864,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/073581.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 125,
+      "DateModified": "2022-01-28 10:27:27",
+      "ForumTopicID": 7091,
+      "Hashes": [
+        "09f6430f0847ec793ff95057fdacac1d",
+        "f5325eaf1ecbf7cd6e1e561a3b5d77f7"
+      ]
+    },
+    {
+      "Title": "Metal Gear Solid: Ghost Babel",
+      "ID": 520,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115935.png",
+      "NumAchievements": 106,
+      "NumLeaderboards": 0,
+      "Points": 1100,
+      "DateModified": "2025-08-31 18:17:02",
+      "ForumTopicID": 959,
+      "Hashes": [
+        "7971c95ad9745fe20df52e03cd52f636",
+        "f6dd1b1e5747412b9e5f25376c972d5a"
+      ]
+    },
+    {
+      "Title": "Metal Walker",
+      "ID": 4125,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/066852.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 2,
+      "Points": 352,
+      "DateModified": "2023-01-15 22:22:00",
+      "ForumTopicID": 2209,
+      "Hashes": [
+        "82d17beb1aefd1b93621d6fa61dfa1cb"
+      ]
+    },
+    {
+      "Title": "MIB: Men in Black - The Series",
+      "ID": 3647,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/045912.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 175,
+      "DateModified": "2024-10-20 07:28:13",
+      "ForumTopicID": 8351,
+      "Hashes": [
+        "42ff80b90350d30aafe41ea2c71a79bf"
+      ]
+    },
+    {
+      "Title": "Mickey's Racing Adventure",
+      "ID": 6539,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113351.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 15,
+      "Points": 275,
+      "DateModified": "2025-11-20 21:35:10",
+      "ForumTopicID": 10346,
+      "Hashes": [
+        "221d3b96df7d86291b553a7cb4702dec"
+      ]
+    },
+    {
+      "Title": "Mickey's Speedway USA",
+      "ID": 4646,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112013.png",
+      "NumAchievements": 202,
+      "NumLeaderboards": 0,
+      "Points": 1302,
+      "DateModified": "2022-04-08 14:53:25",
+      "ForumTopicID": 15965,
+      "Hashes": [
+        "ff9b78e1f399fc2bd665b8a08ba27456"
+      ]
+    },
+    {
+      "Title": "Microsoft Pinball Arcade",
+      "ID": 7174,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/088552.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 5,
+      "Points": 150,
+      "DateModified": "2025-02-08 05:08:08",
+      "ForumTopicID": 2835,
+      "Hashes": [
+        "31f7a606b52e8d10fc010b4efe9fb514"
+      ]
+    },
+    {
+      "Title": "Microsoft: The Best of Entertainment Pack",
+      "ID": 11673,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/017989.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 84,
+      "DateModified": "2025-12-30 00:25:58",
+      "ForumTopicID": 7228,
+      "Hashes": [
+        "81433716e1a23aefe5de0fc03ef55519",
+        "c576f119cb3ad8ad7b5f18e6755232f3"
+      ]
+    },
+    {
+      "Title": "Mobile Golf",
+      "ID": 17522,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/049141.png",
+      "NumAchievements": 79,
+      "NumLeaderboards": 0,
+      "Points": 564,
+      "DateModified": "2023-10-03 11:18:17",
+      "ForumTopicID": 13705,
+      "Hashes": [
+        "23f98b48fe91b5c5b98f5adf7bcc828b"
+      ]
+    },
+    {
+      "Title": "Monkey Puncher",
+      "ID": 4192,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105118.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 265,
+      "DateModified": "2022-09-14 15:46:32",
+      "ForumTopicID": 17658,
+      "Hashes": [
+        "65da43aef4c10cfd8feee70e842a46ae"
+      ]
+    },
+    {
+      "Title": "Monopoly",
+      "ID": 13053,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/060627.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 9,
+      "Points": 134,
+      "DateModified": "2022-08-06 21:01:31",
+      "ForumTopicID": 17086,
+      "Hashes": [
+        "5f1481260760c69843a61e9060ad7154"
+      ]
+    },
+    {
+      "Title": "Monster Rancher Battle Card GB",
+      "ID": 4959,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115351.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 0,
+      "Points": 418,
+      "DateModified": "2025-07-13 00:21:01",
+      "ForumTopicID": 4319,
+      "Hashes": [
+        "31fc2f3df8aa15f627574029c3cf03da"
+      ]
+    },
+    {
+      "Title": "Monster Rancher Explorer",
+      "ID": 5042,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/064809.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 325,
+      "DateModified": "2020-07-05 07:19:16",
+      "ForumTopicID": 1185,
+      "Hashes": [
+        "f55ed9e6a8fece5220e9876fb515e222"
+      ]
+    },
+    {
+      "Title": "Monsters, Inc.",
+      "ID": 4193,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/044845.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 73,
+      "DateModified": "2021-06-01 18:08:54",
+      "ForumTopicID": 5484,
+      "Hashes": [
+        "5776965258ee78832e7eabc0db66ff4b",
+        "d62e0c703bc1a84e0fce512f4b9c46e7"
+      ]
+    },
+    {
+      "Title": "Montezuma's Return",
+      "ID": 8337,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/062143.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 3,
+      "Points": 170,
+      "DateModified": "2025-04-28 17:58:00",
+      "ForumTopicID": 17203,
+      "Hashes": [
+        "5f821976274f5e6147f2354a6d01f098"
+      ]
+    },
+    {
+      "Title": "Moomin's Tale",
+      "ID": 9169,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069454.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-05-12 15:04:58",
+      "ForumTopicID": 3855,
+      "Hashes": [
+        "517ef53718009b20d7bf7771aef191dd"
+      ]
+    },
+    {
+      "Title": "Moorhen 3: ... The Chicken Chase!",
+      "ID": 13082,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/036397.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 4,
+      "Points": 90,
+      "DateModified": "2021-06-07 20:53:12",
+      "ForumTopicID": 11263,
+      "Hashes": [
+        "7e8280463d7ac79662d8be587bb6b766"
+      ]
+    },
+    {
+      "Title": "Moorhuhn 2: Die Jagd geht weiter",
+      "ID": 17575,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086683.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 4,
+      "Points": 62,
+      "DateModified": "2023-12-10 01:54:19",
+      "ForumTopicID": 24641,
+      "Hashes": [
+        "b5fe88bbde541c28625e32b83239e6f0"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat 4",
+      "ID": 8497,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/123572.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 3,
+      "Points": 126,
+      "DateModified": "2022-08-02 14:47:47",
+      "ForumTopicID": 17583,
+      "Hashes": [
+        "168ae412b379786f7df07bd8231baf44"
+      ]
+    },
+    {
+      "Title": "Motocross Maniacs 2",
+      "ID": 6136,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071375.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 48,
+      "Points": 375,
+      "DateModified": "2023-04-15 12:23:53",
+      "ForumTopicID": 1959,
+      "Hashes": [
+        "4d08e5553356aecd728b5ef7d78ee261"
+      ]
+    },
+    {
+      "Title": "Mr. Driller",
+      "ID": 8569,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086250.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 5,
+      "Points": 171,
+      "DateModified": "2023-12-04 10:19:33",
+      "ForumTopicID": 24595,
+      "Hashes": [
+        "76fa4014bfbb0ee2b63267af7ac373f2"
+      ]
+    },
+    {
+      "Title": "Mr. Nutz",
+      "ID": 3650,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/043241.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 6,
+      "Points": 120,
+      "DateModified": "2021-05-03 06:26:07",
+      "ForumTopicID": 6344,
+      "Hashes": [
+        "83b67b8a10f704a9e3e7ca3814e5b3ca",
+        "9ba7b607ec310589c5ccfb1a8149df59"
+      ]
+    },
+    {
+      "Title": "MTV Sports: Skateboarding featuring Andy MacDonald",
+      "ID": 10631,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/077428.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 0,
+      "Points": 420,
+      "DateModified": "2020-12-08 18:39:18",
+      "ForumTopicID": 4996,
+      "Hashes": [
+        "54165d2bf7a040aa31d6d0956408d10d"
+      ]
+    },
+    {
+      "Title": "Nicktoons Racing",
+      "ID": 12951,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/116383.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 20,
+      "Points": 150,
+      "DateModified": "2021-10-28 00:11:15",
+      "ForumTopicID": 12054,
+      "Hashes": [
+        "1d0044523075ab0308c598286f804402"
+      ]
+    },
+    {
+      "Title": "Noddy and the Birthday Party",
+      "ID": 2499,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/075532.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 10,
+      "Points": 68,
+      "DateModified": "2023-06-24 08:17:47",
+      "ForumTopicID": 22195,
+      "Hashes": [
+        "a67cb573673f041098f23f868a153019"
+      ]
+    },
+    {
+      "Title": "NSYNC: Get to the Show",
+      "ID": 6342,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054927.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2023-09-11 07:24:23",
+      "ForumTopicID": 11533,
+      "Hashes": [
+        "9017ebe4c004fd9597557e28d711316a"
+      ]
+    },
+    {
+      "Title": "Nushi Tsuri Adventure: Kite no Bouken",
+      "ID": 5334,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105713.png",
+      "NumAchievements": 104,
+      "NumLeaderboards": 0,
+      "Points": 628,
+      "DateModified": "2025-01-31 22:18:00",
+      "ForumTopicID": 20869,
+      "Hashes": [
+        "c9a1f0543dd127e9e169f84ed5b04c0a"
+      ]
+    },
+    {
+      "Title": "Oddworld Adventures II",
+      "ID": 2500,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/018752.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2024-10-02 10:06:15",
+      "ForumTopicID": 3022,
+      "Hashes": [
+        "68715e0a2805e3fc019fec35a9cff0d4"
+      ]
+    },
+    {
+      "Title": "Oha Suta Dance Dance Revolution GB",
+      "ID": 26558,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/095240.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 31,
+      "Points": 160,
+      "DateModified": "2024-04-23 02:38:42",
+      "ForumTopicID": 26225,
+      "Hashes": [
+        "521f0e017a4266355f3f4dc015f1dd46"
+      ]
+    },
+    {
+      "Title": "One Piece: Yume no Luffy Kaizokudan Tanjou!",
+      "ID": 15449,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/100721.png",
+      "NumAchievements": 96,
+      "NumLeaderboards": 0,
+      "Points": 486,
+      "DateModified": "2025-01-28 19:15:05",
+      "ForumTopicID": 27528,
+      "Hashes": [
+        "66762a46b77660aca6b9c61016a00b60",
+        "da5586315ca857071d557a8fde26c108",
+        "5f43dc79250321f235a1ddc422a2d58d"
+      ]
+    },
+    {
+      "Title": "Pac-Man: Special Color Edition",
+      "ID": 5065,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071502.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 8,
+      "Points": 362,
+      "DateModified": "2025-01-24 04:18:17",
+      "ForumTopicID": 20970,
+      "Hashes": [
+        "b81ddb7d86302384efe1675f75cc35f6"
+      ]
+    },
+    {
+      "Title": "Perfect Dark",
+      "ID": 14039,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115215.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 1,
+      "Points": 309,
+      "DateModified": "2025-01-09 20:22:31",
+      "ForumTopicID": 25738,
+      "Hashes": [
+        "840e1ddb2696ecae487fd264a3c34581"
+      ]
+    },
+    {
+      "Title": "Planet of the Apes",
+      "ID": 9473,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084805.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 263,
+      "DateModified": "2023-10-25 02:02:17",
+      "ForumTopicID": 24702,
+      "Hashes": [
+        "5f1dc921df67de60d3f6ef1a44870142",
+        "a55b8d588bbaa4ebcb4d53dbb534329f"
+      ]
+    },
+    {
+      "Title": "Pocket Bomberman",
+      "ID": 6494,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/044111.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 31,
+      "Points": 190,
+      "DateModified": "2023-02-18 19:48:45",
+      "ForumTopicID": 2942,
+      "Hashes": [
+        "2f6b6379f8c7ce5d66a198162f345eaa"
+      ]
+    },
+    {
+      "Title": "Pocket Bowling",
+      "ID": 6542,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/103046.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2024-10-12 09:20:51",
+      "ForumTopicID": 28360,
+      "Hashes": [
+        "8d9c413f30885be0bb0fe08a1817c842"
+      ]
+    },
+    {
+      "Title": "Pocket Hanafuda",
+      "ID": 27581,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086104.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 310,
+      "DateModified": "2023-11-27 14:48:26",
+      "ForumTopicID": 24555,
+      "Hashes": [
+        "3abb1ceb5e276926147b127002aa5b92"
+      ]
+    },
+    {
+      "Title": "Pocket Puyo Sun",
+      "ID": 6859,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/117655.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 3,
+      "Points": 179,
+      "DateModified": "2025-07-21 15:21:55",
+      "ForumTopicID": 30603,
+      "Hashes": [
+        "de204ad9ae3e29cf2c06ceb372ec9cd2"
+      ]
+    },
+    {
+      "Title": "Pokemon Crystal Version",
+      "ID": 810,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105173.png",
+      "NumAchievements": 113,
+      "NumLeaderboards": 7,
+      "Points": 831,
+      "DateModified": "2025-12-15 23:06:53",
+      "ForumTopicID": 16141,
+      "Hashes": [
+        "301899b8087289a6436b0a241fbbb474",
+        "9f2922b235a5eeb78d65594e82ef5dde"
+      ]
+    },
+    {
+      "Title": "Pokemon Crystal Version [Subset - Professor Oak Challenge]",
+      "ID": 24140,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/124660.png",
+      "NumAchievements": 224,
+      "NumLeaderboards": 0,
+      "Points": 505,
+      "DateModified": "2025-04-11 02:49:27",
+      "ForumTopicID": 21400,
+      "Hashes": [
+        "e484a549061c4e5c87a10c5f4e0e53ef"
+      ]
+    },
+    {
+      "Title": "Pokemon Crystal Version [Subset - Shiny Pokemon]",
+      "ID": 11841,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115491.png",
+      "NumAchievements": 213,
+      "NumLeaderboards": 6,
+      "Points": 1471,
+      "DateModified": "2026-02-15 07:20:16",
+      "ForumTopicID": 13192,
+      "Hashes": [
+        "96c7639ff489ee4a535c89ef2505e05b"
+      ]
+    },
+    {
+      "Title": "Pokemon Gold Version",
+      "ID": 576,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105481.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 3,
+      "Points": 685,
+      "DateModified": "2025-10-22 12:20:30",
+      "ForumTopicID": 529,
+      "Hashes": [
+        "a6924ce1f9ad2228e1c6580779b23878"
+      ]
+    },
+    {
+      "Title": "Pokemon Gold Version [Subset - Professor Oak Challenge]",
+      "ID": 25657,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113756.png",
+      "NumAchievements": 217,
+      "NumLeaderboards": 0,
+      "Points": 498,
+      "DateModified": "2025-10-01 01:00:27",
+      "ForumTopicID": 25557,
+      "Hashes": [
+        "df2cc06a56f1aae7528d86878bf762bb"
+      ]
+    },
+    {
+      "Title": "Pokemon Pinball",
+      "ID": 725,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/024809.png",
+      "NumAchievements": 78,
+      "NumLeaderboards": 6,
+      "Points": 1180,
+      "DateModified": "2025-10-30 12:42:41",
+      "ForumTopicID": 14671,
+      "Hashes": [
+        "852d68f167a5957f5e73954763f36ada",
+        "fbe20570c2e52c937a9395024069ba3c"
+      ]
+    },
+    {
+      "Title": "Pokemon Puzzle Challenge",
+      "ID": 726,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/070464.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 9,
+      "Points": 460,
+      "DateModified": "2025-08-26 20:58:03",
+      "ForumTopicID": 439,
+      "Hashes": [
+        "f9ec4cc3c9df3887dc731ccf53663ffb"
+      ]
+    },
+    {
+      "Title": "Pokemon Silver Version",
+      "ID": 722,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105171.png",
+      "NumAchievements": 75,
+      "NumLeaderboards": 3,
+      "Points": 616,
+      "DateModified": "2025-03-23 01:10:10",
+      "ForumTopicID": 581,
+      "Hashes": [
+        "2ac166169354e84d0e2d7cf4cb40b312"
+      ]
+    },
+    {
+      "Title": "Pokemon Silver Version [Subset - Professor Oak Challenge]",
+      "ID": 11720,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113757.png",
+      "NumAchievements": 217,
+      "NumLeaderboards": 0,
+      "Points": 479,
+      "DateModified": "2024-07-30 14:52:23",
+      "ForumTopicID": 13653,
+      "Hashes": [
+        "255d200e826a2a5f042c7e8d1f6e5146"
+      ]
+    },
+    {
+      "Title": "Pokemon Trading Card Game",
+      "ID": 727,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/091409.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 1,
+      "Points": 310,
+      "DateModified": "2026-02-22 11:56:47",
+      "ForumTopicID": 676,
+      "Hashes": [
+        "219b2cc64e5a052003015d4bd4c622cd"
+      ]
+    },
+    {
+      "Title": "Pokemon Trading Card Game 2: The Invasion of Team GR!",
+      "ID": 3692,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/057197.png",
+      "NumAchievements": 75,
+      "NumLeaderboards": 0,
+      "Points": 545,
+      "DateModified": "2025-08-06 01:19:55",
+      "ForumTopicID": 812,
+      "Hashes": [
+        "b881fe7a48a4d6deb2e41ffd930712fd",
+        "ca9a80ffd6d1352faf785a048f92e47b",
+        "d61010c2d97018b8750e2a3e793cba57"
+      ]
+    },
+    {
+      "Title": "Pong: The Next Level",
+      "ID": 5067,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/021495.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2020-07-11 17:08:54",
+      "ForumTopicID": 7908,
+      "Hashes": [
+        "0a3da06446d9a2c7e1ea8149c9026434"
+      ]
+    },
+    {
+      "Title": "Pooh and Tigger's Hunny Safari",
+      "ID": 3671,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/067800.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2026-02-10 05:15:11",
+      "ForumTopicID": 28363,
+      "Hashes": [
+        "5f872189d58f841b5672d4cb11ec3bbb",
+        "7a58b84e406bd4df6b3c3b8807493aa8"
+      ]
+    },
+    {
+      "Title": "Pop 'n Music GB: Animation Melody",
+      "ID": 6169,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072267.png",
+      "NumAchievements": 96,
+      "NumLeaderboards": 20,
+      "Points": 500,
+      "DateModified": "2023-06-28 02:10:50",
+      "ForumTopicID": 2124,
+      "Hashes": [
+        "7e6d077d50879c57ff70891aaa312e80"
+      ]
+    },
+    {
+      "Title": "Pop n Music GB: Disney Tunes",
+      "ID": 6170,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/093771.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 50,
+      "Points": 178,
+      "DateModified": "2024-04-11 10:34:17",
+      "ForumTopicID": 3831,
+      "Hashes": [
+        "92978c96b2368e4aebd84966af8bd06f"
+      ]
+    },
+    {
+      "Title": "Pop'n Music GB",
+      "ID": 6167,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061000.png",
+      "NumAchievements": 123,
+      "NumLeaderboards": 0,
+      "Points": 800,
+      "DateModified": "2020-11-23 00:52:44",
+      "ForumTopicID": 2001,
+      "Hashes": [
+        "10e6dcd0a350076e28b9c598c278b6a2"
+      ]
+    },
+    {
+      "Title": "Power Rangers: Lightspeed Rescue",
+      "ID": 7290,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112386.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2023-08-29 10:24:14",
+      "ForumTopicID": 19155,
+      "Hashes": [
+        "c3c4b88e40538c1c99b85313bc88df6d"
+      ]
+    },
+    {
+      "Title": "Power Rangers: Time Force",
+      "ID": 10424,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112381.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2025-07-06 11:08:26",
+      "ForumTopicID": 4951,
+      "Hashes": [
+        "7510fe2592accfa6ccd4745612e64f88"
+      ]
+    },
+    {
+      "Title": "Power Spike: Pro Beach Volleyball",
+      "ID": 18696,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054308.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2022-03-11 12:13:52",
+      "ForumTopicID": 15588,
+      "Hashes": [
+        "afd9281eac1eacd73c200cbc69f57b9e"
+      ]
+    },
+    {
+      "Title": "Pro Darts",
+      "ID": 8757,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/064358.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 0,
+      "Points": 287,
+      "DateModified": "2023-05-06 13:23:27",
+      "ForumTopicID": 19145,
+      "Hashes": [
+        "809059ad595bec85ffc7ba37eba29204"
+      ]
+    },
+    {
+      "Title": "Puzzled",
+      "ID": 3626,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/043050.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-03-08 16:21:38",
+      "ForumTopicID": 1020,
+      "Hashes": [
+        "9108d1246f11d0e0f2cec608e79efd65"
+      ]
+    },
+    {
+      "Title": "Qix Adventure",
+      "ID": 4246,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/067630.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2025-08-29 05:22:49",
+      "ForumTopicID": 10896,
+      "Hashes": [
+        "95b284df7ba2f862406f747b4ca7c380"
+      ]
+    },
+    {
+      "Title": "Quest: Brian's Journey",
+      "ID": 4919,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/053956.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2023-08-21 20:16:00",
+      "ForumTopicID": 1125,
+      "Hashes": [
+        "93ff3f6b4bfe0a138d8a8897899e8cb0"
+      ]
+    },
+    {
+      "Title": "Rayman",
+      "ID": 537,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110514.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 230,
+      "DateModified": "2026-01-22 01:48:06",
+      "ForumTopicID": 3088,
+      "Hashes": [
+        "b941941050fc32406eca4733926a3779",
+        "ea9f362f629124c9423a8d9ba933eced"
+      ]
+    },
+    {
+      "Title": "Rayman 2",
+      "ID": 4647,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/071847.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 399,
+      "DateModified": "2024-12-05 03:43:28",
+      "ForumTopicID": 4928,
+      "Hashes": [
+        "feb32471ea029a55d7bdea7e0bdc6961"
+      ]
+    },
+    {
+      "Title": "Resident Evil: Gaiden",
+      "ID": 5133,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/034861.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2025-09-12 17:17:34",
+      "ForumTopicID": 6883,
+      "Hashes": [
+        "0d0f492716005ec56d38a4fde204fe38",
+        "3c0c5fceebff4d9730875a9362d26aa1",
+        "8a7f483857e251d56a16594ca84d1a7e",
+        "dd1fa7bae0dfc92295dde04458604fd3"
+      ]
+    },
+    {
+      "Title": "Return of the Ninja",
+      "ID": 7450,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089679.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 6,
+      "Points": 155,
+      "DateModified": "2024-02-19 21:04:29",
+      "ForumTopicID": 25553,
+      "Hashes": [
+        "178ea5a9eba6e7f35e894bad1ec34f77"
+      ]
+    },
+    {
+      "Title": "Revelations: The Demon Slayer",
+      "ID": 4972,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/091552.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 355,
+      "DateModified": "2025-08-04 00:12:29",
+      "ForumTopicID": 3371,
+      "Hashes": [
+        "10a424307ed6e7c033a565e4b79b0cb7",
+        "86ed74283fe0071f8d3f05923051efab"
+      ]
+    },
+    {
+      "Title": "Robopon: Sun Version",
+      "ID": 6337,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/033790.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2022-03-09 08:16:12",
+      "ForumTopicID": 8535,
+      "Hashes": [
+        "398f7b60ea114b90b24503178f47e8d8"
+      ]
+    },
+    {
+      "Title": "Robot Wars: Metal Mayhem",
+      "ID": 3635,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025580.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 4,
+      "Points": 88,
+      "DateModified": "2024-04-01 07:32:10",
+      "ForumTopicID": 4347,
+      "Hashes": [
+        "af4565bf1ea33c785fc9e05be2a9bad0"
+      ]
+    },
+    {
+      "Title": "Roland Garros French Open",
+      "ID": 18694,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054630.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 216,
+      "DateModified": "2022-03-10 09:08:27",
+      "ForumTopicID": 15573,
+      "Hashes": [
+        "70e3ab7ef2061e7075d81aede74ea95c"
+      ]
+    },
+    {
+      "Title": "Sabrina: The Animated Series - Spooked!",
+      "ID": 3636,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109183.png",
+      "NumAchievements": 66,
+      "NumLeaderboards": 4,
+      "Points": 285,
+      "DateModified": "2024-09-27 13:36:46",
+      "ForumTopicID": 27145,
+      "Hashes": [
+        "3073432455a395835de6147399b36cfc"
+      ]
+    },
+    {
+      "Title": "Sabrina: The Animated Series - Zapped!",
+      "ID": 9722,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109114.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 4,
+      "Points": 268,
+      "DateModified": "2025-03-15 02:58:24",
+      "ForumTopicID": 27146,
+      "Hashes": [
+        "ec39462e39e3cbcabe03667fabf12d5a"
+      ]
+    },
+    {
+      "Title": "Samurai Kid",
+      "ID": 3637,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/049333.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 13,
+      "Points": 500,
+      "DateModified": "2024-10-27 03:26:34",
+      "ForumTopicID": 6572,
+      "Hashes": [
+        "7ee095116f1733dc6ba2b2de3f28f5ef",
+        "c4f6cd3e25ff074ffe337be7f43dd409"
+      ]
+    },
+    {
+      "Title": "Santa Claus Junior",
+      "ID": 7146,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/078146.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 445,
+      "DateModified": "2025-11-21 18:18:30",
+      "ForumTopicID": 2609,
+      "Hashes": [
+        "5df6d1ec0e9241e1ed8a8ee7ff318631"
+      ]
+    },
+    {
+      "Title": "Scooby-Doo! Classic Creep Capers",
+      "ID": 1351,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/084492.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2023-11-03 16:09:02",
+      "ForumTopicID": 5312,
+      "Hashes": [
+        "117a9babae15960dc4de04ac44066ed2"
+      ]
+    },
+    {
+      "Title": "Sesame Street Sports",
+      "ID": 4131,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/043448.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2025-06-16 02:08:29",
+      "ForumTopicID": 12348,
+      "Hashes": [
+        "6814576ee449d4119027dc4a85b92555",
+        "821f70db4753f0b59a798b9de91cecfc"
+      ]
+    },
+    {
+      "Title": "Sesame Street: Elmo's 123s",
+      "ID": 13427,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/116382.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 12,
+      "DateModified": "2022-07-16 08:24:16",
+      "ForumTopicID": 12424,
+      "Hashes": [
+        "f7e5f82ff68aa678b92e41159db34e90"
+      ]
+    },
+    {
+      "Title": "Sesame Street: Elmo's ABCs",
+      "ID": 14165,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/042255.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 6,
+      "DateModified": "2025-09-10 02:57:14",
+      "ForumTopicID": 12425,
+      "Hashes": [
+        "5da357ef79acb5ab8852d145888dd5cb",
+        "db9d9e20af969a2ee248ae9af42a5d36"
+      ]
+    },
+    {
+      "Title": "Shadowgate Classic",
+      "ID": 4933,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/064429.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 231,
+      "DateModified": "2025-05-13 23:33:18",
+      "ForumTopicID": 1260,
+      "Hashes": [
+        "4c18b5d470b105344ec55d195a05d2de",
+        "90280833c156e2ca8e4eaa29adf369b2",
+        "9d79034c9b026f448f84f9898c6ccfd6"
+      ]
+    },
+    {
+      "Title": "Shantae",
+      "ID": 728,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/080601.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 363,
+      "DateModified": "2025-05-10 02:16:45",
+      "ForumTopicID": 1233,
+      "Hashes": [
+        "028c4262dbb49f4fc462a6eb3e514d72",
+        "4a278dd6cf21a5e50c41c01e76ea1106",
+        "6745241780ab88a7b035331a3ef1cedd",
+        "f96e6e8748f92aef50eae527056aeecd"
+      ]
+    },
+    {
+      "Title": "Shrek: Fairy Tale Freakdown",
+      "ID": 18057,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/107769.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2022-04-08 11:31:54",
+      "ForumTopicID": 14125,
+      "Hashes": [
+        "69c68b13bb0da057acbafe24e389e855"
+      ]
+    },
+    {
+      "Title": "Snoopy Tennis",
+      "ID": 27310,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/087036.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 1,
+      "Points": 556,
+      "DateModified": "2024-07-14 00:50:49",
+      "ForumTopicID": 24633,
+      "Hashes": [
+        "d3c6c44a4f6021b4d5a6454a87af9a6c"
+      ]
+    },
+    {
+      "Title": "Snow White and the Seven Dwarfs",
+      "ID": 3673,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101265.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 2,
+      "Points": 95,
+      "DateModified": "2026-01-27 17:51:51",
+      "ForumTopicID": 32347,
+      "Hashes": [
+        "0c1c350ce431ace4328c0e935fa2f41b"
+      ]
+    },
+    {
+      "Title": "Space Invaders",
+      "ID": 25233,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/078387.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 6,
+      "Points": 275,
+      "DateModified": "2025-05-11 17:42:33",
+      "ForumTopicID": 24510,
+      "Hashes": [
+        "46e0e199f58aebbb75b4ed16da5aae60"
+      ]
+    },
+    {
+      "Title": "Speedy Gonzales: Aztec Adventure",
+      "ID": 6545,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/048813.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 238,
+      "DateModified": "2021-10-06 10:06:47",
+      "ForumTopicID": 12129,
+      "Hashes": [
+        "49b834ac7cd50da9b424e17c112c577a"
+      ]
+    },
+    {
+      "Title": "Spider-Man",
+      "ID": 7286,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/046682.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 202,
+      "DateModified": "2021-11-17 11:52:38",
+      "ForumTopicID": 13043,
+      "Hashes": [
+        "9fde547bcb70b108895e259da4c4e100"
+      ]
+    },
+    {
+      "Title": "Spider-Man 2: The Sinister Six",
+      "ID": 8461,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/067970.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 156,
+      "DateModified": "2023-02-12 05:36:31",
+      "ForumTopicID": 5926,
+      "Hashes": [
+        "85bbad46380dffa631f8ce732e9c5d89"
+      ]
+    },
+    {
+      "Title": "SpongeBob SquarePants: Legend of the Lost Spatula",
+      "ID": 4928,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/105968.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 189,
+      "DateModified": "2023-06-28 01:56:38",
+      "ForumTopicID": 11746,
+      "Hashes": [
+        "4272d192cf2b14db93f1e2d1bc07aa74"
+      ]
+    },
+    {
+      "Title": "Star Ocean: Blue Sphere",
+      "ID": 5228,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069501.png",
+      "NumAchievements": 110,
+      "NumLeaderboards": 4,
+      "Points": 868,
+      "DateModified": "2025-12-08 18:25:03",
+      "ForumTopicID": 12469,
+      "Hashes": [
+        "820e0a19275fabc03fe619c42db47179",
+        "70bcee3fd3813fe23646e0c79fd0e0f5",
+        "5f0a9e0ce6c0085af12c787579790f1c",
+        "cc3017f1f70e4122e42e84d0a7103bce"
+      ]
+    },
+    {
+      "Title": "Star Wars - Episode I: Obi-Wan's Adventures",
+      "ID": 5041,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/113174.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 185,
+      "DateModified": "2024-11-05 01:54:15",
+      "ForumTopicID": 16348,
+      "Hashes": [
+        "484eeb83ad00353272767485eca59ea5",
+        "b9cf2cc6ff8cbe94cb58ffa958475ab8"
+      ]
+    },
+    {
+      "Title": "Star Wars - Episode I: Racer",
+      "ID": 7210,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/069456.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 20,
+      "Points": 300,
+      "DateModified": "2025-03-08 01:02:37",
+      "ForumTopicID": 28847,
+      "Hashes": [
+        "d1e875cb7dac0092e83b9e7799b06653"
+      ]
+    },
+    {
+      "Title": "Street Fighter Alpha: Warriors' Dreams",
+      "ID": 3607,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/079116.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 13,
+      "Points": 286,
+      "DateModified": "2024-12-05 06:42:38",
+      "ForumTopicID": 2775,
+      "Hashes": [
+        "6acd649d8ab0ec4f26b8ca3930434264",
+        "db1aeaa7135bd5707dbbccc427808cd7"
+      ]
+    },
+    {
+      "Title": "Stuart Little: The Journey Home",
+      "ID": 24098,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/072346.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 57,
+      "DateModified": "2024-03-16 00:07:09",
+      "ForumTopicID": 21486,
+      "Hashes": [
+        "ac38dfd19646ca6e143024d699145c70"
+      ]
+    },
+    {
+      "Title": "Super Breakout",
+      "ID": 5217,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/025150.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 5,
+      "Points": 152,
+      "DateModified": "2022-07-15 22:23:46",
+      "ForumTopicID": 8834,
+      "Hashes": [
+        "3383c2754015c4da7b5295a28ac09739",
+        "9b8869fa36562a32edec76717632875e"
+      ]
+    },
+    {
+      "Title": "Super Mario Bros. Deluxe",
+      "ID": 732,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/097772.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 639,
+      "DateModified": "2025-12-15 02:52:09",
+      "ForumTopicID": 1169,
+      "Hashes": [
+        "1fd75c2b798c04acd4b99ad2f1006280"
+      ]
+    },
+    {
+      "Title": "Super Robot Pinball",
+      "ID": 15635,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/065603.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 3,
+      "Points": 320,
+      "DateModified": "2023-07-08 22:56:23",
+      "ForumTopicID": 21024,
+      "Hashes": [
+        "6c7dc7ce74088a9e42a6fb8d98a67714",
+        "ebfe169aa00c10e50529c6a4b41e61ed"
+      ]
+    },
+    {
+      "Title": "Survival Kids",
+      "ID": 4923,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/064496.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 410,
+      "DateModified": "2025-12-15 23:42:16",
+      "ForumTopicID": 1131,
+      "Hashes": [
+        "07d4df7a1c93f5bef617e5a90b9edee2",
+        "326f861a8fb3e21f1e9379e62cfb6bea",
+        "db2a1849c8d18c9885254f7d22a95428"
+      ]
+    },
+    {
+      "Title": "Survival Kids 2: Dasshutsu!! Futagojima!",
+      "ID": 12803,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/085110.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 2,
+      "Points": 385,
+      "DateModified": "2024-05-05 01:41:26",
+      "ForumTopicID": 24074,
+      "Hashes": [
+        "20f638d4cf7fe7e7365dc8378222ddb1",
+        "9d2f7e1ac30a46456a841c264963e5ea"
+      ]
+    },
+    {
+      "Title": "Sylvanian Melodies: Mori no Nakama to Odori Masho!",
+      "ID": 30985,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102834.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2026-01-22 22:38:39",
+      "ForumTopicID": 28299,
+      "Hashes": [
+        "e00326574376257c4095f2e752e9d620",
+        "08130cb33fe270321d04d056b85d2037"
+      ]
+    },
+    {
+      "Title": "Tetris DX",
+      "ID": 4939,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109627.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 4,
+      "Points": 510,
+      "DateModified": "2025-11-15 23:59:24",
+      "ForumTopicID": 2509,
+      "Hashes": [
+        "65973d7a1446346294f8ca9d2d1b7e66",
+        "9e819acd3bff5bd1a965d747fa01fe85"
+      ]
+    },
+    {
+      "Title": "The Adventures of Elmo in Grouchland",
+      "ID": 5939,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/050673.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2024-09-11 20:48:13",
+      "ForumTopicID": 12215,
+      "Hashes": [
+        "ada59e7dafe1a6b70add7020959c1b23",
+        "cbdc5112eb8b9878fa5fe905e0aca556"
+      ]
+    },
+    {
+      "Title": "The Fish Files",
+      "ID": 4302,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/022751.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-12-14 20:55:36",
+      "ForumTopicID": 8211,
+      "Hashes": [
+        "edf021b521a496fe7afc5e15949f5c80"
+      ]
+    },
+    {
+      "Title": "The Flintstones: Burgertime in Bedrock",
+      "ID": 6531,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/031111.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 2,
+      "Points": 250,
+      "DateModified": "2020-04-11 16:12:25",
+      "ForumTopicID": 10122,
+      "Hashes": [
+        "50e6d9d88450932743161b7512838ccc"
+      ]
+    },
+    {
+      "Title": "The Grinch",
+      "ID": 3646,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/063185.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2022-12-29 00:34:09",
+      "ForumTopicID": 1615,
+      "Hashes": [
+        "42ad3639f6abf013d5dacd4358abf6ca",
+        "b50ef76b1e81615cf079c373b50c0ab9"
+      ]
+    },
+    {
+      "Title": "The Legend of Zelda: Link's Awakening DX",
+      "ID": 5371,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/046977.png",
+      "NumAchievements": 110,
+      "NumLeaderboards": 0,
+      "Points": 780,
+      "DateModified": "2025-11-16 15:07:44",
+      "ForumTopicID": 2327,
+      "Hashes": [
+        "04d3ffa81f6e8d555f9efef79d9347b6",
+        "07c211479386825042efb4ad31bb525f",
+        "1043fd167d0ed9c4094e3c9d8e757f1e",
+        "28a0ba6afec465095ca7a4bc82801e05",
+        "63919f3d130c0483e7197a75b944b2eb",
+        "7351daa3c0a91d8f6fe2fbcca6182478",
+        "b61a34a10fc618f578c4dc2d5298c969",
+        "ccbb56212e3dbaa9007d389a17e9d075",
+        "e91fd46e7092d32ca264f21853f09539",
+        "f75874e3654360094fc2b09bd1fed7e8",
+        "68242187b65166b5f8225b20e2021659",
+        "b0080c2f1919a4bb0ea73b788f4a6786",
+        "6d8f9cd72201caabdfd0455a819af9ce",
+        "2e2596c008d47df901394d28f5bd66ec"
+      ]
+    },
+    {
+      "Title": "The Legend of Zelda: Oracle of Ages",
+      "ID": 710,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/108280.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 4,
+      "Points": 514,
+      "DateModified": "2025-10-14 17:50:23",
+      "ForumTopicID": 224,
+      "Hashes": [
+        "825de040ea4dff66661693f8712b1bdb",
+        "a0c1a41e2c3de54705036a1b3f71d79a",
+        "c4639cc61c049e5a085526bb6cac03bb"
+      ]
+    },
+    {
+      "Title": "The Legend of Zelda: Oracle of Ages | Oracle of Seasons [Subset - Bonus]",
+      "ID": 12399,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/121380.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 395,
+      "DateModified": "2025-10-02 18:48:24",
+      "ForumTopicID": 6559,
+      "Hashes": [
+        "293d91d53e2c6ce32d55696add7ab8e1",
+        "adb108b1872c8701b4cf571665d80cb8"
+      ]
+    },
+    {
+      "Title": "The Legend of Zelda: Oracle of Seasons",
+      "ID": 676,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/108279.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 2,
+      "Points": 509,
+      "DateModified": "2025-10-23 15:27:59",
+      "ForumTopicID": 220,
+      "Hashes": [
+        "4ca44cbdd4e05c9b3c22da96d3de6338",
+        "f2dc6c4e093e4f8c6cbea80e8dbd62cb"
+      ]
+    },
+    {
+      "Title": "The Little Mermaid II: Pinball Frenzy",
+      "ID": 6534,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/042731.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 2,
+      "Points": 362,
+      "DateModified": "2020-12-04 04:22:19",
+      "ForumTopicID": 8523,
+      "Hashes": [
+        "7f8c472f3c7bd1eec56a3bad10a2e94c",
+        "f19153c5bc422a2b1b13a4b9ff5d7bd9"
+      ]
+    },
+    {
+      "Title": "The New Addams Family Series",
+      "ID": 28642,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/089900.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2024-03-25 00:46:34",
+      "ForumTopicID": 25627,
+      "Hashes": [
+        "2d2a8314f789d490bf83ed3c44538fe3"
+      ]
+    },
+    {
+      "Title": "The Powerpuff Girls: Bad Mojo Jojo",
+      "ID": 4671,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/088583.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 306,
+      "DateModified": "2024-10-23 21:37:52",
+      "ForumTopicID": 997,
+      "Hashes": [
+        "258b7b8e4692d4204df470487ef2fc3d"
+      ]
+    },
+    {
+      "Title": "The Powerpuff Girls: Battle Him",
+      "ID": 4673,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/088585.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 9,
+      "Points": 273,
+      "DateModified": "2025-06-10 21:31:23",
+      "ForumTopicID": 998,
+      "Hashes": [
+        "565b748f3ee16464bebde853770d39d2",
+        "86d769e211c85c1ac956c4556e77f8f3",
+        "fd5d1ad9fa778895fa24d1fe1eca52b7"
+      ]
+    },
+    {
+      "Title": "The Powerpuff Girls: Paint the Townsville Green",
+      "ID": 4672,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/088584.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 8,
+      "Points": 264,
+      "DateModified": "2025-09-30 23:32:28",
+      "ForumTopicID": 995,
+      "Hashes": [
+        "aeec41031271f75b5e0b1d132b8a4505"
+      ]
+    },
+    {
+      "Title": "The Smurfs' Nightmare",
+      "ID": 16218,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/067943.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 395,
+      "DateModified": "2021-08-13 06:13:27",
+      "ForumTopicID": 10519,
+      "Hashes": [
+        "20052c527795a4f332be14aff49d4d4b"
+      ]
+    },
+    {
+      "Title": "Tiny Toon Adventures: Buster Saves the Day",
+      "ID": 3658,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/052200.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 10,
+      "Points": 190,
+      "DateModified": "2023-09-16 11:03:38",
+      "ForumTopicID": 956,
+      "Hashes": [
+        "5a93ecb5781a3338c99e35bd06cc6127"
+      ]
+    },
+    {
+      "Title": "Tom and Jerry in Mouse Attacks",
+      "ID": 6550,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112524.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2025-05-22 13:10:47",
+      "ForumTopicID": 28772,
+      "Hashes": [
+        "7a826122ccc3818dce9a8e8db6d77edb"
+      ]
+    },
+    {
+      "Title": "Tom and Jerry: Mouse Hunt",
+      "ID": 6549,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/120182.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 8,
+      "Points": 145,
+      "DateModified": "2025-11-11 21:19:28",
+      "ForumTopicID": 32889,
+      "Hashes": [
+        "32b2cb72de47a85e07a22d6173459b07"
+      ]
+    },
+    {
+      "Title": "Tomb Raider",
+      "ID": 2504,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/097445.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 14,
+      "Points": 147,
+      "DateModified": "2025-04-04 11:25:38",
+      "ForumTopicID": 3252,
+      "Hashes": [
+        "74b9b221c2b32147422144b327bd5f30"
+      ]
+    },
+    {
+      "Title": "Tomb Raider: Curse of the Sword",
+      "ID": 12850,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/097446.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 2,
+      "Points": 299,
+      "DateModified": "2024-12-30 06:28:04",
+      "ForumTopicID": 7409,
+      "Hashes": [
+        "a0b4538f687fc61bc88f7ee111170355"
+      ]
+    },
+    {
+      "Title": "Tonic Trouble",
+      "ID": 26513,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/086585.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 191,
+      "DateModified": "2024-06-12 22:27:34",
+      "ForumTopicID": 26024,
+      "Hashes": [
+        "b5f00d021a370663458b346fad6903cc"
+      ]
+    },
+    {
+      "Title": "Tony Hawk's Pro Skater",
+      "ID": 14356,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041161.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 80,
+      "DateModified": "2025-07-01 19:08:46",
+      "ForumTopicID": 12176,
+      "Hashes": [
+        "75be6e3561908e705d9e790b34eddb4d"
+      ]
+    },
+    {
+      "Title": "Tony Hawk's Pro Skater 2",
+      "ID": 17371,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/041296.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 21,
+      "Points": 230,
+      "DateModified": "2021-01-14 06:34:35",
+      "ForumTopicID": 12195,
+      "Hashes": [
+        "0454b25266d645990b63b5b406672dc2"
+      ]
+    },
+    {
+      "Title": "Tootuff",
+      "ID": 5039,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/098392.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 13,
+      "Points": 293,
+      "DateModified": "2025-12-05 16:44:30",
+      "ForumTopicID": 26779,
+      "Hashes": [
+        "4639d79e2e02a687a44d19d9c9c3c28a"
+      ]
+    },
+    {
+      "Title": "Top Gear Pocket 2",
+      "ID": 13182,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/061109.png",
+      "NumAchievements": 86,
+      "NumLeaderboards": 36,
+      "Points": 436,
+      "DateModified": "2025-05-27 14:58:06",
+      "ForumTopicID": 17837,
+      "Hashes": [
+        "0a1cf1904c87b60308c404d93bab2702",
+        "7d9585c947a7637703fb8ccd6a691ed7",
+        "84ee1ac070c9695b6d422adb5525db85"
+      ]
+    },
+    {
+      "Title": "Towers: Lord Baniff's Deceit",
+      "ID": 6104,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/057679.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 163,
+      "DateModified": "2023-08-12 03:55:00",
+      "ForumTopicID": 16411,
+      "Hashes": [
+        "0d7bca4e08d522493491484896f7f3cc"
+      ]
+    },
+    {
+      "Title": "Toy Story 2",
+      "ID": 8402,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/054343.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 9,
+      "Points": 298,
+      "DateModified": "2025-02-26 15:08:34",
+      "ForumTopicID": 13881,
+      "Hashes": [
+        "ef032b6f603b3a290a91d40cb9c4b3e6"
+      ]
+    },
+    {
+      "Title": "Toy Story Racer",
+      "ID": 9076,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/073158.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 6,
+      "Points": 190,
+      "DateModified": "2025-06-14 02:18:16",
+      "ForumTopicID": 31162,
+      "Hashes": [
+        "01a67ed2dc935044ba69eda42bddebf3",
+        "3e3c0ff63a8f5de3c13a60b82cea89d9"
+      ]
+    },
+    {
+      "Title": "Trip World DX",
+      "ID": 29578,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109251.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 7,
+      "Points": 250,
+      "DateModified": "2025-07-24 16:29:38",
+      "ForumTopicID": 26203,
+      "Hashes": [
+        "55bd8b9da0d4bf94a93e56d91c8219dc"
+      ]
+    },
+    {
+      "Title": "Turok 2: Seeds of Evil",
+      "ID": 13829,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/110753.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 266,
+      "DateModified": "2023-09-08 18:12:31",
+      "ForumTopicID": 8117,
+      "Hashes": [
+        "28d6c613fdf608fe241fb3ce183aaae5"
+      ]
+    },
+    {
+      "Title": "Turok: Rage Wars",
+      "ID": 4108,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/116903.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2025-08-24 09:16:10",
+      "ForumTopicID": 31279,
+      "Hashes": [
+        "2d7d0adcec6f72ca0755862c5fddf353"
+      ]
+    },
+    {
+      "Title": "Ultimate Fighting Championship",
+      "ID": 21745,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/065016.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 107,
+      "DateModified": "2023-09-28 12:41:35",
+      "ForumTopicID": 23534,
+      "Hashes": [
+        "8268ae026f73e834f52ee8291bb125b8"
+      ]
+    },
+    {
+      "Title": "Uno",
+      "ID": 12940,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/116770.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 114,
+      "DateModified": "2022-01-11 02:28:31",
+      "ForumTopicID": 11467,
+      "Hashes": [
+        "f1e27ad24bb3bf71d1d7b048ae21f0b5"
+      ]
+    },
+    {
+      "Title": "Vigilante 8",
+      "ID": 9109,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/117544.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 175,
+      "DateModified": "2025-09-17 01:25:39",
+      "ForumTopicID": 31890,
+      "Hashes": [
+        "cb5348c1b469d698eccddce99a16d384"
+      ]
+    },
+    {
+      "Title": "Wario Land 3",
+      "ID": 741,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112290.png",
+      "NumAchievements": 106,
+      "NumLeaderboards": 25,
+      "Points": 850,
+      "DateModified": "2024-08-07 23:33:11",
+      "ForumTopicID": 608,
+      "Hashes": [
+        "16bb3fb83e8cbbf2c4c510b9f50cf4ee"
+      ]
+    },
+    {
+      "Title": "Wario Land II",
+      "ID": 14221,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/112389.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 151,
+      "Points": 369,
+      "DateModified": "2025-07-15 20:47:45",
+      "ForumTopicID": 10528,
+      "Hashes": [
+        "b7598a51e0acc0d74ca8f464826371ed"
+      ]
+    },
+    {
+      "Title": "Warlocked",
+      "ID": 4922,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/002782.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 445,
+      "DateModified": "2024-12-12 22:19:48",
+      "ForumTopicID": 1225,
+      "Hashes": [
+        "b5eb859e6ea60a0bd83100a10206d9c9"
+      ]
+    },
+    {
+      "Title": "Wendy: Every Witch Way",
+      "ID": 9725,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/109829.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 450,
+      "DateModified": "2022-03-30 09:30:05",
+      "ForumTopicID": 8209,
+      "Hashes": [
+        "4e1a5f02cce49842d4717a8b0ce501f5"
+      ]
+    },
+    {
+      "Title": "Who Wants to Be a Millionaire: 2nd Edition",
+      "ID": 5514,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/114345.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 42,
+      "DateModified": "2024-12-12 12:01:34",
+      "ForumTopicID": 14138,
+      "Hashes": [
+        "866dca02365fd72f9ad396dca758d8b5"
+      ]
+    },
+    {
+      "Title": "Winnie the Pooh: Adventures in the 100 Acre Wood",
+      "ID": 3631,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/115427.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 80,
+      "DateModified": "2025-04-21 16:59:47",
+      "ForumTopicID": 30557,
+      "Hashes": [
+        "d05a3c8e6af26686166b5049f1438dff"
+      ]
+    },
+    {
+      "Title": "Wizardry Empire",
+      "ID": 5463,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/081279.png",
+      "NumAchievements": 87,
+      "NumLeaderboards": 0,
+      "Points": 926,
+      "DateModified": "2024-10-31 23:09:33",
+      "ForumTopicID": 23010,
+      "Hashes": [
+        "c12c13bb16dc5a5f0c858ea6650b019d"
+      ]
+    },
+    {
+      "Title": "Wizardry Empire: Staff of Resurrection",
+      "ID": 25502,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/081339.png",
+      "NumAchievements": 97,
+      "NumLeaderboards": 0,
+      "Points": 904,
+      "DateModified": "2023-09-03 12:50:25",
+      "ForumTopicID": 23022,
+      "Hashes": [
+        "5bca384b781c4d7572713ddb51eb8898"
+      ]
+    },
+    {
+      "Title": "Woody Woodpecker: Escape from Buzz Buzzard Park",
+      "ID": 6556,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/060180.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 290,
+      "DateModified": "2023-05-21 02:59:11",
+      "ForumTopicID": 17387,
+      "Hashes": [
+        "2a26b9d248bf62788e23aa897e8e355c"
+      ]
+    },
+    {
+      "Title": "WWF Betrayal",
+      "ID": 4126,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/077219.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2025-11-12 02:09:14",
+      "ForumTopicID": 2541,
+      "Hashes": [
+        "f270519e6357bc32fd07fc6386e14dec"
+      ]
+    },
+    {
+      "Title": "X-Men: Mutant Academy",
+      "ID": 9204,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/107717.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 1,
+      "Points": 158,
+      "DateModified": "2026-02-08 02:10:28",
+      "ForumTopicID": 27950,
+      "Hashes": [
+        "6774580db542b838eff5a155128b7413"
+      ]
+    },
+    {
+      "Title": "X-Men: Wolverine's Rage",
+      "ID": 7866,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/101260.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 19,
+      "Points": 250,
+      "DateModified": "2025-11-27 02:49:34",
+      "ForumTopicID": 27762,
+      "Hashes": [
+        "b1729716baaea01d4baa795db31800b0"
+      ]
+    },
+    {
+      "Title": "Xtreme Sports",
+      "ID": 4940,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/060938.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 15,
+      "Points": 416,
+      "DateModified": "2025-12-08 20:58:43",
+      "ForumTopicID": 4170,
+      "Hashes": [
+        "af1d1e17a5c568df796f4004be872649"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Dark Duel Stories",
+      "ID": 577,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/029239.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 305,
+      "DateModified": "2023-09-10 15:44:38",
+      "ForumTopicID": 1119,
+      "Hashes": [
+        "b928699d63702e21a3599b887b947041",
+        "c30add585d87114288ff8e3726c5381b",
+        "415a515431f475a205677f5ce6e8f06f",
+        "deb664a34525670c74e7125ae1cb9b44",
+        "57668627e94a89a7af41106f1e824f29",
+        "874b0bd243476ea3e499c4a197340b7a",
+        "5502be61fa069a471986660038855a49",
+        "e32f8091f32772b4132710c96c69351b",
+        "036b4944895082f5895a475f4ced3bfb"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck",
+      "ID": 14109,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102054.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 286,
+      "DateModified": "2025-06-20 14:50:36",
+      "ForumTopicID": 9122,
+      "Hashes": [
+        "f84f21fd860d1d9cfb8ca6ea62a0da8f",
+        "ab07c5bc4e95338a130b64c39505a3fb",
+        "e4c2f4212e285a49083e860e38cfffcf",
+        "acdc1e4ea90d13f055dfca2dab986e5a",
+        "ac56166a141560aaedf3a71e50a655d4",
+        "1a6a93843aac109b11a0eadcaf3d0b0e",
+        "abd8693c2f03acd8c0e2508e61268b70"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck",
+      "ID": 13801,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102053.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 288,
+      "DateModified": "2025-06-20 14:51:08",
+      "ForumTopicID": 9123,
+      "Hashes": [
+        "19b1085c7c17a8123a7ec59f4033e92c",
+        "4bcbc2d3b173c5f53fba3a6c4c2b9920",
+        "bd7ff710b645110cfda420694019ec71",
+        "2c00464dcac758c6428cf5f61717c51e",
+        "97f6e15e24d95dbd17ba6c924ec2a6c1",
+        "7d817adcce9ecb3ad270dc053781f3d6",
+        "2b1da77b7c41afab3558cf364cfeb8b3"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Yugi Deck",
+      "ID": 14108,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/102052.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 280,
+      "DateModified": "2025-06-20 14:50:08",
+      "ForumTopicID": 9124,
+      "Hashes": [
+        "e3809354341cfb1f2ebb3e4dd1bc8828",
+        "54a5f9b4bae5ebd452e56277f5ee82df",
+        "1dcb73c62167339df4c848ba466547db",
+        "0b7253cff85faac4dd2b9fc441f52feb",
+        "a47e4e4e97d8c78448af704df7db689f",
+        "97819d8701876ae3d3deee8b98749e8a",
+        "0b9b51fdd41a15a10d02d7fbf64ac7de"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+      "ID": 14123,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/092435.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 0,
+      "Points": 511,
+      "DateModified": "2022-01-29 13:18:57",
+      "ForumTopicID": 13815,
+      "Hashes": [
+        "782b88b1bf9768a2b1b139177a0c1c33",
+        "e2a25621d6701b8fd75444ceb6d42e91",
+        "4e855f025c999cc8cbbe002927c26542",
+        "b9d30c4fe3f4e0801b0e187b07b6f6fa",
+        "f7000cf59d9f402f88053b58b285399f",
+        "338b94a31ee1186f884229fba4ac78f6",
+        "17a43887863c2e485ca72940f4738f79"
+      ]
+    },
+    {
+      "Title": "Yu-Gi-Oh! Monster Capsule GB",
+      "ID": 597,
+      "ConsoleID": 6,
+      "ConsoleName": "Game Boy Color",
+      "ImageIcon": "/Images/083498.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 530,
+      "DateModified": "2023-10-10 00:42:38",
+      "ForumTopicID": 2971,
+      "Hashes": [
+        "b980da92693762bd3a7a4791fe08766e",
+        "9dffcf7d5cf44bd85a09d2a3c379954a"
+      ]
+    }
+  ]
+}

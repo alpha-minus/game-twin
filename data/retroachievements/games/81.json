@@ -1,0 +1,319 @@
+{
+  "consoleId": 81,
+  "consoleName": "Famicom Disk System",
+  "games": [
+    {
+      "Title": "~Hack~ Tonkachi Mario",
+      "ID": 2109,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/055618.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 2,
+      "Points": 420,
+      "DateModified": "2026-02-05 15:44:13",
+      "ForumTopicID": 34167,
+      "Hashes": [
+        "d7236ca0605bc3b36ec9ba7dd3cdcd9d"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Aliens",
+      "ID": 5968,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/035173.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 325,
+      "DateModified": "2020-09-01 12:19:25",
+      "ForumTopicID": 10892,
+      "Hashes": [
+        "296bc8ec6482e70e5d098bb90343a2f8"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Fairy Pinball: Yousei Tachi no Pinball",
+      "ID": 24823,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/074844.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 330,
+      "DateModified": "2024-08-25 22:17:02",
+      "ForumTopicID": 22022,
+      "Hashes": [
+        "f8a81cbcea63fb0de0dc2cdeeb4b2a84"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Sexy Invaders",
+      "ID": 14319,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/027147.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 272,
+      "DateModified": "2022-12-10 03:16:47",
+      "ForumTopicID": 8749,
+      "Hashes": [
+        "9124bdf0e1116e649b5daed14853e92b",
+        "ff65350d6e949a28b83c65943ecb27a3"
+      ]
+    },
+    {
+      "Title": "Ai Senshi Nicol",
+      "ID": 5782,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/115353.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 1,
+      "Points": 187,
+      "DateModified": "2025-06-04 22:17:09",
+      "ForumTopicID": 16900,
+      "Hashes": [
+        "7839c79cb30fab6440114554508609fa",
+        "dcbcebe77032ddf925708b24de555c6e"
+      ]
+    },
+    {
+      "Title": "All Night Nippon Super Mario Bros.",
+      "ID": 12852,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/075723.png",
+      "NumAchievements": 106,
+      "NumLeaderboards": 52,
+      "Points": 906,
+      "DateModified": "2025-09-20 05:33:39",
+      "ForumTopicID": 23211,
+      "Hashes": [
+        "c8719692d0b9d9649492ffb1c2d26aa3"
+      ]
+    },
+    {
+      "Title": "Armana no Kiseki",
+      "ID": 1972,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/047514.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 175,
+      "DateModified": "2021-09-20 17:12:00",
+      "ForumTopicID": 14903,
+      "Hashes": [
+        "6551208e5e34d9c568470806d5dea4f7",
+        "98ac12e7f11b0aaf082c9cf45103c430",
+        "ad688f3ca079fad5155e20c0182ec3a4",
+        "d73f4eb78aedb5eb4107fdaffefe5756"
+      ]
+    },
+    {
+      "Title": "Aspic: Mahebiou no Noroi",
+      "ID": 22889,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/085657.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 209,
+      "DateModified": "2025-11-28 04:20:57",
+      "ForumTopicID": 24438,
+      "Hashes": [
+        "7d6153486d7103c639659a2256e88e5c",
+        "4efacc69281f3037467c9d3fdff13e07"
+      ]
+    },
+    {
+      "Title": "Clu Clu Land: Welcome to New Clu Clu Land",
+      "ID": 14870,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/111126.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 4,
+      "Points": 347,
+      "DateModified": "2023-03-01 02:24:11",
+      "ForumTopicID": 20520,
+      "Hashes": [
+        "aee23ed9fbfef07510aa9530ef42febf"
+      ]
+    },
+    {
+      "Title": "Esper Dream",
+      "ID": 8737,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/124434.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 176,
+      "DateModified": "2026-01-29 01:59:17",
+      "ForumTopicID": 27087,
+      "Hashes": [
+        "186a5441980125aba8ed852da123adc9",
+        "6b6cf238668429511a027b1739403975"
+      ]
+    },
+    {
+      "Title": "Final Commando: Akai Yousai",
+      "ID": 7187,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/041710.png",
+      "NumAchievements": 75,
+      "NumLeaderboards": 0,
+      "Points": 1148,
+      "DateModified": "2023-04-01 06:39:43",
+      "ForumTopicID": 13644,
+      "Hashes": [
+        "31559f43a673a178b2f9498f7ddefc79"
+      ]
+    },
+    {
+      "Title": "Kalin no Tsurugi",
+      "ID": 8752,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/024697.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 1,
+      "Points": 325,
+      "DateModified": "2026-02-22 08:35:11",
+      "ForumTopicID": 8720,
+      "Hashes": [
+        "32cdbc21510eef9535e9302e8b6c5c5c",
+        "dc9da8d17dd74b36cf70e9c6be0d009b"
+      ]
+    },
+    {
+      "Title": "Kinnikuman: Kinnikusei Oui Soudatsusen",
+      "ID": 33409,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/113465.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 97,
+      "DateModified": "2025-06-14 19:31:07",
+      "ForumTopicID": 31009,
+      "Hashes": [
+        "e5237686150960dd8817bacb7fb34f9b"
+      ]
+    },
+    {
+      "Title": "Moon Ball Magic",
+      "ID": 24128,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/099388.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 1,
+      "Points": 242,
+      "DateModified": "2024-08-20 10:49:46",
+      "ForumTopicID": 27702,
+      "Hashes": [
+        "bced9dddfebb4fba421f671eeff61aab"
+      ]
+    },
+    {
+      "Title": "Smash Ping Pong",
+      "ID": 5550,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/072256.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2020-05-21 09:44:16",
+      "ForumTopicID": 1602,
+      "Hashes": [
+        "6df3f8b998f8195270274c654ce02813",
+        "e6bf27adea0837055f82fc204d9fbf98",
+        "f80973d2e06e368e094a243ffb2520d7"
+      ]
+    },
+    {
+      "Title": "Super Mario Bros. 2",
+      "ID": 5183,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/113099.png",
+      "NumAchievements": 91,
+      "NumLeaderboards": 0,
+      "Points": 881,
+      "DateModified": "2026-01-15 12:48:23",
+      "ForumTopicID": 1856,
+      "Hashes": [
+        "7f38210a8a2befb8d347523b4ff6ae7c"
+      ]
+    },
+    {
+      "Title": "The Monitor Puzzle Kineko: Kinetic Connection",
+      "ID": 14924,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/077894.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 30,
+      "Points": 200,
+      "DateModified": "2023-07-18 03:02:53",
+      "ForumTopicID": 22609,
+      "Hashes": [
+        "0c3315af1e2f666a5e1ad63764a45755",
+        "762aa5c2093344491e95b36c1e6b9166"
+      ]
+    },
+    {
+      "Title": "The Monitor Puzzle Kineko: Kinetic Connection II",
+      "ID": 14926,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/080626.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 30,
+      "Points": 200,
+      "DateModified": "2023-08-13 18:54:36",
+      "ForumTopicID": 22907,
+      "Hashes": [
+        "cbd2190225076fc650d80c9a0ea59ff6"
+      ]
+    },
+    {
+      "Title": "The Mysterious Murasame Castle",
+      "ID": 12855,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/026022.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 436,
+      "DateModified": "2020-06-13 00:31:33",
+      "ForumTopicID": 9582,
+      "Hashes": [
+        "58377b2babdf06d8cf5557064f32ad92",
+        "e8558b356bb077213b255367c9c5be16",
+        "fa04b0b2d99d560e7076198ab72a15d3"
+      ]
+    },
+    {
+      "Title": "Yume Koujou: Doki Doki Panikku",
+      "ID": 5819,
+      "ConsoleID": 81,
+      "ConsoleName": "Famicom Disk System",
+      "ImageIcon": "/Images/061980.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 439,
+      "DateModified": "2025-08-28 15:33:00",
+      "ForumTopicID": 5252,
+      "Hashes": [
+        "dde8a651a7a57d58f1a0e6ad576f99c5"
+      ]
+    }
+  ]
+}

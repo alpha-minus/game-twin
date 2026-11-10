@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Game Content Hub</title>
+    <link rel="stylesheet" href="game-landing.css">
+</head>
+<body>
+    <!-- Background with blurred game image (darker, match guide/map) -->
+    <div class="background-container">
+        <img id="background-image" src="placeholder-game-art.jpg" alt="Game Background" class="background-image"
+             onerror="console.error('Background image failed to load:', this.src);"
+             onload="console.log('Background image loaded successfully:', this.src);">
+        <div class="background-overlay"></div>
+    </div>
+
+    <!-- Main content: quick search templates + recent searches -->
+    <div class="content-container">
+        <div class="landing-scroll">
+            <section class="quick-search-section">
+                <h2 class="section-title">Quick search templates</h2>
+                <p class="section-desc">Tap a template to search online for this game.</p>
+                <div class="quick-search-list">
+                    <!-- QUICK_SEARCH_TEMPLATES -->
+                </div>
+            </section>
+
+            <section class="saved-links-section" id="saved-links-section">
+                <h2 class="section-title">Links</h2>
+                <div class="saved-links-list">
+                    <!-- SAVED_LINKS -->
+                </div>
+            </section>
+
+            <section class="recent-searches-section">
+                <h2 class="section-title">Recent searches</h2>
+                <div class="recent-searches-list">
+                    <!-- RECENT_SEARCHES -->
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        var TAP_THRESHOLD_PX = 20;
+        function isTap(startX, startY, endX, endY) {
+            var dx = endX - startX;
+            var dy = endY - startY;
+            return (dx * dx + dy * dy) <= (TAP_THRESHOLD_PX * TAP_THRESHOLD_PX);
+        }
+        function attachNavHandlers() {
+            var sectionIcons = document.querySelectorAll('.nav-icon, .quick-search-item');
+            sectionIcons.forEach(function(icon) {
+                var section = icon.getAttribute('data-section');
+                if (!section) return;
+                var startX = 0, startY = 0;
+                function go() {
+                    if (window.Android && typeof window.Android.onNavigateToSection === 'function') {
+                        window.Android.onNavigateToSection(section);
+                    } else {
+                        window.location.href = 'vault://section/' + section;
+                    }
+                }
+                icon.addEventListener('touchstart', function(e) {
+                    if (e.touches && e.touches.length) {
+                        startX = e.touches[0].clientX;
+                        startY = e.touches[0].clientY;
+                    }
+                }, { passive: true });
+                icon.addEventListener('touchend', function(e) {
+                    if (!e.changedTouches || !e.changedTouches.length) return;
+                    var endX = e.changedTouches[0].clientX;
+                    var endY = e.changedTouches[0].clientY;
+                    if (isTap(startX, startY, endX, endY)) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        go();
+                    }
+                }, { passive: false });
+                icon.onclick = function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    go();
+                    return false;
+                };
+            });
+            var recentItems = document.querySelectorAll('.recent-search-item');
+            recentItems.forEach(function(item) {
+                var query = item.getAttribute('data-query');
+                if (!query) return;
+                var startX = 0, startY = 0;
+                function go() {
+                    if (window.Android && typeof window.Android.onRunSearch === 'function') {
+                        window.Android.onRunSearch(query);
+                    }
+                }
+                item.addEventListener('touchstart', function(e) {
+                    if (e.touches && e.touches.length) {
+                        startX = e.touches[0].clientX;
+                        startY = e.touches[0].clientY;
+                    }
+                }, { passive: true });
+                item.addEventListener('touchend', function(e) {
+                    if (!e.changedTouches || !e.changedTouches.length) return;
+                    var endX = e.changedTouches[0].clientX;
+                    var endY = e.changedTouches[0].clientY;
+                    if (isTap(startX, startY, endX, endY)) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        go();
+                    }
+                }, { passive: false });
+                item.onclick = function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    go();
+                    return false;
+                };
+            });
+            var editButtons = document.querySelectorAll('.quick-search-edit');
+            editButtons.forEach(function(btn) {
+                var slot = btn.getAttribute('data-slot');
+                if (!slot) return;
+                btn.addEventListener('touchstart', function(e) {
+                    e.stopPropagation();
+                }, { passive: true });
+                btn.addEventListener('touchend', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    if (window.Android && typeof window.Android.onEditLandingEntry === 'function') {
+                        window.Android.onEditLandingEntry(parseInt(slot, 10));
+                    }
+                }, { passive: false });
+                btn.onclick = function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    if (window.Android && typeof window.Android.onEditLandingEntry === 'function') {
+                        window.Android.onEditLandingEntry(parseInt(slot, 10));
+                    }
+                    return false;
+                };
+            });
+
+            // Saved-links: apply favicon background + tap → onOpenSavedLink + ✕ → onDeleteSavedLink
+            var savedLinkItems = document.querySelectorAll('.saved-link-item');
+            savedLinkItems.forEach(function(item) {
+                var linkId = item.getAttribute('data-link-id');
+                if (!linkId) return;
+
+                var faviconUrl = item.getAttribute('data-favicon');
+                var faviconEl = item.querySelector('.saved-link-favicon');
+                if (faviconEl && faviconUrl) {
+                    faviconEl.style.backgroundImage = 'url("' + faviconUrl + '")';
+                }
+
+                var startX = 0, startY = 0;
+                function go() {
+                    if (window.Android && typeof window.Android.onOpenSavedLink === 'function') {
+                        window.Android.onOpenSavedLink(linkId);
+                    }
+                }
+                item.addEventListener('touchstart', function(e) {
+                    if (e.touches && e.touches.length) {
+                        startX = e.touches[0].clientX;
+                        startY = e.touches[0].clientY;
+                    }
+                }, { passive: true });
+                item.addEventListener('touchend', function(e) {
+                    if (!e.changedTouches || !e.changedTouches.length) return;
+                    var endX = e.changedTouches[0].clientX;
+                    var endY = e.changedTouches[0].clientY;
+                    if (isTap(startX, startY, endX, endY)) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        go();
+                    }
+                }, { passive: false });
+                item.onclick = function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    go();
+                    return false;
+                };
+            });
+
+            var deleteButtons = document.querySelectorAll('.saved-link-delete');
+            deleteButtons.forEach(function(btn) {
+                var linkId = btn.getAttribute('data-link-id');
+                if (!linkId) return;
+                btn.addEventListener('touchstart', function(e) {
+                    e.stopPropagation();
+                }, { passive: true });
+                btn.addEventListener('touchend', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    if (window.Android && typeof window.Android.onDeleteSavedLink === 'function') {
+                        window.Android.onDeleteSavedLink(linkId);
+                    }
+                }, { passive: false });
+                btn.onclick = function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    if (window.Android && typeof window.Android.onDeleteSavedLink === 'function') {
+                        window.Android.onDeleteSavedLink(linkId);
+                    }
+                    return false;
+                };
+            });
+        }
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', attachNavHandlers);
+        } else {
+            attachNavHandlers();
+        }
+        setTimeout(attachNavHandlers, 500);
+        window.updateGameImage = function(imagePath) {
+            var backgroundImg = document.getElementById('background-image');
+            if (backgroundImg) backgroundImg.src = imagePath;
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Twin</string>
+
+    <!-- Legal / Impressum (German §5 DDG, DSA) -->
+    <string name="legal_section_title">Legal</string>
+    <string name="impressum_menu_title">Impressum</string>
+    <string name="impressum_close">Close</string>
+    <string name="privacy_menu_title">Privacy Policy</string>
+    <string name="terms_menu_title">Terms of Use</string>
+    <string name="credits_menu_title">Credits</string>
+
+    <!-- Open Source Licenses -->
+    <string name="open_source_licenses_title">Open Source Licenses</string>
+    <string name="open_source_licenses_menu_item">Open Source Licenses</string>
+
+    <!-- WebView text selection -->
+    <string name="search_youtube">Youtube</string>
+
+    <!-- Joystick LED (analog stick rings) -->
+    <string name="led_control_explanation">Joystick LED must be turned on in device settings. Supported on devices like AYN Odin and AYN Thor.</string>
+    <string name="led_disabled_restore_hint">To restore the original LED color, toggle the joystick LED setting off and on in the device menu.</string>
+    <string name="led_enabled_setting">LED Ring: %s</string>
+    <string name="led_brightness_setting">Brightness: %d%%</string>
+    <string name="led_saturation_setting">Color Vibrancy: %d%%</string>
+    <string name="led_turn_off_setting">Auto-Off: %s</string>
+    <string name="led_turn_off_never">Never</string>
+    <string name="led_turn_off_5_sec">5 sec</string>
+    <string name="led_turn_off_15_sec">15 sec</string>
+    <string name="led_turn_off_30_sec">30 sec</string>
+    <string name="led_turn_off_1_min">1 min</string>
+    <string name="led_turn_off_5_min">5 min</string>
+
+    <!-- Play history source -->
+    <string name="last_played_section">Play History</string>
+    <string name="last_played_source_not_configured">Not Configured</string>
+    <string name="last_played_source_retroarch">RetroArch</string>
+    <string name="last_played_source_esde">ES-DE</string>
+    <string name="last_played_source_achievements">Achievements</string>
+    <string name="last_played_folder_dialog_title">Setup Auto Game Detection</string>
+    <string name="last_played_folder_dialog_body">The app detects your last played game and creates a library entry for it.</string>
+    <string name="last_played_ra_credentials_dialog_title">RetroAchievements credentials</string>
+    <string name="last_played_ra_credentials_dialog_body">Enter your RetroAchievements username and Web API key to use last played game from the API. Recommended for helper devices (tablets, phones) when the game is not launched on the same device.</string>
+    <string name="last_played_ra_open_settings">Open Settings</string>
+    <string name="last_played_ra_get_api_key_hint">Get your Web API key from the Authentication section at RetroAchievements Settings.</string>
+    <string name="last_played_achievements_source_note">Uses your Steam and/or RetroAchievements credentials to detect your last played game. Configure credentials in Settings → Achievements.</string>
+    <string name="last_played_not_configured_note">Select a play history source to enable last played game detection.</string>
+    <string name="esde_folder_setting">ES-DE Folder: %s</string>
+    <string name="esde_folder_description">Select the ES-DE parent folder (default: Internal Storage/ES-DE).</string>
+    <string name="folder_selection_dialog_title">Select folder for last played detection</string>
+    <string name="folder_selection_dialog_body">Neither RetroArch nor ES-DE folder is set. Choose which folder to set up.</string>
+    <string name="folder_selection_set_retroarch">Set RetroArch folder</string>
+    <string name="folder_selection_set_esde">Set ES-DE folder</string>
+
+    <!-- Play history auto-detect -->
+    <string name="retroarch_auto_refresh">Auto-Detect Launched Games: %s</string>
+    <string name="retroarch_auto_refresh_description">Automatically detects when a game is launched and switches to it. For devices that don\'t run games locally, use Achievements instead and press Refresh manually.</string>
+    <string name="retroarch_create_vault_if_not_found">Auto-Create Games: %s</string>
+    <string name="retroarch_create_vault_if_not_found_description">Automatically create a game entry when a launched game has no matching one. When off, only existing games are focused.</string>
+    <string name="open_last_played_on_launch_description">Shows your last played game when the app starts or returns to the foreground. New games are created automatically when Auto-Create Games is on.</string>
+    <string name="fold_permission_title">Overlay Mode</string>
+    <string name="fold_permission_body">Display Game Twin on top of all apps, with your guide, images and achievements one tap away. Fold it down to a small handle whenever you want the whole screen back.\n\nAndroid needs your permission to draw over other apps.</string>
+    <string name="fold_permission_continue">Continue</string>
+    <string name="fold_permission_dismiss">Not now</string>
+    <string name="fold_button_description">Show over game</string>
+    <string name="fold_handle_description">Game Twin handle. Tap to open Overlay Mode, hold to return to the app.</string>
+    <string name="fold_swap_hint_title">Two screens</string>
+    <string name="fold_swap_hint_body">Tap to open Game Twin over this screen. Hold to switch screen.</string>
+    <string name="fold_swap_hint_continue">Got it</string>
+    <string name="fold_swap_none">There is no second screen</string>
+    <string name="fold_overlay_hint_title">Overlay Mode</string>
+    <string name="fold_overlay_hint_body">Show Game Twin over your game. Great for dual screen games. Tap the handle to hide it and tap again to bring it back.</string>
+    <string name="fold_overlay_hint_dismiss">Got it</string>
+
+    <!-- Library view -->
+    <string name="settings_show_library_item_names">Show Game Titles: %s</string>
+    <string name="settings_show_library_item_names_on">ON</string>
+    <string name="settings_show_library_item_names_off">OFF</string>
+</resources>
+
+
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    The edition_* drawables are named only by assets/appfilter.xml, which the
+    resource shrinker cannot see. Without this they would be stripped the moment
+    shrinkResources is enabled, and the icon pack would silently ship no art.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/edition_*" />

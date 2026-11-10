@@ -1,0 +1,1418 @@
+{
+  "consoleId": 33,
+  "consoleName": "SG-1000",
+  "games": [
+    {
+      "Title": "~Homebrew~ Cheril Perils Classic",
+      "ID": 22685,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082834.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2024-08-17 15:11:20",
+      "ForumTopicID": 23508,
+      "Hashes": [
+        "dea9e4e5891fbdcd3e0df16fc840afbe"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Earth Attack",
+      "ID": 25804,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/124858.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2025-04-10 05:11:43",
+      "ForumTopicID": 23451,
+      "Hashes": [
+        "be7798f9073f9a587ff0a36b646c65b7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Foryster",
+      "ID": 25010,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/077113.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 69,
+      "DateModified": "2023-07-14 19:09:21",
+      "ForumTopicID": 22544,
+      "Hashes": [
+        "7aeb05029bdb9a571b1b72482daad5eb",
+        "1065ae51e06b8a07ce99998a37c7db79"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ H7N9",
+      "ID": 25825,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082823.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 6,
+      "DateModified": "2023-09-24 23:44:57",
+      "ForumTopicID": 23505,
+      "Hashes": [
+        "784f9220a864953323b42aef566d667e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hopman",
+      "ID": 25826,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082826.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 2,
+      "Points": 135,
+      "DateModified": "2023-11-01 02:08:34",
+      "ForumTopicID": 23506,
+      "Hashes": [
+        "ed86987c468fbdcf6255a22536c3bac1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Jet Paco and Jet Puri",
+      "ID": 25011,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082655.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2023-09-20 14:17:53",
+      "ForumTopicID": 23457,
+      "Hashes": [
+        "c07672a810c23e269a65a02e3893172a",
+        "e13c66c69904b94459fa46da26aca87e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Klondike Solitaire",
+      "ID": 25013,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/110682.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 62,
+      "DateModified": "2024-03-30 01:37:45",
+      "ForumTopicID": 25835,
+      "Hashes": [
+        "9ced5749ab0db9d67b5446381a0182f7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mahjong Solitaire",
+      "ID": 25012,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082850.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 35,
+      "DateModified": "2023-09-23 19:49:03",
+      "ForumTopicID": 23517,
+      "Hashes": [
+        "894cb6837dc67fd4ada3be7126c1cbd4"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Palikat",
+      "ID": 25009,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/083579.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 4,
+      "Points": 289,
+      "DateModified": "2023-10-03 09:51:20",
+      "ForumTopicID": 22348,
+      "Hashes": [
+        "a90090e446b4e86ce3cadc451530c0ad"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pegged",
+      "ID": 25602,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081627.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 180,
+      "DateModified": "2023-10-11 14:36:43",
+      "ForumTopicID": 23101,
+      "Hashes": [
+        "54be39abfa98f34f9cfeeeaa75aee054"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pitman",
+      "ID": 22087,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/066476.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 50,
+      "Points": 155,
+      "DateModified": "2023-01-16 21:42:11",
+      "ForumTopicID": 19768,
+      "Hashes": [
+        "f8d0df42b3143c16d3730a37ff1190b9"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Snake [Rick Skrbina]",
+      "ID": 14474,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/026891.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 24,
+      "DateModified": "2020-06-08 14:02:23",
+      "ForumTopicID": 9335,
+      "Hashes": [
+        "3bec2aa3d11a1d1e9b1de9dbef6b513c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Snake [under4mhz]",
+      "ID": 22345,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/104467.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 34,
+      "Points": 145,
+      "DateModified": "2023-04-25 07:21:20",
+      "ForumTopicID": 20045,
+      "Hashes": [
+        "bb91e8818fdd78c9e6cd2b94bbe552ff"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Uwol",
+      "ID": 19716,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/074208.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 4,
+      "Points": 139,
+      "DateModified": "2023-10-03 03:19:51",
+      "ForumTopicID": 21822,
+      "Hashes": [
+        "44a7e8eaf9187835f3fb6c6ddda45327"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Vexed",
+      "ID": 22072,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/066358.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2023-02-17 18:33:12",
+      "ForumTopicID": 19728,
+      "Hashes": [
+        "7cd478e059987105eaf4f2780be137c9"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Bomberman Special",
+      "ID": 14185,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/072795.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 57,
+      "DateModified": "2024-04-01 17:01:36",
+      "ForumTopicID": 20935,
+      "Hashes": [
+        "cd87c1a8cd8bc137673a7fb057e2142e"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Cabbage Patch Kids",
+      "ID": 24311,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/072913.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 59,
+      "DateModified": "2023-05-12 00:53:08",
+      "ForumTopicID": 21588,
+      "Hashes": [
+        "1c2c5851deb0e9142b5ff19e8dcd8442"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Knightmare | Mo Yu Chuanqi",
+      "ID": 14030,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/025036.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 500,
+      "DateModified": "2021-07-27 02:55:42",
+      "ForumTopicID": 8615,
+      "Hashes": [
+        "7fe0bb81a812667f73a0ef5876cc30ac",
+        "e0321cd713ec1b48ff88f7df13e3ce28"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Magical Kid Wiz",
+      "ID": 24548,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082534.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2023-09-17 17:37:10",
+      "ForumTopicID": 23358,
+      "Hashes": [
+        "c12474e0a2556adb2478bc4d99faba51"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Magical Tree",
+      "ID": 24549,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/083160.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2023-10-08 09:33:06",
+      "ForumTopicID": 23466,
+      "Hashes": [
+        "014f702585a68399afe55ea63ba0f7de"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Rally-X | Du Du Che",
+      "ID": 14188,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/067847.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 108,
+      "DateModified": "2025-03-27 17:50:39",
+      "ForumTopicID": 11305,
+      "Hashes": [
+        "3071f939aaa0911fc0907aae5daaa160"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Road Fighter",
+      "ID": 24556,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/107155.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 117,
+      "DateModified": "2025-02-08 16:56:37",
+      "ForumTopicID": 29598,
+      "Hashes": [
+        "be975a2510125ff4b545bb162826ef26"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Star Soldier",
+      "ID": 24562,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082946.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2023-09-27 06:27:09",
+      "ForumTopicID": 23543,
+      "Hashes": [
+        "cb95017c8d13d95c91129f9b3b1f6798"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ TwinBee",
+      "ID": 14191,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/070658.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 220,
+      "DateModified": "2023-09-29 21:22:21",
+      "ForumTopicID": 23488,
+      "Hashes": [
+        "8c2c0d7e8415ae7b0c577cf947e89e78"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Yie Ar Kung-Fu",
+      "ID": 24566,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/078656.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 105,
+      "DateModified": "2023-10-15 04:58:13",
+      "ForumTopicID": 22693,
+      "Hashes": [
+        "b14852ce157619fd60666a6474936d69"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Yie Ar Kung-Fu II",
+      "ID": 22088,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/066483.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 265,
+      "DateModified": "2023-08-12 09:06:00",
+      "ForumTopicID": 19770,
+      "Hashes": [
+        "c1f51f5dbfb859b1204a812d9c08ffd3"
+      ]
+    },
+    {
+      "Title": "007 James Bond",
+      "ID": 24526,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081578.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 3,
+      "Points": 235,
+      "DateModified": "2023-10-19 00:03:14",
+      "ForumTopicID": 23031,
+      "Hashes": [
+        "b2ac0c7755e0d6ba0a737861ee190a53"
+      ]
+    },
+    {
+      "Title": "Bank Panic",
+      "ID": 17875,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082248.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 95,
+      "DateModified": "2023-09-08 20:29:58",
+      "ForumTopicID": 13655,
+      "Hashes": [
+        "47cd2d0bbcb879302f83f2f7058f49d4"
+      ]
+    },
+    {
+      "Title": "Bomb Jack",
+      "ID": 13950,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082764.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 7,
+      "Points": 220,
+      "DateModified": "2023-10-06 15:44:56",
+      "ForumTopicID": 22354,
+      "Hashes": [
+        "0bf5b6959fc1b58d8e37f9647f47a0b3"
+      ]
+    },
+    {
+      "Title": "Borderline",
+      "ID": 24527,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076315.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 167,
+      "DateModified": "2024-11-21 13:09:27",
+      "ForumTopicID": 22380,
+      "Hashes": [
+        "25c742e43bc9f1329f3f26502fefb10a"
+      ]
+    },
+    {
+      "Title": "C_So!",
+      "ID": 24528,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076314.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 441,
+      "DateModified": "2023-10-03 14:42:47",
+      "ForumTopicID": 22352,
+      "Hashes": [
+        "d87daad7de33105d703b613052ccc2dd"
+      ]
+    },
+    {
+      "Title": "Chack'n Pop",
+      "ID": 13996,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/069467.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 1,
+      "Points": 425,
+      "DateModified": "2025-04-09 13:11:25",
+      "ForumTopicID": 20662,
+      "Hashes": [
+        "286ba24b335a1600dfc611a0a9fe7875"
+      ]
+    },
+    {
+      "Title": "Champion Baseball",
+      "ID": 24530,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/077176.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 68,
+      "DateModified": "2023-10-07 05:45:50",
+      "ForumTopicID": 22538,
+      "Hashes": [
+        "308e337a863bb9fa952426ef99180aa7",
+        "f70d4bcf91d3ad9313f9800f35b49536"
+      ]
+    },
+    {
+      "Title": "Champion Billiards",
+      "ID": 17986,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/048688.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 95,
+      "DateModified": "2023-10-01 01:01:51",
+      "ForumTopicID": 22512,
+      "Hashes": [
+        "71c32b1cf1e85d217421068ac8ccc655"
+      ]
+    },
+    {
+      "Title": "Champion Boxing",
+      "ID": 24531,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/124662.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 33,
+      "DateModified": "2023-10-04 23:46:28",
+      "ForumTopicID": 22342,
+      "Hashes": [
+        "3f54756fd73c3fbe33b56d7954d12f31",
+        "7527098abb9df1db29ba9f495b06998a",
+        "3e346c6137cab263643e42411f64a74d"
+      ]
+    },
+    {
+      "Title": "Champion Golf",
+      "ID": 24532,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076614.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 1,
+      "Points": 142,
+      "DateModified": "2023-10-02 23:34:43",
+      "ForumTopicID": 22461,
+      "Hashes": [
+        "1d87490269964239b64244fcabd18fe1",
+        "3c01bb2a4414989378c252f45a4e5050"
+      ]
+    },
+    {
+      "Title": "Champion Ice Hockey",
+      "ID": 24533,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/079758.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 102,
+      "DateModified": "2023-09-30 02:48:56",
+      "ForumTopicID": 22791,
+      "Hashes": [
+        "b3af58c60e62bb85522ddc29096cef60"
+      ]
+    },
+    {
+      "Title": "Champion Kendou",
+      "ID": 24534,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082879.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 180,
+      "DateModified": "2023-09-24 23:51:19",
+      "ForumTopicID": 23532,
+      "Hashes": [
+        "ed6e4e8e081b56be488f57abcb51a7e5"
+      ]
+    },
+    {
+      "Title": "Champion Pro Wrestling",
+      "ID": 24535,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082408.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 72,
+      "DateModified": "2023-10-07 14:36:31",
+      "ForumTopicID": 23443,
+      "Hashes": [
+        "da9a4589303370e8a751c16b2cbfa628"
+      ]
+    },
+    {
+      "Title": "Champion Soccer",
+      "ID": 24536,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082788.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2023-10-01 13:19:46",
+      "ForumTopicID": 23502,
+      "Hashes": [
+        "810064687e1614b6a7fb985b82806d31"
+      ]
+    },
+    {
+      "Title": "Champion Tennis",
+      "ID": 24537,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/080753.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 27,
+      "DateModified": "2023-08-18 21:26:39",
+      "ForumTopicID": 22350,
+      "Hashes": [
+        "79e8f456fae5d3719731e960c9b4c612"
+      ]
+    },
+    {
+      "Title": "Championship Lode Runner",
+      "ID": 22894,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081465.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 1,
+      "Points": 320,
+      "DateModified": "2023-10-31 11:07:12",
+      "ForumTopicID": 23043,
+      "Hashes": [
+        "f49d9ea611ccb9289994774406f20d06"
+      ]
+    },
+    {
+      "Title": "Choplifter",
+      "ID": 6809,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/124577.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 113,
+      "DateModified": "2023-06-20 05:00:16",
+      "ForumTopicID": 22102,
+      "Hashes": [
+        "ee557c7811f03c44965a56b80801a3b9"
+      ]
+    },
+    {
+      "Title": "Congo Bongo",
+      "ID": 13484,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/072009.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2023-06-30 23:38:32",
+      "ForumTopicID": 21581,
+      "Hashes": [
+        "5f4d3c629e37e83794233b3cffc4cc0e"
+      ]
+    },
+    {
+      "Title": "Doki Doki Penguin Land",
+      "ID": 13997,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/074240.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 280,
+      "DateModified": "2023-09-14 22:57:20",
+      "ForumTopicID": 21820,
+      "Hashes": [
+        "79f15598828e697e75c65130262d8d94"
+      ]
+    },
+    {
+      "Title": "Dragon Wang",
+      "ID": 13951,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/023331.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2022-03-31 07:28:21",
+      "ForumTopicID": 8264,
+      "Hashes": [
+        "0528eed7e7ae46ec8298098f1a22d18f",
+        "64d3cc8117292f6d5af8e1aad95bcb90"
+      ]
+    },
+    {
+      "Title": "Drol",
+      "ID": 24539,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/084815.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2023-09-07 12:06:30",
+      "ForumTopicID": 23087,
+      "Hashes": [
+        "8eb2ab42d2bc3f3568e85cba2b46a251"
+      ]
+    },
+    {
+      "Title": "Elevator Action",
+      "ID": 8175,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076278.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 180,
+      "DateModified": "2023-10-01 06:59:06",
+      "ForumTopicID": 23632,
+      "Hashes": [
+        "23c751fe6bb8bd4f8c0cd9b0d39adecd"
+      ]
+    },
+    {
+      "Title": "Exerion",
+      "ID": 6806,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/077186.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 58,
+      "DateModified": "2023-07-12 01:57:11",
+      "ForumTopicID": 22362,
+      "Hashes": [
+        "7f0ae039dd072d825ebfd2d3bf02a2a0"
+      ]
+    },
+    {
+      "Title": "Flicky",
+      "ID": 13482,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/083447.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 2,
+      "Points": 194,
+      "DateModified": "2023-07-11 07:02:17",
+      "ForumTopicID": 22345,
+      "Hashes": [
+        "0bb6d2a43b340f56366edabd7e21fed4"
+      ]
+    },
+    {
+      "Title": "Girl's Garden",
+      "ID": 12363,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/124656.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 2,
+      "Points": 410,
+      "DateModified": "2023-09-20 10:17:08",
+      "ForumTopicID": 8436,
+      "Hashes": [
+        "ac95c0655360f667e3ad705e2eb7367a"
+      ]
+    },
+    {
+      "Title": "Golgo 13",
+      "ID": 24540,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076129.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 134,
+      "DateModified": "2023-08-29 23:28:08",
+      "ForumTopicID": 22347,
+      "Hashes": [
+        "cb25a12e86c729f6a51ba3dea91c1547"
+      ]
+    },
+    {
+      "Title": "GP World",
+      "ID": 24541,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076324.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 27,
+      "Points": 240,
+      "DateModified": "2023-10-28 11:14:26",
+      "ForumTopicID": 22385,
+      "Hashes": [
+        "4d9cc3764321b668d1fc238e19794312"
+      ]
+    },
+    {
+      "Title": "Gulkave",
+      "ID": 13991,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/062844.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 575,
+      "DateModified": "2019-10-23 10:48:02",
+      "ForumTopicID": 8441,
+      "Hashes": [
+        "43c23a134aec3ab424405780ff729d54"
+      ]
+    },
+    {
+      "Title": "Guzzler",
+      "ID": 24542,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081854.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 125,
+      "DateModified": "2023-10-02 18:25:14",
+      "ForumTopicID": 22562,
+      "Hashes": [
+        "f3f1042745e96e29bfdf920d031b8cd5"
+      ]
+    },
+    {
+      "Title": "H.E.R.O.",
+      "ID": 13999,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/066875.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 2,
+      "Points": 273,
+      "DateModified": "2023-10-02 06:31:34",
+      "ForumTopicID": 20238,
+      "Hashes": [
+        "d10f38c614113cb34bbf4a19b487e1fb"
+      ]
+    },
+    {
+      "Title": "Hang On II",
+      "ID": 24543,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076330.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 3,
+      "Points": 328,
+      "DateModified": "2023-10-11 01:36:11",
+      "ForumTopicID": 22341,
+      "Hashes": [
+        "314c865decbe6f578d9bfa23f27a08e6"
+      ]
+    },
+    {
+      "Title": "Hustle Chumy",
+      "ID": 17985,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/060220.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 10,
+      "Points": 165,
+      "DateModified": "2022-07-21 16:52:10",
+      "ForumTopicID": 17340,
+      "Hashes": [
+        "8be690d357a99abd26ebb5378e9c0153"
+      ]
+    },
+    {
+      "Title": "Hyper Sports",
+      "ID": 18064,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/049157.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 6,
+      "Points": 195,
+      "DateModified": "2024-08-01 01:55:51",
+      "ForumTopicID": 14130,
+      "Hashes": [
+        "d8e6d89d520c91a9ea219291b55284bb"
+      ]
+    },
+    {
+      "Title": "Lode Runner",
+      "ID": 14186,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/045722.png",
+      "NumAchievements": 86,
+      "NumLeaderboards": 0,
+      "Points": 435,
+      "DateModified": "2021-08-01 04:44:49",
+      "ForumTopicID": 13490,
+      "Hashes": [
+        "4b4f02eb3cf7d5f9dcd1311d72e6d742"
+      ]
+    },
+    {
+      "Title": "Mahjong",
+      "ID": 24550,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076728.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 104,
+      "DateModified": "2023-09-03 02:55:49",
+      "ForumTopicID": 22479,
+      "Hashes": [
+        "1dbb5c85962c2110ffe35ec536f96329",
+        "d9da8a32bd3b18881dfa2b469c85944e"
+      ]
+    },
+    {
+      "Title": "Monaco GP",
+      "ID": 13998,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076653.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2023-07-31 02:48:26",
+      "ForumTopicID": 22459,
+      "Hashes": [
+        "cda3731948a50bb396b380f7fc82ec12"
+      ]
+    },
+    {
+      "Title": "N-Sub",
+      "ID": 24551,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076349.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 125,
+      "DateModified": "2025-03-13 18:06:20",
+      "ForumTopicID": 22381,
+      "Hashes": [
+        "56c559d0d82a3e6fb2e87230d39f32f4",
+        "cfced1ba39adee6a75dc830ed9c12f73"
+      ]
+    },
+    {
+      "Title": "Ninja Princess",
+      "ID": 12408,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/024066.png",
+      "NumAchievements": 84,
+      "NumLeaderboards": 14,
+      "Points": 516,
+      "DateModified": "2025-12-04 09:45:03",
+      "ForumTopicID": 8435,
+      "Hashes": [
+        "28d83150c298bcdae6aec51cc2c6975a"
+      ]
+    },
+    {
+      "Title": "Orguss",
+      "ID": 17745,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/044828.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 97,
+      "DateModified": "2022-06-13 18:27:38",
+      "ForumTopicID": 13174,
+      "Hashes": [
+        "0f45fa8e9b985fd5c6545645462b9400"
+      ]
+    },
+    {
+      "Title": "Othello",
+      "ID": 14187,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/080882.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 66,
+      "DateModified": "2023-10-15 17:46:37",
+      "ForumTopicID": 22919,
+      "Hashes": [
+        "3f429704761d34d7793e7123a183d7f6"
+      ]
+    },
+    {
+      "Title": "Pacar",
+      "ID": 17771,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/045207.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 3,
+      "Points": 165,
+      "DateModified": "2023-09-20 09:47:27",
+      "ForumTopicID": 13293,
+      "Hashes": [
+        "8f46800e6fc7d5a40716045f6d739932"
+      ]
+    },
+    {
+      "Title": "Pachinko",
+      "ID": 6819,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076430.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2023-09-30 09:11:38",
+      "ForumTopicID": 22469,
+      "Hashes": [
+        "37f5e516d9fbce05052204b67379a6da"
+      ]
+    },
+    {
+      "Title": "Pachinko II",
+      "ID": 19164,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/124032.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 175,
+      "DateModified": "2023-10-04 05:44:22",
+      "ForumTopicID": 22483,
+      "Hashes": [
+        "a3409283bf8c808a15095cc005a74975",
+        "eadae13ff73047a47f354e258c12619e"
+      ]
+    },
+    {
+      "Title": "Pop Flamer",
+      "ID": 24555,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081144.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2025-01-16 16:42:47",
+      "ForumTopicID": 22929,
+      "Hashes": [
+        "7f841aa0c225662e26ca7a8df20b2eb8"
+      ]
+    },
+    {
+      "Title": "Q*bert",
+      "ID": 17354,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076322.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 239,
+      "DateModified": "2023-09-30 14:04:32",
+      "ForumTopicID": 22356,
+      "Hashes": [
+        "a768a8ae921126300e98f9d918a4a0c9"
+      ]
+    },
+    {
+      "Title": "Rock n' Bolt",
+      "ID": 14728,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/083439.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 130,
+      "DateModified": "2023-09-29 23:04:22",
+      "ForumTopicID": 23689,
+      "Hashes": [
+        "108ffe4ba5c2c8c5e0459cb7f0cfac0e"
+      ]
+    },
+    {
+      "Title": "Rock n' Bolt [Subset - Overtime Overload]",
+      "ID": 25998,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/083356.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 4,
+      "Points": 250,
+      "DateModified": "2023-09-29 16:10:51",
+      "ForumTopicID": 23689,
+      "Hashes": [
+        "7867c2dd7d67b291c617feccf23ceb52"
+      ]
+    },
+    {
+      "Title": "Safari Hunting",
+      "ID": 24557,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076674.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 135,
+      "DateModified": "2023-10-16 00:44:08",
+      "ForumTopicID": 22365,
+      "Hashes": [
+        "f77826f62d943c4a24f7fb9c3bb4a5f9"
+      ]
+    },
+    {
+      "Title": "Safari Race",
+      "ID": 24558,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076787.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 90,
+      "DateModified": "2023-10-02 02:54:40",
+      "ForumTopicID": 22478,
+      "Hashes": [
+        "8384956e456a91ca59f9c5e72f1cb1c4"
+      ]
+    },
+    {
+      "Title": "Sega Flipper",
+      "ID": 14189,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/071085.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 135,
+      "DateModified": "2023-04-13 19:30:09",
+      "ForumTopicID": 21026,
+      "Hashes": [
+        "3f2acc9de65c8496c3d8470ef12dc210"
+      ]
+    },
+    {
+      "Title": "Sega-Galaga",
+      "ID": 13992,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/023538.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 350,
+      "DateModified": "2025-07-30 13:49:00",
+      "ForumTopicID": 14854,
+      "Hashes": [
+        "e2619cf7c307ac1916c534519f6043d9"
+      ]
+    },
+    {
+      "Title": "Sindbad Mystery",
+      "ID": 6803,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/079472.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 95,
+      "DateModified": "2023-07-31 00:30:00",
+      "ForumTopicID": 22344,
+      "Hashes": [
+        "7b0f2be3588337df59959ababbefe505"
+      ]
+    },
+    {
+      "Title": "Soukoban",
+      "ID": 19919,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/059311.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-10-02 02:40:38",
+      "ForumTopicID": 16990,
+      "Hashes": [
+        "6cae3b6286041e742020aeb3cd2bdf52"
+      ]
+    },
+    {
+      "Title": "Space Armor",
+      "ID": 5213,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/078379.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 63,
+      "DateModified": "2023-09-30 08:50:10",
+      "ForumTopicID": 22620,
+      "Hashes": [
+        "b6aff368af8c8e1f0ae257c519d96ca8"
+      ]
+    },
+    {
+      "Title": "Space Invaders",
+      "ID": 14190,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/069499.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 146,
+      "DateModified": "2023-06-24 03:05:02",
+      "ForumTopicID": 20687,
+      "Hashes": [
+        "87a97b049ec01b1803b93f06d0407586"
+      ]
+    },
+    {
+      "Title": "Space Mountain",
+      "ID": 5397,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082293.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2023-10-16 15:46:45",
+      "ForumTopicID": 23295,
+      "Hashes": [
+        "2321b2a684b83d58489fda2df66ab6fb"
+      ]
+    },
+    {
+      "Title": "Space Slalom",
+      "ID": 5858,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/057271.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 37,
+      "Points": 170,
+      "DateModified": "2022-05-08 11:37:19",
+      "ForumTopicID": 16181,
+      "Hashes": [
+        "c04dc7fb9d27629735edb1570ec39f00"
+      ]
+    },
+    {
+      "Title": "Star Force",
+      "ID": 6787,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/123219.png",
+      "NumAchievements": 135,
+      "NumLeaderboards": 3,
+      "Points": 1800,
+      "DateModified": "2023-11-23 03:02:11",
+      "ForumTopicID": 22262,
+      "Hashes": [
+        "2cbd1f9f4927f9618390340f56f116a6"
+      ]
+    },
+    {
+      "Title": "Star Jacker",
+      "ID": 13949,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076212.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 128,
+      "DateModified": "2023-10-11 01:19:37",
+      "ForumTopicID": 22360,
+      "Hashes": [
+        "22200ef1461212cacdc58f6636d759fd",
+        "658ede490eae6af2b0f61dd136761d95",
+        "eccad04698782862f3785ff9708f73e8",
+        "0104171ade3cfeaf10c92926869e2a52"
+      ]
+    },
+    {
+      "Title": "Super Tank",
+      "ID": 24563,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076632.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2023-09-30 05:19:56",
+      "ForumTopicID": 22395,
+      "Hashes": [
+        "59d01bf1093a65e9ec08e533cfbbc5ff"
+      ]
+    },
+    {
+      "Title": "The Black Onyx",
+      "ID": 17798,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/066873.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 143,
+      "DateModified": "2024-05-19 00:58:32",
+      "ForumTopicID": 23486,
+      "Hashes": [
+        "d2b0524a2cf5754c0fa1c900e9ecb06b",
+        "1da64bab6808f8b6df159c912d3b4072",
+        "e2fca5d8609135caf5f4e2a88e38eabb"
+      ]
+    },
+    {
+      "Title": "The Castle",
+      "ID": 13995,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/077389.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 2,
+      "Points": 288,
+      "DateModified": "2023-07-16 05:02:48",
+      "ForumTopicID": 22343,
+      "Hashes": [
+        "d047c10d6b27cf34ccb66340a089523a"
+      ]
+    },
+    {
+      "Title": "Wonder Boy",
+      "ID": 13993,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/092750.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 6,
+      "Points": 166,
+      "DateModified": "2024-06-03 21:46:39",
+      "ForumTopicID": 22363,
+      "Hashes": [
+        "d26fabfe84ad40ae04a2cd3dc6cf75df"
+      ]
+    },
+    {
+      "Title": "Yamato",
+      "ID": 24565,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/076216.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 105,
+      "DateModified": "2025-03-13 18:08:15",
+      "ForumTopicID": 22351,
+      "Hashes": [
+        "0dd197a0e1f43c0684f98b52514fce59"
+      ]
+    },
+    {
+      "Title": "Zaxxon",
+      "ID": 13483,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/082074.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2023-09-04 21:55:03",
+      "ForumTopicID": 23226,
+      "Hashes": [
+        "52bbf5336c190610a0fb1ab0bdaca455"
+      ]
+    },
+    {
+      "Title": "Zippy Race",
+      "ID": 24567,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/081329.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 147,
+      "DateModified": "2023-09-09 07:49:16",
+      "ForumTopicID": 23026,
+      "Hashes": [
+        "0eda34ba313d3bb34558fd5939b19794",
+        "16856425e0bcc3ab475f46f7cfd00402"
+      ]
+    },
+    {
+      "Title": "Zoom 909",
+      "ID": 24568,
+      "ConsoleID": 33,
+      "ConsoleName": "SG-1000",
+      "ImageIcon": "/Images/103424.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 121,
+      "DateModified": "2025-12-01 12:35:18",
+      "ForumTopicID": 33400,
+      "Hashes": [
+        "4e457a6c5b4b613f2aac3472f6827a89"
+      ]
+    }
+  ]
+}

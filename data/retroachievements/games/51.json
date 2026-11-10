@@ -1,0 +1,638 @@
+{
+  "consoleId": 51,
+  "consoleName": "Atari 7800",
+  "games": [
+    {
+      "Title": "~Homebrew~ 2048",
+      "ID": 24465,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/073979.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2023-05-28 08:07:05",
+      "ForumTopicID": 21781,
+      "Hashes": [
+        "6f157f421c7ed5d952b393122d37915e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Bentley Bear's Crystal Quest",
+      "ID": 31170,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/108898.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2025-03-21 02:13:15",
+      "ForumTopicID": 29967,
+      "Hashes": [
+        "34483432b92f565f4ced82a141119164"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Death Merchant",
+      "ID": 28950,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/092264.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 56,
+      "DateModified": "2024-03-14 01:11:54",
+      "ForumTopicID": 25797,
+      "Hashes": [
+        "fab7b59dd580dce0b28be3e74a7b8433"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Flappy Bird",
+      "ID": 24485,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/074046.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2023-05-29 06:46:29",
+      "ForumTopicID": 21793,
+      "Hashes": [
+        "bac78b53f4f6b3f68c0f8073f0073179"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Knight Guy In Low Res World: Castle Days",
+      "ID": 29938,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/098438.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2024-08-25 16:04:31",
+      "ForumTopicID": 26888,
+      "Hashes": [
+        "33dbb58f9ee73e9f476b4ebbc8190c88"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Meteor Shower",
+      "ID": 24518,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/074241.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 80,
+      "DateModified": "2023-06-04 12:47:55",
+      "ForumTopicID": 21827,
+      "Hashes": [
+        "c3f6201d6a9388e860328c963a3301cc",
+        "a44241d782ee14b53483487cc8216274"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Rikki & Vikki",
+      "ID": 16547,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/066811.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 6,
+      "Points": 416,
+      "DateModified": "2025-12-16 04:40:05",
+      "ForumTopicID": 19920,
+      "Hashes": [
+        "b3bc889e9cc498636990c5a4d980e85c"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Super Pac-Man",
+      "ID": 31174,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/112889.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 154,
+      "DateModified": "2025-06-07 23:24:06",
+      "ForumTopicID": 30990,
+      "Hashes": [
+        "7ab539bb0e99e1e5a1c89230bde64610"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ T:ME Salvo",
+      "ID": 16574,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/067894.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 2,
+      "Points": 255,
+      "DateModified": "2025-04-03 19:27:30",
+      "ForumTopicID": 20166,
+      "Hashes": [
+        "a60e4b608505d1fb201703b266f754a7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Waffle Painter",
+      "ID": 36955,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/120974.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 48,
+      "DateModified": "2025-11-29 20:03:17",
+      "ForumTopicID": 33337,
+      "Hashes": [
+        "54af86a45014f0e436bdc5fc6dd03389"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Wordle",
+      "ID": 24466,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/073972.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2023-05-28 21:58:07",
+      "ForumTopicID": 21776,
+      "Hashes": [
+        "71ce8910b0efd5d0014a9695cce3b7ad"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Pit Fighter",
+      "ID": 13370,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/097910.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 8,
+      "DateModified": "2024-06-01 20:50:02",
+      "ForumTopicID": 26745,
+      "Hashes": [
+        "05f43244465943ce819780a71a5b572a"
+      ]
+    },
+    {
+      "Title": "Alien Brigade",
+      "ID": 12862,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/045524.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 80,
+      "DateModified": "2023-07-25 18:28:26",
+      "ForumTopicID": 14917,
+      "Hashes": [
+        "877dcc97a775ed55081864b2dbf5f1e2"
+      ]
+    },
+    {
+      "Title": "Asteroids",
+      "ID": 13357,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/121481.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 88,
+      "DateModified": "2025-12-12 22:27:12",
+      "ForumTopicID": 33516,
+      "Hashes": [
+        "07342c78619ba6ffcc61c10e907e3b50"
+      ]
+    },
+    {
+      "Title": "Ballblazer",
+      "ID": 16941,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/075852.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 79,
+      "DateModified": "2023-07-22 15:43:43",
+      "ForumTopicID": 22268,
+      "Hashes": [
+        "8fc3a695eaea3984912d98ed4a543376"
+      ]
+    },
+    {
+      "Title": "Basketbrawl",
+      "ID": 16943,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/120166.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2021-04-02 06:12:58",
+      "ForumTopicID": 12354,
+      "Hashes": [
+        "f5f6b69c5eb4b55fc163158d1a6b423e",
+        "fba002089fcfa176454ab507e0eb76cb"
+      ]
+    },
+    {
+      "Title": "Centipede",
+      "ID": 13358,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/124261.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 4,
+      "Points": 156,
+      "DateModified": "2026-02-18 23:05:39",
+      "ForumTopicID": 34356,
+      "Hashes": [
+        "5a09946e57dbe30408a8f253a28d07db"
+      ]
+    },
+    {
+      "Title": "Choplifter!",
+      "ID": 14261,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/058923.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 123,
+      "DateModified": "2023-08-29 23:59:08",
+      "ForumTopicID": 16888,
+      "Hashes": [
+        "93e4387864b014c155d7c17877990d1e"
+      ]
+    },
+    {
+      "Title": "Dark Chambers",
+      "ID": 13353,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/074169.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 111,
+      "DateModified": "2023-08-27 02:58:28",
+      "ForumTopicID": 21789,
+      "Hashes": [
+        "179b76ff729d4849b8f66a502398acae"
+      ]
+    },
+    {
+      "Title": "Dig Dug",
+      "ID": 13360,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/073869.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 4,
+      "Points": 74,
+      "DateModified": "2023-05-28 05:42:11",
+      "ForumTopicID": 8377,
+      "Hashes": [
+        "731879ea82fc0ca245e39e036fe293e6"
+      ]
+    },
+    {
+      "Title": "Donkey Kong",
+      "ID": 13354,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/024839.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 3,
+      "Points": 143,
+      "DateModified": "2022-04-03 11:42:32",
+      "ForumTopicID": 8727,
+      "Hashes": [
+        "19f1ee292a23636bd57d408b62de79c7"
+      ]
+    },
+    {
+      "Title": "Donkey Kong Junior",
+      "ID": 14262,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/112892.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 6,
+      "Points": 70,
+      "DateModified": "2022-10-18 19:09:09",
+      "ForumTopicID": 11461,
+      "Hashes": [
+        "5e332fbfc1e0fc74223d2e73271ce650"
+      ]
+    },
+    {
+      "Title": "Double Dragon",
+      "ID": 13355,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/053928.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2022-03-03 08:46:42",
+      "ForumTopicID": 15265,
+      "Hashes": [
+        "543484c00ba233736bcaba2da20eeea9"
+      ]
+    },
+    {
+      "Title": "Food Fight",
+      "ID": 13361,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/063160.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 4,
+      "Points": 74,
+      "DateModified": "2025-09-09 03:56:08",
+      "ForumTopicID": 7637,
+      "Hashes": [
+        "cf76b00244105b8e03cdc37677ec1073"
+      ]
+    },
+    {
+      "Title": "Galaga",
+      "ID": 13362,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/056840.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 2,
+      "Points": 266,
+      "DateModified": "2022-04-28 21:25:14",
+      "ForumTopicID": 16051,
+      "Hashes": [
+        "fb8d803b328b2e442548f7799cfa9a4a"
+      ]
+    },
+    {
+      "Title": "Ikari Warriors",
+      "ID": 13363,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/114283.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 4,
+      "Points": 280,
+      "DateModified": "2025-07-23 13:06:18",
+      "ForumTopicID": 31254,
+      "Hashes": [
+        "c3672482ca93f70eafd9134b936c3feb"
+      ]
+    },
+    {
+      "Title": "Joust",
+      "ID": 13364,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/116505.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 5,
+      "Points": 530,
+      "DateModified": "2023-07-25 18:42:18",
+      "ForumTopicID": 10490,
+      "Hashes": [
+        "f18b3b897a25ab3885b43b4bd141b396"
+      ]
+    },
+    {
+      "Title": "Karateka",
+      "ID": 14269,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/103190.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 66,
+      "DateModified": "2024-10-21 12:13:59",
+      "ForumTopicID": 28414,
+      "Hashes": [
+        "c3a5a8692a423d43d9d28dd5b7d109d9"
+      ]
+    },
+    {
+      "Title": "Kung-Fu Master",
+      "ID": 16945,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/105647.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 6,
+      "Points": 200,
+      "DateModified": "2025-01-01 21:47:14",
+      "ForumTopicID": 29010,
+      "Hashes": [
+        "f57d0af323d4e173fb49ed447f0563d7"
+      ]
+    },
+    {
+      "Title": "Mean 18 Ultimate Golf",
+      "ID": 17261,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/085514.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 2,
+      "Points": 250,
+      "DateModified": "2023-11-12 07:06:32",
+      "ForumTopicID": 24396,
+      "Hashes": [
+        "f2f5e5841e4dda89a2faf8933dc33ea6"
+      ]
+    },
+    {
+      "Title": "Midnight Mutants",
+      "ID": 13367,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/123946.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 47,
+      "Points": 125,
+      "DateModified": "2025-11-20 22:23:27",
+      "ForumTopicID": 13418,
+      "Hashes": [
+        "bc1e905db1008493a9632aa83ab4682b"
+      ]
+    },
+    {
+      "Title": "Ms. Pac-Man",
+      "ID": 13368,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/043750.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 175,
+      "DateModified": "2025-08-07 06:27:59",
+      "ForumTopicID": 7517,
+      "Hashes": [
+        "fc0ea52a9fac557251b65ee680d951e5"
+      ]
+    },
+    {
+      "Title": "Ninja Golf",
+      "ID": 13352,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/110758.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 480,
+      "DateModified": "2025-08-10 21:51:18",
+      "ForumTopicID": 7632,
+      "Hashes": [
+        "220121f771fc4b98cef97dc040e8d378"
+      ]
+    },
+    {
+      "Title": "Planet Smashers",
+      "ID": 13244,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/071052.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 122,
+      "DateModified": "2026-02-22 02:30:00",
+      "ForumTopicID": 23108,
+      "Hashes": [
+        "33aea1e2b6634a1dec8c7006d9afda22"
+      ]
+    },
+    {
+      "Title": "Pole Position II",
+      "ID": 13369,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/074174.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 12,
+      "Points": 315,
+      "DateModified": "2025-08-25 23:47:53",
+      "ForumTopicID": 21775,
+      "Hashes": [
+        "584582bb09ee8122e7fc09dc7d1ed813"
+      ]
+    },
+    {
+      "Title": "Rampage",
+      "ID": 13371,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/115421.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 320,
+      "DateModified": "2021-05-23 01:38:47",
+      "ForumTopicID": 10532,
+      "Hashes": [
+        "ac03806cef2558fc795a7d5d8dba7bc0"
+      ]
+    },
+    {
+      "Title": "Robotron 2084",
+      "ID": 13372,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/024678.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 4,
+      "Points": 460,
+      "DateModified": "2023-06-08 10:47:35",
+      "ForumTopicID": 8717,
+      "Hashes": [
+        "66ecaafe1b82ae68ffc96267aaf7a4d7"
+      ]
+    },
+    {
+      "Title": "Scrapyard Dog",
+      "ID": 14266,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/046098.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 19,
+      "Points": 200,
+      "DateModified": "2025-02-06 16:52:24",
+      "ForumTopicID": 13561,
+      "Hashes": [
+        "980c35ae9625773a450aa7ef51751c04"
+      ]
+    },
+    {
+      "Title": "Summer Games",
+      "ID": 17257,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/084215.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 143,
+      "DateModified": "2024-05-26 05:46:32",
+      "ForumTopicID": 23268,
+      "Hashes": [
+        "cbb0746192540a13b4c7775c7ce2021f"
+      ]
+    },
+    {
+      "Title": "Super Skateboardin'",
+      "ID": 16953,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/058411.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 121,
+      "DateModified": "2022-05-27 08:18:26",
+      "ForumTopicID": 16737,
+      "Hashes": [
+        "59b5793bece1c80f77b55d60fb39cb94"
+      ]
+    },
+    {
+      "Title": "Tomcat: The F-14 Fighter Simulator",
+      "ID": 16954,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/095394.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 88,
+      "DateModified": "2024-04-24 13:48:47",
+      "ForumTopicID": 26228,
+      "Hashes": [
+        "c3903ab01a51222a52197dbfe6538ecf"
+      ]
+    },
+    {
+      "Title": "Tower Toppler",
+      "ID": 16955,
+      "ConsoleID": 51,
+      "ConsoleName": "Atari 7800",
+      "ImageIcon": "/Images/074248.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2023-06-02 04:52:00",
+      "ForumTopicID": 21833,
+      "Hashes": [
+        "8d64763db3100aadc552db5e6868506a"
+      ]
+    }
+  ]
+}

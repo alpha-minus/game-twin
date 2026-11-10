@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme - will be overridden by night qualifier for dark mode -->
+    <style name="Theme.TwinLore" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Explicitly set isLightTheme for WebView dark mode support on Android 13+ -->
+        <item name="android:isLightTheme">true</item>
+        <!-- Transparent system bars (hidden when app is open) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Splash and window background follow the system palette instead of the
+             default theme's purple: with a non-default app theme active, a purple
+             flash before the themed splash looked like the wrong app. The themed
+             in-Compose splash draws over this from the first frame. -->
+        <item name="android:windowSplashScreenBackground">@android:color/system_neutral1_10</item>
+        <item name="android:windowBackground">@android:color/system_neutral1_10</item>
+    </style>
+</resources>

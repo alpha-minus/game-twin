@@ -1,0 +1,458 @@
+{
+  "consoleId": 73,
+  "consoleName": "Arcadia 2001",
+  "games": [
+    {
+      "Title": "~Homebrew~ JTron",
+      "ID": 24924,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/087212.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2023-12-22 01:51:14",
+      "ForumTopicID": 24806,
+      "Hashes": [
+        "906040af349e793bae5b062f3074e71e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Tetris (Austria)",
+      "ID": 24691,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075547.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 169,
+      "DateModified": "2025-07-19 07:55:44",
+      "ForumTopicID": 22185,
+      "Hashes": [
+        "69cf3728f7db96c311bc8b3b8917baff"
+      ]
+    },
+    {
+      "Title": "Alien Invaders",
+      "ID": 21574,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/121420.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 49,
+      "DateModified": "2025-12-10 00:48:20",
+      "ForumTopicID": 33493,
+      "Hashes": [
+        "f73756c9c837e892857967ed45b7f6f0"
+      ]
+    },
+    {
+      "Title": "Auto Race",
+      "ID": 21577,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075517.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 3,
+      "Points": 41,
+      "DateModified": "2023-07-09 12:37:44",
+      "ForumTopicID": 22171,
+      "Hashes": [
+        "2cec32c8e2be01b2b8dd193a915a84ec"
+      ]
+    },
+    {
+      "Title": "Blackjack and Poker",
+      "ID": 21580,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/078064.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 356,
+      "DateModified": "2023-07-18 16:28:44",
+      "ForumTopicID": 22204,
+      "Hashes": [
+        "7391a9bd972e5eeaaeeeca76879abda4"
+      ]
+    },
+    {
+      "Title": "Brain Quiz",
+      "ID": 21582,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/105568.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 3,
+      "Points": 70,
+      "DateModified": "2023-06-21 15:00:58",
+      "ForumTopicID": 22176,
+      "Hashes": [
+        "e9f1f348ebd4fa5400f895a7a15637c6"
+      ]
+    },
+    {
+      "Title": "Breakaway | Evasion | Video Breakout",
+      "ID": 21583,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/076344.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 48,
+      "DateModified": "2023-07-03 20:53:35",
+      "ForumTopicID": 22190,
+      "Hashes": [
+        "4fa044f9c77f5f442e0af786f8f502f6"
+      ]
+    },
+    {
+      "Title": "Cat Trax",
+      "ID": 21585,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075483.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 33,
+      "Points": 69,
+      "DateModified": "2023-06-22 03:13:55",
+      "ForumTopicID": 22166,
+      "Hashes": [
+        "d7e9ec7f57d9951dd5b4456f1929f0d0"
+      ]
+    },
+    {
+      "Title": "Crazy Climber",
+      "ID": 21588,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075919.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 6,
+      "Points": 225,
+      "DateModified": "2023-06-27 01:26:15",
+      "ForumTopicID": 22179,
+      "Hashes": [
+        "2b682f2e0b2545a0867f8e7bf0a6d919"
+      ]
+    },
+    {
+      "Title": "Doraemon",
+      "ID": 24686,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/117701.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 3,
+      "Points": 47,
+      "DateModified": "2023-07-09 03:28:46",
+      "ForumTopicID": 22174,
+      "Hashes": [
+        "2938509d9c2a2316b460b2a617581771"
+      ]
+    },
+    {
+      "Title": "Escape | Escape Man",
+      "ID": 21591,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075704.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 44,
+      "DateModified": "2023-09-21 14:09:57",
+      "ForumTopicID": 22214,
+      "Hashes": [
+        "cac0be0920cce44838ca998b52b7f5ca"
+      ]
+    },
+    {
+      "Title": "Funky Fish",
+      "ID": 21592,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075512.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2024-12-12 14:01:40",
+      "ForumTopicID": 22169,
+      "Hashes": [
+        "668af35d78d4c4286ada370013a4fc54"
+      ]
+    },
+    {
+      "Title": "Hobo",
+      "ID": 21595,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/076079.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2023-07-01 01:22:45",
+      "ForumTopicID": 22167,
+      "Hashes": [
+        "9640b53728b797b11f90c912a8ccadaf"
+      ]
+    },
+    {
+      "Title": "Jump Bug | Happy Bug",
+      "ID": 21597,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075513.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 2,
+      "Points": 136,
+      "DateModified": "2023-06-28 20:51:16",
+      "ForumTopicID": 22193,
+      "Hashes": [
+        "78574f28c2cb0d19f2656925fa048042",
+        "6f2cfbf3c07d1b096f096fc8a763e500"
+      ]
+    },
+    {
+      "Title": "Jungler",
+      "ID": 21598,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075561.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 64,
+      "Points": 170,
+      "DateModified": "2023-07-28 20:02:37",
+      "ForumTopicID": 22184,
+      "Hashes": [
+        "bf10520aef366afdcf6c29e1c97afefe"
+      ]
+    },
+    {
+      "Title": "Missile War",
+      "ID": 21599,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075727.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 9,
+      "DateModified": "2025-11-07 23:35:30",
+      "ForumTopicID": 22170,
+      "Hashes": [
+        "4a9404e44df9a747549f7af0b18df632"
+      ]
+    },
+    {
+      "Title": "Mobile Soldier Gundam",
+      "ID": 24688,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075890.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2023-09-01 21:24:46",
+      "ForumTopicID": 22197,
+      "Hashes": [
+        "eca02a18e0ff4222283ab16947fe6911"
+      ]
+    },
+    {
+      "Title": "Nibblemen | Super Gobbler",
+      "ID": 21601,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075941.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 148,
+      "DateModified": "2023-06-27 15:12:30",
+      "ForumTopicID": 22189,
+      "Hashes": [
+        "8439bf67c48282bcb5ad1894610eec86",
+        "8bb0dac6f843a021c323c73f2e9210fa"
+      ]
+    },
+    {
+      "Title": "Pleiades",
+      "ID": 21604,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075785.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 10,
+      "Points": 142,
+      "DateModified": "2025-12-30 03:26:20",
+      "ForumTopicID": 22168,
+      "Hashes": [
+        "a9bc2c25fd1c4cd8024b2c69939252b0"
+      ]
+    },
+    {
+      "Title": "R2D Tank",
+      "ID": 21605,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/076090.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 270,
+      "DateModified": "2023-07-02 21:41:10",
+      "ForumTopicID": 22165,
+      "Hashes": [
+        "815b06b2cbaebfad332683febbdccdb3"
+      ]
+    },
+    {
+      "Title": "Red Clash",
+      "ID": 21606,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075505.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2023-07-16 13:36:42",
+      "ForumTopicID": 22175,
+      "Hashes": [
+        "7cd3db82543cb0fdd72638d397ef29d6"
+      ]
+    },
+    {
+      "Title": "Robot Killer",
+      "ID": 21607,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/091598.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 36,
+      "DateModified": "2024-03-10 00:00:46",
+      "ForumTopicID": 25758,
+      "Hashes": [
+        "8b580a9e3d4d9695e2f594a61afd8892"
+      ]
+    },
+    {
+      "Title": "Route 16",
+      "ID": 21608,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075715.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2023-06-22 22:31:05",
+      "ForumTopicID": 22181,
+      "Hashes": [
+        "376d97f9f74ab1c64fc888385506027b"
+      ]
+    },
+    {
+      "Title": "Space Mission",
+      "ID": 21611,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/076029.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 55,
+      "DateModified": "2023-07-13 21:08:45",
+      "ForumTopicID": 22311,
+      "Hashes": [
+        "bcb44b9296aad132d54d6e3a362131e6"
+      ]
+    },
+    {
+      "Title": "Space Squadron",
+      "ID": 21613,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075557.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 30,
+      "DateModified": "2023-08-28 17:18:34",
+      "ForumTopicID": 22213,
+      "Hashes": [
+        "02683cdc4732d02a4ed8a8e14723aef4"
+      ]
+    },
+    {
+      "Title": "Spiders",
+      "ID": 21615,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075875.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 60,
+      "DateModified": "2023-08-03 07:49:12",
+      "ForumTopicID": 22201,
+      "Hashes": [
+        "463fcdc2f5667e23700e6c8f75495fa9"
+      ]
+    },
+    {
+      "Title": "Super Bug",
+      "ID": 24923,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/076095.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 3,
+      "Points": 165,
+      "DateModified": "2023-07-01 01:11:36",
+      "ForumTopicID": 22199,
+      "Hashes": [
+        "40c65c30b00b8458d3567389d777a47a"
+      ]
+    },
+    {
+      "Title": "Super Dimension Fortress Macross",
+      "ID": 24689,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075846.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 90,
+      "DateModified": "2023-07-27 13:57:13",
+      "ForumTopicID": 22265,
+      "Hashes": [
+        "60ee33a137802d27b5b0567ff4de52ae"
+      ]
+    },
+    {
+      "Title": "Tanks a Lot",
+      "ID": 21618,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075531.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 85,
+      "DateModified": "2023-07-01 22:07:59",
+      "ForumTopicID": 22180,
+      "Hashes": [
+        "3bc3df43b6d82f10cf9651372a784f9b"
+      ]
+    },
+    {
+      "Title": "The End",
+      "ID": 21590,
+      "ConsoleID": 73,
+      "ConsoleName": "Arcadia 2001",
+      "ImageIcon": "/Images/075939.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 71,
+      "DateModified": "2023-08-12 00:10:04",
+      "ForumTopicID": 22183,
+      "Hashes": [
+        "f0a5e571220685d852e64bb217c8eae8"
+      ]
+    }
+  ]
+}

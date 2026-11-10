@@ -1,0 +1,147 @@
+Terms of Use (End-User License Agreement)
+
+Last updated: September 2026
+
+This is a translation for convenience. The German version is the legally binding one.
+
+This End-User License Agreement ("Agreement") is a legal agreement between you ("you") and Mert
+Aslantürk ("Author") for the Game Twin software application, including its executable code,
+assets and accompanying materials (together, the "Software"). By downloading, installing or
+using the Software, you agree to be bound by this Agreement. If you do not agree, do not
+download, install or use the Software.
+
+The Software is distributed free of charge. An optional supporter key, purchased separately,
+unlocks additional features. This Agreement keeps the two apart throughout: terms written for
+the free application do not cut down the statutory rights you have as the purchaser of a
+supporter key.
+
+
+1. License Grant
+
+The source code of the Software is published at https://github.com/alpha-minus/game-twin under the
+GNU General Public License, version 3 or (at your option) any later version (the "GPL"). You may
+use, copy, modify and distribute the Software, and builds made from it, as the GPL allows. Nothing
+in this Agreement restricts the rights the GPL grants you.
+
+Where you hold a valid supporter key, your right to the features it unlocks in the Author's
+official builds runs for the term and the number of devices you paid for and is not revocable at
+will.
+
+
+2. Reservation of Rights
+
+The GPL does not grant any right to the Game Twin name and logo or to the edition artwork (the app
+icons, emblems and splash images of the editions). The Author retains all rights in them. You may
+use them only as part of an unmodified official build of the Software; a modified or redistributed
+build must replace them and must not present itself as the official Game Twin application.
+
+
+3. Use of the Software
+
+You may not use the Software in any unlawful manner or in violation of any third party's rights.
+
+Nothing in this Agreement limits any right you have under sections 69d and 69e UrhG (the German
+Copyright Act) or other mandatory law.
+
+
+4. Free Application
+
+The free application is provided as a voluntary service, free of charge. It may change at any
+time or be discontinued without notice, and the Author does not warrant that it is complete,
+free of errors or available without interruption.
+
+For the free application the Author has no obligation to provide updates, maintenance or
+support, or to make the Software generally available.
+
+Where you have purchased a supporter key, your statutory rights for digital products under
+sections 327 and following of the German Civil Code (BGB), including the conformity requirements
+and the update obligation, remain unaffected. Nothing in this Section is to be read as reducing
+them.
+
+
+5. Privacy and License Validation
+
+To enforce per-device activation limits, the Software transmits the license key, your device
+model and a hashed device identifier (derived from your Android ID) to the licensing provider
+(Lemon Squeezy). The Software does not include analytics, advertising or behavioural tracking,
+and the Author does not sell your data.
+
+The full privacy policy, with the purposes, the legal bases, the recipients, the retention
+periods and your rights under the GDPR, is available in the Software under Settings, About,
+Privacy Policy.
+
+
+6. Third-Party Content and Services
+
+The Software helps you locate and store reference material (such as guides, maps and artwork)
+that is hosted by third parties and owned by its respective rights holders. The Software does not
+host, create or redistribute that material. You are solely responsible for complying with the
+terms of service and applicable law of any third-party site or service you access through the
+Software. The Software is not affiliated with, endorsed by or sponsored by any such third party.
+
+
+7. Liability
+
+The Author is liable without limitation for intent and gross negligence, for injury to life, body
+or health, and under the German Product Liability Act (Produkthaftungsgesetz). In cases of simple
+negligence the Author is liable only for breach of a material contractual obligation
+(Kardinalpflicht), meaning an obligation whose fulfilment makes the proper performance of this
+Agreement possible in the first place and on whose observance you may regularly rely; in that
+case liability is limited to the foreseeable damage typical for this type of contract. Any
+further liability is excluded.
+
+The Software may contain errors, lose data or be discontinued; keep backups of anything you
+cannot afford to lose.
+
+
+8. Supporter Key and Purchases
+
+The application itself is free of charge. A supporter key is optional and is sold through Lemon
+Squeezy, which acts as Merchant of Record: the purchase contract is concluded with Lemon Squeezy
+rather than with the Author, and Lemon Squeezy's own terms and privacy policy apply to it.
+
+The statutory consumer rights for digital products arise in that contractual relationship, in
+particular the right of withdrawal under section 355 BGB and the update obligation for digital
+products under section 327f BGB. Where you have expressly consented to performance beginning
+immediately and confirmed that you thereby lose your right of withdrawal, that right may lapse
+under section 356(5) BGB.
+
+The Author will assist in giving effect to those rights and can be reached at
+hello@game-twin.app. Nothing in this Agreement limits them.
+
+
+9. Termination
+
+This Agreement is effective until terminated. The Author may discontinue the official builds,
+their updates and the services the Software relies on at any time and without giving reasons. The
+rights the GPL grants you in the source code are not affected.
+
+A supporter key you have paid for is different: your rights under it end only if you are in
+material breach of this Agreement and, where the breach can be cured, only if you fail to cure it
+within a reasonable period after the Author has asked you to. Statutory rights of termination for
+good cause remain unaffected.
+
+Sections 2, 3, 7, 8, 10 and 11 survive termination.
+
+
+10. Governing Law
+
+This Agreement is governed by the laws of the Federal Republic of Germany, excluding the UN
+Convention on Contracts for the International Sale of Goods. If you are a consumer with habitual
+residence in another country, you additionally retain the protection of any mandatory provisions
+of the law of that country, as provided by Article 6(2) of Regulation (EC) No 593/2008 (Rome I).
+
+
+11. Final Provisions
+
+This Agreement constitutes the entire agreement between you and the Author regarding the Software
+and supersedes all prior or contemporaneous understandings. If any provision of this Agreement is
+or becomes invalid, the remaining provisions remain unaffected; the invalid provision is replaced
+by the applicable statutory provision. This Agreement does not limit any mandatory statutory
+right you have as a consumer.
+
+
+Contact
+
+Mert Aslantürk, c/o flexdienst - #21852, Kurt-Schumacher-Straße 74, 67663 Kaiserslautern, Germany
+Email: hello@game-twin.app

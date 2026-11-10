@@ -1,0 +1,150 @@
+Nutzungsbedingungen (Endnutzer-Lizenzvertrag)
+
+Stand: September 2026
+
+Diese Nutzungsbedingungen regeln das Verhältnis zwischen dem Nutzer und Mert Aslantürk
+("Anbieter") über die Anwendung Game Twin einschließlich ihres ausführbaren Codes, ihrer
+Inhalte und der begleitenden Materialien (zusammen die "Software"). Mit dem Herunterladen, der
+Installation oder der Nutzung der Software erkennt der Nutzer diese Bedingungen an. Wer sie
+nicht anerkennt, darf die Software nicht herunterladen, installieren oder nutzen.
+
+Die Software wird kostenlos bereitgestellt. Ein Supporter-Key ist freiwillig, wird gesondert
+erworben und schaltet zusätzliche Funktionen frei. Diese Bedingungen halten beides durchgehend
+auseinander: Regelungen für die kostenlose Anwendung schmälern nicht die gesetzlichen Rechte,
+die dem Nutzer als Käufer eines Supporter-Keys zustehen.
+
+
+1. Nutzungsrecht
+
+Der Quellcode der Software ist unter https://github.com/alpha-minus/game-twin unter der GNU
+General Public License, Version 3 oder (nach Wahl des Nutzers) jeder späteren Version ("GPL")
+veröffentlicht. Der Nutzer darf die Software und daraus erstellte Builds nach Maßgabe der GPL
+nutzen, vervielfältigen, verändern und verbreiten. Diese Bedingungen schränken die Rechte aus der
+GPL nicht ein.
+
+Soweit ein gültiger Supporter-Key vorliegt, gilt das Recht an den damit in den offiziellen Builds
+des Anbieters freigeschalteten Funktionen für die bezahlte Laufzeit und die bezahlte Zahl an
+Geräten und ist nicht frei widerruflich.
+
+
+2. Rechtevorbehalt
+
+Die GPL räumt keine Rechte am Namen und Logo "Game Twin" und an den Editions-Grafiken
+(App-Symbole, Embleme und Startbilder der Editionen) ein. Alle Rechte daran verbleiben beim
+Anbieter. Der Nutzer darf sie nur als Teil eines unveränderten offiziellen Builds der Software
+nutzen; ein veränderter oder weiterverbreiteter Build muss sie ersetzen und darf sich nicht als
+die offizielle Anwendung Game Twin ausgeben.
+
+
+3. Nutzung der Software
+
+Es ist dem Nutzer untersagt, die Software rechtswidrig oder unter Verletzung von Rechten Dritter
+zu nutzen.
+
+Diese Bedingungen beschränken nicht die Rechte des Nutzers aus § 69d und § 69e UrhG oder aus
+sonstigem zwingenden Recht.
+
+
+4. Kostenlose Anwendung
+
+Die kostenlose Anwendung wird als freiwillige, unentgeltliche Leistung bereitgestellt. Sie kann
+sich jederzeit ändern oder ohne Ankündigung eingestellt werden; eine Gewähr für Vollständigkeit,
+Fehlerfreiheit oder ununterbrochene Verfügbarkeit übernimmt der Anbieter für sie nicht.
+
+Für die kostenlose Anwendung ist der Anbieter nicht verpflichtet, Aktualisierungen, Wartung oder
+Support bereitzustellen oder die Software allgemein verfügbar zu machen.
+
+Wurde ein Supporter-Key erworben, bleiben die gesetzlichen Rechte des Nutzers für digitale
+Produkte nach den §§ 327 ff. BGB unberührt, insbesondere die Anforderungen an die
+Produktmerkmale und die Aktualisierungspflicht. Diese Ziffer ist nicht dahin auszulegen, dass sie
+diese Rechte einschränkt.
+
+
+5. Datenschutz und Lizenzprüfung
+
+Zur Durchsetzung der geräteweisen Aktivierungsgrenze übermittelt die Software den
+Lizenzschlüssel, das Gerätemodell und eine aus der Android-ID abgeleitete, gehashte
+Gerätekennung an den Anbieter der Lizenzprüfung (Lemon Squeezy). Die Software enthält keine
+Analysewerkzeuge, keine Werbung und kein Tracking des Nutzungsverhaltens; Daten werden nicht
+verkauft.
+
+Die vollständige Datenschutzerklärung mit den Zwecken, den Rechtsgrundlagen, den Empfängern, den
+Speicherdauern und den Rechten nach der DSGVO ist in der Software unter Einstellungen, Über,
+Datenschutzerklärung abrufbar.
+
+
+6. Inhalte und Dienste Dritter
+
+Die Software hilft dem Nutzer, Referenzmaterial (etwa Guides, Karten und Artwork) zu finden und
+zu speichern, das bei Dritten liegt und deren Rechteinhabern gehört. Die Software hostet,
+erstellt und verbreitet dieses Material nicht. Für die Einhaltung der Nutzungsbedingungen und des
+geltenden Rechts der jeweils aufgerufenen Seite oder des jeweiligen Dienstes ist allein der
+Nutzer verantwortlich. Die Software steht in keiner Verbindung zu diesen Dritten und wird von
+ihnen weder unterstützt noch gesponsert.
+
+
+7. Haftung
+
+Der Anbieter haftet unbeschränkt für Vorsatz und grobe Fahrlässigkeit, für die Verletzung von
+Leben, Körper oder Gesundheit sowie nach dem Produkthaftungsgesetz. Bei einfacher Fahrlässigkeit
+haftet der Anbieter nur bei Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht),
+deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf
+deren Einhaltung der Nutzer regelmäßig vertrauen darf; in diesem Fall ist die Haftung auf den
+vertragstypischen, vorhersehbaren Schaden begrenzt. Im Übrigen ist die Haftung ausgeschlossen.
+
+Die Software kann Fehler enthalten, Daten verlieren oder eingestellt werden. Der Nutzer sollte
+von allem, dessen Verlust er nicht hinnehmen kann, Sicherungskopien aufbewahren.
+
+
+8. Supporter-Key und Kauf
+
+Die Anwendung selbst ist kostenlos. Ein Supporter-Key ist freiwillig und wird über Lemon Squeezy
+verkauft, das dabei als Merchant of Record auftritt: Der Kaufvertrag kommt mit Lemon Squeezy
+zustande und nicht mit dem Anbieter; für diesen Kaufvertrag gelten die Geschäfts- und
+Datenschutzbedingungen von Lemon Squeezy.
+
+Die gesetzlichen Verbraucherrechte für digitale Produkte bestehen in diesem Vertragsverhältnis,
+insbesondere das Widerrufsrecht nach § 355 BGB und die Aktualisierungspflicht für digitale
+Produkte nach § 327f BGB. Hat der Nutzer ausdrücklich zugestimmt, dass mit der Ausführung vor
+Ablauf der Widerrufsfrist begonnen wird, und bestätigt, dass er dadurch sein Widerrufsrecht
+verliert, kann dieses nach § 356 Abs. 5 BGB erlöschen.
+
+Der Anbieter unterstützt bei der Durchsetzung dieser Rechte und ist unter hello@game-twin.app
+erreichbar. Diese Bedingungen beschränken sie nicht.
+
+
+9. Laufzeit und Beendigung
+
+Diese Bedingungen gelten bis zu ihrer Beendigung. Der Anbieter kann die offiziellen Builds, deren
+Aktualisierungen und die Dienste, auf die die Software angewiesen ist, jederzeit und ohne Angabe
+von Gründen einstellen. Die Rechte des Nutzers aus der GPL am Quellcode bleiben davon unberührt.
+
+Für einen bezahlten Supporter-Key gilt das nicht: Die daraus folgenden Rechte enden nur, wenn der
+Nutzer erheblich gegen diese Bedingungen verstößt, und, soweit der Verstoß behebbar ist, nur wenn
+er ihn nach Aufforderung durch den Anbieter nicht innerhalb einer angemessenen Frist behebt. Das
+Recht zur Kündigung aus wichtigem Grund bleibt für beide Seiten unberührt.
+
+Die Ziffern 2, 3, 7, 8, 10 und 11 gelten über die Beendigung hinaus fort.
+
+
+10. Anwendbares Recht
+
+Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Hat der
+Nutzer seinen gewöhnlichen Aufenthalt als Verbraucher in einem anderen Staat, bleibt ihm
+zusätzlich der Schutz zwingender Vorschriften des dortigen Rechts erhalten, wie es Art. 6 Abs. 2
+der Verordnung (EG) Nr. 593/2008 (Rom I) vorsieht.
+
+
+11. Schlussbestimmungen
+
+Diese Bedingungen enthalten die vollständige Vereinbarung zwischen dem Nutzer und dem Anbieter
+über die Software und treten an die Stelle früherer Absprachen. Sollte eine Bestimmung unwirksam
+sein oder werden, bleiben die übrigen Bestimmungen davon unberührt; an die Stelle der unwirksamen
+Bestimmung tritt die gesetzliche Regelung. Zwingende Verbraucherrechte werden durch diese
+Bedingungen nicht eingeschränkt.
+
+
+Kontakt
+
+Mert Aslantürk, c/o flexdienst - #21852, Kurt-Schumacher-Straße 74, 67663 Kaiserslautern, Deutschland
+E-Mail: hello@game-twin.app

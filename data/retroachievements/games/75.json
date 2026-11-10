@@ -1,0 +1,427 @@
+{
+  "consoleId": 75,
+  "consoleName": "Elektor TV Games Computer",
+  "games": [
+    {
+      "Title": "Asteroids",
+      "ID": 22898,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/076056.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 40,
+      "DateModified": "2023-07-13 21:00:35",
+      "ForumTopicID": 22060,
+      "Hashes": [
+        "4efffb40e9bd84ff37f9debb8807d68c"
+      ]
+    },
+    {
+      "Title": "Attack from Space",
+      "ID": 24641,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075404.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 3,
+      "Points": 78,
+      "DateModified": "2023-06-30 22:22:34",
+      "ForumTopicID": 22039,
+      "Hashes": [
+        "b69a9c1519f20a42686c542f270434b2"
+      ]
+    },
+    {
+      "Title": "Basketball",
+      "ID": 24643,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074870.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 9,
+      "DateModified": "2025-05-12 13:41:40",
+      "ForumTopicID": 22038,
+      "Hashes": [
+        "9ef4ed004d188d0543daa1eeb6c3befc"
+      ]
+    },
+    {
+      "Title": "Bursting Balloons",
+      "ID": 24644,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075074.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2023-07-03 00:15:03",
+      "ForumTopicID": 22050,
+      "Hashes": [
+        "d6b3a7879a1be746e994926d91601f60"
+      ]
+    },
+    {
+      "Title": "Car Race",
+      "ID": 24684,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/098716.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 13,
+      "DateModified": "2026-02-26 14:00:03",
+      "ForumTopicID": 26968,
+      "Hashes": [
+        "ff1a7bdd03150f744431a506c641e451"
+      ]
+    },
+    {
+      "Title": "Catapult",
+      "ID": 24670,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074963.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 22,
+      "DateModified": "2023-06-12 20:30:50",
+      "ForumTopicID": 22056,
+      "Hashes": [
+        "b0cb507cfdf9f5a4d4ee49ddddb31fe2"
+      ]
+    },
+    {
+      "Title": "Circledrive",
+      "ID": 24671,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/121395.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2025-12-09 11:12:06",
+      "ForumTopicID": 33495,
+      "Hashes": [
+        "938fd8ab57e469268754ec28e07ac10f",
+        "14b6dc270d41ef89f30e5f3b1fe6f4fd"
+      ]
+    },
+    {
+      "Title": "Cosmic Adventure",
+      "ID": 24646,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075398.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 55,
+      "DateModified": "2023-07-22 16:49:31",
+      "ForumTopicID": 22043,
+      "Hashes": [
+        "e731b5fb80355976feafa0a5a31ef4e4"
+      ]
+    },
+    {
+      "Title": "Destroyer",
+      "ID": 24647,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074774.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 120,
+      "DateModified": "2023-07-15 22:38:01",
+      "ForumTopicID": 22032,
+      "Hashes": [
+        "31352fa861c990364e57b37db97dda0d"
+      ]
+    },
+    {
+      "Title": "Dragster",
+      "ID": 24678,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074835.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 12,
+      "Points": 65,
+      "DateModified": "2023-06-13 16:55:36",
+      "ForumTopicID": 22054,
+      "Hashes": [
+        "3a15e7b4920fe8ebb3253b01a226ee32"
+      ]
+    },
+    {
+      "Title": "Helicopter",
+      "ID": 24649,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074911.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 9,
+      "Points": 57,
+      "DateModified": "2024-08-08 22:31:06",
+      "ForumTopicID": 22041,
+      "Hashes": [
+        "d59524e3efae862b9a42196e30da6c4f"
+      ]
+    },
+    {
+      "Title": "Invaders",
+      "ID": 24650,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075447.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 56,
+      "DateModified": "2023-07-31 22:47:40",
+      "ForumTopicID": 22136,
+      "Hashes": [
+        "541601096da0fbd15fd28bac5793fbed"
+      ]
+    },
+    {
+      "Title": "Jackpot",
+      "ID": 24673,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074925.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 58,
+      "DateModified": "2023-06-13 03:33:50",
+      "ForumTopicID": 22044,
+      "Hashes": [
+        "fd5bfe6c009fbda5c6266a45b22b3369"
+      ]
+    },
+    {
+      "Title": "Labyrinth",
+      "ID": 24651,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075421.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 52,
+      "DateModified": "2023-07-10 15:07:10",
+      "ForumTopicID": 22052,
+      "Hashes": [
+        "1cd8cfb7fbcd9d5ab146337873914986"
+      ]
+    },
+    {
+      "Title": "Mazes",
+      "ID": 24675,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074875.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 31,
+      "DateModified": "2023-06-11 22:52:50",
+      "ForumTopicID": 22045,
+      "Hashes": [
+        "752b04c7f8d537301b60ad776adae9d1"
+      ]
+    },
+    {
+      "Title": "Memory",
+      "ID": 24652,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/105184.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2024-11-29 23:31:40",
+      "ForumTopicID": 28851,
+      "Hashes": [
+        "6029558d05817f14189b1d68c9ea9fef"
+      ]
+    },
+    {
+      "Title": "Molebasher",
+      "ID": 22900,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074846.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 6,
+      "Points": 59,
+      "DateModified": "2023-07-01 00:50:53",
+      "ForumTopicID": 22031,
+      "Hashes": [
+        "470d888650f2144d94c37a48017e4d6f"
+      ]
+    },
+    {
+      "Title": "Newton",
+      "ID": 24653,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075786.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 58,
+      "DateModified": "2025-02-19 15:45:26",
+      "ForumTopicID": 22059,
+      "Hashes": [
+        "f94d028134169f434134ad2d5a3bf2fc"
+      ]
+    },
+    {
+      "Title": "Omega Landing",
+      "ID": 24655,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075583.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2023-07-01 01:10:46",
+      "ForumTopicID": 22069,
+      "Hashes": [
+        "067b6b03e52f2a9a1b3ecbdcaba66c07"
+      ]
+    },
+    {
+      "Title": "Penalty",
+      "ID": 24824,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074921.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 22,
+      "DateModified": "2025-05-19 04:07:35",
+      "ForumTopicID": 22035,
+      "Hashes": [
+        "8b1da672b8636205efc79c9c29f2438d"
+      ]
+    },
+    {
+      "Title": "Pinball",
+      "ID": 24658,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074857.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 41,
+      "DateModified": "2023-06-11 15:58:35",
+      "ForumTopicID": 22030,
+      "Hashes": [
+        "778ad7909404e74add179dba705a580f"
+      ]
+    },
+    {
+      "Title": "Raster",
+      "ID": 24659,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074962.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 10,
+      "DateModified": "2023-06-12 21:40:17",
+      "ForumTopicID": 22049,
+      "Hashes": [
+        "5312273c8048a40339d1df6f54b237c9"
+      ]
+    },
+    {
+      "Title": "Rocket Hunting",
+      "ID": 24661,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/091506.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 52,
+      "DateModified": "2024-03-08 02:15:12",
+      "ForumTopicID": 25745,
+      "Hashes": [
+        "ff5f7f6c0bba34a081acb131653ca758"
+      ]
+    },
+    {
+      "Title": "Snakes and Ladders",
+      "ID": 24681,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075254.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 11,
+      "DateModified": "2023-06-14 22:32:50",
+      "ForumTopicID": 22055,
+      "Hashes": [
+        "ec77c9285986436bf95ff41021665c38"
+      ]
+    },
+    {
+      "Title": "Solitaire",
+      "ID": 24683,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074978.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 15,
+      "DateModified": "2023-10-07 21:47:14",
+      "ForumTopicID": 22033,
+      "Hashes": [
+        "6f7ac2b5d983d5f34a56971962dc4cfe"
+      ]
+    },
+    {
+      "Title": "Submarine + Racing",
+      "ID": 37507,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/121392.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 125,
+      "DateModified": "2025-12-14 14:44:30",
+      "ForumTopicID": 33472,
+      "Hashes": [
+        "fb8c205c7aa983c379068e9581364c2c"
+      ]
+    },
+    {
+      "Title": "Tiny Tim",
+      "ID": 24665,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/074959.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 25,
+      "DateModified": "2023-07-01 01:15:39",
+      "ForumTopicID": 22046,
+      "Hashes": [
+        "48a6d88b1e5b8aff7d7827b364522cb4"
+      ]
+    },
+    {
+      "Title": "UFO Shooting",
+      "ID": 24666,
+      "ConsoleID": 75,
+      "ConsoleName": "Elektor TV Games Computer",
+      "ImageIcon": "/Images/075255.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 21,
+      "DateModified": "2024-08-05 20:16:06",
+      "ForumTopicID": 22048,
+      "Hashes": [
+        "5f8a6148f466c081e0e3903dee97f7e9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Page captures used by the catalog regenerators stay local.
+*.mht
+strategywiki/

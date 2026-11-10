@@ -1,0 +1,2153 @@
+{
+  "consoleId": 8,
+  "consoleName": "PC Engine/TurboGrafx-16",
+  "games": [
+    {
+      "Title": "~Homebrew~ Atlantean",
+      "ID": 18084,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/049773.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 1,
+      "Points": 260,
+      "DateModified": "2023-04-21 15:59:45",
+      "ForumTopicID": 14173,
+      "Hashes": [
+        "29abb6671fc4a4217473cd955cb76ae8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ HuZERO: Caravan Edition",
+      "ID": 20488,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/061869.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2022-09-21 06:49:42",
+      "ForumTopicID": 18180,
+      "Hashes": [
+        "b14e14493c7c45b8d61c160236ac0f85"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Maria",
+      "ID": 13669,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/079256.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 186,
+      "DateModified": "2024-05-02 03:28:43",
+      "ForumTopicID": 26023,
+      "Hashes": [
+        "de25a604c8f59525ef061ac5bb3567bd",
+        "79e74b94605e3842fe5958bc0e37cc3f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mega Man 2",
+      "ID": 18611,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/053660.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 0,
+      "Points": 755,
+      "DateModified": "2024-10-27 00:36:23",
+      "ForumTopicID": 15384,
+      "Hashes": [
+        "83079124c8efce1eee4c3a34a89441a5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mega Man 2 [Subset - Bonus]",
+      "ID": 18643,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/053667.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 400,
+      "DateModified": "2022-05-27 14:03:07",
+      "ForumTopicID": 15384,
+      "Hashes": [
+        "e68b97f12b236e7b827dc77f98d29cd5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Nantettatte Engine",
+      "ID": 28326,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/088606.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2024-03-26 01:25:17",
+      "ForumTopicID": 25757,
+      "Hashes": [
+        "a8264f87f8c2a9a97fe46c2fa3249deb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Reflectron",
+      "ID": 26878,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/084683.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2023-10-23 15:01:17",
+      "ForumTopicID": 24164,
+      "Hashes": [
+        "40540be45e4f802344cfcb9f43b527b0"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Santatlantean",
+      "ID": 18085,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/049399.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 75,
+      "DateModified": "2023-08-24 00:14:33",
+      "ForumTopicID": 14174,
+      "Hashes": [
+        "12c9cb92855185a15b315435ec8eadf7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ The Great Fumo Binning",
+      "ID": 25183,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/079404.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 45,
+      "DateModified": "2023-07-13 20:41:23",
+      "ForumTopicID": 22567,
+      "Hashes": [
+        "de60a6746244d36a1bc9b8cc0abc481b"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Tongueman's Logic",
+      "ID": 14467,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/028850.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 61,
+      "DateModified": "2021-02-06 05:41:27",
+      "ForumTopicID": 9635,
+      "Hashes": [
+        "15107f07c3b7a65a7e784add44349961",
+        "2480d1a5475973b3032f164ae857c7f1"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Lady Sword: Ryakudatsusareta 10-nin no Otome",
+      "ID": 9565,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/086504.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2024-05-01 22:37:00",
+      "ForumTopicID": 25576,
+      "Hashes": [
+        "71c5cffeab1cb60a04b5e77a338117ac",
+        "6b56d548b740cdbbc2993b5a8f03ffd4"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Strip Fighter II",
+      "ID": 7388,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/115461.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 161,
+      "DateModified": "2024-06-23 00:05:30",
+      "ForumTopicID": 26814,
+      "Hashes": [
+        "cff035e7d00159ad0879df71e9aa25ca"
+      ]
+    },
+    {
+      "Title": "1941: Counter Attack",
+      "ID": 6205,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/093772.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 8,
+      "Points": 199,
+      "DateModified": "2024-05-03 05:15:29",
+      "ForumTopicID": 25258,
+      "Hashes": [
+        "30686dba4795521174658de2492e0046"
+      ]
+    },
+    {
+      "Title": "1941: Counter Attack [Subset - Multiplayer]",
+      "ID": 28683,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/094002.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 8,
+      "Points": 199,
+      "DateModified": "2024-05-03 05:41:19",
+      "ForumTopicID": 26149,
+      "Hashes": [
+        "a1294ee85e9962aaaa2eae1dddffd5ea"
+      ]
+    },
+    {
+      "Title": "1943 Kai",
+      "ID": 6799,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/025967.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 300,
+      "DateModified": "2024-07-15 01:39:26",
+      "ForumTopicID": 25210,
+      "Hashes": [
+        "42cfdf8495ce8338d83c73b38ae274b6"
+      ]
+    },
+    {
+      "Title": "Aero Blasters",
+      "ID": 2269,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/060216.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 478,
+      "DateModified": "2024-12-28 20:38:38",
+      "ForumTopicID": 27909,
+      "Hashes": [
+        "3d3b872d9031fa3227d68f2239b00b82",
+        "b2b62baab5fefafc5db6538720b503c3"
+      ]
+    },
+    {
+      "Title": "Air Zonk",
+      "ID": 2270,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/062888.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 3,
+      "Points": 120,
+      "DateModified": "2024-03-30 13:16:26",
+      "ForumTopicID": 3845,
+      "Hashes": [
+        "406bec60ffca9ac151a793969b0c10c6"
+      ]
+    },
+    {
+      "Title": "Aldynes: The Mission Code for Rage Crisis",
+      "ID": 14312,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/044396.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 400,
+      "DateModified": "2021-05-16 10:27:24",
+      "ForumTopicID": 12992,
+      "Hashes": [
+        "8ce21667658ef9c025ad007f65147c6d"
+      ]
+    },
+    {
+      "Title": "Alien Crush",
+      "ID": 2271,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/015591.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 5,
+      "Points": 655,
+      "DateModified": "2023-04-16 22:03:06",
+      "ForumTopicID": 9667,
+      "Hashes": [
+        "0088d1d20861490677edb147d2de60bd",
+        "b79b937168344378a03c58b20c2df304"
+      ]
+    },
+    {
+      "Title": "Andre Panza: Kickboxing",
+      "ID": 2317,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/033270.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2020-04-23 20:41:04",
+      "ForumTopicID": 10522,
+      "Hashes": [
+        "307403e27f10ccd6cf191f9dda26b77a",
+        "f9fdabcefa6e69aba547b1a5113a133f"
+      ]
+    },
+    {
+      "Title": "Appare! Gateball",
+      "ID": 13662,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/082072.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-09-04 20:07:16",
+      "ForumTopicID": 23124,
+      "Hashes": [
+        "3f2f9b623fb76e272561a6db1ea0f875"
+      ]
+    },
+    {
+      "Title": "Batman",
+      "ID": 2600,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/104943.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 240,
+      "DateModified": "2023-09-08 17:15:53",
+      "ForumTopicID": 15148,
+      "Hashes": [
+        "6c35cbaf97b7285a9373b9ae9f553411"
+      ]
+    },
+    {
+      "Title": "Battle Royale",
+      "ID": 2273,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/090020.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 355,
+      "DateModified": "2024-05-04 21:39:28",
+      "ForumTopicID": 25267,
+      "Hashes": [
+        "beb2b4486ed8a66f0df10e260bdc5224"
+      ]
+    },
+    {
+      "Title": "Bikkuriman World",
+      "ID": 13668,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/095592.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 1,
+      "Points": 230,
+      "DateModified": "2024-04-30 21:48:50",
+      "ForumTopicID": 25268,
+      "Hashes": [
+        "7822065caf6c6b5cd8f16189915b4e21",
+        "7a13bd257402efafff3c33d9ba7d4ae4",
+        "560da2c998c293b4c4769d4f570eb011",
+        "19e6202eb43ac2aaac5492a5ecfb23ff"
+      ]
+    },
+    {
+      "Title": "Blazing Lazers",
+      "ID": 2274,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/026330.png",
+      "NumAchievements": 74,
+      "NumLeaderboards": 3,
+      "Points": 1000,
+      "DateModified": "2024-06-29 10:27:58",
+      "ForumTopicID": 9132,
+      "Hashes": [
+        "3878ce81ce2cd9831095a27be0843664",
+        "3c2f85fc7898de73a7c789033d22b8f5"
+      ]
+    },
+    {
+      "Title": "Bloody Wolf",
+      "ID": 2275,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/121124.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 1,
+      "Points": 494,
+      "DateModified": "2025-11-26 16:04:45",
+      "ForumTopicID": 9051,
+      "Hashes": [
+        "f19869d1823a28e8472452baf697cf56"
+      ]
+    },
+    {
+      "Title": "Bomberman",
+      "ID": 2276,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/107906.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 1,
+      "Points": 401,
+      "DateModified": "2025-10-28 12:06:14",
+      "ForumTopicID": 11867,
+      "Hashes": [
+        "22945308eb41396f39c00444be9f251f"
+      ]
+    },
+    {
+      "Title": "Bomberman '93",
+      "ID": 2277,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/109029.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 2,
+      "Points": 471,
+      "DateModified": "2026-01-03 21:33:52",
+      "ForumTopicID": 3873,
+      "Hashes": [
+        "17a08fca7468a24039f1a6c97015807f",
+        "453807383295c0871db04ec47179f2f9",
+        "795321485b7d58701cd5b661d6ad636a",
+        "f1cf6a5ab58a417aa7d5403d1a138ac2"
+      ]
+    },
+    {
+      "Title": "Bomberman '94",
+      "ID": 7205,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/113170.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 2,
+      "Points": 575,
+      "DateModified": "2023-08-18 03:37:24",
+      "ForumTopicID": 2638,
+      "Hashes": [
+        "31a21937e7bda97ee54fd49f2475b6d3"
+      ]
+    },
+    {
+      "Title": "Bonk III: Bonk's Big Adventure",
+      "ID": 2278,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/061493.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 8,
+      "Points": 217,
+      "DateModified": "2024-04-11 01:28:37",
+      "ForumTopicID": 17937,
+      "Hashes": [
+        "f4922bc12ac5c46c29d18d21e34f910f"
+      ]
+    },
+    {
+      "Title": "Bonk's Adventure",
+      "ID": 2279,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/052489.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 9,
+      "Points": 432,
+      "DateModified": "2026-01-09 13:01:21",
+      "ForumTopicID": 24808,
+      "Hashes": [
+        "3aa21326050c489ea867de05dd6cb7e5"
+      ]
+    },
+    {
+      "Title": "Bonk's Revenge",
+      "ID": 2280,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/050292.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 7,
+      "Points": 321,
+      "DateModified": "2024-12-11 07:38:36",
+      "ForumTopicID": 3817,
+      "Hashes": [
+        "4db83789bd1597b9c2e423124ef5d98d",
+        "dd97fe7e1572fe65fcb44e2757764b16"
+      ]
+    },
+    {
+      "Title": "Boxyboy",
+      "ID": 2281,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/086395.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 360,
+      "DateModified": "2024-03-31 21:28:30",
+      "ForumTopicID": 12933,
+      "Hashes": [
+        "c316ad2e57400feaf16fcaff67935b00"
+      ]
+    },
+    {
+      "Title": "Burning Angels",
+      "ID": 13674,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/064298.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 4,
+      "Points": 183,
+      "DateModified": "2022-11-23 04:29:22",
+      "ForumTopicID": 19106,
+      "Hashes": [
+        "214a55e19aed90a0095ca0d65894b7d3"
+      ]
+    },
+    {
+      "Title": "Cadash",
+      "ID": 2283,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/053874.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 0,
+      "Points": 235,
+      "DateModified": "2023-04-18 17:12:34",
+      "ForumTopicID": 15454,
+      "Hashes": [
+        "617a4254c05e88145110718951039e61"
+      ]
+    },
+    {
+      "Title": "Cadash [Subset - Multiplayer]",
+      "ID": 24081,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/071438.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 0,
+      "Points": 290,
+      "DateModified": "2023-08-29 23:13:21",
+      "ForumTopicID": 21258,
+      "Hashes": [
+        "8622865b2a79e82758533d956e647a91"
+      ]
+    },
+    {
+      "Title": "Chew Man Fu",
+      "ID": 2284,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/079339.png",
+      "NumAchievements": 78,
+      "NumLeaderboards": 1,
+      "Points": 575,
+      "DateModified": "2024-03-12 18:39:40",
+      "ForumTopicID": 25565,
+      "Hashes": [
+        "ff32565f935af07372e1dfd0ac7fbe78"
+      ]
+    },
+    {
+      "Title": "China Warrior",
+      "ID": 2285,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/062601.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 381,
+      "DateModified": "2021-12-09 07:54:32",
+      "ForumTopicID": 6034,
+      "Hashes": [
+        "60bb0116b706fc30a76840ed0b5da458",
+        "97df44641bf65728d1df5cfff39b72e4"
+      ]
+    },
+    {
+      "Title": "Columns",
+      "ID": 2260,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/004941.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 6,
+      "Points": 218,
+      "DateModified": "2025-12-11 11:07:14",
+      "ForumTopicID": 2693,
+      "Hashes": [
+        "6e0c2c5ebb0caf13a4ba59b653ab55ef",
+        "a3a1be9fc3baef5e7bc6554962aea55b"
+      ]
+    },
+    {
+      "Title": "Coryoon: Child of Dragon",
+      "ID": 7902,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/071974.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 3,
+      "Points": 180,
+      "DateModified": "2023-09-27 19:29:38",
+      "ForumTopicID": 23611,
+      "Hashes": [
+        "a02c4e74d78c7e02f1ff1dbf13aca711"
+      ]
+    },
+    {
+      "Title": "Cratermaze",
+      "ID": 2286,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/091809.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 177,
+      "DateModified": "2025-08-28 15:47:24",
+      "ForumTopicID": 25768,
+      "Hashes": [
+        "653c1be1f0f5e032bc3ec6b4e2823b98",
+        "77cf3e53c5e4fbef73087893cdeec84f"
+      ]
+    },
+    {
+      "Title": "Cyber Core",
+      "ID": 2287,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/064927.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 4,
+      "Points": 218,
+      "DateModified": "2022-12-26 18:31:59",
+      "ForumTopicID": 19274,
+      "Hashes": [
+        "c16b1aee2d7023b410dd5e513c4aec0b"
+      ]
+    },
+    {
+      "Title": "Daimakaimura",
+      "ID": 9212,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/120789.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 1,
+      "Points": 755,
+      "DateModified": "2023-05-19 14:41:05",
+      "ForumTopicID": 3924,
+      "Hashes": [
+        "6d9ff6f70608166c88fd2553d44ca17a"
+      ]
+    },
+    {
+      "Title": "Darius Alpha",
+      "ID": 5768,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/083204.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 130,
+      "DateModified": "2023-09-27 23:46:17",
+      "ForumTopicID": 28553,
+      "Hashes": [
+        "c87135a6af3344c9316fe06fccbcfd97"
+      ]
+    },
+    {
+      "Title": "Darkwing Duck",
+      "ID": 2288,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/120851.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2025-05-02 14:48:37",
+      "ForumTopicID": 12656,
+      "Hashes": [
+        "d2a603fad8df15b3c617b7e8b24e8606"
+      ]
+    },
+    {
+      "Title": "Dead Moon",
+      "ID": 2289,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/071976.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 7,
+      "Points": 300,
+      "DateModified": "2024-05-09 00:56:27",
+      "ForumTopicID": 25458,
+      "Hashes": [
+        "47e3d20a759659e30cef20aaaa5731b0"
+      ]
+    },
+    {
+      "Title": "Deep Blue",
+      "ID": 2290,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/095661.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 267,
+      "DateModified": "2024-07-08 20:46:32",
+      "ForumTopicID": 25274,
+      "Hashes": [
+        "ae3165e430f12fd57de382ab34e16dee"
+      ]
+    },
+    {
+      "Title": "Devil's Crush: Naxat Pinball",
+      "ID": 2291,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/040932.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 2,
+      "Points": 544,
+      "DateModified": "2025-11-16 10:39:00",
+      "ForumTopicID": 2513,
+      "Hashes": [
+        "84b0df00a7fb6dae64739c9dd4842130",
+        "92fbe89d4c87bf283dbfbeac69a64e6e"
+      ]
+    },
+    {
+      "Title": "Die Hard",
+      "ID": 12821,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/019990.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 435,
+      "DateModified": "2021-12-12 03:20:20",
+      "ForumTopicID": 6953,
+      "Hashes": [
+        "45195abbbdaff8dd8d8c521b84f1698d",
+        "487029035f0d6c434cbc412fca951dab",
+        "7dd298a6e9f2abce6f85d262ec37f483",
+        "9a0de117840a3aa9baf7c7e7eb5546c8",
+        "bccc45446bdcc231d8edb4475c4eceb1"
+      ]
+    },
+    {
+      "Title": "Doraemon: Nobita no Dorabian Night",
+      "ID": 22756,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/090097.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2025-03-12 13:55:03",
+      "ForumTopicID": 25724,
+      "Hashes": [
+        "14813eff2b436fa5eb1c3e95e99993a9"
+      ]
+    },
+    {
+      "Title": "Double Dungeons",
+      "ID": 2292,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/060217.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 265,
+      "DateModified": "2023-08-12 04:52:56",
+      "ForumTopicID": 19786,
+      "Hashes": [
+        "5ba010cd617c6f2b0f6e926fd4ef8a42"
+      ]
+    },
+    {
+      "Title": "Download",
+      "ID": 13235,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/051732.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 1,
+      "Points": 315,
+      "DateModified": "2022-01-08 11:32:31",
+      "ForumTopicID": 14712,
+      "Hashes": [
+        "10de08141486e768e6743d9a1c2c57f4"
+      ]
+    },
+    {
+      "Title": "Dragon Egg!",
+      "ID": 22757,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/073325.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2025-08-04 00:56:32",
+      "ForumTopicID": 23634,
+      "Hashes": [
+        "51fefc9b576f23ab0245baeb64a7ab17"
+      ]
+    },
+    {
+      "Title": "Dragon Saber: After Story of Dragon Spirit",
+      "ID": 14219,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/048864.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 1,
+      "Points": 440,
+      "DateModified": "2025-06-23 00:55:35",
+      "ForumTopicID": 25378,
+      "Hashes": [
+        "a8dbe74d6cb012951478202e3b5ea08a"
+      ]
+    },
+    {
+      "Title": "Dragon Spirit",
+      "ID": 2242,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/042730.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 3,
+      "Points": 545,
+      "DateModified": "2022-09-10 22:43:28",
+      "ForumTopicID": 503,
+      "Hashes": [
+        "1fe13078c7aba4ef0777d5a470d56986",
+        "82ed74509cfd2e32dacd2f05d0caf16c"
+      ]
+    },
+    {
+      "Title": "Dragon's Curse",
+      "ID": 2293,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/010334.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 430,
+      "DateModified": "2024-12-10 18:25:26",
+      "ForumTopicID": 2898,
+      "Hashes": [
+        "1d7fbd0f8aed6c7fe2cd2e66a17973fc",
+        "35a1e82ff6b15c20f05fe5f02b8aa0a4",
+        "55153240fe1d0076c4f759b82f2d7e3e"
+      ]
+    },
+    {
+      "Title": "Drop Off",
+      "ID": 2294,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/091461.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 1,
+      "Points": 220,
+      "DateModified": "2026-01-24 21:15:05",
+      "ForumTopicID": 25720,
+      "Hashes": [
+        "7df6342574ed3e0241029a11f1f5c4da"
+      ]
+    },
+    {
+      "Title": "Druaga no Tou | The Tower of Druaga",
+      "ID": 12826,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/020096.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 600,
+      "DateModified": "2023-05-04 01:38:20",
+      "ForumTopicID": 7711,
+      "Hashes": [
+        "8da3885d9c6674f33cf9bac28905d249",
+        "da7fa7e120ca1d6c0817bd557ec034d2",
+        "df4fa7ddc1a4e8cc29dc67e700b2a55a"
+      ]
+    },
+    {
+      "Title": "Dungeon Explorer",
+      "ID": 2295,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/054512.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 265,
+      "DateModified": "2026-02-18 02:03:49",
+      "ForumTopicID": 9961,
+      "Hashes": [
+        "a07c43bea439c8c904bc4908737af5c5"
+      ]
+    },
+    {
+      "Title": "Energy",
+      "ID": 13409,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/086398.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 114,
+      "DateModified": "2024-02-26 01:11:02",
+      "ForumTopicID": 25265,
+      "Hashes": [
+        "b928568fd7258f90b5ac410c7f65c48c",
+        "7fc06f2e3131c1cfcddff6c69d54b8b9"
+      ]
+    },
+    {
+      "Title": "Final Lap Twin",
+      "ID": 2297,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/093731.png",
+      "NumAchievements": 78,
+      "NumLeaderboards": 52,
+      "Points": 528,
+      "DateModified": "2024-05-26 20:48:33",
+      "ForumTopicID": 26389,
+      "Hashes": [
+        "70ea7c2d63fcc6a9719a85bba9cebc04"
+      ]
+    },
+    {
+      "Title": "Final Match Tennis",
+      "ID": 15684,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/031105.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 470,
+      "DateModified": "2023-10-07 20:32:55",
+      "ForumTopicID": 10121,
+      "Hashes": [
+        "595364eede949021345f1f7735e64355",
+        "8f7cac9be3e6d02035b0df0f215172cb",
+        "e161b34d6bcdbcfe582f943b2eef5715"
+      ]
+    },
+    {
+      "Title": "Final Soldier",
+      "ID": 7554,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/093939.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 3,
+      "Points": 304,
+      "DateModified": "2023-04-19 15:55:01",
+      "ForumTopicID": 12166,
+      "Hashes": [
+        "fe5b3f899f0ee5994508f259bbb74cfe"
+      ]
+    },
+    {
+      "Title": "Fushigi no Yume no Alice",
+      "ID": 7193,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/124148.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 2,
+      "Points": 257,
+      "DateModified": "2024-05-04 04:59:24",
+      "ForumTopicID": 8449,
+      "Hashes": [
+        "3e0cd9af31efe11acf733fb15dc31131",
+        "4ed3f4820b238d5c1cb49dcaf24f382a"
+      ]
+    },
+    {
+      "Title": "Galaga '88",
+      "ID": 2298,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/041051.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 1,
+      "Points": 437,
+      "DateModified": "2024-07-13 06:30:48",
+      "ForumTopicID": 12124,
+      "Hashes": [
+        "94814db23e163dbfc7d7505170e145c2"
+      ]
+    },
+    {
+      "Title": "Gekibo: Gekisha Boy",
+      "ID": 16374,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/074867.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 11,
+      "Points": 135,
+      "DateModified": "2025-03-31 23:41:55",
+      "ForumTopicID": 11589,
+      "Hashes": [
+        "355f281d002a139a05525264a28fb526",
+        "9dcb79c53d21c5d3eff36ca6a92df81c"
+      ]
+    },
+    {
+      "Title": "Genji Tsushin Agedama",
+      "ID": 5109,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/023521.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2022-03-24 02:40:20",
+      "ForumTopicID": 8417,
+      "Hashes": [
+        "4a0cee3266259ccf437181dd37116a5f",
+        "e194791e1c3d709c7fff4b8c808b65ab"
+      ]
+    },
+    {
+      "Title": "Genpei Toumaden",
+      "ID": 22765,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/094939.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 275,
+      "DateModified": "2026-02-10 00:50:44",
+      "ForumTopicID": 25817,
+      "Hashes": [
+        "c3357cc104feb0686ede96b099a2de2d"
+      ]
+    },
+    {
+      "Title": "Gokuraku! Chuuka Taisen",
+      "ID": 14455,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/063176.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 6,
+      "Points": 185,
+      "DateModified": "2019-10-23 13:20:01",
+      "ForumTopicID": 9262,
+      "Hashes": [
+        "144eb9109d75c8fd1fa09a20bde6a6cd",
+        "153353cc3062d510602442f320ed38c1"
+      ]
+    },
+    {
+      "Title": "Gomola Speed",
+      "ID": 17335,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/057815.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 300,
+      "DateModified": "2023-08-18 03:03:48",
+      "ForumTopicID": 16339,
+      "Hashes": [
+        "58418c0db028885a2f49abf4993f2b0e"
+      ]
+    },
+    {
+      "Title": "Gradius",
+      "ID": 8979,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/034178.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 1,
+      "Points": 531,
+      "DateModified": "2023-10-18 14:57:13",
+      "ForumTopicID": 10634,
+      "Hashes": [
+        "16fe78b1630a790bee6755e3c850a366",
+        "bff0dffcbc2c3add3bf0b670d2a137b0"
+      ]
+    },
+    {
+      "Title": "Hanii in the Sky",
+      "ID": 18741,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/073009.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 0,
+      "Points": 490,
+      "DateModified": "2025-09-22 23:20:43",
+      "ForumTopicID": 26210,
+      "Hashes": [
+        "015b8a761e1c3a8d0d474ef7e1063a55"
+      ]
+    },
+    {
+      "Title": "Hit the Ice: VHL - The Official Video Hockey League",
+      "ID": 9955,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/093173.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 59,
+      "DateModified": "2024-05-05 20:27:36",
+      "ForumTopicID": 25931,
+      "Hashes": [
+        "d2f94b64b528c320d5ee148fe77f05f5"
+      ]
+    },
+    {
+      "Title": "J.J. & Jeff | Kato-chan Ken-chan",
+      "ID": 7444,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/080776.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 1,
+      "Points": 350,
+      "DateModified": "2025-02-22 16:49:14",
+      "ForumTopicID": 11429,
+      "Hashes": [
+        "6947a3cd6c0969da0252bc3a142765d9",
+        "b614f91296aaed8afabd4f03f4ee40d1",
+        "23df0b354e83876a94e9c128a7a9eb80"
+      ]
+    },
+    {
+      "Title": "Jackie Chan's Action Kung Fu",
+      "ID": 8708,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/121211.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 343,
+      "DateModified": "2023-07-17 03:49:09",
+      "ForumTopicID": 3883,
+      "Hashes": [
+        "3bd2ca1f224368a5df255b97903ef967",
+        "5a8c0f70f333ff03c8eb836eeb5f2ff9",
+        "730d3d5d8792b0897f534d9a42d9c3a2"
+      ]
+    },
+    {
+      "Title": "Juuouki",
+      "ID": 22771,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/092831.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 127,
+      "DateModified": "2024-04-30 15:35:04",
+      "ForumTopicID": 25881,
+      "Hashes": [
+        "2b47ceea374d6c11471310caec5ccb36",
+        "255151e36286918861d8053a0e37e695"
+      ]
+    },
+    {
+      "Title": "Juuouki [Subset - Multiplayer]",
+      "ID": 29048,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/093117.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 87,
+      "DateModified": "2024-05-03 06:13:29",
+      "ForumTopicID": 25935,
+      "Hashes": [
+        "7fd776176e722e6f3dde27cb090b6a9e"
+      ]
+    },
+    {
+      "Title": "Keith Courage in Alpha Zones",
+      "ID": 2301,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/110359.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 675,
+      "DateModified": "2024-12-04 09:11:23",
+      "ForumTopicID": 5876,
+      "Hashes": [
+        "e5309b10903ccc3032c2f919e8db7384",
+        "e86650c9602267f205e446194d990fd4"
+      ]
+    },
+    {
+      "Title": "Kickball",
+      "ID": 18499,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/089062.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2026-02-13 11:31:37",
+      "ForumTopicID": 25353,
+      "Hashes": [
+        "42d164b0ae86ae4dab3fdb7ca9f3bdb2"
+      ]
+    },
+    {
+      "Title": "KiKi KaiKai",
+      "ID": 6374,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/061217.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 185,
+      "DateModified": "2025-11-06 02:41:51",
+      "ForumTopicID": 3727,
+      "Hashes": [
+        "0d6de0fee8ef07c96c94275623ce98d1",
+        "b345329df7acc1938c291440dd1ed5ad"
+      ]
+    },
+    {
+      "Title": "Kyuukyoku Tiger | Twin Cobra",
+      "ID": 18743,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/094957.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 1,
+      "Points": 395,
+      "DateModified": "2024-05-04 20:31:35",
+      "ForumTopicID": 26137,
+      "Hashes": [
+        "467c1ee6a921a3bbb4a94fc078f7353d"
+      ]
+    },
+    {
+      "Title": "Legend of Hero Tonma",
+      "ID": 2303,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/027691.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2019-09-29 20:27:02",
+      "ForumTopicID": 3393,
+      "Hashes": [
+        "adcc100fec026c8b150a9e0d35afa050",
+        "cfaa094419809446cabfe739995e22ee"
+      ]
+    },
+    {
+      "Title": "Magical Chase",
+      "ID": 2306,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/071503.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 550,
+      "DateModified": "2023-04-16 05:48:01",
+      "ForumTopicID": 3822,
+      "Hashes": [
+        "74d9f1bd96ba2690ed4cb989ebaeb948",
+        "8490d4d444c5faee7015cf653baccfaf"
+      ]
+    },
+    {
+      "Title": "Makai Hakkenden Shada",
+      "ID": 22775,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/121541.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 204,
+      "DateModified": "2025-07-15 02:54:18",
+      "ForumTopicID": 22302,
+      "Hashes": [
+        "06c9c65e0e1c0669be28cc99ace61f54",
+        "6b33184f381d3bfc9870f5ad55b8c78a"
+      ]
+    },
+    {
+      "Title": "Makai Prince Dorabocchan",
+      "ID": 22776,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/089070.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 2,
+      "Points": 200,
+      "DateModified": "2024-05-20 22:14:04",
+      "ForumTopicID": 25270,
+      "Hashes": [
+        "31b5597ed22d3d143f98d394ee4593ad"
+      ]
+    },
+    {
+      "Title": "Marchen Maze",
+      "ID": 19923,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/094012.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 4,
+      "Points": 106,
+      "DateModified": "2025-10-25 02:36:31",
+      "ForumTopicID": 26151,
+      "Hashes": [
+        "887b9fa8296ff3c98839e11cc7039763",
+        "f34299acd4a789ad51e7b10be3a8947d"
+      ]
+    },
+    {
+      "Title": "Metal Stoker",
+      "ID": 22777,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/086503.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 1,
+      "Points": 285,
+      "DateModified": "2024-09-11 13:58:37",
+      "ForumTopicID": 25897,
+      "Hashes": [
+        "fdad7cca269ed1a0676df12fa07eae01"
+      ]
+    },
+    {
+      "Title": "Military Madness",
+      "ID": 2307,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/018926.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 0,
+      "Points": 550,
+      "DateModified": "2024-11-27 04:46:18",
+      "ForumTopicID": 15072,
+      "Hashes": [
+        "03d0442df107c97bb04c32de7cb7f5bc",
+        "e7f686c6767a2ecdc6f4ffdebcfac8b8"
+      ]
+    },
+    {
+      "Title": "Moto Roader",
+      "ID": 2308,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/032830.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 0,
+      "Points": 387,
+      "DateModified": "2024-12-17 22:27:39",
+      "ForumTopicID": 10405,
+      "Hashes": [
+        "1b10baf9f65c8339a507e382bda5ed44",
+        "c4d19abde0fda132c1c4f5dbf20a53e5"
+      ]
+    },
+    {
+      "Title": "Neutopia",
+      "ID": 2309,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/052282.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 450,
+      "DateModified": "2022-12-03 03:44:51",
+      "ForumTopicID": 9134,
+      "Hashes": [
+        "08ae173878d8a3783fa35e80c99a5dc4",
+        "524d53d8f6fe5c70e92d1c349a353a2e",
+        "c7abe50a33a7988f78f68973556a8d82",
+        "eb0789088fc70be42b2f994c1b66be21"
+      ]
+    },
+    {
+      "Title": "Neutopia II",
+      "ID": 2310,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/042609.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 338,
+      "DateModified": "2025-11-15 14:52:27",
+      "ForumTopicID": 12140,
+      "Hashes": [
+        "36678d3ec3b9eb534d9807be79587c8c"
+      ]
+    },
+    {
+      "Title": "New Adventure Island",
+      "ID": 2311,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/028054.png",
+      "NumAchievements": 102,
+      "NumLeaderboards": 2,
+      "Points": 667,
+      "DateModified": "2023-10-03 11:13:12",
+      "ForumTopicID": 3386,
+      "Hashes": [
+        "254434d0b15618dcff7c88d5ebdde248"
+      ]
+    },
+    {
+      "Title": "Ninja Ryuuken Den",
+      "ID": 5515,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/085542.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 22,
+      "Points": 1497,
+      "DateModified": "2021-12-12 17:14:00",
+      "ForumTopicID": 4216,
+      "Hashes": [
+        "319ec97f9d3ae11e1d76c959421d19bb",
+        "80498e6a60d2cd9aa925f45cbefbff83"
+      ]
+    },
+    {
+      "Title": "Ninja Spirit",
+      "ID": 2313,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/025168.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 14,
+      "Points": 185,
+      "DateModified": "2024-04-29 06:14:56",
+      "ForumTopicID": 14841,
+      "Hashes": [
+        "7ac403ffd11ddf3e81720b86ddf627af",
+        "7ed620b8a4a302dde75f074eabd4ead8",
+        "adecf9e9d9be8a300818ad2cc09d49fe",
+        "de4903d9b5b375d93b334ff6e913ee95",
+        "ecae850f720be11410dd81542ff22c56"
+      ]
+    },
+    {
+      "Title": "Ordyne",
+      "ID": 2315,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/086502.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 213,
+      "DateModified": "2025-06-19 05:27:47",
+      "ForumTopicID": 4255,
+      "Hashes": [
+        "d803eb8f622521e515ff1dd715e725c0"
+      ]
+    },
+    {
+      "Title": "OutRun",
+      "ID": 6076,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/072161.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 5,
+      "Points": 350,
+      "DateModified": "2022-04-07 16:55:18",
+      "ForumTopicID": 12760,
+      "Hashes": [
+        "6dbeaf201713b8a2ffd0f2104fde1dfc"
+      ]
+    },
+    {
+      "Title": "Pac-Land",
+      "ID": 2316,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/077327.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 226,
+      "DateModified": "2025-11-21 00:24:48",
+      "ForumTopicID": 2336,
+      "Hashes": [
+        "407b7e772f86fbdfd90f1e4ac087c03d",
+        "5CC45BFE5DA979C51417E77BFE221A2B"
+      ]
+    },
+    {
+      "Title": "Parasol Stars: The Story of Bubble Bobble III",
+      "ID": 2318,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/092822.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 3,
+      "Points": 204,
+      "DateModified": "2024-07-13 04:21:10",
+      "ForumTopicID": 2214,
+      "Hashes": [
+        "dce241d9642866f75810f6ac3e3c6a4d"
+      ]
+    },
+    {
+      "Title": "Parodius Da!",
+      "ID": 2189,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/007685.png",
+      "NumAchievements": 83,
+      "NumLeaderboards": 6,
+      "Points": 726,
+      "DateModified": "2025-12-06 07:16:33",
+      "ForumTopicID": 25902,
+      "Hashes": [
+        "39f5f51e066e2d7874efcff7d6f394ef"
+      ]
+    },
+    {
+      "Title": "Power Gate",
+      "ID": 18747,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/071109.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 160,
+      "DateModified": "2023-09-28 05:39:32",
+      "ForumTopicID": 23637,
+      "Hashes": [
+        "a797c794f8eef6ebbdacd7a3996e7134"
+      ]
+    },
+    {
+      "Title": "Power Golf",
+      "ID": 14248,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/075372.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 1,
+      "Points": 260,
+      "DateModified": "2024-05-11 21:14:36",
+      "ForumTopicID": 22115,
+      "Hashes": [
+        "8a524c7491bd6614e9c92bb7117a57f3"
+      ]
+    },
+    {
+      "Title": "Psychosis",
+      "ID": 2319,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/026959.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 210,
+      "DateModified": "2025-05-19 16:43:11",
+      "ForumTopicID": 9373,
+      "Hashes": [
+        "0203c5d45b88a04e8d6c9427b5d61400",
+        "a53f17bc3492e89c391e280e32397450",
+        "c23ef1ca95a5aa6789c4172ac66d6b5d",
+        "f37324d7823329e19eb188dd51213a22"
+      ]
+    },
+    {
+      "Title": "Puzzle Boy",
+      "ID": 12824,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/073668.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 4,
+      "Points": 295,
+      "DateModified": "2024-01-29 19:37:52",
+      "ForumTopicID": 25271,
+      "Hashes": [
+        "6394145312caac816ca44af55dff9533",
+        "f5b8397f328f51313f812278db362c81"
+      ]
+    },
+    {
+      "Title": "Puzzle Boy [Subset - Glitches for Pros]",
+      "ID": 30920,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/102117.png",
+      "NumAchievements": 3,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2024-09-15 03:48:24",
+      "ForumTopicID": 28111,
+      "Hashes": [
+        "e1c3ab1163b4ea5c86b75c8993b4d1ea"
+      ]
+    },
+    {
+      "Title": "R-Type",
+      "ID": 2145,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/022373.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 700,
+      "DateModified": "2023-07-11 17:30:42",
+      "ForumTopicID": 358,
+      "Hashes": [
+        "0e0040142b5227f2b85be27364d5ea01",
+        "e979d36123dc30282a5421a24aa639ec"
+      ]
+    },
+    {
+      "Title": "Rabio Lepus Special | Rabbit Punch Special",
+      "ID": 8557,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/088538.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 3,
+      "Points": 136,
+      "DateModified": "2024-06-10 16:20:37",
+      "ForumTopicID": 25181,
+      "Hashes": [
+        "4b942ff45a454222dd4ec1951e75a72c",
+        "dddb28ed4b10d55c87bdb1eab31ca6d9"
+      ]
+    },
+    {
+      "Title": "Raiden",
+      "ID": 2320,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/065135.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 16,
+      "Points": 240,
+      "DateModified": "2023-10-05 23:18:27",
+      "ForumTopicID": 5286,
+      "Hashes": [
+        "0130cadd63106052088268befff61278",
+        "242eb96324769cb4278ff0a6722b55d9",
+        "42a5e13cbfab0c54d30f8ca6831f62ed",
+        "5d08e419351cf3ee85e6536070cbb94f"
+      ]
+    },
+    {
+      "Title": "Salamander",
+      "ID": 6379,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/017174.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 1,
+      "Points": 395,
+      "DateModified": "2021-03-14 09:19:07",
+      "ForumTopicID": 7396,
+      "Hashes": [
+        "3c60a87ef4f90b20e149330e26253f4d",
+        "a962310295a2abe084acdff41dfaed4c"
+      ]
+    },
+    {
+      "Title": "Samurai Ghost | Genpei Toumaden - Kan no Ni",
+      "ID": 8465,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/050204.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 360,
+      "DateModified": "2024-05-01 00:34:45",
+      "ForumTopicID": 28560,
+      "Hashes": [
+        "6e32e0516ea74eb94a4f0bc8bd9dc47c",
+        "f6b763e45180bd47a689d03890a82344"
+      ]
+    },
+    {
+      "Title": "Shanghai",
+      "ID": 13128,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/025914.png",
+      "NumAchievements": 58,
+      "NumLeaderboards": 0,
+      "Points": 284,
+      "DateModified": "2024-04-10 14:22:25",
+      "ForumTopicID": 25571,
+      "Hashes": [
+        "e35f9e284d7299abaedad7662472d3c6",
+        "73d3f8f6f7fc6d28b298fc0c7734a2a6"
+      ]
+    },
+    {
+      "Title": "Shinobi",
+      "ID": 6026,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/036724.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 1,
+      "Points": 316,
+      "DateModified": "2022-11-19 14:34:04",
+      "ForumTopicID": 11370,
+      "Hashes": [
+        "1659d9fa2ed7628d342fd7c7fbe6d439",
+        "d2f19d15f81de2b1afd90726ca9c8811"
+      ]
+    },
+    {
+      "Title": "Shiryou Sensen: War of the Dead",
+      "ID": 8742,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/079424.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2025-11-30 02:20:20",
+      "ForumTopicID": 5956,
+      "Hashes": [
+        "c0e606b8ecb1c64b01ddd062e54672b7",
+        "cfd7fc43a9664979685b8e4358e4555f",
+        "ecbd032873e2b30ed0bc25d20505a8ed",
+        "5fb0ef737dcea6a7cb8df0fbcd2670b6"
+      ]
+    },
+    {
+      "Title": "ShockMan",
+      "ID": 2322,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/057221.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 205,
+      "DateModified": "2025-11-17 04:21:31",
+      "ForumTopicID": 4488,
+      "Hashes": [
+        "57c888f4af792dc4588a2f9dbebea31a",
+        "9093143f244b56eb4b93d210c9c80f87"
+      ]
+    },
+    {
+      "Title": "Silent Debuggers",
+      "ID": 2324,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/119459.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 2,
+      "Points": 296,
+      "DateModified": "2025-11-08 04:12:17",
+      "ForumTopicID": 25275,
+      "Hashes": [
+        "46719950684f5148c20730c6fd7df4a0"
+      ]
+    },
+    {
+      "Title": "Soldier Blade",
+      "ID": 2326,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/053183.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 521,
+      "DateModified": "2026-01-01 04:15:42",
+      "ForumTopicID": 509,
+      "Hashes": [
+        "59d23b7af39ea827eceb1d7e2cc363c0",
+        "e78e5212d85d614060ae31135e4f4bfe"
+      ]
+    },
+    {
+      "Title": "Somer Assault | Mesopotamia",
+      "ID": 5087,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/089290.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 13,
+      "Points": 255,
+      "DateModified": "2025-07-19 06:20:11",
+      "ForumTopicID": 25272,
+      "Hashes": [
+        "0060840cb54b2db4db8a2927d48c6c54"
+      ]
+    },
+    {
+      "Title": "Son Son II",
+      "ID": 8907,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/088917.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 8,
+      "Points": 111,
+      "DateModified": "2024-03-09 08:39:58",
+      "ForumTopicID": 25266,
+      "Hashes": [
+        "9f446641a2e1794c61624f0a062efae5",
+        "471b66578757b269a682e75ba810b1b7"
+      ]
+    },
+    {
+      "Title": "Space Harrier",
+      "ID": 2327,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/072192.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 171,
+      "DateModified": "2024-06-08 09:05:36",
+      "ForumTopicID": 9375,
+      "Hashes": [
+        "2c476453f2156c7afe10b5ed1fa60955",
+        "91985b2b4da8311db93a24f04478982b",
+        "a807e75e2cb7aef491d5359a26426f6e",
+        "b87aba8faae39f238a8b2176daec96f4"
+      ]
+    },
+    {
+      "Title": "Splatterhouse",
+      "ID": 5268,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/028731.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 640,
+      "DateModified": "2025-12-19 11:25:35",
+      "ForumTopicID": 1374,
+      "Hashes": [
+        "e7fc6d455247c63a7b3fa6a8a090d9b3",
+        "ea2eaf7aa11a639d13a6119dd3c3f6dc",
+        "ee1fe6d4f2ccf49e5086dada57edf5c2",
+        "f6690ec0f440ced641718d6bc52e3fbd"
+      ]
+    },
+    {
+      "Title": "Street Fighter II: Champion Edition",
+      "ID": 2417,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/115805.png",
+      "NumAchievements": 107,
+      "NumLeaderboards": 0,
+      "Points": 623,
+      "DateModified": "2025-04-21 00:20:12",
+      "ForumTopicID": 13186,
+      "Hashes": [
+        "0d9135be3267876bfec7f588abeda5bb"
+      ]
+    },
+    {
+      "Title": "Super Star Soldier",
+      "ID": 2328,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/053182.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 3,
+      "Points": 475,
+      "DateModified": "2025-03-06 22:27:24",
+      "ForumTopicID": 2875,
+      "Hashes": [
+        "42eff97f4d1a93135ed9c5be516622e1",
+        "bc7d4b0852d04fe49f6e3705b899c5e5"
+      ]
+    },
+    {
+      "Title": "Taito Chase H.Q.",
+      "ID": 2330,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/043641.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 308,
+      "DateModified": "2021-04-28 15:48:19",
+      "ForumTopicID": 12855,
+      "Hashes": [
+        "b6098cef5a4729009d446603c650e323"
+      ]
+    },
+    {
+      "Title": "TaleSpin",
+      "ID": 2331,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/082096.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 150,
+      "DateModified": "2023-09-10 09:36:11",
+      "ForumTopicID": 23237,
+      "Hashes": [
+        "729f10adbf2b8b90d62ce79a7e48c8d1"
+      ]
+    },
+    {
+      "Title": "Tatsu no Ko Fighter",
+      "ID": 22811,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/090489.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 145,
+      "DateModified": "2024-07-11 13:14:30",
+      "ForumTopicID": 25652,
+      "Hashes": [
+        "3a12c1ffbf5773f52a6d327cbfe0b214"
+      ]
+    },
+    {
+      "Title": "The Legendary Axe",
+      "ID": 2305,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/064964.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 1,
+      "Points": 600,
+      "DateModified": "2025-11-22 00:55:17",
+      "ForumTopicID": 5842,
+      "Hashes": [
+        "09f944f6c28cf77d17dd668e9cc160f7",
+        "0a123d34a3fa9466d35809564c7007aa",
+        "aebb01821eea22215eb7ebec67c8fe38",
+        "f69b506237ce7d05e7f839d2cc96ab5a"
+      ]
+    },
+    {
+      "Title": "The Legendary Axe II",
+      "ID": 2304,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/064833.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 220,
+      "DateModified": "2022-08-08 06:18:47",
+      "ForumTopicID": 12681,
+      "Hashes": [
+        "fbcbb34f678f6f70795bde96d295bc2f"
+      ]
+    },
+    {
+      "Title": "The NewZealand Story",
+      "ID": 2176,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/057605.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2022-06-20 02:38:11",
+      "ForumTopicID": 16421,
+      "Hashes": [
+        "553dd0a65c0d060290f66c820ca94b1c"
+      ]
+    },
+    {
+      "Title": "The Ninja Warriors",
+      "ID": 8716,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/073560.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 116,
+      "DateModified": "2022-11-24 05:32:32",
+      "ForumTopicID": 18840,
+      "Hashes": [
+        "cd67ad6c5e69636c63d5cda218471738"
+      ]
+    },
+    {
+      "Title": "Toilet Kids",
+      "ID": 8554,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/078310.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 235,
+      "DateModified": "2022-03-24 02:36:36",
+      "ForumTopicID": 6981,
+      "Hashes": [
+        "7759f9e0a001483ae1fa2ea2a186e4c1",
+        "ef73d4d3e1c73f0bdb821c1d1eac53f6"
+      ]
+    },
+    {
+      "Title": "Tricky Kick",
+      "ID": 2335,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/089288.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 120,
+      "Points": 210,
+      "DateModified": "2024-05-22 05:11:26",
+      "ForumTopicID": 25456,
+      "Hashes": [
+        "8621c1eed634bddc9d232bb303a2c260"
+      ]
+    },
+    {
+      "Title": "Valkyrie no Densetsu",
+      "ID": 7222,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/067867.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 300,
+      "DateModified": "2023-05-07 22:06:35",
+      "ForumTopicID": 7171,
+      "Hashes": [
+        "c8e415bf9bf74284e51f8d96a22caff5",
+        "f08a37d37a69315652e1a0ec8dbba650"
+      ]
+    },
+    {
+      "Title": "Victory Run",
+      "ID": 2338,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/072271.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 9,
+      "Points": 350,
+      "DateModified": "2023-10-24 15:55:08",
+      "ForumTopicID": 21507,
+      "Hashes": [
+        "bc4361c967514ef29293778ad748a6b7"
+      ]
+    },
+    {
+      "Title": "Vigilante",
+      "ID": 2339,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/120103.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2025-10-29 13:59:16",
+      "ForumTopicID": 740,
+      "Hashes": [
+        "4333192a22a121772356d3821d445a69",
+        "589f7ceb0bd851f6442e53858a0dc51c",
+        "a436b36f115a8114141862406c610c6b",
+        "e7f9551698c91b7a3ec3c3d840628940"
+      ]
+    },
+    {
+      "Title": "Volfied",
+      "ID": 5467,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/046600.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 40,
+      "Points": 500,
+      "DateModified": "2024-04-20 15:03:28",
+      "ForumTopicID": 13664,
+      "Hashes": [
+        "998cfe18bf12b235462d21eb6d80c25f"
+      ]
+    },
+    {
+      "Title": "Wonder Momo",
+      "ID": 8360,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/073025.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 2,
+      "Points": 382,
+      "DateModified": "2025-12-13 08:01:57",
+      "ForumTopicID": 25415,
+      "Hashes": [
+        "367c426ccd7b9ce45e86a836d83d17db",
+        "029c30f28af4578ecbff5697ad1e772f"
+      ]
+    },
+    {
+      "Title": "World Court Tennis",
+      "ID": 2340,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/061539.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2022-09-10 14:36:53",
+      "ForumTopicID": 18043,
+      "Hashes": [
+        "994d61834e2ee91313b75618ce213971"
+      ]
+    },
+    {
+      "Title": "World Sports Competition",
+      "ID": 2341,
+      "ConsoleID": 8,
+      "ConsoleName": "PC Engine/TurboGrafx-16",
+      "ImageIcon": "/Images/043363.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 19,
+      "Points": 386,
+      "DateModified": "2024-12-06 10:31:36",
+      "ForumTopicID": 12780,
+      "Hashes": [
+        "e413c2a7769831419c4efc9782dc4f97"
+      ]
+    }
+  ]
+}

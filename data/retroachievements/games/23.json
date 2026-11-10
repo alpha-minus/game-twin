@@ -1,0 +1,477 @@
+{
+  "consoleId": 23,
+  "consoleName": "Magnavox Odyssey 2",
+  "games": [
+    {
+      "Title": "~Homebrew~ Boobs",
+      "ID": 20059,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/061896.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 69,
+      "DateModified": "2022-09-22 08:33:54",
+      "ForumTopicID": 18190,
+      "Hashes": [
+        "2ff854e7bdaf79ebacc70610d7129a63"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ GoSub 2",
+      "ID": 20045,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/121431.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 84,
+      "DateModified": "2025-12-11 04:53:17",
+      "ForumTopicID": 33500,
+      "Hashes": [
+        "262eb2a2a228c9d5877af6acc13b6cec"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Happy Bird",
+      "ID": 20039,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/059572.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2022-06-25 00:30:38",
+      "ForumTopicID": 17115,
+      "Hashes": [
+        "449661989f35b981901fef21330e005c"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Loony Balloon",
+      "ID": 22662,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/068896.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2024-06-19 18:52:00",
+      "ForumTopicID": 20545,
+      "Hashes": [
+        "f7a034b2fca71a6d1a4ebba0b7af5870"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Pinball",
+      "ID": 18533,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/082490.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 2,
+      "Points": 118,
+      "DateModified": "2024-09-13 05:19:50",
+      "ForumTopicID": 23380,
+      "Hashes": [
+        "b93f4ce768cf934774fdd895eab59323"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Spider-Man",
+      "ID": 18460,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/058604.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 11,
+      "Points": 167,
+      "DateModified": "2022-06-03 01:23:17",
+      "ForumTopicID": 16785,
+      "Hashes": [
+        "263b77aa79980bd0cb53a0625a2637eb"
+      ]
+    },
+    {
+      "Title": "Alien Invaders: Plus",
+      "ID": 16957,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/087693.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2024-01-04 18:05:46",
+      "ForumTopicID": 24960,
+      "Hashes": [
+        "4d6cfb7da66c8d9327b3ccdce9852509"
+      ]
+    },
+    {
+      "Title": "Atlantis",
+      "ID": 16959,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/118353.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 8,
+      "Points": 94,
+      "DateModified": "2025-09-24 21:19:54",
+      "ForumTopicID": 32382,
+      "Hashes": [
+        "7d23df55dfaca55bc4c87677855f4a45"
+      ]
+    },
+    {
+      "Title": "Attack of the Timelord",
+      "ID": 16960,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/070886.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 60,
+      "DateModified": "2023-06-16 16:57:33",
+      "ForumTopicID": 13089,
+      "Hashes": [
+        "4ac71dcc25881bf4d34d0a3c385568c8"
+      ]
+    },
+    {
+      "Title": "Blockout + Breakdown",
+      "ID": 22631,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/085980.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2024-01-20 02:33:56",
+      "ForumTopicID": 23100,
+      "Hashes": [
+        "02cf18672c21e2d0e68d331507be9de1",
+        "5f36eba1efe84cd06012c0b8bf4c05cb"
+      ]
+    },
+    {
+      "Title": "Bowling + Basketball",
+      "ID": 22633,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/069029.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 3,
+      "Points": 186,
+      "DateModified": "2026-01-26 03:00:10",
+      "ForumTopicID": 20561,
+      "Hashes": [
+        "16652634e75560dc830a0c38d7fe1711"
+      ]
+    },
+    {
+      "Title": "Computer Golf",
+      "ID": 22643,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/069007.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 96,
+      "DateModified": "2023-08-12 00:18:06",
+      "ForumTopicID": 20557,
+      "Hashes": [
+        "8b1b91361f92725b7587ed41fac6d3e0",
+        "a251791690a6f2efdd26f924dcf45928"
+      ]
+    },
+    {
+      "Title": "Computer Intro",
+      "ID": 22644,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/081613.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 13,
+      "DateModified": "2023-08-27 04:46:09",
+      "ForumTopicID": 23093,
+      "Hashes": [
+        "1e7035584d19aaa53eb3795d92fa6215"
+      ]
+    },
+    {
+      "Title": "Demon Attack",
+      "ID": 16963,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/119313.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 4,
+      "Points": 143,
+      "DateModified": "2025-10-20 12:24:06",
+      "ForumTopicID": 32855,
+      "Hashes": [
+        "ef55af1c7164948a245eeb71f804bed8"
+      ]
+    },
+    {
+      "Title": "Freedom Fighters",
+      "ID": 22648,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/075348.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 130,
+      "DateModified": "2023-06-15 22:23:54",
+      "ForumTopicID": 22117,
+      "Hashes": [
+        "d85945b5e8c37e4298bd962d87728580"
+      ]
+    },
+    {
+      "Title": "Frogger",
+      "ID": 16964,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/109279.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2025-03-14 13:06:52",
+      "ForumTopicID": 30074,
+      "Hashes": [
+        "88fb5e81bf58bc1195b31906ccebeff8",
+        "893cec7b572160e81eab8a6dad37f7d3"
+      ]
+    },
+    {
+      "Title": "K.C.'s Krazy Chase",
+      "ID": 17722,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/044381.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2022-03-03 22:13:07",
+      "ForumTopicID": 13052,
+      "Hashes": [
+        "27eaddeda2f30ad4a5310c6e9bdd9dc2"
+      ]
+    },
+    {
+      "Title": "Killer Bees",
+      "ID": 17525,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/045194.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 94,
+      "DateModified": "2021-06-16 13:27:04",
+      "ForumTopicID": 13287,
+      "Hashes": [
+        "5e7a037e1aa1f59ad2be80452f81cc38"
+      ]
+    },
+    {
+      "Title": "Las Vegas Blackjack",
+      "ID": 22628,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/087081.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 20,
+      "DateModified": "2023-12-20 22:53:47",
+      "ForumTopicID": 24785,
+      "Hashes": [
+        "3430691fb9c0367505634909be0297be",
+        "972d38914e5aa8e80460b7d32c7c94b5"
+      ]
+    },
+    {
+      "Title": "Matchmaker + Logix + Buzzword",
+      "ID": 22664,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/102893.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 4,
+      "Points": 45,
+      "DateModified": "2024-12-04 02:03:12",
+      "ForumTopicID": 28219,
+      "Hashes": [
+        "73a584ca53fad9289ca01a58eccc52b5"
+      ]
+    },
+    {
+      "Title": "Math-A-Magic + Echo",
+      "ID": 17314,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/040603.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 66,
+      "DateModified": "2020-12-15 12:19:39",
+      "ForumTopicID": 12048,
+      "Hashes": [
+        "9aa512409f1e3d10bfe2c2f2924c7a31"
+      ]
+    },
+    {
+      "Title": "Nimble Numbers Ned",
+      "ID": 22670,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/110420.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 36,
+      "DateModified": "2025-09-16 20:10:51",
+      "ForumTopicID": 30461,
+      "Hashes": [
+        "98b2ed525aa9c060e8be6c6210d16e41"
+      ]
+    },
+    {
+      "Title": "Pick Axe Pete",
+      "ID": 18377,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/060766.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 205,
+      "DateModified": "2022-08-04 19:04:38",
+      "ForumTopicID": 17648,
+      "Hashes": [
+        "ffa665173861c544219565e000f79173"
+      ]
+    },
+    {
+      "Title": "Pocket Billiards",
+      "ID": 22627,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/096987.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 33,
+      "DateModified": "2024-05-19 22:49:04",
+      "ForumTopicID": 26577,
+      "Hashes": [
+        "3f0223dd8609fe320264e45eeeefe367",
+        "7bf1a49928971514a73e674ff0356e02"
+      ]
+    },
+    {
+      "Title": "Showdown in 2100 A.D.",
+      "ID": 16965,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/056887.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2022-05-20 09:33:29",
+      "ForumTopicID": 13142,
+      "Hashes": [
+        "add9a7cfac93608db1845e49f3594964"
+      ]
+    },
+    {
+      "Title": "Smithereens",
+      "ID": 22679,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/093822.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 27,
+      "DateModified": "2024-04-26 07:15:51",
+      "ForumTopicID": 26106,
+      "Hashes": [
+        "ed77beeb30711f8ee03a23a4577f403a"
+      ]
+    },
+    {
+      "Title": "Speedway + Spin-Out + Crypto-logic",
+      "ID": 22680,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/069093.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 76,
+      "DateModified": "2023-03-22 02:05:03",
+      "ForumTopicID": 20585,
+      "Hashes": [
+        "bc66ab63fb5ce04a79aef9e8fa445225"
+      ]
+    },
+    {
+      "Title": "Take the Money and Run",
+      "ID": 22683,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/099703.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 58,
+      "DateModified": "2024-08-23 06:10:16",
+      "ForumTopicID": 27302,
+      "Hashes": [
+        "b2d810dcb97e38192a6dd3d213dbce10"
+      ]
+    },
+    {
+      "Title": "The Quest for the Rings",
+      "ID": 16564,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/088913.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 38,
+      "DateModified": "2024-01-31 21:49:30",
+      "ForumTopicID": 25264,
+      "Hashes": [
+        "0b105a40c8ff6ae7728006cf80c4ddb7",
+        "331b299e3b041884bd59c3bad2d3f507"
+      ]
+    },
+    {
+      "Title": "Thunderball",
+      "ID": 17523,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/045148.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 3,
+      "Points": 90,
+      "DateModified": "2022-03-31 07:12:27",
+      "ForumTopicID": 13272,
+      "Hashes": [
+        "0602fd990f5e43bbab23004286319b60"
+      ]
+    },
+    {
+      "Title": "Turtles",
+      "ID": 16607,
+      "ConsoleID": 23,
+      "ConsoleName": "Magnavox Odyssey 2",
+      "ImageIcon": "/Images/068980.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 3,
+      "Points": 130,
+      "DateModified": "2023-05-11 19:12:39",
+      "ForumTopicID": 21559,
+      "Hashes": [
+        "07737e70c041742dbcd8c52efda4edab"
+      ]
+    }
+  ]
+}

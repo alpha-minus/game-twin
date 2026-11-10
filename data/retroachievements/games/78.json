@@ -1,0 +1,1047 @@
+{
+  "consoleId": 78,
+  "consoleName": "Nintendo DSi",
+  "games": [
+    {
+      "Title": "1001 Blockbusters",
+      "ID": 22404,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068079.png",
+      "NumAchievements": 200,
+      "NumLeaderboards": 0,
+      "Points": 600,
+      "DateModified": "2025-10-12 11:55:39",
+      "ForumTopicID": 20189,
+      "Hashes": [
+        "c3ca202fd995ca013ef3b4896e5dc93d"
+      ]
+    },
+    {
+      "Title": "1001 Crystal Mazes Collection",
+      "ID": 22458,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068078.png",
+      "NumAchievements": 122,
+      "NumLeaderboards": 0,
+      "Points": 382,
+      "DateModified": "2024-07-07 19:10:36",
+      "ForumTopicID": 20356,
+      "Hashes": [
+        "e3573da3f2a082048c7b9cdbdd4c7456"
+      ]
+    },
+    {
+      "Title": "101 MiniGolf World",
+      "ID": 22621,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068695.png",
+      "NumAchievements": 109,
+      "NumLeaderboards": 0,
+      "Points": 550,
+      "DateModified": "2023-06-16 05:47:28",
+      "ForumTopicID": 20574,
+      "Hashes": [
+        "2a40edea9a842ede6307af7f7d2b6265"
+      ]
+    },
+    {
+      "Title": "99Moves",
+      "ID": 27683,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/097824.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 12,
+      "Points": 280,
+      "DateModified": "2025-01-17 18:39:06",
+      "ForumTopicID": 26900,
+      "Hashes": [
+        "83ffd48c3fc6fc45ea4e59455ab78c60"
+      ]
+    },
+    {
+      "Title": "A Kappa's Trail",
+      "ID": 22339,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/109551.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 14,
+      "Points": 428,
+      "DateModified": "2025-07-14 02:58:43",
+      "ForumTopicID": 30206,
+      "Hashes": [
+        "452ad5266bac60a9334fdd24bfb49eb5"
+      ]
+    },
+    {
+      "Title": "Airport Mania: First Flight",
+      "ID": 22352,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/102818.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 48,
+      "Points": 315,
+      "DateModified": "2025-03-13 00:51:42",
+      "ForumTopicID": 20088,
+      "Hashes": [
+        "1013f21e5385d3085139c1693fbaad79"
+      ]
+    },
+    {
+      "Title": "All-Star Air Hockey",
+      "ID": 24496,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/074250.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2023-05-30 07:29:26",
+      "ForumTopicID": 21805,
+      "Hashes": [
+        "d75252cb6a369981e5a69ab68850373d"
+      ]
+    },
+    {
+      "Title": "Alt-Play: Jason Rohrer Anthology",
+      "ID": 22382,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067273.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 65,
+      "DateModified": "2023-08-23 15:55:14",
+      "ForumTopicID": 20085,
+      "Hashes": [
+        "ba408a3795871d4342070ca928bf49ba"
+      ]
+    },
+    {
+      "Title": "Ancient Tribe",
+      "ID": 22375,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067376.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 6,
+      "Points": 80,
+      "DateModified": "2023-04-29 00:21:59",
+      "ForumTopicID": 20110,
+      "Hashes": [
+        "a356faede1ade29f93e060f2e9ce485a"
+      ]
+    },
+    {
+      "Title": "Anonymous Notes: Chapter 1 - From the Abyss",
+      "ID": 24086,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/071517.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 149,
+      "DateModified": "2023-05-16 21:42:27",
+      "ForumTopicID": 21299,
+      "Hashes": [
+        "d1ea047fd7be153a008d559bffd2b59d"
+      ]
+    },
+    {
+      "Title": "Antipole",
+      "ID": 22391,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067390.png",
+      "NumAchievements": 98,
+      "NumLeaderboards": 32,
+      "Points": 600,
+      "DateModified": "2023-04-19 20:55:08",
+      "ForumTopicID": 20111,
+      "Hashes": [
+        "2de6cc9f639c629887ceda8ef8c8bcdf"
+      ]
+    },
+    {
+      "Title": "Arcade Bowling",
+      "ID": 22403,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068081.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 135,
+      "DateModified": "2024-07-05 20:39:16",
+      "ForumTopicID": 20154,
+      "Hashes": [
+        "65078c5be2cc9adc9274587a50975495"
+      ]
+    },
+    {
+      "Title": "Arcade Hoops Basketball",
+      "ID": 22351,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068080.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 57,
+      "DateModified": "2023-04-16 15:10:40",
+      "ForumTopicID": 20078,
+      "Hashes": [
+        "73ec3f9a93899f986af39426a6beb644"
+      ]
+    },
+    {
+      "Title": "Art Style: PiCTOBiTS",
+      "ID": 26203,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/098175.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 122,
+      "DateModified": "2024-06-16 13:14:14",
+      "ForumTopicID": 26842,
+      "Hashes": [
+        "968900ff60b70a3e9cd42a39330b5a62"
+      ]
+    },
+    {
+      "Title": "Asphalt 4: Elite Racing",
+      "ID": 22331,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067137.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 8,
+      "Points": 295,
+      "DateModified": "2023-10-02 23:00:17",
+      "ForumTopicID": 20091,
+      "Hashes": [
+        "132b0607deb94845dfc9bd30665170a6"
+      ]
+    },
+    {
+      "Title": "Aura-Aura Climber",
+      "ID": 22313,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/121277.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 24,
+      "Points": 450,
+      "DateModified": "2023-09-27 06:48:38",
+      "ForumTopicID": 21010,
+      "Hashes": [
+        "992b1835d9fb677b89ab50e4724ac1df"
+      ]
+    },
+    {
+      "Title": "Bejeweled Twist",
+      "ID": 22843,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/070403.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 2,
+      "Points": 444,
+      "DateModified": "2023-06-01 03:49:04",
+      "ForumTopicID": 21190,
+      "Hashes": [
+        "e4ba6958b04c0e076790b291d844122e"
+      ]
+    },
+    {
+      "Title": "Bird & Beans",
+      "ID": 22349,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/113078.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 2,
+      "Points": 169,
+      "DateModified": "2026-02-12 18:48:14",
+      "ForumTopicID": 34405,
+      "Hashes": [
+        "58d20fa1b87a996063c3bf5b1e386174"
+      ]
+    },
+    {
+      "Title": "Bloons",
+      "ID": 22322,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/081618.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 147,
+      "DateModified": "2025-07-03 03:12:03",
+      "ForumTopicID": 23086,
+      "Hashes": [
+        "a127c3e097c358c7ee99628da826bbb8"
+      ]
+    },
+    {
+      "Title": "Bloons TD",
+      "ID": 22321,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/088075.png",
+      "NumAchievements": 62,
+      "NumLeaderboards": 0,
+      "Points": 425,
+      "DateModified": "2023-06-17 23:41:12",
+      "ForumTopicID": 20102,
+      "Hashes": [
+        "57f68bce367094b601266709ab9afa3a"
+      ]
+    },
+    {
+      "Title": "Bloons TD 4",
+      "ID": 22319,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/104468.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 57,
+      "Points": 685,
+      "DateModified": "2023-07-22 19:57:55",
+      "ForumTopicID": 20092,
+      "Hashes": [
+        "02c77141174b9239e92c964d9e1a740a"
+      ]
+    },
+    {
+      "Title": "Cave Story",
+      "ID": 2902,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067349.png",
+      "NumAchievements": 98,
+      "NumLeaderboards": 92,
+      "Points": 1039,
+      "DateModified": "2025-03-18 22:10:50",
+      "ForumTopicID": 20089,
+      "Hashes": [
+        "03754af05487d3dd1914d641051e4a2c",
+        "35565430303b9af0cb351189ac033812"
+      ]
+    },
+    {
+      "Title": "Cut the Rope",
+      "ID": 22343,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/072509.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2025-04-30 21:49:12",
+      "ForumTopicID": 20131,
+      "Hashes": [
+        "147f3580409372d0b39bb45d6bf95c41"
+      ]
+    },
+    {
+      "Title": "Dark Void Zero",
+      "ID": 22311,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067431.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2025-12-11 13:06:50",
+      "ForumTopicID": 20077,
+      "Hashes": [
+        "d080287ca99643c37f9b956f0797e6c4"
+      ]
+    },
+    {
+      "Title": "Decathlon 2012",
+      "ID": 22405,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067643.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 11,
+      "Points": 135,
+      "DateModified": "2023-04-17 15:59:25",
+      "ForumTopicID": 20136,
+      "Hashes": [
+        "b66369245b60f0809da4b7013a6c1866"
+      ]
+    },
+    {
+      "Title": "Divergent Shift",
+      "ID": 22451,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067708.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 29,
+      "Points": 590,
+      "DateModified": "2023-02-06 16:34:48",
+      "ForumTopicID": 20215,
+      "Hashes": [
+        "5f92173efbd602df8ce06ab9bc3b6b98"
+      ]
+    },
+    {
+      "Title": "Dr. Mario Express",
+      "ID": 22374,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067316.png",
+      "NumAchievements": 78,
+      "NumLeaderboards": 67,
+      "Points": 462,
+      "DateModified": "2023-04-18 05:57:31",
+      "ForumTopicID": 20097,
+      "Hashes": [
+        "cfe479031963a1be99838cbb01043c39"
+      ]
+    },
+    {
+      "Title": "Dragon Quest Wars",
+      "ID": 22308,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067608.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 44,
+      "DateModified": "2023-02-03 20:55:23",
+      "ForumTopicID": 20113,
+      "Hashes": [
+        "07fc48817993b858c091899aa6ceb9a6"
+      ]
+    },
+    {
+      "Title": "Escapee GO!",
+      "ID": 22336,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/070815.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 70,
+      "Points": 316,
+      "DateModified": "2025-03-12 17:52:25",
+      "ForumTopicID": 21054,
+      "Hashes": [
+        "44649fe05642011e4cc407c8aa510c1d"
+      ]
+    },
+    {
+      "Title": "G.G Series: All Breaker",
+      "ID": 22314,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/068455.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 104,
+      "DateModified": "2024-08-26 18:34:32",
+      "ForumTopicID": 20105,
+      "Hashes": [
+        "e9a94a993ec3de2c3e4a4df8381cfc30"
+      ]
+    },
+    {
+      "Title": "G.G Series: Ninja Karakuri Den",
+      "ID": 22377,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067309.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2023-04-16 15:58:50",
+      "ForumTopicID": 20109,
+      "Hashes": [
+        "fe0018b106e9371b2183bb16af3829f8"
+      ]
+    },
+    {
+      "Title": "G.G Series: The Last Knight",
+      "ID": 22330,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067162.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 1,
+      "Points": 135,
+      "DateModified": "2023-08-12 04:50:21",
+      "ForumTopicID": 20098,
+      "Hashes": [
+        "ad29ae723acee0ff5c52cd988344ae18"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Ball",
+      "ID": 22397,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067353.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 50,
+      "DateModified": "2023-04-16 16:12:13",
+      "ForumTopicID": 20121,
+      "Hashes": [
+        "18e953f94d43fdf5cfe79df9b8976ae3"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Chef",
+      "ID": 22400,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067367.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2023-01-30 12:35:40",
+      "ForumTopicID": 20129,
+      "Hashes": [
+        "f3f883708b030d052c443bd67e271599"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Donkey Kong Jr.",
+      "ID": 22410,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/112406.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 26,
+      "DateModified": "2023-10-05 22:03:50",
+      "ForumTopicID": 23598,
+      "Hashes": [
+        "bae780bb33e992a7641becacdd8d9c5e"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Flagman",
+      "ID": 22433,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067527.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 20,
+      "DateModified": "2023-02-02 11:51:30",
+      "ForumTopicID": 20173,
+      "Hashes": [
+        "5122a78057b582e9e31e96794fc74fa6"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Helmet",
+      "ID": 25415,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/081123.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 36,
+      "DateModified": "2023-08-18 05:18:24",
+      "ForumTopicID": 22979,
+      "Hashes": [
+        "e501bf3d9f768bfbefcd14d0be76b7f4"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Manhole",
+      "ID": 26329,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/111636.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 66,
+      "DateModified": "2024-06-22 14:16:57",
+      "ForumTopicID": 26971,
+      "Hashes": [
+        "a98bd543991cf386dde97adf215f64cb",
+        "1b531477db8691487f562c321d6bad66"
+      ]
+    },
+    {
+      "Title": "Game & Watch: Vermin",
+      "ID": 22437,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067571.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2023-02-10 16:31:25",
+      "ForumTopicID": 20182,
+      "Hashes": [
+        "6d9eabaaccbaf0766b47bec5d28cb195"
+      ]
+    },
+    {
+      "Title": "GO Series: 10 Second Run",
+      "ID": 22435,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067545.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 64,
+      "Points": 300,
+      "DateModified": "2023-06-25 19:14:02",
+      "ForumTopicID": 20176,
+      "Hashes": [
+        "37d3d4190bfc1db0b6e5f3b742b1f432",
+        "58f1510467ca214fa88e4dcf58dc2218"
+      ]
+    },
+    {
+      "Title": "GO Series: Fishing Resort",
+      "ID": 22363,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067556.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 25,
+      "Points": 364,
+      "DateModified": "2025-01-31 00:54:49",
+      "ForumTopicID": 20084,
+      "Hashes": [
+        "9f0b3fb9e208a349c79428702d6cdf03"
+      ]
+    },
+    {
+      "Title": "Hero of Sparta",
+      "ID": 22381,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/075231.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 96,
+      "DateModified": "2024-11-04 15:41:50",
+      "ForumTopicID": 20112,
+      "Hashes": [
+        "78b5ac3ea83f524e90bcc69e263394c6"
+      ]
+    },
+    {
+      "Title": "Ike! Ike!! Hamusuta",
+      "ID": 25319,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/079489.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 25,
+      "Points": 400,
+      "DateModified": "2024-06-19 19:51:54",
+      "ForumTopicID": 22775,
+      "Hashes": [
+        "f917b92a7bf2b661e28e2038d47712d3"
+      ]
+    },
+    {
+      "Title": "Jump Trials",
+      "ID": 22440,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/119400.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 100,
+      "Points": 345,
+      "DateModified": "2023-04-18 11:10:16",
+      "ForumTopicID": 20188,
+      "Hashes": [
+        "153fd66b8e37d4d282d9b7cbc97f08a7"
+      ]
+    },
+    {
+      "Title": "Jump Trials Extreme",
+      "ID": 22412,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067692.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 110,
+      "Points": 540,
+      "DateModified": "2023-04-18 11:09:10",
+      "ForumTopicID": 20167,
+      "Hashes": [
+        "89a8a23905ccdb4560e4c84f26d49cc9"
+      ]
+    },
+    {
+      "Title": "Mario Calculator",
+      "ID": 27462,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/117166.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 13,
+      "DateModified": "2025-11-01 06:06:03",
+      "ForumTopicID": 26899,
+      "Hashes": [
+        "88f5aa28c7651767625844636c5a1190"
+      ]
+    },
+    {
+      "Title": "Mario Clock",
+      "ID": 27461,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/117167.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 10,
+      "DateModified": "2025-01-20 20:09:47",
+      "ForumTopicID": 25483,
+      "Hashes": [
+        "ae99967fa0fce79072f2567330baf05b"
+      ]
+    },
+    {
+      "Title": "Mario vs. Donkey Kong: Minis March Again!",
+      "ID": 22373,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067683.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 160,
+      "DateModified": "2023-02-05 04:25:36",
+      "ForumTopicID": 20205,
+      "Hashes": [
+        "9e3a586a6944c28ff6711dca35c0b34a"
+      ]
+    },
+    {
+      "Title": "Mighty Flip Champs!",
+      "ID": 22325,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067235.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 41,
+      "Points": 169,
+      "DateModified": "2023-01-29 16:21:00",
+      "ForumTopicID": 20086,
+      "Hashes": [
+        "d3c9ba3d3337f3460892bd0748a9258a",
+        "f74228eaef50fe46a6f48b7775ef4ae2"
+      ]
+    },
+    {
+      "Title": "Mighty Milky Way",
+      "ID": 22326,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067306.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2023-04-14 16:38:56",
+      "ForumTopicID": 20080,
+      "Hashes": [
+        "bad2c9414eed3355ce3c55b1d4a5e23e",
+        "cdde7773f99c10386a3bf4d066cec2e0"
+      ]
+    },
+    {
+      "Title": "Mr. Driller: Drill till you Drop",
+      "ID": 22323,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067194.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2023-06-24 20:58:40",
+      "ForumTopicID": 20081,
+      "Hashes": [
+        "5c537864829f61a4d391f34ac777f47f"
+      ]
+    },
+    {
+      "Title": "Mr. Driller: Drill till you Drop [Subset - All Gold Medals]",
+      "ID": 23906,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/074968.png",
+      "NumAchievements": 105,
+      "NumLeaderboards": 0,
+      "Points": 1029,
+      "DateModified": "2023-10-29 11:08:36",
+      "ForumTopicID": 21047,
+      "Hashes": [
+        "bbbe5cd3b730cada651922b4683823da"
+      ]
+    },
+    {
+      "Title": "Music On: Learning Piano",
+      "ID": 22332,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/069414.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 60,
+      "Points": 315,
+      "DateModified": "2023-03-07 02:56:33",
+      "ForumTopicID": 20108,
+      "Hashes": [
+        "bedf9644597131aae9497c7b9be6b6ac"
+      ]
+    },
+    {
+      "Title": "Paper Airplane Chase",
+      "ID": 22358,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067228.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 9,
+      "Points": 100,
+      "DateModified": "2025-06-02 02:37:12",
+      "ForumTopicID": 20100,
+      "Hashes": [
+        "c1308667040f474c56969ff3e59f26c4"
+      ]
+    },
+    {
+      "Title": "Penguin Patrol",
+      "ID": 22356,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/101608.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 123,
+      "DateModified": "2024-02-06 17:47:20",
+      "ForumTopicID": 25426,
+      "Hashes": [
+        "ae3386d1c9ed8669edbd310d6accfdb7"
+      ]
+    },
+    {
+      "Title": "Plants Vs. Zombies",
+      "ID": 23795,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/074600.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 0,
+      "Points": 520,
+      "DateModified": "2025-12-13 21:54:46",
+      "ForumTopicID": 20973,
+      "Hashes": [
+        "a80d1a69655bb39105781abe4dc18c3a"
+      ]
+    },
+    {
+      "Title": "Pop Island",
+      "ID": 23789,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/071295.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 6,
+      "Points": 193,
+      "DateModified": "2024-11-16 06:34:01",
+      "ForumTopicID": 20959,
+      "Hashes": [
+        "e121b8db4b42cad3372ae00800daae16"
+      ]
+    },
+    {
+      "Title": "Pro Jumper! Guilty Gear Tangent!?",
+      "ID": 22455,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067781.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 12,
+      "Points": 325,
+      "DateModified": "2023-04-20 11:51:12",
+      "ForumTopicID": 20239,
+      "Hashes": [
+        "f5bbbbbc8bc8f1c22308bb6e51b9b376"
+      ]
+    },
+    {
+      "Title": "Rabi Laby",
+      "ID": 22376,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067451.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 50,
+      "Points": 250,
+      "DateModified": "2023-09-09 20:48:01",
+      "ForumTopicID": 20082,
+      "Hashes": [
+        "e7dc7701c07a96634a3c551711ab0383"
+      ]
+    },
+    {
+      "Title": "Shantae: Risky's Revenge",
+      "ID": 2258,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/080696.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 2,
+      "Points": 435,
+      "DateModified": "2025-06-25 01:30:33",
+      "ForumTopicID": 20087,
+      "Hashes": [
+        "be4022d83390cdf8905dd1c9bf947342"
+      ]
+    },
+    {
+      "Title": "Simply Mahjong",
+      "ID": 22392,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/069993.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2023-04-16 00:45:15",
+      "ForumTopicID": 20117,
+      "Hashes": [
+        "de9a5a6ce3c4f3f115535666c237a022"
+      ]
+    },
+    {
+      "Title": "Soul of Darkness",
+      "ID": 22338,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067280.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 270,
+      "DateModified": "2023-04-17 02:06:36",
+      "ForumTopicID": 20093,
+      "Hashes": [
+        "1c7720fe169f414f2948323396b45fd8"
+      ]
+    },
+    {
+      "Title": "Starship Patrol | Starship Defense",
+      "ID": 22327,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/069951.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 30,
+      "Points": 500,
+      "DateModified": "2023-08-28 19:34:16",
+      "ForumTopicID": 20083,
+      "Hashes": [
+        "a82346fa9ea262226df45ba9cbf82517"
+      ]
+    },
+    {
+      "Title": "SteamWorld Tower Defense",
+      "ID": 22307,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/069402.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 119,
+      "DateModified": "2023-09-26 23:56:50",
+      "ForumTopicID": 20103,
+      "Hashes": [
+        "1af6aeaa79b6bf73870105700b7b6612",
+        "2a845e9cc96489c7e68f88124c25387a"
+      ]
+    },
+    {
+      "Title": "The Legend of Zelda: Four Swords Anniversary Edition",
+      "ID": 22310,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067821.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 53,
+      "Points": 475,
+      "DateModified": "2023-04-20 23:33:58",
+      "ForumTopicID": 20079,
+      "Hashes": [
+        "57eb7cc1ab11830977ea252e65c04753"
+      ]
+    },
+    {
+      "Title": "UNO",
+      "ID": 22379,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/112287.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 199,
+      "DateModified": "2024-05-16 17:39:41",
+      "ForumTopicID": 20278,
+      "Hashes": [
+        "3ddd206593aaa95991568cff7c142215"
+      ]
+    },
+    {
+      "Title": "Word Searcher",
+      "ID": 22369,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067301.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2023-04-16 01:17:14",
+      "ForumTopicID": 20090,
+      "Hashes": [
+        "4411b1b83184976fe32264de70717de0"
+      ]
+    },
+    {
+      "Title": "Zuma's Revenge",
+      "ID": 18547,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/067135.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 60,
+      "Points": 362,
+      "DateModified": "2023-04-25 04:51:42",
+      "ForumTopicID": 15320,
+      "Hashes": [
+        "cbca9974e4795e31435e1b57c877805f"
+      ]
+    },
+    {
+      "Title": "Zuma's Revenge [Subset - Ace Times]",
+      "ID": 22525,
+      "ConsoleID": 78,
+      "ConsoleName": "Nintendo DSi",
+      "ImageIcon": "/Images/071346.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 60,
+      "Points": 338,
+      "DateModified": "2023-04-29 17:03:07",
+      "ForumTopicID": 20390,
+      "Hashes": [
+        "0ece7a385b2620de0413c0d748f80e60"
+      ]
+    }
+  ]
+}

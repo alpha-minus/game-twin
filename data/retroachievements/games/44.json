@@ -1,0 +1,653 @@
+{
+  "consoleId": 44,
+  "consoleName": "ColecoVision",
+  "games": [
+    {
+      "Title": "~Homebrew~ Dragon's Lair",
+      "ID": 33722,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/113153.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 4,
+      "Points": 148,
+      "DateModified": "2025-06-15 20:33:51",
+      "ForumTopicID": 31098,
+      "Hashes": [
+        "3568ed427a9e33de164b44402103ae64"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Frostbite",
+      "ID": 25263,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/078608.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 175,
+      "DateModified": "2023-07-25 16:58:42",
+      "ForumTopicID": 22686,
+      "Hashes": [
+        "9c3a581843ce1efe220e7e726cadb9ea"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Ice Muncher",
+      "ID": 25104,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/077156.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 67,
+      "DateModified": "2023-08-12 07:21:09",
+      "ForumTopicID": 22888,
+      "Hashes": [
+        "d0c499b2af27b4d717de879f47607625",
+        "47210914b12d9bd06c15d9f5f9e896fe"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Minesweeper",
+      "ID": 22414,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/067482.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 55,
+      "DateModified": "2023-02-01 20:30:21",
+      "ForumTopicID": 20151,
+      "Hashes": [
+        "53021bab905ed4bc85a00ccc0e2bf595"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Multiverse",
+      "ID": 29939,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/098463.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2025-03-05 05:10:58",
+      "ForumTopicID": 26905,
+      "Hashes": [
+        "f8f57b1c5171a771b3987be56ef9f0ff"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pac-Man Collection",
+      "ID": 29868,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/099422.png",
+      "NumAchievements": 51,
+      "NumLeaderboards": 6,
+      "Points": 352,
+      "DateModified": "2024-07-16 00:56:06",
+      "ForumTopicID": 26786,
+      "Hashes": [
+        "9cebe6571aa12803eadcefd9cde6b1b6"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Quest for the Golden Chalice",
+      "ID": 24468,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/073967.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 15,
+      "Points": 90,
+      "DateModified": "2023-06-25 06:42:54",
+      "ForumTopicID": 22229,
+      "Hashes": [
+        "eabcb4a9a1eac2c6f8a7d002987d9e55"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Sega Flipper",
+      "ID": 25957,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/089988.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 90,
+      "DateModified": "2024-04-25 18:02:54",
+      "ForumTopicID": 26118,
+      "Hashes": [
+        "e61ca91de0e9591fb16204e8a626923a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Sudoku",
+      "ID": 14471,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/067891.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 16,
+      "DateModified": "2021-02-20 07:27:51",
+      "ForumTopicID": 9319,
+      "Hashes": [
+        "94476e431aca0f9590964d6797d5dee9",
+        "e34e775b40367815197dc4086aab2f89"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Where's Derpy?",
+      "ID": 34944,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/118782.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 5,
+      "Points": 12,
+      "DateModified": "2025-10-06 05:09:32",
+      "ForumTopicID": 32586,
+      "Hashes": [
+        "291282d0946c56d3763044d73fbff74c"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Pac-Man",
+      "ID": 17175,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/097257.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 3,
+      "Points": 195,
+      "DateModified": "2024-05-27 16:28:32",
+      "ForumTopicID": 26602,
+      "Hashes": [
+        "70432c26c3e9ff2be98eff4401923e3c"
+      ]
+    },
+    {
+      "Title": "Alcazar: The Forgotten Fortress",
+      "ID": 17273,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/113858.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 4,
+      "Points": 144,
+      "DateModified": "2025-11-16 02:58:48",
+      "ForumTopicID": 31175,
+      "Hashes": [
+        "803914bbde6822ebf113d5b1d1cf7011"
+      ]
+    },
+    {
+      "Title": "Antarctic Adventure",
+      "ID": 14003,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/113657.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 2,
+      "Points": 202,
+      "DateModified": "2023-02-08 21:32:19",
+      "ForumTopicID": 8442,
+      "Hashes": [
+        "1ea45edc04bc4df444a38e50f8a75d5d"
+      ]
+    },
+    {
+      "Title": "Artillery Duel",
+      "ID": 17275,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/059486.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 22,
+      "DateModified": "2022-06-26 19:55:49",
+      "ForumTopicID": 16420,
+      "Hashes": [
+        "fabbbf6dfcb0628fa33b476750a492f8"
+      ]
+    },
+    {
+      "Title": "BurgerTime",
+      "ID": 12770,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/124322.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 4,
+      "Points": 183,
+      "DateModified": "2026-02-14 19:23:55",
+      "ForumTopicID": 34379,
+      "Hashes": [
+        "927ce5ba5bf3e0f6c8c5a115db51f264"
+      ]
+    },
+    {
+      "Title": "Carnival",
+      "ID": 14066,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/082275.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 4,
+      "Points": 122,
+      "DateModified": "2024-12-01 21:24:16",
+      "ForumTopicID": 8513,
+      "Hashes": [
+        "f44e87fd71785824ac2ffb9927337886"
+      ]
+    },
+    {
+      "Title": "Congo Bongo",
+      "ID": 14273,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/113900.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 4,
+      "Points": 120,
+      "DateModified": "2025-07-02 21:56:46",
+      "ForumTopicID": 31252,
+      "Hashes": [
+        "1e5dc0f3a8b974b20340bdf8593b309b"
+      ]
+    },
+    {
+      "Title": "Cosmic Avenger",
+      "ID": 14067,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/103248.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 4,
+      "Points": 198,
+      "DateModified": "2024-10-15 22:34:08",
+      "ForumTopicID": 28365,
+      "Hashes": [
+        "cfbd4a478e7019422c306837444d2e46"
+      ]
+    },
+    {
+      "Title": "Defender",
+      "ID": 14274,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/119232.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 150,
+      "DateModified": "2025-11-04 20:54:00",
+      "ForumTopicID": 32779,
+      "Hashes": [
+        "00123e08f138b7094601ea8d13d5336d"
+      ]
+    },
+    {
+      "Title": "Donkey Kong",
+      "ID": 14068,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/044908.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 4,
+      "Points": 169,
+      "DateModified": "2024-11-26 07:50:45",
+      "ForumTopicID": 12637,
+      "Hashes": [
+        "613a3e457758e274a0e0819ff6aa2d43"
+      ]
+    },
+    {
+      "Title": "Donkey Kong Junior",
+      "ID": 21428,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/063101.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 125,
+      "DateModified": "2022-10-23 02:45:48",
+      "ForumTopicID": 18624,
+      "Hashes": [
+        "1eb2b9c2d1d113f3860f345a07baeb42"
+      ]
+    },
+    {
+      "Title": "Dragonfire",
+      "ID": 13486,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/045190.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 53,
+      "DateModified": "2021-06-14 04:59:24",
+      "ForumTopicID": 8317,
+      "Hashes": [
+        "37c56fabd85c91f365bf2f1152f59081"
+      ]
+    },
+    {
+      "Title": "Evolution",
+      "ID": 17472,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/042624.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 69,
+      "DateModified": "2022-06-03 08:15:39",
+      "ForumTopicID": 12493,
+      "Hashes": [
+        "e0d1ff37974fa017a6c78c174925643a"
+      ]
+    },
+    {
+      "Title": "Frenzy",
+      "ID": 14000,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/110102.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 73,
+      "DateModified": "2025-04-04 15:04:53",
+      "ForumTopicID": 30409,
+      "Hashes": [
+        "ec8f7fea2f00df94ded932d49bd8a7f9"
+      ]
+    },
+    {
+      "Title": "Frogger",
+      "ID": 14275,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/078513.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 6,
+      "Points": 170,
+      "DateModified": "2024-06-10 15:05:42",
+      "ForumTopicID": 22671,
+      "Hashes": [
+        "ade03210d571409ecb18d5bfaefdad03"
+      ]
+    },
+    {
+      "Title": "Gateway to Apshai",
+      "ID": 22417,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/103583.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 67,
+      "DateModified": "2023-08-12 03:26:32",
+      "ForumTopicID": 20160,
+      "Hashes": [
+        "7262176bb5917af526243438f6c8d9e4"
+      ]
+    },
+    {
+      "Title": "Gorf",
+      "ID": 14001,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/082087.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 16,
+      "Points": 123,
+      "DateModified": "2023-09-05 01:38:26",
+      "ForumTopicID": 23098,
+      "Hashes": [
+        "e751e5d60a2259334b80ce63d2b69c3a"
+      ]
+    },
+    {
+      "Title": "Gyruss",
+      "ID": 17289,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/081703.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 230,
+      "DateModified": "2023-08-29 09:28:11",
+      "ForumTopicID": 23109,
+      "Hashes": [
+        "fd499d2d7ed864f81c6f01a9ad4b4442"
+      ]
+    },
+    {
+      "Title": "James Bond 007",
+      "ID": 17290,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/068123.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 230,
+      "DateModified": "2023-02-17 01:42:14",
+      "ForumTopicID": 20387,
+      "Hashes": [
+        "c7ea91d9ac4d4a104d8e7832f8db3962"
+      ]
+    },
+    {
+      "Title": "Jumpman Junior",
+      "ID": 6339,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/045634.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 3,
+      "Points": 150,
+      "DateModified": "2022-08-18 16:31:48",
+      "ForumTopicID": 13422,
+      "Hashes": [
+        "5454538f617f2ccf56cb7e0f5a45d11b"
+      ]
+    },
+    {
+      "Title": "Jungle Hunt",
+      "ID": 14281,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/052509.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 5,
+      "Points": 250,
+      "DateModified": "2025-03-17 03:31:01",
+      "ForumTopicID": 15051,
+      "Hashes": [
+        "d6f4df2726159c5aedae9efd21307f09"
+      ]
+    },
+    {
+      "Title": "Monkey Academy",
+      "ID": 17292,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/106094.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 153,
+      "DateModified": "2025-11-15 08:58:32",
+      "ForumTopicID": 29223,
+      "Hashes": [
+        "6cd6a23e951c0ec6da23d1335812bff2"
+      ]
+    },
+    {
+      "Title": "Montezuma's Revenge",
+      "ID": 21994,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/065882.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 18,
+      "Points": 94,
+      "DateModified": "2023-01-27 02:44:02",
+      "ForumTopicID": 19548,
+      "Hashes": [
+        "f7f5da82e247df6f5097755deffde0ed"
+      ]
+    },
+    {
+      "Title": "Mountain King",
+      "ID": 24996,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/077005.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 2,
+      "Points": 202,
+      "DateModified": "2023-08-27 20:25:29",
+      "ForumTopicID": 22321,
+      "Hashes": [
+        "bb79207c51e772fd26276712cc4e6927"
+      ]
+    },
+    {
+      "Title": "Mouse Trap",
+      "ID": 14071,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/078309.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 122,
+      "DateModified": "2024-09-07 02:47:12",
+      "ForumTopicID": 22656,
+      "Hashes": [
+        "c8f0d1ee5494dab146c82a4ebecaff4a"
+      ]
+    },
+    {
+      "Title": "Pepper II",
+      "ID": 14002,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/045270.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 3,
+      "Points": 165,
+      "DateModified": "2021-07-30 13:08:56",
+      "ForumTopicID": 8729,
+      "Hashes": [
+        "679f02b1d1a7d68af42735d67cbccaff"
+      ]
+    },
+    {
+      "Title": "Popeye",
+      "ID": 18259,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/051697.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 2,
+      "Points": 220,
+      "DateModified": "2025-09-01 22:50:41",
+      "ForumTopicID": 14477,
+      "Hashes": [
+        "a7773e1265e0089bc8f148527256a20e"
+      ]
+    },
+    {
+      "Title": "Spy Hunter",
+      "ID": 22895,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/069973.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 159,
+      "DateModified": "2023-03-18 00:25:45",
+      "ForumTopicID": 20794,
+      "Hashes": [
+        "f96a21f920e889d1e21abbf00f4d381d"
+      ]
+    },
+    {
+      "Title": "The Smurfs: Rescue in Gargamel's Castle",
+      "ID": 14072,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/067221.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 93,
+      "DateModified": "2025-02-12 19:30:49",
+      "ForumTopicID": 20069,
+      "Hashes": [
+        "c29e282c81ce9b40f39f493f51725d3c"
+      ]
+    },
+    {
+      "Title": "Time Pilot",
+      "ID": 12769,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/064834.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 12,
+      "Points": 650,
+      "DateModified": "2025-11-30 06:38:25",
+      "ForumTopicID": 8292,
+      "Hashes": [
+        "91c7b5d4ea94092f6e18da4775656d4b"
+      ]
+    },
+    {
+      "Title": "Up N Down",
+      "ID": 9323,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/087899.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 123,
+      "DateModified": "2024-01-11 01:49:05",
+      "ForumTopicID": 25004,
+      "Hashes": [
+        "90e261510765deecaeac8283aa88d815"
+      ]
+    },
+    {
+      "Title": "Venture",
+      "ID": 13488,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/054106.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 495,
+      "DateModified": "2024-08-18 16:47:39",
+      "ForumTopicID": 14851,
+      "Hashes": [
+        "ad22023a11a3bcb107610d2af5a6be77"
+      ]
+    },
+    {
+      "Title": "Zaxxon",
+      "ID": 14076,
+      "ConsoleID": 44,
+      "ConsoleName": "ColecoVision",
+      "ImageIcon": "/Images/048680.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 165,
+      "DateModified": "2021-10-10 19:00:54",
+      "ForumTopicID": 13990,
+      "Hashes": [
+        "7c677f80c4ee957559d7abebd8ee1be1"
+      ]
+    }
+  ]
+}

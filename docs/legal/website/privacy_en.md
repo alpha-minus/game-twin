@@ -1,0 +1,137 @@
+# Privacy Policy
+
+Last updated: August 2026
+
+This is a translation for convenience. The German version is the legally binding one.
+
+This policy tells you, as required by Article 13 GDPR, what personal data the Game Twin application processes, why it does so, and what rights you have.
+
+## 1. Controller
+
+The controller within the meaning of Article 4(7) GDPR is:
+
+Mert Aslantürk  
+c/o flexdienst - #21852  
+Kurt-Schumacher-Straße 74  
+67663 Kaiserslautern  
+Germany
+
+Email: hello@game-twin.app  
+Web: https://game-twin.app
+
+No data protection officer has been appointed. The thresholds of Article 37 GDPR and section 38 BDSG are not met: fewer than 20 people are permanently occupied with the automated processing of personal data, no processing takes place that would require a data protection impact assessment under Article 35 GDPR, and no personal data is processed commercially for the purpose of transfer or for market and opinion research.
+
+## 2. What the app does not do
+
+Game Twin contains no analytics, no advertising and no tracking of your behaviour. There is no profiling and no automated decision-making within the meaning of Article 22 GDPR. No data is sold, rented or passed to third parties for advertising.
+
+The provider operates no server for the app. There is no user account with the provider, and no content is uploaded to the provider's systems. Your library, your guides, maps, checklists, images and any credentials you enter stay on your device and in the folders you choose to sync yourself.
+
+There are exceptions to this, and they are exhaustive: Google receives data in the four situations described here and in no others. First, if you set up and use the optional AI assistant, what you send it goes to Google: your messages, the earlier course of that conversation, the most recently attached image, usually a screenshot, and a short instruction the app assembles about the game you are playing. Section 3.7 describes this in detail. Second, some entries in the guide and map source lists do not lead to a particular site but to a Google web or image search carrying the name of the game, and the same holds for searches you type into the built-in browser, for the game search offered when you create a vault, and for the setup-guide search the list of recommended apps offers for each entry. Those searches run on Google, and there is no setting for it. Sections 3.2 and 3.5 describe this. Third, the achievement views, the guide reader and the list of recommended apps offer YouTube searches; opening one sends the search terms to YouTube, a Google service. Fourth, when a saved guide page contains an embedded YouTube video, its preview image and, if you play it, the video itself load from YouTube; the app requests the consent-reduced youtube-nocookie variant where possible.
+
+## 3. Processing activities in detail
+
+### 3.1 Activating and validating a supporter key
+
+Purpose: unlocking the supporter features and enforcing the number of devices a supporter key covers.  
+Data: the license key, your device model (for example "Samsung SM-S921B") and a hashed device identifier derived from your device's Android ID. The Android ID itself is not transmitted, only a hash calculated from it. Because that value can be linked to a device, we treat it as pseudonymised personal data.  
+Recipient: Lemon Squeezy, USA, as the licensing provider and as Merchant of Record for the purchase. See section 4 for the third-country transfer.  
+Legal basis: Article 6(1)(b) GDPR. The check is necessary to perform the supporter key contract you entered into when purchasing.  
+Retention: on your device until you deactivate the key or uninstall the app. At Lemon Squeezy for as long as the activation exists, and beyond that within the commercial and tax retention periods that apply to them.
+
+### 3.2 Checking for updates and reading release information
+
+Purpose: determining whether a newer version of the app is available, and reading the release information for the emulators and tools the app can recommend to you and offer for download.  
+Data: your IP address and the technical details your device sends with the request (for example the HTTP client identifier).  
+Recipient: GitHub, USA, as the operator of the pages that hold this release information.  
+Legal basis: Article 6(1)(f) GDPR. The legitimate interest is offering you bug fixes and security updates promptly.  
+Retention: the provider does not store this data. How long GitHub logs connection data is governed by their own privacy notice.
+
+The list of recommended apps also offers, for each entry, a web search and a YouTube search for that app's setup guide. Opening one hands the name of that app to Google or to YouTube and leaves Game Twin: the search opens in your device's browser rather than the built-in one, so the settings of that browser and the privacy notice of the service you reach apply to it. Nothing is sent unless you tap one of those buttons.
+
+### 3.3 Fetching artwork and metadata
+
+Purpose: showing cover art, descriptions, code wheels and similar reference material for the games in your library.  
+Data: your IP address and the technical details your device sends with the request.  
+Recipient: depending on the source you select, among others RetroAchievements, Steam, SteamGridDB, TheGamesDB, GitHub, GitLab or archive.org. Your device connects to the source directly. The icons next to the entries in the lists of guide and map sources are not fetched from the network: the app shows a source's icon only if you have opened that site yourself in the built-in browser and its icon was stored locally in the process (section 3.5); otherwise it shows a placeholder letter. No connection of its own is made for these icons.  
+Legal basis: Article 6(1)(f) GDPR. The legitimate interest is displaying the content you asked for.  
+Retention: fetched content is cached locally on your device until you delete it. The provider receives none of this data.
+
+### 3.4 RetroAchievements and Steam
+
+Purpose: retrieving your progress and achievements through those services' interfaces.  
+Data: the credentials you enter yourself (username and key, or API key) and the account content retrieved with them.  
+Recipient: the respective service only. The provider does not receive these credentials. Your RetroAchievements user name and API key, the Steam account data resolved from your entries, and every other key you can enter, a Steam Web API key of your own, the SteamGridDB and TheGamesDB keys, the Google Gemini key covered by section 3.7, and your supporter key together with the email address belonging to it, are stored encrypted on your device, with the encryption key held in the device's own key store. This protects the stored values against being read out of a copy of the file system; it cannot protect them against someone who fully controls the running device itself, for instance with root access.  
+Retrieved account content is cached in the app's private storage on your device so repeat views do not fetch it again. For the achievement journey's compare this includes the public progress data of players you add as rivals; those entries are removed when you switch accounts or clear the app's data.
+Legal basis: Article 6(1)(b) GDPR for the relationship between you and the service concerned. Entering credentials is voluntary and the feature can be left unused.  
+Retention: until you remove the credentials in Settings or uninstall the app.
+
+### 3.5 Built-in browser
+
+Purpose: opening web pages you choose yourself, for instance to save a guide or a map.  
+Data: whatever the page you open receives technically, in particular your IP address, your browser identifier and, where applicable, cookies.  
+Recipient: the page you open. Some entries in the lists of guide and map sources do not lead to the site their label and icon suggest but to a web search built from the name of the game; if you have not given the vault a name of your own, that name is the file name of the ROM on your device, and the search runs on Google. The YouTube searches offered in the achievement views and the guide reader open in the same browser and carry your search terms to YouTube; embedded YouTube videos in saved pages load their player and preview images from YouTube when you view them. The provider receives none of this data and keeps no history on its own systems.  
+Legal basis: Article 6(1)(f) GDPR. The legitimate interest is carrying out the page request you made.  
+Retention: history, cookies and cache stay locally on your device and can be deleted there. The built-in browser additionally offers optional blocking of ads, trackers and cookie banners.
+
+### 3.6 Library, guides, maps and checklists
+
+Purpose: managing your collection and the material you keep in it.  
+Data: everything else you record or store in the app, except what you send to the AI assistant; section 3.7 covers that.  
+Recipient: nobody, except where sections 3.3, 3.5 and 3.7 describe otherwise; a search described there carries the name of the game with it, for instance. Otherwise this data stays on your device and in the folders you choose to sync yourself. The library snapshot's file name carries a short random identifier generated on your device (pattern: library.<identifier>.gametwin) so that several devices sharing one folder do not overwrite each other; it is not derived from any characteristic of your device and is never transmitted to the provider.  
+Legal basis: none applies, because there is no processing by the provider here. If you set up synchronisation with a cloud storage service, that service's provider is responsible for it.  
+Retention: until you delete the data or uninstall the app.
+
+### 3.7 AI assistant
+
+Purpose: answering your questions about the game you are playing, through the optional AI assistant. The feature stays switched off until you enter your own Google Gemini API key in Settings. Without that key nothing is sent.  
+Data: the messages you write, and with them the conversation you have already had with the assistant about that game, because every request repeats the exchange so far. In addition the most recently attached image (usually a screenshot, attached automatically if you ask for that) and a short instruction that the app assembles anew for each request. That instruction names the game the vault is for; if you have not given the vault a name of your own, that name is the file name of the ROM on your device. If you have connected RetroAchievements, the instruction also carries how many achievements you have unlocked out of how many, your completion percentage, the titles of your three most recent unlocks and the "now playing" text RetroAchievements reports for you. If you have connected Steam, it carries your unlock count there and the titles of your three most recent unlocks. Your API key is sent along to authenticate the request.  
+Recipient: Google, USA. See section 4 for the third-country transfer.  
+Legal basis: Article 6(1)(b) GDPR. The transfer is necessary to provide the feature you set up and invoked.  
+Retention: how long Google keeps the requests is governed by the terms that apply to your own Google key. The conversation and the attached images stay locally on your device until you delete them.
+
+## 4. Transfers to third countries
+
+The supporter key check described in section 3.1 is carried out on the provider's behalf by Lemon Squeezy, established in the United States of America. In the course of it, the license key, your device model and the hashed device identifier are transferred to a third country. The United States is not a member state of the European Union and its level of data protection may differ from that of the GDPR; in particular, public authorities there have powers of access against which legal remedies may be limited.
+
+The transfer is based on the standard contractual clauses of the European Commission (Article 46(2)(c) GDPR), which form part of the data processing agreement concluded with Lemon Squeezy. You can obtain a copy of the clauses on request at the address given in section 1.
+
+The AI assistant described in section 3.7 sends your messages, the earlier course of the conversation, the attached image and the game context described there to Google in the United States of America. What is said above about the level of protection there applies here too. Using the feature requires you to enter your own Google Gemini API key: the contractual relationship over that key is between you and Google, and the terms you agreed with Google apply to it. The provider is not a party to that relationship and therefore names no transfer mechanism of its own for this transfer.
+
+
+The connections described in sections 3.2 to 3.5 are made by your device directly to the service concerned. The provider transmits no data in doing so; those providers are independently responsible for their processing and their own privacy notices apply.
+
+## 5. Access to terminal equipment
+
+The app reads the device identifier Settings.Secure.ANDROID_ID in exactly one place: when a supporter key is activated. The Android ID is the input to the hash that is sent to Lemon Squeezy under section 3.1. This access to information in your terminal equipment within the meaning of section 25 TDDG (the German implementation of Article 5(3) of Directive 2002/58/EC) is exempt from consent under section 25(2) no. 2 TDDG because it is strictly necessary for the provider to supply the digital service you expressly requested, namely activating the supporter key on this particular device. Without a stable, device-bound identifier the agreed number of devices could not be enforced.
+
+Two further reads of your terminal equipment happen entirely on your device. The app overview in the launcher is built by asking Android which applications on this device can be started, and the list of recommended apps checks whether a particular one of them is already installed. Both use only the name and the icon Android reports, and both are what those views are made of. Nothing about the applications on your device is transmitted to the provider or to anyone else.
+
+The app can also capture the current screen contents, and only when you ask it to: attaching a screenshot to the AI assistant, or taking a section of a map. Android itself asks your permission before a capture session begins and shows an indicator for as long as one is running. A capture stays on your device unless you attach it to the AI assistant, in which case section 3.7 applies. Both of these accesses are exempt from consent under section 25(2) no. 2 TDDG, being strictly necessary for the functions you invoked.
+
+In no case does access to your terminal equipment serve recognition for advertising or analytics.
+
+## 6. Your rights
+
+You have the following rights against the controller:
+
+access to the data processed about you (Article 15 GDPR),  
+rectification of inaccurate data (Article 16 GDPR),  
+erasure (Article 17 GDPR),  
+restriction of processing (Article 18 GDPR),  
+data portability (Article 20 GDPR),  
+objection to processing based on Article 6(1)(f) GDPR (Article 21 GDPR).
+
+Where processing is based on your consent, you may withdraw it at any time with effect for the future (Article 7(3) GDPR). The lawfulness of processing carried out before the withdrawal is unaffected.
+
+A message to hello@game-twin.app is enough to exercise these rights.
+
+You also have the right to lodge a complaint with a supervisory authority (Article 77 GDPR). The authority competent for the provider is the Berliner Beauftragte für Datenschutz und Informationsfreiheit, https://www.datenschutz-berlin.de. You may equally address the supervisory authority of your habitual residence or place of work.
+
+## 7. Contact
+
+Please send questions about this policy and about the processing of your data to:
+
+Email: hello@game-twin.app
+
+Postal address: as given in section 1.

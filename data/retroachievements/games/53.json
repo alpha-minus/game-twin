@@ -1,0 +1,835 @@
+{
+  "consoleId": 53,
+  "consoleName": "WonderSwan",
+  "games": [
+    {
+      "Title": "~Homebrew~ Atop the Witch's Tower WS",
+      "ID": 26483,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/094114.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2025-09-03 21:22:23",
+      "ForumTopicID": 30647,
+      "Hashes": [
+        "db3569afdb8d8f553da626970f1804e7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cracky Mini",
+      "ID": 32532,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/105782.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 68,
+      "DateModified": "2025-01-08 15:16:28",
+      "ForumTopicID": 29111,
+      "Hashes": [
+        "2ad72633b07f623b6eb0a641ec44dfd3"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mazy Mini",
+      "ID": 32952,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/107968.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 12,
+      "Points": 65,
+      "DateModified": "2025-02-18 08:20:11",
+      "ForumTopicID": 29803,
+      "Hashes": [
+        "4ea83a19867a3e32749b1c9d898583ca"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Wondersnake",
+      "ID": 19897,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/059129.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 20,
+      "Points": 105,
+      "DateModified": "2022-06-11 04:49:52",
+      "ForumTopicID": 16941,
+      "Hashes": [
+        "f8706cc921099ce84b2dd154b3cbbac6"
+      ]
+    },
+    {
+      "Title": "Battle Spirit: Digimon Frontier",
+      "ID": 16138,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/104593.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 405,
+      "DateModified": "2024-11-15 15:05:01",
+      "ForumTopicID": 28750,
+      "Hashes": [
+        "5fd4676d03e21bf3eee5c9c0236c992c"
+      ]
+    },
+    {
+      "Title": "Beatmania for WonderSwan",
+      "ID": 20516,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/085328.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 18,
+      "Points": 251,
+      "DateModified": "2025-06-17 22:19:47",
+      "ForumTopicID": 24371,
+      "Hashes": [
+        "b814e71eb1d079466a9535566d605280"
+      ]
+    },
+    {
+      "Title": "Cardinal Sins",
+      "ID": 22100,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/066589.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 8,
+      "Points": 215,
+      "DateModified": "2023-08-24 22:38:27",
+      "ForumTopicID": 22652,
+      "Hashes": [
+        "50425331b91ee4273df1d56d7dcd519f"
+      ]
+    },
+    {
+      "Title": "Chocobo no Fushigi na Dungeon for WonderSwan",
+      "ID": 16362,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/050359.png",
+      "NumAchievements": 67,
+      "NumLeaderboards": 1,
+      "Points": 437,
+      "DateModified": "2021-12-21 16:42:43",
+      "ForumTopicID": 14392,
+      "Hashes": [
+        "edbc77ab0d585447d927318a6eb66c9b",
+        "ee0334d932ad9763965a8888e2cccb27"
+      ]
+    },
+    {
+      "Title": "Clock Tower",
+      "ID": 14874,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/123693.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2026-02-17 19:56:57",
+      "ForumTopicID": 28863,
+      "Hashes": [
+        "8f0ba3401662a40e8da5ebcfe7b85e81",
+        "bdaacc5193951ca7fff2845b1664d451"
+      ]
+    },
+    {
+      "Title": "Dicing Knight.",
+      "ID": 14599,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/036542.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 238,
+      "DateModified": "2025-10-07 06:02:45",
+      "ForumTopicID": 9524,
+      "Hashes": [
+        "098b747bf9d88f651735b45197e393e1",
+        "6e8848993a51e0226ba4be18e7bb6b73"
+      ]
+    },
+    {
+      "Title": "Digimon Adventure 02: Tag Tamers",
+      "ID": 16143,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/105577.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 337,
+      "DateModified": "2025-04-30 00:28:13",
+      "ForumTopicID": 28757,
+      "Hashes": [
+        "2cb264ba76b88452d7576992f2b90dbf",
+        "521dee8107ef14ffc0e0b3795207d9fd"
+      ]
+    },
+    {
+      "Title": "Digimon Adventure: Anode Tamer & Cathode Tamer",
+      "ID": 16139,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/102993.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 113,
+      "DateModified": "2026-01-18 02:16:46",
+      "ForumTopicID": 26333,
+      "Hashes": [
+        "47b23a84817217cc5b9bbd85fe634174"
+      ]
+    },
+    {
+      "Title": "Digimon Tamers: Battle Spirit",
+      "ID": 16144,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/104591.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 9,
+      "Points": 402,
+      "DateModified": "2025-06-10 02:17:35",
+      "ForumTopicID": 29813,
+      "Hashes": [
+        "71146ab7c32bd1524c27da0faefcf46a"
+      ]
+    },
+    {
+      "Title": "Digimon Tamers: Battle Spirit Ver. 1.5",
+      "ID": 16145,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/104144.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 12,
+      "Points": 775,
+      "DateModified": "2022-05-12 23:05:39",
+      "ForumTopicID": 12799,
+      "Hashes": [
+        "7e1be9ec064d8e1e92f26668c8a74326",
+        "bfafb9bc64fc88bb71f5936172c2abcd"
+      ]
+    },
+    {
+      "Title": "Digital Monster: Ver. WonderSwan",
+      "ID": 16149,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/113977.png",
+      "NumAchievements": 100,
+      "NumLeaderboards": 2,
+      "Points": 450,
+      "DateModified": "2025-06-30 02:04:30",
+      "ForumTopicID": 13976,
+      "Hashes": [
+        "d5f7fbf06c57aa50f08c14e64d2e02a2"
+      ]
+    },
+    {
+      "Title": "Final Fantasy",
+      "ID": 15580,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/113207.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 2,
+      "Points": 368,
+      "DateModified": "2024-09-14 18:07:37",
+      "ForumTopicID": 17579,
+      "Hashes": [
+        "0d5c239eb1b99b4ab756acda11992ce3",
+        "e36650ac50df69d1832a0d496c165db2"
+      ]
+    },
+    {
+      "Title": "Final Fantasy II",
+      "ID": 15581,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/089328.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 2,
+      "Points": 414,
+      "DateModified": "2026-01-13 01:19:06",
+      "ForumTopicID": 22819,
+      "Hashes": [
+        "e03e666452651e82eb5734a9d684802a",
+        "ac5e0c9be878c8c287e92dd821969e9d"
+      ]
+    },
+    {
+      "Title": "Final Fantasy IV",
+      "ID": 15582,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/070793.png",
+      "NumAchievements": 91,
+      "NumLeaderboards": 1,
+      "Points": 760,
+      "DateModified": "2023-03-30 08:38:54",
+      "ForumTopicID": 18253,
+      "Hashes": [
+        "47d83279cbdbd91c51cb7b0063d5d3e5",
+        "4de69e86a05f6e82bdf02374f79a669f"
+      ]
+    },
+    {
+      "Title": "Final Lap 2000",
+      "ID": 14958,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/094194.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 32,
+      "Points": 125,
+      "DateModified": "2026-02-05 22:14:59",
+      "ForumTopicID": 33658,
+      "Hashes": [
+        "a466797b353d610f43a0f030cec721c1"
+      ]
+    },
+    {
+      "Title": "Final Lap Special: GT & Formula Machine",
+      "ID": 14960,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/063368.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 305,
+      "DateModified": "2023-03-12 22:15:17",
+      "ForumTopicID": 18013,
+      "Hashes": [
+        "0870f205e8a0148cc75d642f00558057"
+      ]
+    },
+    {
+      "Title": "Golden Axe",
+      "ID": 17245,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/055009.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 400,
+      "DateModified": "2022-10-24 01:16:11",
+      "ForumTopicID": 13495,
+      "Hashes": [
+        "55c9cc830000f0aaf721eac69d1703cc"
+      ]
+    },
+    {
+      "Title": "Guilty Gear Petit",
+      "ID": 17959,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/119284.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 8,
+      "Points": 302,
+      "DateModified": "2025-01-31 17:38:20",
+      "ForumTopicID": 13979,
+      "Hashes": [
+        "be0f50bc4470711a31be0bd33c775ad2"
+      ]
+    },
+    {
+      "Title": "Guilty Gear Petit 2",
+      "ID": 17829,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/105176.png",
+      "NumAchievements": 76,
+      "NumLeaderboards": 18,
+      "Points": 444,
+      "DateModified": "2025-11-25 17:04:22",
+      "ForumTopicID": 24248,
+      "Hashes": [
+        "1eb91e6b46ab5624c7b707ea7b7abe9d"
+      ]
+    },
+    {
+      "Title": "Gunpey",
+      "ID": 620,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/121878.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 6,
+      "Points": 210,
+      "DateModified": "2026-01-02 09:49:00",
+      "ForumTopicID": 33341,
+      "Hashes": [
+        "816c81b156146be62a45edd7d7d49fc6"
+      ]
+    },
+    {
+      "Title": "Hataraku Chocobo",
+      "ID": 17766,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/067861.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 450,
+      "DateModified": "2023-02-26 21:09:41",
+      "ForumTopicID": 20269,
+      "Hashes": [
+        "907ed96e5e12c55212bb15265d59801b",
+        "ebab0f1f4148d54437834971d9756431"
+      ]
+    },
+    {
+      "Title": "Judgement Silversword: Rebirth Edition",
+      "ID": 14594,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/036392.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 5,
+      "Points": 745,
+      "DateModified": "2024-06-12 18:14:10",
+      "ForumTopicID": 9827,
+      "Hashes": [
+        "b017d367af1ba43171beba3e184d9ee9"
+      ]
+    },
+    {
+      "Title": "Kaze no Klonoa: Moonlight Museum",
+      "ID": 14601,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/121208.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 3,
+      "Points": 580,
+      "DateModified": "2024-12-31 02:27:22",
+      "ForumTopicID": 13423,
+      "Hashes": [
+        "5e907dd88b3cfb2855a18fb1bf689860",
+        "a33445feef853e11fb75f255e1460be5",
+        "ad934d799209e78462ff261dc61655d1"
+      ]
+    },
+    {
+      "Title": "Lode Runner for WonderSwan",
+      "ID": 17250,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/063465.png",
+      "NumAchievements": 144,
+      "NumLeaderboards": 130,
+      "Points": 568,
+      "DateModified": "2022-12-11 18:48:13",
+      "ForumTopicID": 18759,
+      "Hashes": [
+        "c7445937d6fbc462256bd2ebcdbf3c25"
+      ]
+    },
+    {
+      "Title": "Makai Toushi SaGa",
+      "ID": 14602,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/079411.png",
+      "NumAchievements": 91,
+      "NumLeaderboards": 0,
+      "Points": 561,
+      "DateModified": "2026-02-28 19:15:44",
+      "ForumTopicID": 11195,
+      "Hashes": [
+        "957137e7d5249c02fecff063e0c86e87",
+        "f1d130f871a4440be635322c73662049"
+      ]
+    },
+    {
+      "Title": "Makai Toushi SaGa [Subset - Solo Class]",
+      "ID": 18495,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/072093.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 360,
+      "DateModified": "2024-10-07 09:44:19",
+      "ForumTopicID": 15155,
+      "Hashes": [
+        "1edff9c7eb20454dcd2cd6c6e23fc7c6",
+        "ac0b4121ead3c4b1ec102a57d1bb697d"
+      ]
+    },
+    {
+      "Title": "Makaimura for WonderSwan",
+      "ID": 614,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/043181.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 2,
+      "Points": 336,
+      "DateModified": "2023-08-19 21:45:39",
+      "ForumTopicID": 15197,
+      "Hashes": [
+        "f06beaff2703728baa8dddc0ddeb7094"
+      ]
+    },
+    {
+      "Title": "Mr. Driller",
+      "ID": 14597,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/066092.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 10,
+      "Points": 230,
+      "DateModified": "2022-04-20 00:21:22",
+      "ForumTopicID": 16008,
+      "Hashes": [
+        "9d600bfe28196609fbe4fb5b89486cbc"
+      ]
+    },
+    {
+      "Title": "Neon Genesis Evangelion: Shito Ikusei",
+      "ID": 17551,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/104746.png",
+      "NumAchievements": 98,
+      "NumLeaderboards": 0,
+      "Points": 631,
+      "DateModified": "2024-11-27 22:20:13",
+      "ForumTopicID": 28754,
+      "Hashes": [
+        "e9016134c7c84eeabc3ec273949f7ced",
+        "329f6dd7f50a8c77f64c57c9f486a94e"
+      ]
+    },
+    {
+      "Title": "O-chan no Oekaki Logic",
+      "ID": 14731,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/046512.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2023-10-15 02:43:46",
+      "ForumTopicID": 9839,
+      "Hashes": [
+        "5e92e316ce0998edbec00b31a6f2e112"
+      ]
+    },
+    {
+      "Title": "One Piece: Grand Battle Swan Colosseum",
+      "ID": 14769,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/042155.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 0,
+      "Points": 292,
+      "DateModified": "2022-06-03 09:46:03",
+      "ForumTopicID": 12360,
+      "Hashes": [
+        "7fa6a3034b8c03fca0b756fb5526ce62"
+      ]
+    },
+    {
+      "Title": "Pocket Fighter",
+      "ID": 17830,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/058699.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 245,
+      "DateModified": "2025-02-16 01:27:01",
+      "ForumTopicID": 16823,
+      "Hashes": [
+        "e79dddc7db77ad96c52b0b7690f8c1b1"
+      ]
+    },
+    {
+      "Title": "Rainbow Islands: Putty's Party",
+      "ID": 14876,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/059446.png",
+      "NumAchievements": 66,
+      "NumLeaderboards": 21,
+      "Points": 501,
+      "DateModified": "2022-08-13 07:28:51",
+      "ForumTopicID": 16981,
+      "Hashes": [
+        "854bd4105d726bf7e76fef8393d6ead0",
+        "8f8cfc1917925a6477fcc914ac910f5a"
+      ]
+    },
+    {
+      "Title": "Rhyme Rider Kerorikan",
+      "ID": 5357,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/053111.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 340,
+      "DateModified": "2023-01-05 10:48:28",
+      "ForumTopicID": 15232,
+      "Hashes": [
+        "04237a449794b5a7a8e4a3572707befc"
+      ]
+    },
+    {
+      "Title": "Riviera: Yakusoku no Chi Riviera",
+      "ID": 14657,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/030103.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 14,
+      "Points": 580,
+      "DateModified": "2022-03-13 12:16:02",
+      "ForumTopicID": 9996,
+      "Hashes": [
+        "3e62a6b6af656fcac225cd02446acb9d"
+      ]
+    },
+    {
+      "Title": "Rockman & Forte: Mirai Kara no Chousensha",
+      "ID": 14593,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/095762.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 385,
+      "DateModified": "2022-05-29 05:53:16",
+      "ForumTopicID": 13206,
+      "Hashes": [
+        "523004d48e9d606e1557c2c57af6790b",
+        "cadd7d9a54d7debffc52a02ff127a5b7"
+      ]
+    },
+    {
+      "Title": "Rockman.EXE WS | Mega Man Battle Network Wonderswan",
+      "ID": 14596,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/044574.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 545,
+      "DateModified": "2022-11-21 17:02:43",
+      "ForumTopicID": 10081,
+      "Hashes": [
+        "20379c41873b0d99a2baaf2ef959e1e6",
+        "a66390da2c2defcf092eb107edaf4fa0"
+      ]
+    },
+    {
+      "Title": "Rockman.EXE: N1 Battle",
+      "ID": 18432,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/060876.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2022-08-08 09:17:47",
+      "ForumTopicID": 17699,
+      "Hashes": [
+        "d902afdadf17b452621c50a1ffda2fa9"
+      ]
+    },
+    {
+      "Title": "RUN=DIM: Return to Earth",
+      "ID": 26314,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/119687.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 185,
+      "DateModified": "2025-10-28 19:37:21",
+      "ForumTopicID": 32866,
+      "Hashes": [
+        "5898c0dfee65ff9b47ce6ec1be2014d5"
+      ]
+    },
+    {
+      "Title": "SD Gundam: Operation U.C.",
+      "ID": 4965,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/067825.png",
+      "NumAchievements": 139,
+      "NumLeaderboards": 0,
+      "Points": 954,
+      "DateModified": "2024-08-31 09:28:00",
+      "ForumTopicID": 20165,
+      "Hashes": [
+        "12c3cca0ef52343509dda1c1fb4c1b65"
+      ]
+    },
+    {
+      "Title": "Shanghai Pocket",
+      "ID": 25178,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/077222.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 27,
+      "Points": 209,
+      "DateModified": "2023-07-24 07:46:31",
+      "ForumTopicID": 22554,
+      "Hashes": [
+        "37772a59d2fc13b07ba6260b3c4299da"
+      ]
+    },
+    {
+      "Title": "Side Pocket for WonderSwan",
+      "ID": 25087,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/076948.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 66,
+      "DateModified": "2024-11-28 19:26:02",
+      "ForumTopicID": 28797,
+      "Hashes": [
+        "496100bcd73fbfa39e473c6ddee190b2"
+      ]
+    },
+    {
+      "Title": "Slither Link",
+      "ID": 15371,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/123895.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 91,
+      "Points": 150,
+      "DateModified": "2026-01-30 11:25:52",
+      "ForumTopicID": 34173,
+      "Hashes": [
+        "d422d16a28390d395f4c0878c555e52c"
+      ]
+    },
+    {
+      "Title": "Space Invaders",
+      "ID": 14873,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/031242.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2025-01-10 14:24:10",
+      "ForumTopicID": 23469,
+      "Hashes": [
+        "5558b39b21cc90b0b2f0a4358c043eec"
+      ]
+    },
+    {
+      "Title": "Tane o Maku Tori",
+      "ID": 20348,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/061091.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 3,
+      "Points": 200,
+      "DateModified": "2023-03-24 02:21:51",
+      "ForumTopicID": 17827,
+      "Hashes": [
+        "e39e90944a683b9d4a996a53804826f0"
+      ]
+    },
+    {
+      "Title": "Tekken Card Challenge",
+      "ID": 2533,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/066087.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 405,
+      "DateModified": "2024-07-26 08:11:02",
+      "ForumTopicID": 23704,
+      "Hashes": [
+        "1e8bca5c31f62a9dd1121884351a2885"
+      ]
+    },
+    {
+      "Title": "Tetris",
+      "ID": 16704,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/058070.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 4,
+      "Points": 225,
+      "DateModified": "2023-03-11 15:29:15",
+      "ForumTopicID": 16478,
+      "Hashes": [
+        "b7e66090d059f77636161fa4e21f3e89"
+      ]
+    },
+    {
+      "Title": "Turntablist: DJ Battle",
+      "ID": 19382,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/057419.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 361,
+      "DateModified": "2023-05-16 02:03:41",
+      "ForumTopicID": 16255,
+      "Hashes": [
+        "144b29a9997c016fb4b2bb05e3965cfe"
+      ]
+    },
+    {
+      "Title": "Wizardry Scenario #1: Proving Grounds of the Mad Overlord",
+      "ID": 14595,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/060063.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 1,
+      "Points": 555,
+      "DateModified": "2024-08-30 16:11:31",
+      "ForumTopicID": 17173,
+      "Hashes": [
+        "a9eca898b6014e7ce23b9493b2d12efe",
+        "f0ba64cd7b88eab7add0f7af02080072",
+        "b6a7421c5731a2991f07290263d8bcec"
+      ]
+    },
+    {
+      "Title": "XI Little",
+      "ID": 16703,
+      "ConsoleID": 53,
+      "ConsoleName": "WonderSwan",
+      "ImageIcon": "/Images/076672.png",
+      "NumAchievements": 131,
+      "NumLeaderboards": 10,
+      "Points": 513,
+      "DateModified": "2025-01-09 03:26:48",
+      "ForumTopicID": 21134,
+      "Hashes": [
+        "3c5e5826998dcf3ee18b9396c860df6f"
+      ]
+    }
+  ]
+}

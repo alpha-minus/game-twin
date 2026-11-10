@@ -1,0 +1,277 @@
+{
+  "consoleId": 77,
+  "consoleName": "Atari Jaguar CD",
+  "games": [
+    {
+      "Title": "~Homebrew~ ~Demo~ Home Run Derby!",
+      "ID": 26665,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/084336.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 8,
+      "Points": 120,
+      "DateModified": "2023-11-06 20:41:37",
+      "ForumTopicID": 24038,
+      "Hashes": [
+        "BC696313D459A3829C209C81A04E5F6A",
+        "89C1DE1195D7F25BDA63875201445F25"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Alice's Mom's Rescue!",
+      "ID": 22942,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074110.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 155,
+      "DateModified": "2023-06-19 03:56:10",
+      "ForumTopicID": 21278,
+      "Hashes": [
+        "7A3837F8D61C7E60D09E7E3864195C0B"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Downfall",
+      "ID": 24459,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/092417.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2024-07-04 02:01:58",
+      "ForumTopicID": 26009,
+      "Hashes": [
+        "EF4B4B04E5857BB172E5DC804F075EA1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Elansar",
+      "ID": 24515,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074204.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 32,
+      "DateModified": "2026-02-02 00:58:24",
+      "ForumTopicID": 21818,
+      "Hashes": [
+        "87A5B4EECD0B5EBD56A44D924FA54077"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Full Circle: Rocketeer",
+      "ID": 24462,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074229.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 266,
+      "DateModified": "2023-06-04 01:38:33",
+      "ForumTopicID": 21821,
+      "Hashes": [
+        "97F5012D44F6332AD2E3C020715787B7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Jagmatch",
+      "ID": 24304,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074460.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 30,
+      "DateModified": "2023-06-04 02:09:13",
+      "ForumTopicID": 21885,
+      "Hashes": [
+        "B406A7402A14C406E26AA21F4E4B8817"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Kobayashi Maru: Final",
+      "ID": 24385,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/073493.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 113,
+      "DateModified": "2023-05-21 08:16:05",
+      "ForumTopicID": 21687,
+      "Hashes": [
+        "1AFCFA7CC6565E8B774AC2556CE8D8CA"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Saucer Wars",
+      "ID": 24060,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/092368.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 263,
+      "DateModified": "2025-12-09 03:57:49",
+      "ForumTopicID": 33481,
+      "Hashes": [
+        "D19987D55D2B0AA6D0FF82EF9D859341"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ SuperFly DX",
+      "ID": 24088,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074306.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 32,
+      "Points": 183,
+      "DateModified": "2023-07-06 04:24:59",
+      "ForumTopicID": 21305,
+      "Hashes": [
+        "B7A6DDB06827FC8CBAA3FEE0369E6FDA"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Ants",
+      "ID": 24303,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/072815.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 169,
+      "DateModified": "2024-06-27 18:21:44",
+      "ForumTopicID": 21583,
+      "Hashes": [
+        "00E51A104D12AC1B6B3738A4553C3A06"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Fast Food 64",
+      "ID": 24307,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074399.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 4,
+      "Points": 74,
+      "DateModified": "2025-07-23 21:57:17",
+      "ForumTopicID": 21882,
+      "Hashes": [
+        "88B332A84C80BE1981BBC784C09ABA2C"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Fast Food 64: Holiday Snacks",
+      "ID": 24306,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074518.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 39,
+      "DateModified": "2023-06-07 08:53:12",
+      "ForumTopicID": 21913,
+      "Hashes": [
+        "C58A8131DCD07BD60146D675C10B5D0F"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Frog Feast",
+      "ID": 22996,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/071537.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 23,
+      "DateModified": "2023-08-12 00:13:32",
+      "ForumTopicID": 21292,
+      "Hashes": [
+        "623BFAD5A4CE40BACF4520AD66697B34"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Klax",
+      "ID": 21667,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074395.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 615,
+      "DateModified": "2025-11-03 04:41:34",
+      "ForumTopicID": 21527,
+      "Hashes": [
+        "B3EC00D298651570D2C6B9E63724ED92"
+      ]
+    },
+    {
+      "Title": "Baldies",
+      "ID": 21663,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/071415.png",
+      "NumAchievements": 104,
+      "NumLeaderboards": 0,
+      "Points": 674,
+      "DateModified": "2024-07-10 01:54:19",
+      "ForumTopicID": 21280,
+      "Hashes": [
+        "76af127fbb4f621d9c128df809b27d4c"
+      ]
+    },
+    {
+      "Title": "Brain Dead 13",
+      "ID": 21671,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/074313.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 138,
+      "DateModified": "2024-09-22 04:44:01",
+      "ForumTopicID": 21275,
+      "Hashes": [
+        "6516d3fe6be7f24ac4364f518b6badf6"
+      ]
+    },
+    {
+      "Title": "Dragon's Lair",
+      "ID": 24065,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/071496.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 222,
+      "DateModified": "2024-04-10 00:27:03",
+      "ForumTopicID": 21279,
+      "Hashes": [
+        "D068B02BD51D0548FD3740D3E02F3D56"
+      ]
+    },
+    {
+      "Title": "Space Ace",
+      "ID": 24063,
+      "ConsoleID": 77,
+      "ConsoleName": "Atari Jaguar CD",
+      "ImageIcon": "/Images/073947.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 1,
+      "Points": 230,
+      "DateModified": "2024-08-24 10:57:47",
+      "ForumTopicID": 21340,
+      "Hashes": [
+        "857CCE0C114FF8975348D98E1E17D8F1"
+      ]
+    }
+  ]
+}

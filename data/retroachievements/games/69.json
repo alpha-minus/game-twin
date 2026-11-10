@@ -1,0 +1,504 @@
+{
+  "consoleId": 69,
+  "consoleName": "Mega Duck",
+  "games": [
+    {
+      "Title": "~Homebrew~ Aerial Mini",
+      "ID": 31453,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/104425.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 56,
+      "DateModified": "2025-06-21 17:04:33",
+      "ForumTopicID": 28718,
+      "Hashes": [
+        "b26307c090211b85672a3a71ef3bd53f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Black Castle",
+      "ID": 24049,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/074674.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 4,
+      "Points": 52,
+      "DateModified": "2025-06-30 14:55:42",
+      "ForumTopicID": 21961,
+      "Hashes": [
+        "0b41ffad1c44a3252f2ece6ee0f502f3"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Cacorm Mini",
+      "ID": 33639,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/112602.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 38,
+      "DateModified": "2025-05-25 13:41:29",
+      "ForumTopicID": 30977,
+      "Hashes": [
+        "30fd14ff650d9d77a601ec4ce21b6f52"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Canyon Racer",
+      "ID": 24082,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/071442.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 80,
+      "DateModified": "2023-04-21 16:27:28",
+      "ForumTopicID": 21259,
+      "Hashes": [
+        "b5811af4ede6a03dc85aa23da8bbc1e7",
+        "fcb469fa705f23d493689e2f7312d822"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hopman Mini",
+      "ID": 31699,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/104677.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 10,
+      "Points": 100,
+      "DateModified": "2025-02-18 08:54:05",
+      "ForumTopicID": 28771,
+      "Hashes": [
+        "115a709d9d524c1ea5d36c65d9b8dbe8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Max Pirate",
+      "ID": 30904,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/101963.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2024-09-16 04:50:17",
+      "ForumTopicID": 28033,
+      "Hashes": [
+        "ac17e9ce88054fde0132242e23873923"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Pegged",
+      "ID": 24917,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/092571.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2025-12-06 00:23:59",
+      "ForumTopicID": 33403,
+      "Hashes": [
+        "651635c9b964bdd1fde94adf6b6f38ec"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Penguin Migrants",
+      "ID": 29153,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/094954.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2024-11-14 20:14:38",
+      "ForumTopicID": 26204,
+      "Hashes": [
+        "4f78024f2102292fc03929cdd957319e"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Vexed",
+      "ID": 24916,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/076402.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 157,
+      "DateModified": "2023-07-10 01:39:04",
+      "ForumTopicID": 22406,
+      "Hashes": [
+        "ae0594e43294653ecf58532316c59cca",
+        "cb62769fabf28a722bf21e41844cc053"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Waternet",
+      "ID": 20221,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060408.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 3,
+      "Points": 376,
+      "DateModified": "2025-10-13 11:59:31",
+      "ForumTopicID": 17478,
+      "Hashes": [
+        "34d48f05d6be1d64b22732fc03b19301"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Wordyl",
+      "ID": 21912,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/065598.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 45,
+      "DateModified": "2026-01-09 04:50:50",
+      "ForumTopicID": 19475,
+      "Hashes": [
+        "a52fb4ea81525a1cc8fa9b2dfe0856b4"
+      ]
+    },
+    {
+      "Title": "2nd Space",
+      "ID": 10802,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060646.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2022-07-28 03:29:43",
+      "ForumTopicID": 17448,
+      "Hashes": [
+        "4d35d82d4d0d1c1a4709e39fa2015061"
+      ]
+    },
+    {
+      "Title": "Arctic Zone",
+      "ID": 10786,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/113755.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 74,
+      "DateModified": "2022-07-22 20:14:34",
+      "ForumTopicID": 17483,
+      "Hashes": [
+        "d9206a9aa8a80650dc14467f1c3a1e9e"
+      ]
+    },
+    {
+      "Title": "Armour Force",
+      "ID": 10787,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060448.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 170,
+      "DateModified": "2023-08-28 18:39:04",
+      "ForumTopicID": 17487,
+      "Hashes": [
+        "ddd2e71a525be1ed6605e933b3f1a616"
+      ]
+    },
+    {
+      "Title": "Beast Fighter",
+      "ID": 10783,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060438.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 80,
+      "DateModified": "2022-07-28 17:13:36",
+      "ForumTopicID": 17498,
+      "Hashes": [
+        "51a5520a1757aded4bb3baf5993b5dc8"
+      ]
+    },
+    {
+      "Title": "Black Forest Tale",
+      "ID": 10784,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060543.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 3,
+      "Points": 195,
+      "DateModified": "2022-07-30 00:50:26",
+      "ForumTopicID": 17458,
+      "Hashes": [
+        "19e82a8a681ffdbdb40b2d2308242830"
+      ]
+    },
+    {
+      "Title": "Bomb Disposer",
+      "ID": 10794,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060437.png",
+      "NumAchievements": 84,
+      "NumLeaderboards": 3,
+      "Points": 475,
+      "DateModified": "2022-07-28 16:52:14",
+      "ForumTopicID": 17464,
+      "Hashes": [
+        "e07e5a8e3c65cb78d7dc39d905de8147"
+      ]
+    },
+    {
+      "Title": "Captain Knick Knack",
+      "ID": 10782,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060519.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2022-10-21 22:29:28",
+      "ForumTopicID": 17462,
+      "Hashes": [
+        "97aedcfc742ba7e93d37d9c3096d565d"
+      ]
+    },
+    {
+      "Title": "Commin 5 in 1",
+      "ID": 10808,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060711.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2023-04-16 22:54:09",
+      "ForumTopicID": 17626,
+      "Hashes": [
+        "b9d32795ac1004892e7f75fbbabefcc6"
+      ]
+    },
+    {
+      "Title": "Four in One",
+      "ID": 10801,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/054035.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 1,
+      "Points": 345,
+      "DateModified": "2022-11-18 20:25:08",
+      "ForumTopicID": 17461,
+      "Hashes": [
+        "b69258fca964f04c09217318759a242b"
+      ]
+    },
+    {
+      "Title": "Magic Maze",
+      "ID": 10905,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060465.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 52,
+      "Points": 160,
+      "DateModified": "2022-07-27 22:11:12",
+      "ForumTopicID": 17515,
+      "Hashes": [
+        "0f1f07f00d2477bfaea726a00ef9874a"
+      ]
+    },
+    {
+      "Title": "Magical Tower",
+      "ID": 10788,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060435.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 26,
+      "Points": 130,
+      "DateModified": "2022-07-28 20:03:25",
+      "ForumTopicID": 17454,
+      "Hashes": [
+        "fecedeed294a15226bf83f6bdb9bd874"
+      ]
+    },
+    {
+      "Title": "Pile Wonder",
+      "ID": 10793,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/068483.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 210,
+      "DateModified": "2023-08-20 17:34:56",
+      "ForumTopicID": 20473,
+      "Hashes": [
+        "41f5481a13c8e52aafe8266db52e622f",
+        "475ef85a3329c9c7f79db9ea3ac74bd9"
+      ]
+    },
+    {
+      "Title": "Puppet Knight",
+      "ID": 10780,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/121549.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 325,
+      "DateModified": "2023-06-19 03:57:09",
+      "ForumTopicID": 17472,
+      "Hashes": [
+        "f2083d19412a8f1a688eedf3288d438b"
+      ]
+    },
+    {
+      "Title": "Railway",
+      "ID": 10798,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060675.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 117,
+      "DateModified": "2023-08-12 04:03:55",
+      "ForumTopicID": 17485,
+      "Hashes": [
+        "c217738067267475f86eec9bc19f462b"
+      ]
+    },
+    {
+      "Title": "Snake Roy",
+      "ID": 10789,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/050880.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2025-11-17 04:05:30",
+      "ForumTopicID": 17476,
+      "Hashes": [
+        "0bd39f37e9589a4dec2b3ebf535ef7b7"
+      ]
+    },
+    {
+      "Title": "Street Rider",
+      "ID": 10791,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060647.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 75,
+      "DateModified": "2022-07-27 02:45:20",
+      "ForumTopicID": 17572,
+      "Hashes": [
+        "284b8c671a7fb408aaa601be44e1f0b5"
+      ]
+    },
+    {
+      "Title": "Suleiman's Treasure",
+      "ID": 10790,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060642.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 205,
+      "DateModified": "2022-07-27 22:08:20",
+      "ForumTopicID": 17525,
+      "Hashes": [
+        "343da38521cbfb60df79a5e4eb392cf8"
+      ]
+    },
+    {
+      "Title": "The Brick Wall",
+      "ID": 10797,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060667.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2022-07-28 17:53:46",
+      "ForumTopicID": 17451,
+      "Hashes": [
+        "48170b7d77fc96d4f72adccb51299b87"
+      ]
+    },
+    {
+      "Title": "Trap and Turn",
+      "ID": 10800,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/060341.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 44,
+      "DateModified": "2022-10-23 10:21:17",
+      "ForumTopicID": 17481,
+      "Hashes": [
+        "ae12c30ad7b294c999c935bfcbb94600"
+      ]
+    },
+    {
+      "Title": "Vex",
+      "ID": 10796,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/061372.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 6,
+      "Points": 375,
+      "DateModified": "2022-10-13 16:40:30",
+      "ForumTopicID": 17466,
+      "Hashes": [
+        "7a5162ecd0cbc020bd3d098b75af64de"
+      ]
+    },
+    {
+      "Title": "Worm Visitor",
+      "ID": 10906,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/054040.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 4,
+      "Points": 95,
+      "DateModified": "2022-07-27 03:19:28",
+      "ForumTopicID": 17467,
+      "Hashes": [
+        "4b6abd84db818e1ca574f3af9ffcc2d5"
+      ]
+    },
+    {
+      "Title": "Zipball",
+      "ID": 10807,
+      "ConsoleID": 69,
+      "ConsoleName": "Mega Duck",
+      "ImageIcon": "/Images/053073.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 51,
+      "Points": 455,
+      "DateModified": "2023-01-14 23:14:12",
+      "ForumTopicID": 17465,
+      "Hashes": [
+        "60a0d647166971c5da6862d1db3916a2"
+      ]
+    }
+  ]
+}

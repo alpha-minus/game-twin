@@ -1,0 +1,535 @@
+{
+  "consoleId": 10,
+  "consoleName": "32X",
+  "games": [
+    {
+      "Title": "~Hack~ Doom 32X: Resurrection",
+      "ID": 18179,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/070532.png",
+      "NumAchievements": 117,
+      "NumLeaderboards": 50,
+      "Points": 815,
+      "DateModified": "2025-08-23 19:09:58",
+      "ForumTopicID": 14365,
+      "Hashes": [
+        "49134106e611839a28caf94a1ddd783d"
+      ]
+    },
+    {
+      "Title": "~Hack~ GameTap, Cup Noodles, and Bitter Tears",
+      "ID": 31958,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/109605.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 36,
+      "DateModified": "2025-03-21 22:18:55",
+      "ForumTopicID": 30193,
+      "Hashes": [
+        "e249205c5a3ed392f2bc4a4841fd98e2"
+      ]
+    },
+    {
+      "Title": "~Hack~ Mortal Kombat II: Arcade Edition",
+      "ID": 22047,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/109888.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2025-12-21 11:29:43",
+      "ForumTopicID": 30291,
+      "Hashes": [
+        "55088e83cf69c5b741bae56981ba6af0",
+        "9410e8be81deb056faf1a8e979c7028b"
+      ]
+    },
+    {
+      "Title": "~Hack~ Sigil",
+      "ID": 17681,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/044107.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2021-05-09 18:19:42",
+      "ForumTopicID": 12973,
+      "Hashes": [
+        "f891f45238cf4a8a0956196d665612b8"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Sonic Robo Blast 32X",
+      "ID": 33276,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/116445.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 107,
+      "DateModified": "2026-02-18 00:56:00",
+      "ForumTopicID": 30375,
+      "Hashes": [
+        "16a811628cd9245f2101e218581cd594"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Double Symbol",
+      "ID": 33570,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/111481.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-08-22 03:12:53",
+      "ForumTopicID": 30726,
+      "Hashes": [
+        "4b14e8c22a97b4fd164e077a4980c582"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ xRick",
+      "ID": 17682,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/082863.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 6,
+      "Points": 125,
+      "DateModified": "2025-09-01 02:48:52",
+      "ForumTopicID": 23523,
+      "Hashes": [
+        "f642e289bfb670022e0ae001786bdf94"
+      ]
+    },
+    {
+      "Title": "~Prototype~ ClayFighter 2",
+      "ID": 16794,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/058013.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 4,
+      "DateModified": "2023-03-30 10:13:48",
+      "ForumTopicID": 16617,
+      "Hashes": [
+        "dee27ac83240ddebdcaa92e9f58fde4f"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Pinocchio",
+      "ID": 16800,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/074106.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 9,
+      "Points": 201,
+      "DateModified": "2025-08-21 18:34:42",
+      "ForumTopicID": 21795,
+      "Hashes": [
+        "406ab3e46797d8459c3d9efbbc044282"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Soul Star X | Soulstar X",
+      "ID": 15989,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/081399.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 22,
+      "DateModified": "2023-08-23 05:12:58",
+      "ForumTopicID": 23050,
+      "Hashes": [
+        "4e9d4bd4122fbe72d6f6918e55a58a35"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Spot Goes to Hollywood",
+      "ID": 23739,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/074066.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 137,
+      "DateModified": "2026-01-18 00:15:16",
+      "ForumTopicID": 21797,
+      "Hashes": [
+        "11caaeaa76ac810400e9a08985e0eb29"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Virtua Hamster",
+      "ID": 14207,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/053446.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 26,
+      "DateModified": "2023-08-11 23:53:36",
+      "ForumTopicID": 20833,
+      "Hashes": [
+        "b3a4929fcb61bc9ecdfd9ac453860fc1"
+      ]
+    },
+    {
+      "Title": "After Burner Complete",
+      "ID": 14303,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/058640.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 310,
+      "DateModified": "2022-10-08 16:20:23",
+      "ForumTopicID": 16799,
+      "Hashes": [
+        "ec9529858cc7961b39f5382b2f657b8f"
+      ]
+    },
+    {
+      "Title": "BC Racers",
+      "ID": 15652,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/122214.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 64,
+      "Points": 436,
+      "DateModified": "2025-06-24 23:47:08",
+      "ForumTopicID": 10077,
+      "Hashes": [
+        "35a11e021ca0b7ff909e4774eb8b3236"
+      ]
+    },
+    {
+      "Title": "Blackthorne",
+      "ID": 10576,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/115510.png",
+      "NumAchievements": 67,
+      "NumLeaderboards": 22,
+      "Points": 485,
+      "DateModified": "2025-07-24 15:17:35",
+      "ForumTopicID": 14165,
+      "Hashes": [
+        "c238b112113b0297b2b9f4f618d56598",
+        "8c39e659db41e78cf4899b24551a9dbc"
+      ]
+    },
+    {
+      "Title": "Brutal Unleashed: Above the Claw",
+      "ID": 16793,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/115424.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 315,
+      "DateModified": "2023-04-17 08:33:03",
+      "ForumTopicID": 20550,
+      "Hashes": [
+        "1738a479b0253bcb0bcfb7bf09c03add"
+      ]
+    },
+    {
+      "Title": "Cosmic Carnage",
+      "ID": 14306,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/044905.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 120,
+      "DateModified": "2021-06-05 20:28:30",
+      "ForumTopicID": 13187,
+      "Hashes": [
+        "32f3002a46a462735aa12ca856cb7652"
+      ]
+    },
+    {
+      "Title": "DarXide",
+      "ID": 16795,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/110421.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 280,
+      "DateModified": "2025-07-02 02:59:27",
+      "ForumTopicID": 30197,
+      "Hashes": [
+        "30ee320f76db70a836edeff2c8ce9cd2"
+      ]
+    },
+    {
+      "Title": "Doom",
+      "ID": 12777,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/087604.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 17,
+      "Points": 466,
+      "DateModified": "2023-05-29 03:08:57",
+      "ForumTopicID": 14364,
+      "Hashes": [
+        "79339867d9d4f58b169753d9a29ea1a5"
+      ]
+    },
+    {
+      "Title": "Knuckles' Chaotix",
+      "ID": 10023,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/108515.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 59,
+      "Points": 259,
+      "DateModified": "2025-07-05 17:36:23",
+      "ForumTopicID": 9792,
+      "Hashes": [
+        "47b1095e68b053125cd2cd5b1ac4eb50"
+      ]
+    },
+    {
+      "Title": "Kolibri",
+      "ID": 14308,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/028547.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 404,
+      "DateModified": "2025-05-30 23:24:17",
+      "ForumTopicID": 12950,
+      "Hashes": [
+        "6af6207b1e67072a9104178130c61712"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat II",
+      "ID": 13377,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/083681.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2025-12-08 01:31:04",
+      "ForumTopicID": 12788,
+      "Hashes": [
+        "a95c0e7c1d35fd42cd2e3eb7b06cb6d0"
+      ]
+    },
+    {
+      "Title": "Motocross Championship",
+      "ID": 16604,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/078334.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 0,
+      "Points": 630,
+      "DateModified": "2025-05-10 12:21:12",
+      "ForumTopicID": 30018,
+      "Hashes": [
+        "2c4a934985021624d48725b8d7b039e8",
+        "6bc365808a00b8a640dd86ccb5a0ea24"
+      ]
+    },
+    {
+      "Title": "NBA Jam: Tournament Edition",
+      "ID": 16062,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/110104.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 2,
+      "Points": 233,
+      "DateModified": "2025-04-07 20:11:49",
+      "ForumTopicID": 30284,
+      "Hashes": [
+        "966a5e00dd7bcdc70b05c5a0c0e8f7aa"
+      ]
+    },
+    {
+      "Title": "Primal Rage",
+      "ID": 16802,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/114007.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 217,
+      "DateModified": "2025-07-02 11:47:02",
+      "ForumTopicID": 30265,
+      "Hashes": [
+        "e1efc5804d3360e7b19f7542219bf964"
+      ]
+    },
+    {
+      "Title": "R.B.I. Baseball '95",
+      "ID": 16803,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/113403.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 2,
+      "Points": 235,
+      "DateModified": "2025-09-17 12:20:55",
+      "ForumTopicID": 30355,
+      "Hashes": [
+        "5f955b5feab07c072fc345f1fee52a60"
+      ]
+    },
+    {
+      "Title": "Space Harrier",
+      "ID": 10565,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/069324.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 4,
+      "Points": 430,
+      "DateModified": "2023-04-04 17:50:12",
+      "ForumTopicID": 20554,
+      "Hashes": [
+        "6180e973f678bfc96705e8be4e0783f1"
+      ]
+    },
+    {
+      "Title": "Star Wars Arcade",
+      "ID": 14206,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/087603.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 255,
+      "DateModified": "2023-10-24 05:31:38",
+      "ForumTopicID": 12209,
+      "Hashes": [
+        "ae3a42c6297ef25c6018a209fda0194e",
+        "bfaa6fd031490c26e25f3d59d9c37497"
+      ]
+    },
+    {
+      "Title": "Stellar Assault",
+      "ID": 10109,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/109082.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 2,
+      "Points": 418,
+      "DateModified": "2025-07-11 02:04:12",
+      "ForumTopicID": 29954,
+      "Hashes": [
+        "1415a8675adf3e8647b3df673b50056d"
+      ]
+    },
+    {
+      "Title": "Tempo",
+      "ID": 14307,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/044629.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 3,
+      "Points": 289,
+      "DateModified": "2022-09-26 15:07:38",
+      "ForumTopicID": 13126,
+      "Hashes": [
+        "30989c83d4e4ea3c35a1f3e2620b8465"
+      ]
+    },
+    {
+      "Title": "The Amazing Spider-Man: Web of Fire",
+      "ID": 14844,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/054420.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 153,
+      "DateModified": "2021-11-14 12:41:13",
+      "ForumTopicID": 13465,
+      "Hashes": [
+        "a60b0838a776966e17a8f10b94baddef"
+      ]
+    },
+    {
+      "Title": "Toughman Contest",
+      "ID": 16807,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/109743.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 71,
+      "DateModified": "2025-08-19 20:43:48",
+      "ForumTopicID": 30245,
+      "Hashes": [
+        "386d99d132ce5699ade81b4473cef5b4"
+      ]
+    },
+    {
+      "Title": "Virtua Fighter",
+      "ID": 14304,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/072495.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 0,
+      "Points": 385,
+      "DateModified": "2023-07-13 13:04:51",
+      "ForumTopicID": 21510,
+      "Hashes": [
+        "901e97c9f731fbdf1f1ead0fbf58249a"
+      ]
+    },
+    {
+      "Title": "Virtua Racing Deluxe",
+      "ID": 11823,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/060614.png",
+      "NumAchievements": 65,
+      "NumLeaderboards": 21,
+      "Points": 675,
+      "DateModified": "2025-05-30 15:30:30",
+      "ForumTopicID": 17416,
+      "Hashes": [
+        "08cae0a96d9ee07001c6e1c247d407c6"
+      ]
+    },
+    {
+      "Title": "WWF WrestleMania: The Arcade Game",
+      "ID": 14831,
+      "ConsoleID": 10,
+      "ConsoleName": "32X",
+      "ImageIcon": "/Images/082774.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 196,
+      "DateModified": "2024-06-06 14:57:22",
+      "ForumTopicID": 23432,
+      "Hashes": [
+        "8456cae9975ba6cb041c4ef2be54b1a1"
+      ]
+    }
+  ]
+}

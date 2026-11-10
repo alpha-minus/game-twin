@@ -1,0 +1,666 @@
+{
+  "consoleId": 80,
+  "consoleName": "Uzebox",
+  "games": [
+    {
+      "Title": "~Hack~ Megatris: Arcade Edition",
+      "ID": 24755,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/081357.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 18,
+      "Points": 212,
+      "DateModified": "2023-08-13 07:36:00",
+      "ForumTopicID": 22453,
+      "Hashes": [
+        "4cf318df04117de0067e876db7faaf5b"
+      ]
+    },
+    {
+      "Title": "~Hack~ Megatris: Arcade Edition [Subset - Bonus]",
+      "ID": 28806,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/090550.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 19,
+      "Points": 1085,
+      "DateModified": "2024-04-23 22:14:49",
+      "ForumTopicID": 25669,
+      "Hashes": [
+        "8e765bd046b2dee4e6876eb043d6a532"
+      ]
+    },
+    {
+      "Title": "~Hack~ Space Age: Director's Cut",
+      "ID": 28940,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/092093.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 2,
+      "Points": 111,
+      "DateModified": "2024-03-12 23:13:07",
+      "ForumTopicID": 25774,
+      "Hashes": [
+        "b899ca234f713f920cde11a01fd857d0"
+      ]
+    },
+    {
+      "Title": "~Hack~ UzeMaze RA",
+      "ID": 25084,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/081322.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 73,
+      "DateModified": "2023-11-20 02:55:15",
+      "ForumTopicID": 22517,
+      "Hashes": [
+        "ae053a9a71680a22a59518544ab7c70b"
+      ]
+    },
+    {
+      "Title": "2048",
+      "ID": 24713,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076965.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 106,
+      "DateModified": "2023-07-10 12:17:47",
+      "ForumTopicID": 22449,
+      "Hashes": [
+        "6696dad0719df3341b14e4c371286a4a"
+      ]
+    },
+    {
+      "Title": "Alter Ego",
+      "ID": 24715,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076459.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 5,
+      "Points": 84,
+      "DateModified": "2023-08-12 03:53:47",
+      "ForumTopicID": 22416,
+      "Hashes": [
+        "234bc85bddf914b28f662323540afd89"
+      ]
+    },
+    {
+      "Title": "Atomix",
+      "ID": 24717,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/087255.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 100,
+      "Points": 520,
+      "DateModified": "2023-12-27 05:13:41",
+      "ForumTopicID": 24819,
+      "Hashes": [
+        "0361bd8008d583670210627eda1fe482"
+      ]
+    },
+    {
+      "Title": "B.C. Dash",
+      "ID": 24718,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076976.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 67,
+      "DateModified": "2023-08-16 11:59:44",
+      "ForumTopicID": 22440,
+      "Hashes": [
+        "a5168f771b38d1e3a379076e7b7a04c0"
+      ]
+    },
+    {
+      "Title": "Bomber",
+      "ID": 24712,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076767.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 80,
+      "DateModified": "2024-03-31 06:52:39",
+      "ForumTopicID": 22413,
+      "Hashes": [
+        "181b1d7e3a4f349bc708c0ba27aa3ab6"
+      ]
+    },
+    {
+      "Title": "Bugz",
+      "ID": 24724,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/080208.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 25,
+      "Points": 108,
+      "DateModified": "2023-08-11 22:51:01",
+      "ForumTopicID": 22418,
+      "Hashes": [
+        "b62117e7c6448e266ce9f7f8d46def5a"
+      ]
+    },
+    {
+      "Title": "Chickens in Choppers",
+      "ID": 24725,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076693.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 3,
+      "Points": 89,
+      "DateModified": "2023-07-07 15:23:46",
+      "ForumTopicID": 22419,
+      "Hashes": [
+        "d781bdc469c322270bb7b6f177435e8a"
+      ]
+    },
+    {
+      "Title": "Circuit Puzzle",
+      "ID": 24800,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076588.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2023-07-06 19:40:42",
+      "ForumTopicID": 22426,
+      "Hashes": [
+        "3554678c7668db469c667d3588268146"
+      ]
+    },
+    {
+      "Title": "Columns",
+      "ID": 24731,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/121507.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 152,
+      "DateModified": "2025-12-14 20:15:53",
+      "ForumTopicID": 33532,
+      "Hashes": [
+        "991e6c0b0bb37eea3010fc3dc77a4f7e"
+      ]
+    },
+    {
+      "Title": "Das Boot",
+      "ID": 24732,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/091942.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 36,
+      "DateModified": "2024-03-11 20:21:25",
+      "ForumTopicID": 25764,
+      "Hashes": [
+        "ec3e685bfe63a62aee21697277cc640f"
+      ]
+    },
+    {
+      "Title": "Donkey Kong",
+      "ID": 24733,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076434.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 121,
+      "DateModified": "2024-08-13 15:26:47",
+      "ForumTopicID": 22414,
+      "Hashes": [
+        "ce76ea0de5aea02136fa42334c97d173"
+      ]
+    },
+    {
+      "Title": "Flight of a Dragon",
+      "ID": 24805,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076638.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 11,
+      "Points": 130,
+      "DateModified": "2025-08-17 04:13:06",
+      "ForumTopicID": 22425,
+      "Hashes": [
+        "2ca05192fedc542f1215928b1d0e790b"
+      ]
+    },
+    {
+      "Title": "Frog Feast",
+      "ID": 24739,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076635.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 26,
+      "DateModified": "2023-08-12 07:13:54",
+      "ForumTopicID": 22422,
+      "Hashes": [
+        "8680e6d9eb3ec06580fa220eef21ef14"
+      ]
+    },
+    {
+      "Title": "Frogger",
+      "ID": 24740,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/103249.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 96,
+      "DateModified": "2024-10-15 02:45:27",
+      "ForumTopicID": 28343,
+      "Hashes": [
+        "d5a490a1c9e1cf14cc6807a2367f4bdb"
+      ]
+    },
+    {
+      "Title": "Gorillas",
+      "ID": 24746,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/094804.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2024-06-01 18:47:09",
+      "ForumTopicID": 25950,
+      "Hashes": [
+        "18dba6d29e7f47b466033a724433f1e0"
+      ]
+    },
+    {
+      "Title": "Hattrick",
+      "ID": 24810,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/077988.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 37,
+      "DateModified": "2023-08-12 18:08:54",
+      "ForumTopicID": 22573,
+      "Hashes": [
+        "96ff11f4374e3ad2dfb56edbbb3f9a44"
+      ]
+    },
+    {
+      "Title": "Holey Moley",
+      "ID": 24743,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076971.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 51,
+      "DateModified": "2023-07-10 14:04:21",
+      "ForumTopicID": 22437,
+      "Hashes": [
+        "86b1f07ae58560f9e3e927165064420a"
+      ]
+    },
+    {
+      "Title": "Iros",
+      "ID": 24754,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/078670.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 140,
+      "DateModified": "2023-08-12 00:03:26",
+      "ForumTopicID": 22420,
+      "Hashes": [
+        "c4f00942900c4a6ef29cf1006966205e"
+      ]
+    },
+    {
+      "Title": "Joyrider",
+      "ID": 24744,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/099105.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 9,
+      "Points": 75,
+      "DateModified": "2025-03-21 13:35:34",
+      "ForumTopicID": 22450,
+      "Hashes": [
+        "7f353ceb0bb15f87917355cf62a3c909"
+      ]
+    },
+    {
+      "Title": "Laser Puzzle",
+      "ID": 24752,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/078487.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 24,
+      "DateModified": "2023-08-15 23:38:35",
+      "ForumTopicID": 22641,
+      "Hashes": [
+        "03119f51f7eeb5cd603dfd2393bfd456"
+      ]
+    },
+    {
+      "Title": "Melli's Retro Land",
+      "ID": 24767,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076470.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2023-08-12 00:00:20",
+      "ForumTopicID": 22427,
+      "Hashes": [
+        "f19b6ac97f30b488a74463cc453f8d4d"
+      ]
+    },
+    {
+      "Title": "Outpost in the Dragon's Maw",
+      "ID": 30696,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/122306.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 100,
+      "DateModified": "2026-01-18 21:43:27",
+      "ForumTopicID": 33799,
+      "Hashes": [
+        "ed366e0950fac5db8cda44fc15a22393"
+      ]
+    },
+    {
+      "Title": "Pengo",
+      "ID": 24758,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/077672.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 66,
+      "DateModified": "2023-08-15 02:21:04",
+      "ForumTopicID": 22428,
+      "Hashes": [
+        "ff90daea12936ee9f90eeeef2ba60e48"
+      ]
+    },
+    {
+      "Title": "Reels of Fortune",
+      "ID": 24759,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076504.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 11,
+      "DateModified": "2025-05-23 23:19:06",
+      "ForumTopicID": 22441,
+      "Hashes": [
+        "d7aa7d8e9e33c7221dabee40cfecaded"
+      ]
+    },
+    {
+      "Title": "Ruby Crush",
+      "ID": 24763,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/078088.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 2,
+      "Points": 34,
+      "DateModified": "2023-07-18 21:05:22",
+      "ForumTopicID": 22607,
+      "Hashes": [
+        "6bbdc7c6e4f15c3981b7493998df117f"
+      ]
+    },
+    {
+      "Title": "Sokoban World",
+      "ID": 24770,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/086982.png",
+      "NumAchievements": 61,
+      "NumLeaderboards": 51,
+      "Points": 366,
+      "DateModified": "2025-05-12 04:05:13",
+      "ForumTopicID": 24771,
+      "Hashes": [
+        "ac982cd2d7c9dc7a6cf3f0c3118a56ae"
+      ]
+    },
+    {
+      "Title": "Sokoban World 2",
+      "ID": 27961,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/121391.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 376,
+      "DateModified": "2025-12-08 19:50:37",
+      "ForumTopicID": 33443,
+      "Hashes": [
+        "c98854e5d947a169193fb0c6368ce244"
+      ]
+    },
+    {
+      "Title": "Solitaire",
+      "ID": 24772,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/100759.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 3,
+      "Points": 27,
+      "DateModified": "2024-08-19 19:02:11",
+      "ForumTopicID": 27591,
+      "Hashes": [
+        "96d62386036c99f054e6e0506b2385c1"
+      ]
+    },
+    {
+      "Title": "Space Age",
+      "ID": 24773,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076714.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 41,
+      "DateModified": "2023-08-12 04:34:18",
+      "ForumTopicID": 22424,
+      "Hashes": [
+        "c7aff8b3e124b02b124e320ebedbbbd6"
+      ]
+    },
+    {
+      "Title": "Space Invaders",
+      "ID": 24774,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/080605.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 2,
+      "Points": 64,
+      "DateModified": "2025-03-27 18:11:44",
+      "ForumTopicID": 22896,
+      "Hashes": [
+        "3f8ee1de7481b0d34da51a07c96786fa"
+      ]
+    },
+    {
+      "Title": "Stormforce",
+      "ID": 24798,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076567.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 95,
+      "DateModified": "2024-08-08 00:55:52",
+      "ForumTopicID": 22423,
+      "Hashes": [
+        "160facb0da473fc4e0684b709c0561c7"
+      ]
+    },
+    {
+      "Title": "Submarine",
+      "ID": 24775,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076438.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2025-05-24 07:56:34",
+      "ForumTopicID": 22411,
+      "Hashes": [
+        "7d5f5e31b9cc81846bbfa1f1c2c1d5d8"
+      ]
+    },
+    {
+      "Title": "Tetris",
+      "ID": 24777,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/119611.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 195,
+      "DateModified": "2023-08-12 00:25:10",
+      "ForumTopicID": 22417,
+      "Hashes": [
+        "057901ec79b964fa5a75965f4d48a5d4"
+      ]
+    },
+    {
+      "Title": "Toorum's Quest",
+      "ID": 24997,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/079184.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2023-08-12 00:05:12",
+      "ForumTopicID": 22446,
+      "Hashes": [
+        "216c98e1e412a3daf33a027b5e1f432b"
+      ]
+    },
+    {
+      "Title": "Uze Snakes",
+      "ID": 24781,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/078596.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 5,
+      "Points": 90,
+      "DateModified": "2023-07-28 10:20:50",
+      "ForumTopicID": 22658,
+      "Hashes": [
+        "24e88aad103034d13c4ab253edfd8454"
+      ]
+    },
+    {
+      "Title": "UzeMaze",
+      "ID": 24801,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076770.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2025-07-21 16:16:46",
+      "ForumTopicID": 22481,
+      "Hashes": [
+        "72e308aa4225abece89211b4234da519"
+      ]
+    },
+    {
+      "Title": "Uzesweeper",
+      "ID": 24783,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/080855.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 5,
+      "Points": 77,
+      "DateModified": "2023-08-16 00:02:27",
+      "ForumTopicID": 22951,
+      "Hashes": [
+        "04289f56bf870a9c75a9bf7e995dd684"
+      ]
+    },
+    {
+      "Title": "XOR",
+      "ID": 24789,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/076615.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 15,
+      "Points": 130,
+      "DateModified": "2023-08-15 06:59:12",
+      "ForumTopicID": 22415,
+      "Hashes": [
+        "bb2a4ded1128b57d81d3cd687b028103"
+      ]
+    },
+    {
+      "Title": "Zombienator",
+      "ID": 24790,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/079633.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 130,
+      "DateModified": "2023-08-16 15:58:05",
+      "ForumTopicID": 22442,
+      "Hashes": [
+        "931e4c2e417a305aaabb1d11551c25d9"
+      ]
+    },
+    {
+      "Title": "Zooming Secretary",
+      "ID": 24793,
+      "ConsoleID": 80,
+      "ConsoleName": "Uzebox",
+      "ImageIcon": "/Images/079636.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2023-08-30 01:04:41",
+      "ForumTopicID": 22412,
+      "Hashes": [
+        "62c760da542257ea1f1ca53e19c227b1"
+      ]
+    }
+  ]
+}

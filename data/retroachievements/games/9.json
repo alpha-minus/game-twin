@@ -1,0 +1,1309 @@
+{
+  "consoleId": 9,
+  "consoleName": "Sega CD",
+  "games": [
+    {
+      "Title": "~Hack~ Sonic the Hedgehog: Megamix",
+      "ID": 24129,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/123773.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 19,
+      "Points": 451,
+      "DateModified": "2026-02-01 15:04:22",
+      "ForumTopicID": 21356,
+      "Hashes": [
+        "3c12feaa765ff91a126aa62c7eb24de7"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hide the Baby",
+      "ID": 33563,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/122348.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 12,
+      "DateModified": "2026-01-22 19:46:16",
+      "ForumTopicID": 33743,
+      "Hashes": [
+        "fe9b5ef770e02d001b0391bba234d87d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Mighty Mighty Missile!",
+      "ID": 5,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/122963.png",
+      "NumAchievements": 56,
+      "NumLeaderboards": 98,
+      "Points": 203,
+      "DateModified": "2025-03-21 06:43:24",
+      "ForumTopicID": 151,
+      "Hashes": [
+        "c3f476595c1151bde8b87e7a8e2c5c30"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Riley's Letter Recycle",
+      "ID": 14766,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/066888.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 26,
+      "DateModified": "2022-09-26 14:26:35",
+      "ForumTopicID": 15887,
+      "Hashes": [
+        "85fce84ca1245733aac68a1ec28041e4"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Penn & Teller's Smoke and Mirrors",
+      "ID": 10096,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/027150.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 1,
+      "Points": 69,
+      "DateModified": "2021-08-16 20:07:17",
+      "ForumTopicID": 5146,
+      "Hashes": [
+        "3366c149ddd7b8266deb4a729e804118",
+        "b27c343ec2d3baba714a3667017c290c"
+      ]
+    },
+    {
+      "Title": "Android Assault: The Revenge of Bari-Arm",
+      "ID": 16040,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/061575.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 440,
+      "DateModified": "2024-07-06 04:36:40",
+      "ForumTopicID": 17692,
+      "Hashes": [
+        "e6432a363b5e4c5fcd0b1901faf1a3c2"
+      ]
+    },
+    {
+      "Title": "BC Racers",
+      "ID": 15686,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/122269.png",
+      "NumAchievements": 69,
+      "NumLeaderboards": 0,
+      "Points": 555,
+      "DateModified": "2025-12-29 15:59:57",
+      "ForumTopicID": 18613,
+      "Hashes": [
+        "6d14797a2108c284e27dfac0657b6692"
+      ]
+    },
+    {
+      "Title": "Bloodshot",
+      "ID": 33773,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/113904.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 1,
+      "Points": 310,
+      "DateModified": "2025-08-04 12:56:00",
+      "ForumTopicID": 31243,
+      "Hashes": [
+        "50ab41923e9edb04e7d047975f5a90cc"
+      ]
+    },
+    {
+      "Title": "Bouncers",
+      "ID": 16045,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114247.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 14,
+      "Points": 135,
+      "DateModified": "2025-10-22 04:07:03",
+      "ForumTopicID": 30081,
+      "Hashes": [
+        "fd7720c80cb080541cfbddaca02c173a"
+      ]
+    },
+    {
+      "Title": "Bram Stoker's Dracula",
+      "ID": 16008,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/111969.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2025-07-20 04:03:08",
+      "ForumTopicID": 30825,
+      "Hashes": [
+        "4cdf3056049a8876a4ded1d767e13554"
+      ]
+    },
+    {
+      "Title": "Brutal: Paws of Fury",
+      "ID": 33141,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114085.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2025-07-14 19:48:02",
+      "ForumTopicID": 31298,
+      "Hashes": [
+        "f551034768405cef3fd7c908377e80fe"
+      ]
+    },
+    {
+      "Title": "Chuck Rock",
+      "ID": 16009,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/088878.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 3,
+      "Points": 255,
+      "DateModified": "2025-08-05 11:37:12",
+      "ForumTopicID": 30185,
+      "Hashes": [
+        "1d82340d7ce33385951b16fe1f5ad4c1"
+      ]
+    },
+    {
+      "Title": "Crime Patrol",
+      "ID": 10099,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/082075.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 144,
+      "DateModified": "2023-09-12 02:47:16",
+      "ForumTopicID": 23233,
+      "Hashes": [
+        "7f39d78927c00bc6859bad1953643b54"
+      ]
+    },
+    {
+      "Title": "Demolition Man",
+      "ID": 18497,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/113269.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 32,
+      "Points": 445,
+      "DateModified": "2025-10-28 04:45:47",
+      "ForumTopicID": 31108,
+      "Hashes": [
+        "e8a591459675bc15793b36847491c194"
+      ]
+    },
+    {
+      "Title": "Double Switch",
+      "ID": 10222,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/107808.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 1,
+      "Points": 305,
+      "DateModified": "2025-06-22 14:19:11",
+      "ForumTopicID": 29758,
+      "Hashes": [
+        "2b993293168b46a43f6a30683e1b85f3"
+      ]
+    },
+    {
+      "Title": "Dracula Unleashed",
+      "ID": 10022,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/049947.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2022-12-11 18:59:06",
+      "ForumTopicID": 10153,
+      "Hashes": [
+        "1e5609b304f3b0b023caac37b2f995f0",
+        "8309d2aed7f5bcac384ab5a5913cb5c0"
+      ]
+    },
+    {
+      "Title": "Dragon's Lair",
+      "ID": 12807,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/109850.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2025-08-21 10:02:19",
+      "ForumTopicID": 30289,
+      "Hashes": [
+        "5f2be574b796fadd87574b7287138569"
+      ]
+    },
+    {
+      "Title": "Dungeon Explorer",
+      "ID": 15978,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/108584.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2025-03-10 03:52:10",
+      "ForumTopicID": 26505,
+      "Hashes": [
+        "6a5efcaf25d32a8330fd623f21f7a00d"
+      ]
+    },
+    {
+      "Title": "Earnest Evans",
+      "ID": 16018,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/060187.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 200,
+      "DateModified": "2022-07-31 00:03:08",
+      "ForumTopicID": 17398,
+      "Hashes": [
+        "d9fb5e8f32e161bc62d52c9bea7a9ca1"
+      ]
+    },
+    {
+      "Title": "Earthworm Jim: Special Edition",
+      "ID": 14144,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/115157.png",
+      "NumAchievements": 175,
+      "NumLeaderboards": 0,
+      "Points": 1303,
+      "DateModified": "2025-09-06 09:08:20",
+      "ForumTopicID": 13511,
+      "Hashes": [
+        "fbd25c6c1f42973b214ace4646c8632a"
+      ]
+    },
+    {
+      "Title": "Ecco the Dolphin",
+      "ID": 16019,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/111053.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 310,
+      "DateModified": "2025-11-22 21:05:23",
+      "ForumTopicID": 15525,
+      "Hashes": [
+        "1f9896c6fc87315538aead49d345178b"
+      ]
+    },
+    {
+      "Title": "Eternal Champions: Challenge from the Dark Side",
+      "ID": 16021,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/042457.png",
+      "NumAchievements": 113,
+      "NumLeaderboards": 0,
+      "Points": 1100,
+      "DateModified": "2022-07-08 16:02:01",
+      "ForumTopicID": 12219,
+      "Hashes": [
+        "59f664ff7637ce4f8fbbe2b77c66c487"
+      ]
+    },
+    {
+      "Title": "Eye of the Beholder",
+      "ID": 14617,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110255.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 320,
+      "DateModified": "2026-02-27 18:17:25",
+      "ForumTopicID": 12417,
+      "Hashes": [
+        "59608bf529e780c51684555300111d55"
+      ]
+    },
+    {
+      "Title": "F1 Circus CD",
+      "ID": 19845,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/113949.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 29,
+      "Points": 103,
+      "DateModified": "2025-08-05 20:05:22",
+      "ForumTopicID": 30588,
+      "Hashes": [
+        "f9d91058568d67534764a1bef986c414"
+      ]
+    },
+    {
+      "Title": "Fatal Fury Special",
+      "ID": 16024,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114235.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 5,
+      "Points": 268,
+      "DateModified": "2025-07-25 16:04:21",
+      "ForumTopicID": 30282,
+      "Hashes": [
+        "4e086207542563f208422e76f48d7ddc"
+      ]
+    },
+    {
+      "Title": "Final Fight CD",
+      "ID": 10070,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/101603.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 2,
+      "Points": 343,
+      "DateModified": "2025-08-08 00:14:23",
+      "ForumTopicID": 13169,
+      "Hashes": [
+        "26ae70cce7a0e7f4b2b2e9edb78a399c"
+      ]
+    },
+    {
+      "Title": "Flashback: The Quest for Identity",
+      "ID": 15557,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/042960.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2021-07-13 00:19:13",
+      "ForumTopicID": 12686,
+      "Hashes": [
+        "9e622c639d62cebd0a027ff788fb820d"
+      ]
+    },
+    {
+      "Title": "Ground Zero Texas",
+      "ID": 17008,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/103251.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 2,
+      "Points": 139,
+      "DateModified": "2025-06-04 00:03:42",
+      "ForumTopicID": 28353,
+      "Hashes": [
+        "0a3b03f3aa306bf76ee78dc1ee130712",
+        "ce35f52d95bfc57be16a2b03f741e146"
+      ]
+    },
+    {
+      "Title": "Iron Helix",
+      "ID": 17009,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/109520.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2025-08-01 22:41:09",
+      "ForumTopicID": 30191,
+      "Hashes": [
+        "31779e90353f3a234392fa4c71011160"
+      ]
+    },
+    {
+      "Title": "Jeopardy!",
+      "ID": 16037,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/058964.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 76,
+      "DateModified": "2024-08-30 03:44:43",
+      "ForumTopicID": 16880,
+      "Hashes": [
+        "9a163ef05322da9dd903e282c139e18e"
+      ]
+    },
+    {
+      "Title": "Jurassic Park",
+      "ID": 17075,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/045857.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 207,
+      "DateModified": "2024-12-18 12:51:26",
+      "ForumTopicID": 11795,
+      "Hashes": [
+        "11ed30d2074ccd20ac6187d8271ca6e8"
+      ]
+    },
+    {
+      "Title": "Keio Flying Squadron",
+      "ID": 10069,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/025564.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 6,
+      "Points": 270,
+      "DateModified": "2021-12-20 14:15:36",
+      "ForumTopicID": 13427,
+      "Hashes": [
+        "4e68b8b035ac1821a71089bda99625a6"
+      ]
+    },
+    {
+      "Title": "Kids on Site",
+      "ID": 14142,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110643.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2025-07-17 22:53:04",
+      "ForumTopicID": 30192,
+      "Hashes": [
+        "0bb113c5b12529830b5e2d471d75e3fa"
+      ]
+    },
+    {
+      "Title": "Lords of Thunder",
+      "ID": 16031,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/032335.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 0,
+      "Points": 465,
+      "DateModified": "2023-07-24 16:02:08",
+      "ForumTopicID": 13908,
+      "Hashes": [
+        "9d7b20d30326563892681ebc0ad0af7e"
+      ]
+    },
+    {
+      "Title": "Lunar: Eternal Blue",
+      "ID": 14146,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/032340.png",
+      "NumAchievements": 90,
+      "NumLeaderboards": 0,
+      "Points": 825,
+      "DateModified": "2025-11-21 00:57:42",
+      "ForumTopicID": 16092,
+      "Hashes": [
+        "9f173a8aedd5cca2667dba81ddaddae5"
+      ]
+    },
+    {
+      "Title": "Lunar: The Silver Star",
+      "ID": 10563,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/032343.png",
+      "NumAchievements": 90,
+      "NumLeaderboards": 0,
+      "Points": 562,
+      "DateModified": "2024-08-17 12:35:30",
+      "ForumTopicID": 18298,
+      "Hashes": [
+        "e4255ce2c677003b33e4d7798b27cacd"
+      ]
+    },
+    {
+      "Title": "Mad Dog McCree",
+      "ID": 16032,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/102809.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 3,
+      "Points": 140,
+      "DateModified": "2025-03-04 19:18:15",
+      "ForumTopicID": 28291,
+      "Hashes": [
+        "69dc2a80594b0242e282a3b5ea99b6a6"
+      ]
+    },
+    {
+      "Title": "Mansion of Hidden Souls",
+      "ID": 16000,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/044815.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2021-06-06 05:36:48",
+      "ForumTopicID": 11405,
+      "Hashes": [
+        "51b18d3e4a6581d667a467bf1c9fc406"
+      ]
+    },
+    {
+      "Title": "MegaRace",
+      "ID": 14209,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/049120.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 403,
+      "DateModified": "2025-04-24 16:06:48",
+      "ForumTopicID": 30184,
+      "Hashes": [
+        "b111ff79baa4e42536429bb4aebdd578"
+      ]
+    },
+    {
+      "Title": "Mickey Mania: The Timeless Adventures of Mickey Mouse",
+      "ID": 16034,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/111696.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 228,
+      "DateModified": "2025-11-15 18:13:59",
+      "ForumTopicID": 19827,
+      "Hashes": [
+        "0de3f1c9f358f35eb589125d07b11f42",
+        "54339f3c874613f830a49001098bc725"
+      ]
+    },
+    {
+      "Title": "Mighty Morphin Power Rangers",
+      "ID": 14768,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/031259.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 148,
+      "DateModified": "2024-12-08 08:46:19",
+      "ForumTopicID": 11568,
+      "Hashes": [
+        "85c428698e2155b5c27d33726a829253"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat",
+      "ID": 15402,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/054751.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 1,
+      "Points": 290,
+      "DateModified": "2025-07-02 21:11:24",
+      "ForumTopicID": 13226,
+      "Hashes": [
+        "42f6c9c6512d0262392d4be743d9ea11"
+      ]
+    },
+    {
+      "Title": "NFL Football Trivia Challenge",
+      "ID": 34896,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/118767.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 92,
+      "DateModified": "2025-10-01 03:11:42",
+      "ForumTopicID": 32387,
+      "Hashes": [
+        "137d103d696f6229f90e5d3c9de6af28"
+      ]
+    },
+    {
+      "Title": "Night Trap",
+      "ID": 17011,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/041155.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 170,
+      "DateModified": "2025-12-31 21:43:14",
+      "ForumTopicID": 16566,
+      "Hashes": [
+        "3110d9f656697adb3cbf5f1cb0d77e6f"
+      ]
+    },
+    {
+      "Title": "Panic!",
+      "ID": 16001,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114234.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 4,
+      "Points": 109,
+      "DateModified": "2025-07-07 04:54:42",
+      "ForumTopicID": 12994,
+      "Hashes": [
+        "070c46f42e72548c5df0c05fa58ed838"
+      ]
+    },
+    {
+      "Title": "Popful Mail",
+      "ID": 10084,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/029854.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 0,
+      "Points": 600,
+      "DateModified": "2026-01-05 16:17:39",
+      "ForumTopicID": 15813,
+      "Hashes": [
+        "9e155928a45983bb845f800ba6908f96"
+      ]
+    },
+    {
+      "Title": "Prince of Persia",
+      "ID": 10061,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/054352.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 115,
+      "DateModified": "2023-08-14 22:43:46",
+      "ForumTopicID": 10065,
+      "Hashes": [
+        "8ed2c4e438e1ce4019e186120aa77840"
+      ]
+    },
+    {
+      "Title": "Radical Rex",
+      "ID": 16003,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110014.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 11,
+      "Points": 273,
+      "DateModified": "2025-04-02 16:22:25",
+      "ForumTopicID": 30319,
+      "Hashes": [
+        "b4f33dda22f00c5b6c4017bcbe5a4641"
+      ]
+    },
+    {
+      "Title": "Ranma ½: Byakuran Aika",
+      "ID": 33146,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/109894.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2025-05-15 03:17:13",
+      "ForumTopicID": 30317,
+      "Hashes": [
+        "2b2e58c6d389fc0fb3de9ed1048152fc"
+      ]
+    },
+    {
+      "Title": "Revengers of Vengeance",
+      "ID": 25914,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/101529.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-06-30 06:00:05",
+      "ForumTopicID": 31234,
+      "Hashes": [
+        "cf8116a12b94300a0cd9d3e8d2a69339",
+        "7d0c4b69e866d8bb09c9e9a24ffc8c89"
+      ]
+    },
+    {
+      "Title": "Rise of the Dragon",
+      "ID": 12870,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/017722.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 135,
+      "DateModified": "2024-09-24 08:07:25",
+      "ForumTopicID": 9324,
+      "Hashes": [
+        "367a921f8d55f1a4693389a33bd1fcac"
+      ]
+    },
+    {
+      "Title": "Road Avenger",
+      "ID": 20442,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/087874.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 156,
+      "DateModified": "2024-01-10 00:16:45",
+      "ForumTopicID": 25023,
+      "Hashes": [
+        "c12b678530e73402d3cb83d6e3eabdde"
+      ]
+    },
+    {
+      "Title": "Road Rash",
+      "ID": 15564,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/049220.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 295,
+      "DateModified": "2024-12-29 03:06:20",
+      "ForumTopicID": 10116,
+      "Hashes": [
+        "211ade60b28992129345fa065dd869c1"
+      ]
+    },
+    {
+      "Title": "Robo Aleste",
+      "ID": 10068,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/069482.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 3,
+      "Points": 259,
+      "DateModified": "2025-08-31 23:22:40",
+      "ForumTopicID": 20605,
+      "Hashes": [
+        "71967ae1a3446731e64ca18a5539191d",
+        "96128820faad3fc8e5d06e0f0b4ae378"
+      ]
+    },
+    {
+      "Title": "Samurai Shodown",
+      "ID": 17010,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/078383.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 398,
+      "DateModified": "2023-07-23 15:00:06",
+      "ForumTopicID": 22663,
+      "Hashes": [
+        "88a45e257d08dd7eec466a1994bbb596"
+      ]
+    },
+    {
+      "Title": "Sewer Shark",
+      "ID": 10583,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/058707.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 3,
+      "Points": 180,
+      "DateModified": "2025-07-27 10:02:17",
+      "ForumTopicID": 9947,
+      "Hashes": [
+        "76745a0f053dfb1f06ffd5d27639e88e",
+        "e3e0b93a9e1a945fad7b99a520cd0cbd"
+      ]
+    },
+    {
+      "Title": "Shadow of the Beast II",
+      "ID": 16046,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/078456.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2025-07-02 23:34:12",
+      "ForumTopicID": 30187,
+      "Hashes": [
+        "ee68bfea6a26989bd14b1cbfeb4ca061"
+      ]
+    },
+    {
+      "Title": "Sherlock Holmes: Consulting Detective",
+      "ID": 33130,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110309.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 45,
+      "DateModified": "2025-04-15 20:27:17",
+      "ForumTopicID": 30263,
+      "Hashes": [
+        "cb1ada19197ec469d7e4f3fbdf3dcbfa"
+      ]
+    },
+    {
+      "Title": "Sherlock Holmes: Consulting Detective Vol. II",
+      "ID": 33131,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110308.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 3,
+      "Points": 45,
+      "DateModified": "2025-04-15 21:28:08",
+      "ForumTopicID": 30264,
+      "Hashes": [
+        "79aa2fea650ddd2117642abf22f2dd32"
+      ]
+    },
+    {
+      "Title": "Shining Force CD",
+      "ID": 10569,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/017743.png",
+      "NumAchievements": 112,
+      "NumLeaderboards": 0,
+      "Points": 1122,
+      "DateModified": "2023-04-02 12:23:01",
+      "ForumTopicID": 7105,
+      "Hashes": [
+        "3d13caa66daad4cc3fffa47f066710a5"
+      ]
+    },
+    {
+      "Title": "Silpheed",
+      "ID": 12872,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/037787.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 510,
+      "DateModified": "2023-09-11 06:58:18",
+      "ForumTopicID": 11430,
+      "Hashes": [
+        "260a58e3f33816178e0a9a632af9d188"
+      ]
+    },
+    {
+      "Title": "Snatcher",
+      "ID": 10067,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/030095.png",
+      "NumAchievements": 66,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2025-11-24 21:05:45",
+      "ForumTopicID": 4508,
+      "Hashes": [
+        "38318ed1f6f7732a3fa2495288f6da24",
+        "125672bbd8581cdccb9ac51ea46cc3e1"
+      ]
+    },
+    {
+      "Title": "Sol-Feace",
+      "ID": 10564,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/067428.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 4,
+      "Points": 320,
+      "DateModified": "2023-10-15 04:58:57",
+      "ForumTopicID": 20130,
+      "Hashes": [
+        "931219b53e97b86e8f18cf4c112c8500"
+      ]
+    },
+    {
+      "Title": "Sonic CD",
+      "ID": 10062,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/108450.png",
+      "NumAchievements": 100,
+      "NumLeaderboards": 43,
+      "Points": 1083,
+      "DateModified": "2025-12-14 09:36:16",
+      "ForumTopicID": 7528,
+      "Hashes": [
+        "204f8d81ecf13aa7dc75cbafaf4c4ca3",
+        "9098e511e738cc6492989342562d36b6",
+        "a17215f3dafcc420ef25a1d1fc65c2e8"
+      ]
+    },
+    {
+      "Title": "Soul Star",
+      "ID": 15992,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110450.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 5,
+      "Points": 340,
+      "DateModified": "2025-08-29 21:44:38",
+      "ForumTopicID": 30252,
+      "Hashes": [
+        "cda361103444e5b53acea28a59fb5ac4"
+      ]
+    },
+    {
+      "Title": "Star Wars Chess",
+      "ID": 14212,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/116783.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 41,
+      "DateModified": "2025-11-20 17:43:06",
+      "ForumTopicID": 21972,
+      "Hashes": [
+        "0aa9aa05e09b9c290a22dcf3c1799cab"
+      ]
+    },
+    {
+      "Title": "Star Wars: Rebel Assault",
+      "ID": 33129,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/113064.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 2,
+      "Points": 411,
+      "DateModified": "2025-06-24 14:30:41",
+      "ForumTopicID": 31028,
+      "Hashes": [
+        "14e37595e2c89a110cbf905dab680476"
+      ]
+    },
+    {
+      "Title": "The Adventures of Batman & Robin",
+      "ID": 16004,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110072.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 38,
+      "Points": 250,
+      "DateModified": "2025-07-13 21:01:21",
+      "ForumTopicID": 30333,
+      "Hashes": [
+        "8d7815b041daf04db6eef8e0b5cbb83a"
+      ]
+    },
+    {
+      "Title": "The Adventures of Willy Beamish",
+      "ID": 16006,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/036085.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 110,
+      "DateModified": "2022-12-11 19:51:05",
+      "ForumTopicID": 11175,
+      "Hashes": [
+        "88e929c3c9db840c2f784d16398651d8"
+      ]
+    },
+    {
+      "Title": "The Amazing Spider-Man vs. the Kingpin",
+      "ID": 14852,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/105566.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 350,
+      "DateModified": "2024-09-22 18:41:11",
+      "ForumTopicID": 11834,
+      "Hashes": [
+        "03cc7766d9738f00820f52b7563a8dd5",
+        "dde3d8f861c8e1a65c737ab454d13be4"
+      ]
+    },
+    {
+      "Title": "The Lawnmower Man",
+      "ID": 14210,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/081405.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 0,
+      "Points": 580,
+      "DateModified": "2023-09-02 00:49:58",
+      "ForumTopicID": 23007,
+      "Hashes": [
+        "8b4d90416e102bfee7449d5e18947030"
+      ]
+    },
+    {
+      "Title": "The Masked Rider: Kamen Rider ZO",
+      "ID": 15705,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114275.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 179,
+      "DateModified": "2022-12-21 12:22:00",
+      "ForumTopicID": 11596,
+      "Hashes": [
+        "04521eb3a053f158715230281083e812",
+        "a4b82ee01e942c71bd45c890063fe808"
+      ]
+    },
+    {
+      "Title": "The Misadventures of Flink",
+      "ID": 16025,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/055319.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 0,
+      "Points": 392,
+      "DateModified": "2022-06-12 23:20:54",
+      "ForumTopicID": 15906,
+      "Hashes": [
+        "fac65e7678169ca057e6f5538758c1c4"
+      ]
+    },
+    {
+      "Title": "The Ninja Warriors",
+      "ID": 21557,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/064827.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 287,
+      "DateModified": "2023-07-10 14:34:30",
+      "ForumTopicID": 19229,
+      "Hashes": [
+        "1aeafb0b8ab68fb4fb199c3c8d39e757"
+      ]
+    },
+    {
+      "Title": "The Secret of Monkey Island",
+      "ID": 10065,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/020048.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 265,
+      "DateModified": "2023-10-06 22:10:51",
+      "ForumTopicID": 7013,
+      "Hashes": [
+        "798cf8e84327135049a465d647485435"
+      ]
+    },
+    {
+      "Title": "The Smurfs",
+      "ID": 27245,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/114242.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 0,
+      "Points": 222,
+      "DateModified": "2026-02-16 19:31:21",
+      "ForumTopicID": 31311,
+      "Hashes": [
+        "1dc77dbd635558b151c21841ccb57128"
+      ]
+    },
+    {
+      "Title": "The Terminator",
+      "ID": 10071,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/055033.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 1,
+      "Points": 585,
+      "DateModified": "2022-03-21 02:21:59",
+      "ForumTopicID": 11811,
+      "Hashes": [
+        "4b64f8013a066feb347c427778013947"
+      ]
+    },
+    {
+      "Title": "Time Gal",
+      "ID": 12875,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/072190.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 1,
+      "Points": 150,
+      "DateModified": "2020-10-08 18:05:47",
+      "ForumTopicID": 11613,
+      "Hashes": [
+        "5f51a8eb2e5d1aa016d7b995e964d84f",
+        "b19158cea7aa429b4a2fba9832050954"
+      ]
+    },
+    {
+      "Title": "Ultraverse Prime",
+      "ID": 15999,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/111630.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 102,
+      "DateModified": "2025-05-04 03:36:44",
+      "ForumTopicID": 30475,
+      "Hashes": [
+        "eaa7bb525aba09528613e664d6578ea9"
+      ]
+    },
+    {
+      "Title": "Vay",
+      "ID": 12871,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/069837.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 0,
+      "Points": 579,
+      "DateModified": "2025-05-25 23:06:09",
+      "ForumTopicID": 8010,
+      "Hashes": [
+        "6b77f65a5a6a31c376623b629995312e"
+      ]
+    },
+    {
+      "Title": "Wheel of Fortune",
+      "ID": 15994,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/058690.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 85,
+      "DateModified": "2025-01-26 03:50:03",
+      "ForumTopicID": 14630,
+      "Hashes": [
+        "e799f31379929fc058bb3c20928d3e7c"
+      ]
+    },
+    {
+      "Title": "Wild Woody",
+      "ID": 15996,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/110441.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 22,
+      "Points": 429,
+      "DateModified": "2025-06-30 22:43:53",
+      "ForumTopicID": 30202,
+      "Hashes": [
+        "c6a92cce237d22c4f9fc7fa651ae5bdc"
+      ]
+    },
+    {
+      "Title": "Wing Commander",
+      "ID": 14706,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/027878.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 360,
+      "DateModified": "2025-12-24 07:07:28",
+      "ForumTopicID": 9640,
+      "Hashes": [
+        "e6f4bda45b2e75f6d860ba9e7a8f5531"
+      ]
+    },
+    {
+      "Title": "Wirehead",
+      "ID": 15706,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/031266.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 95,
+      "DateModified": "2025-08-17 16:00:45",
+      "ForumTopicID": 27505,
+      "Hashes": [
+        "e7dee36b4e4a518cc8fc7a5348c4f777"
+      ]
+    },
+    {
+      "Title": "Wolfchild",
+      "ID": 14850,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/111327.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 4,
+      "Points": 285,
+      "DateModified": "2025-07-07 01:52:28",
+      "ForumTopicID": 13874,
+      "Hashes": [
+        "d70cf6e2a3d04274df9d14e4d55df4a2"
+      ]
+    },
+    {
+      "Title": "Wonder Dog",
+      "ID": 15993,
+      "ConsoleID": 9,
+      "ConsoleName": "Sega CD",
+      "ImageIcon": "/Images/112482.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 240,
+      "DateModified": "2025-10-09 03:17:43",
+      "ForumTopicID": 30943,
+      "Hashes": [
+        "ed530df3dd246970d9b5c217f10ac0f9"
+      ]
+    }
+  ]
+}

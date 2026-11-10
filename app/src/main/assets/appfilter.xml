@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Game Twin's own icon pack.
+
+    Launchers that support icon packs (Cocoon, Nova, Lawnchair and others) match
+    on ComponentInfo, and Game Twin keeps exactly one edition activity-alias
+    enabled at a time. So this file is static and still yields the selected
+    edition: the choice is expressed by which component is enabled, and a
+    launcher only ever asks about that one.
+
+    This is what reaches frontends that read the package-level icon, which the
+    activity-alias switch alone cannot change: ApplicationInfo.icon is fixed at
+    install time.
+
+    Every component here must match AppIcon.aliasClass. AppFilterCoverageTest
+    fails the build if they drift. Note MainActivityNoire keeps the legacy
+    "noire" spelling on purpose.
+-->
+<resources>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityDefault}" drawable="edition_default"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityPixel}" drawable="edition_pixel"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityGold}" drawable="edition_gold"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityCyber}" drawable="edition_cyber"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityDemonic}" drawable="edition_demonic"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityAdventure}" drawable="edition_adventure"/>
+    <item component="ComponentInfo{com.twinlore.app/com.twinlore.app.MainActivityNoire}" drawable="edition_noire"/>
+</resources>

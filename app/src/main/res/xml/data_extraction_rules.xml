@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="vaults/" />
+        <!-- Artwork thumbnails are regenerated from source artwork on demand. Both cache
+             generations are listed: the -v2 directory is the live one, and the unsuffixed
+             one still exists on installs that have not yet regenerated. -->
+        <exclude domain="file" path="carousel-thumbs/" />
+        <exclude domain="file" path="carousel-thumbs-v2/" />
+    </cloud-backup>
+</data-extraction-rules>
+
+
+

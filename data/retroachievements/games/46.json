@@ -1,0 +1,488 @@
+{
+  "consoleId": 46,
+  "consoleName": "Vectrex",
+  "games": [
+    {
+      "Title": "~Homebrew~ Beluga Dreams",
+      "ID": 25165,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/082471.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 43,
+      "DateModified": "2023-09-15 04:35:55",
+      "ForumTopicID": 23374,
+      "Hashes": [
+        "e3f901324b064e0eec6aa5f655518afa"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Every Day Is Halloween",
+      "ID": 25172,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/084810.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 2,
+      "Points": 198,
+      "DateModified": "2024-09-17 03:16:36",
+      "ForumTopicID": 24205,
+      "Hashes": [
+        "806c2ae784e05b12ec5f0c734c341765"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Galaxy Wars: Space Launcher",
+      "ID": 25173,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/092271.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 4,
+      "Points": 182,
+      "DateModified": "2025-08-27 10:47:45",
+      "ForumTopicID": 27538,
+      "Hashes": [
+        "490674405868a95e614c9b492f18e45b"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Hex",
+      "ID": 25177,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/099173.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 33,
+      "DateModified": "2024-07-01 00:36:25",
+      "ForumTopicID": 27085,
+      "Hashes": [
+        "a5eed865b98c73f062c023e65b727c93"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Moon Knight",
+      "ID": 26956,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/084876.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2023-10-29 03:17:24",
+      "ForumTopicID": 24267,
+      "Hashes": [
+        "92620a41b504045b9cc0d18434ce46a1"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Quartz's Quest",
+      "ID": 23000,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/070026.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 70,
+      "DateModified": "2024-04-12 05:10:47",
+      "ForumTopicID": 20853,
+      "Hashes": [
+        "e018b905f4a6be9b162beca5611c6010"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Storm Storm",
+      "ID": 29174,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/093791.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2024-04-13 08:18:47",
+      "ForumTopicID": 26119,
+      "Hashes": [
+        "7e32709fa556f0df6b73adfa86de292f"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Turkey Hero",
+      "ID": 25170,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/077541.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 3,
+      "Points": 30,
+      "DateModified": "2023-07-16 23:08:45",
+      "ForumTopicID": 22594,
+      "Hashes": [
+        "af799d55b39593eaa844df3235a51fd6"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Vec-Man",
+      "ID": 25297,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/092278.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 410,
+      "DateModified": "2025-06-03 22:43:48",
+      "ForumTopicID": 25959,
+      "Hashes": [
+        "bf8dc3f580487a61f8034c7defa79d9c",
+        "b4e85c762a44f2bdff59ddb9e4d35fb5"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Veccy Bird",
+      "ID": 19526,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/075539.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 77,
+      "DateModified": "2023-06-21 20:37:53",
+      "ForumTopicID": 22188,
+      "Hashes": [
+        "0f91dc3b4acddf52baec0b12cb6ffe85"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Vector Pong",
+      "ID": 20041,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/059581.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2024-07-18 18:15:24",
+      "ForumTopicID": 17123,
+      "Hashes": [
+        "c92f22327e3ba5750d061d817531761a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Vectrexagon",
+      "ID": 22998,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/070102.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 3,
+      "Points": 83,
+      "DateModified": "2023-04-08 13:14:47",
+      "ForumTopicID": 20849,
+      "Hashes": [
+        "7fd05f6a7b71e44f8b6b2fc4519e39cb"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Dark Tower",
+      "ID": 2120,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/058506.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 130,
+      "DateModified": "2022-06-03 01:10:42",
+      "ForumTopicID": 16766,
+      "Hashes": [
+        "6ac9f45324a62a5edeb9a7a94c45ac50"
+      ]
+    },
+    {
+      "Title": "Armor Attack",
+      "ID": 4465,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/055341.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 5,
+      "Points": 150,
+      "DateModified": "2024-05-02 14:34:38",
+      "ForumTopicID": 15874,
+      "Hashes": [
+        "9657037a461eee919462eb6a01879685"
+      ]
+    },
+    {
+      "Title": "Bedlam",
+      "ID": 4158,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/068054.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 145,
+      "DateModified": "2023-02-16 20:07:51",
+      "ForumTopicID": 20363,
+      "Hashes": [
+        "268e75778f282d853d77acf42c6c8734"
+      ]
+    },
+    {
+      "Title": "Berzerk",
+      "ID": 8948,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/057593.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 35,
+      "DateModified": "2022-05-08 06:55:06",
+      "ForumTopicID": 16424,
+      "Hashes": [
+        "640ae7bd4538bad11256999db68de5a0"
+      ]
+    },
+    {
+      "Title": "Clean Sweep",
+      "ID": 3581,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/045542.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 76,
+      "DateModified": "2021-07-02 12:18:03",
+      "ForumTopicID": 13413,
+      "Hashes": [
+        "a376d5648e08f348e5965c058c631c6d"
+      ]
+    },
+    {
+      "Title": "Cosmic Chasm",
+      "ID": 6578,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/059379.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 3,
+      "Points": 90,
+      "DateModified": "2021-05-13 00:03:09",
+      "ForumTopicID": 12911,
+      "Hashes": [
+        "9b61653ed9dafd4cfb7f9d94404259ac"
+      ]
+    },
+    {
+      "Title": "Fortress of Narzod",
+      "ID": 2215,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/059384.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2023-01-25 20:49:18",
+      "ForumTopicID": 16887,
+      "Hashes": [
+        "e65b3262e9447a747d93e0ccb1dbb7df"
+      ]
+    },
+    {
+      "Title": "Heads Up: Action Soccer",
+      "ID": 5571,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/044661.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2024-07-17 07:17:48",
+      "ForumTopicID": 13102,
+      "Hashes": [
+        "501dd2845432f10e4b9531240f409b8c"
+      ]
+    },
+    {
+      "Title": "HyperChase: Auto Race",
+      "ID": 17266,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/059935.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 56,
+      "DateModified": "2023-08-21 23:41:52",
+      "ForumTopicID": 17262,
+      "Hashes": [
+        "7580926ee22f06fd2ccde4b65184715f"
+      ]
+    },
+    {
+      "Title": "Mine Storm",
+      "ID": 5477,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/044382.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 2,
+      "Points": 275,
+      "DateModified": "2021-05-25 01:46:31",
+      "ForumTopicID": 13053,
+      "Hashes": [
+        "126fecbf4fb09fdb5a3c9af92abaed7c"
+      ]
+    },
+    {
+      "Title": "Pole Position",
+      "ID": 4314,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/059492.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 50,
+      "DateModified": "2022-06-22 19:11:18",
+      "ForumTopicID": 17083,
+      "Hashes": [
+        "f94173910549038d4d8f329413a5aa54"
+      ]
+    },
+    {
+      "Title": "Scramble",
+      "ID": 7495,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/048307.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 1,
+      "Points": 278,
+      "DateModified": "2022-02-18 08:32:12",
+      "ForumTopicID": 13934,
+      "Hashes": [
+        "95370908561a782edf138df41ccb8f18"
+      ]
+    },
+    {
+      "Title": "Solar Quest",
+      "ID": 4084,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/055010.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 180,
+      "DateModified": "2022-06-09 00:24:14",
+      "ForumTopicID": 15852,
+      "Hashes": [
+        "11a9bd419cf094de8caa8a44d76b69ab"
+      ]
+    },
+    {
+      "Title": "Space Wars",
+      "ID": 403,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/092269.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 7,
+      "Points": 138,
+      "DateModified": "2024-06-19 14:55:44",
+      "ForumTopicID": 26753,
+      "Hashes": [
+        "2decdf9f55df7fb99761b2fe51425e40"
+      ]
+    },
+    {
+      "Title": "Spike",
+      "ID": 6242,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/036131.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 175,
+      "DateModified": "2024-10-04 21:37:12",
+      "ForumTopicID": 11183,
+      "Hashes": [
+        "5a90ab748f7b220edaf8c1d67e0bfe89"
+      ]
+    },
+    {
+      "Title": "Spinball",
+      "ID": 7603,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/058668.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 3,
+      "Points": 224,
+      "DateModified": "2023-03-26 23:02:10",
+      "ForumTopicID": 16805,
+      "Hashes": [
+        "ecc143f87a702af7a1786b58a78ace01"
+      ]
+    },
+    {
+      "Title": "Star Castle",
+      "ID": 3557,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/061005.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 55,
+      "DateModified": "2022-08-31 23:19:01",
+      "ForumTopicID": 17122,
+      "Hashes": [
+        "1224c9beae22ee7354e4220c46237696"
+      ]
+    },
+    {
+      "Title": "Star Hawk",
+      "ID": 9743,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/073784.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 47,
+      "DateModified": "2023-05-27 06:45:23",
+      "ForumTopicID": 21737,
+      "Hashes": [
+        "add42c10019e88f47dd98791f8de3148"
+      ]
+    },
+    {
+      "Title": "Star Trek: The Motion Picture",
+      "ID": 2124,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/037348.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 165,
+      "DateModified": "2025-06-26 16:49:52",
+      "ForumTopicID": 20138,
+      "Hashes": [
+        "0b67a6339e9c1d8385e8fdfc48f447bc"
+      ]
+    },
+    {
+      "Title": "Web Wars",
+      "ID": 7017,
+      "ConsoleID": 46,
+      "ConsoleName": "Vectrex",
+      "ImageIcon": "/Images/045840.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 166,
+      "DateModified": "2022-09-15 21:34:55",
+      "ForumTopicID": 13450,
+      "Hashes": [
+        "a398c18b4ce87929471b559b2bc7e79f",
+        "a3e0f44454d4100b18493f1bd2485d8b"
+      ]
+    }
+  ]
+}

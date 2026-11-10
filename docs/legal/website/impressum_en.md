@@ -1,0 +1,33 @@
+# Legal notice under section 5 DDG (German Digital Services Act)
+
+This is a translation for convenience. The German version is the legally binding one.
+
+Mert Aslantürk  
+c/o flexdienst - #21852  
+Kurt-Schumacher-Straße 74  
+67663 Kaiserslautern  
+Germany
+
+## Contact
+
+Phone: +49 156 79823162  
+Email: hello@game-twin.app  
+Web: https://game-twin.app
+
+## VAT identification number under section 27a UStG
+
+DE463889811
+
+As a small business under section 19 UStG, no VAT is charged.
+
+## Sale of the Special Editions
+
+The Game Twin application is free of charge. The paid Special Editions are sold by Sold through Link, LLC (formerly Lemon Squeezy LLC), 222 South Main Street Suite 500, Salt Lake City, UT 84101, USA, as Merchant of Record. The purchase contract is concluded with Sold through Link, LLC. Invoicing and the remittance of VAT happen there, and that provider's own terms and privacy policy apply to the purchase.
+
+## Consumer dispute resolution
+
+We are neither willing nor obliged to take part in dispute resolution proceedings before a consumer arbitration board.
+
+## Responsible for content
+
+Mert Aslantürk, address as above.

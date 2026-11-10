@@ -1,0 +1,336 @@
+{
+  "consoleId": 17,
+  "consoleName": "Atari Jaguar",
+  "games": [
+    {
+      "Title": "~Homebrew~ ~Demo~ Osmozys",
+      "ID": 20427,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/061888.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 6,
+      "Points": 35,
+      "DateModified": "2022-09-21 23:21:01",
+      "ForumTopicID": 18029,
+      "Hashes": [
+        "985bd1236c3c416381240fb537e86536"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ ~Demo~ Star Fighter",
+      "ID": 27930,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/121818.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 2,
+      "Points": 85,
+      "DateModified": "2025-12-22 13:41:38",
+      "ForumTopicID": 33657,
+      "Hashes": [
+        "a5767fc6c628759a5b6ba99874ff8bc4"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Alice's Mom's Rescue!",
+      "ID": 24630,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/074354.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 246,
+      "DateModified": "2024-07-08 20:46:01",
+      "ForumTopicID": 21874,
+      "Hashes": [
+        "4d18fba4b15fda9e5ed96f4f18427a2d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Black Out!",
+      "ID": 20634,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/081691.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 40,
+      "DateModified": "2023-08-28 20:44:19",
+      "ForumTopicID": 23115,
+      "Hashes": [
+        "f3f81e5c5ab19410d683d11d1cbb85f2"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Downfall",
+      "ID": 22522,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/068114.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 1,
+      "Points": 100,
+      "DateModified": "2023-02-21 15:23:00",
+      "ForumTopicID": 20385,
+      "Hashes": [
+        "4206ec6abeee07b9525fdda9925f3e55"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Frog Feast",
+      "ID": 16892,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/067994.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 24,
+      "DateModified": "2023-08-15 16:59:43",
+      "ForumTopicID": 20330,
+      "Hashes": [
+        "54af14494cb3b9d584adcbd2d1a5216e"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Tiny Toon Adventures",
+      "ID": 16912,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/082438.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 35,
+      "DateModified": "2023-09-14 14:26:21",
+      "ForumTopicID": 23334,
+      "Hashes": [
+        "322e89a674a188f8fddd313d6fe7bf80"
+      ]
+    },
+    {
+      "Title": "Alien vs. Predator",
+      "ID": 5221,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/102469.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 7,
+      "Points": 292,
+      "DateModified": "2024-10-21 07:31:09",
+      "ForumTopicID": 26316,
+      "Hashes": [
+        "96bc77cfd1b2df85b5e6ae05594e74b0"
+      ]
+    },
+    {
+      "Title": "Breakout 2000",
+      "ID": 7904,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/058501.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 480,
+      "DateModified": "2022-05-29 02:32:19",
+      "ForumTopicID": 16445,
+      "Hashes": [
+        "73a03ac854e2e87ee7ca1c42ef64a301"
+      ]
+    },
+    {
+      "Title": "Bubsy in Fractured Furry Tales",
+      "ID": 16880,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/117702.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 255,
+      "DateModified": "2021-01-03 18:55:38",
+      "ForumTopicID": 12072,
+      "Hashes": [
+        "c3ad2c75c5339125661845720da3895d"
+      ]
+    },
+    {
+      "Title": "Doom",
+      "ID": 16675,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/061442.png",
+      "NumAchievements": 79,
+      "NumLeaderboards": 0,
+      "Points": 387,
+      "DateModified": "2023-08-12 03:24:14",
+      "ForumTopicID": 18005,
+      "Hashes": [
+        "3a5878ea3f391174becc37b037318804"
+      ]
+    },
+    {
+      "Title": "Evolution: Dino Dudes",
+      "ID": 16887,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/071054.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 81,
+      "Points": 285,
+      "DateModified": "2025-10-14 16:41:32",
+      "ForumTopicID": 32201,
+      "Hashes": [
+        "d934acb23e0d9ee46d2a050146b876b0"
+      ]
+    },
+    {
+      "Title": "FlipOut!",
+      "ID": 19558,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/078792.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 0,
+      "Points": 300,
+      "DateModified": "2023-07-24 06:27:20",
+      "ForumTopicID": 16474,
+      "Hashes": [
+        "c43b914dde64b514e137852f56b415b1"
+      ]
+    },
+    {
+      "Title": "Head-On Soccer | Fever Pitch Soccer",
+      "ID": 16888,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/091707.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 9,
+      "Points": 160,
+      "DateModified": "2024-09-25 06:43:53",
+      "ForumTopicID": 28170,
+      "Hashes": [
+        "86c5cb8ac559b4f3a1e9aa883b06f98c"
+      ]
+    },
+    {
+      "Title": "Kasumi Ninja",
+      "ID": 8150,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/121446.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 146,
+      "DateModified": "2022-06-03 08:07:23",
+      "ForumTopicID": 13082,
+      "Hashes": [
+        "079b8059f4fc99a0e7a4c929c13f0f00"
+      ]
+    },
+    {
+      "Title": "Pinball Fantasies",
+      "ID": 16678,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/059868.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 8,
+      "Points": 440,
+      "DateModified": "2026-01-29 02:52:13",
+      "ForumTopicID": 17242,
+      "Hashes": [
+        "94583ce1270f05f13b32a9ff0e8909db"
+      ]
+    },
+    {
+      "Title": "Raiden",
+      "ID": 16904,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/045166.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 3,
+      "Points": 360,
+      "DateModified": "2022-04-03 09:14:01",
+      "ForumTopicID": 13282,
+      "Hashes": [
+        "126e966e6eab39f72a24a16cc75e5c7f"
+      ]
+    },
+    {
+      "Title": "Rayman",
+      "ID": 12684,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/089786.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 348,
+      "DateModified": "2024-04-04 13:36:25",
+      "ForumTopicID": 13746,
+      "Hashes": [
+        "c0ebfa0c65145bc59ca3bad632d85a39"
+      ]
+    },
+    {
+      "Title": "Tempest 2000",
+      "ID": 834,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/074775.png",
+      "NumAchievements": 57,
+      "NumLeaderboards": 3,
+      "Points": 1300,
+      "DateModified": "2025-04-22 03:22:44",
+      "ForumTopicID": 22010,
+      "Hashes": [
+        "602bc9953d3737b1ba52b2a0d9932f7c"
+      ]
+    },
+    {
+      "Title": "Ultra Vortek",
+      "ID": 16916,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/044599.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2025-11-19 19:33:07",
+      "ForumTopicID": 13096,
+      "Hashes": [
+        "5f2115d0bdcae4f3aa8e832f23f4ebdd"
+      ]
+    },
+    {
+      "Title": "Zero 5",
+      "ID": 16922,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/091845.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 1,
+      "Points": 435,
+      "DateModified": "2024-03-18 09:52:09",
+      "ForumTopicID": 25789,
+      "Hashes": [
+        "08b31fae8cbd44ac65d44baf1a0545a2"
+      ]
+    },
+    {
+      "Title": "Zool 2",
+      "ID": 16923,
+      "ConsoleID": 17,
+      "ConsoleName": "Atari Jaguar",
+      "ImageIcon": "/Images/121447.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 7,
+      "Points": 435,
+      "DateModified": "2025-02-07 15:14:07",
+      "ForumTopicID": 19377,
+      "Hashes": [
+        "780c0dd04407145b1c436adea406b5ac"
+      ]
+    }
+  ]
+}

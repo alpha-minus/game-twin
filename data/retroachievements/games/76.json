@@ -1,0 +1,1137 @@
+{
+  "consoleId": 76,
+  "consoleName": "PC Engine CD/TurboGrafx-CD",
+  "games": [
+    {
+      "Title": "~Homebrew~ Jessie Jaeger in Cleopatra's Curse",
+      "ID": 28690,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093209.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 389,
+      "DateModified": "2024-05-01 11:47:50",
+      "ForumTopicID": 25818,
+      "Hashes": [
+        "298734ae483ac59e9f3c37aa1c1b090d"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Revival Chase",
+      "ID": 22904,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/083865.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 49,
+      "DateModified": "2025-08-24 18:13:19",
+      "ForumTopicID": 31406,
+      "Hashes": [
+        "518bf8ee44071aeb26ade0369360a172"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Ultimate Rally Club",
+      "ID": 20417,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/061467.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 5,
+      "Points": 125,
+      "DateModified": "2022-09-10 17:44:28",
+      "ForumTopicID": 18014,
+      "Hashes": [
+        "f33ed08d643f41b4ec2764d095b61a06"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Xump 2: Back to Space",
+      "ID": 25578,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/081304.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 1,
+      "Points": 481,
+      "DateModified": "2023-09-04 05:21:46",
+      "ForumTopicID": 23017,
+      "Hashes": [
+        "42f5fb0c0af9a5f590286850028de9e8"
+      ]
+    },
+    {
+      "Title": "~Unlicensed~ Hi-Leg Fantasy",
+      "ID": 18644,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/083201.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2023-12-04 01:45:04",
+      "ForumTopicID": 24003,
+      "Hashes": [
+        "ed4c95b232098f09ed58c0182fd84f2d"
+      ]
+    },
+    {
+      "Title": "Advanced V.G.",
+      "ID": 7098,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/124573.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 24,
+      "Points": 275,
+      "DateModified": "2025-11-19 09:40:09",
+      "ForumTopicID": 25269,
+      "Hashes": [
+        "17f2a62623bf1091f286c92eda4ddf43"
+      ]
+    },
+    {
+      "Title": "Ai Cho Aniki",
+      "ID": 16978,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/051833.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 420,
+      "DateModified": "2024-09-13 07:55:33",
+      "ForumTopicID": 14810,
+      "Hashes": [
+        "e4245d36bee00016808bf295996aa3ef"
+      ]
+    },
+    {
+      "Title": "Akumajou Dracula X: Chi no Rondo",
+      "ID": 4855,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/059447.png",
+      "NumAchievements": 76,
+      "NumLeaderboards": 1,
+      "Points": 623,
+      "DateModified": "2025-08-21 06:31:38",
+      "ForumTopicID": 1045,
+      "Hashes": [
+        "dc5a0e432c9e8a9ab9f514b729b574f3"
+      ]
+    },
+    {
+      "Title": "Ane-san",
+      "ID": 28376,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/089369.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 238,
+      "DateModified": "2024-04-30 20:54:57",
+      "ForumTopicID": 25379,
+      "Hashes": [
+        "fce863b48e727c35d495194a8a0f0c45"
+      ]
+    },
+    {
+      "Title": "Bazaru de Gozaru no Game de Gozaru",
+      "ID": 17137,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/057771.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 0,
+      "Points": 132,
+      "DateModified": "2022-05-13 06:41:58",
+      "ForumTopicID": 16473,
+      "Hashes": [
+        "141d90fa244e3d90c03bb2d735afdaaf"
+      ]
+    },
+    {
+      "Title": "Beyond Shadowgate",
+      "ID": 12782,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/053908.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 250,
+      "DateModified": "2023-05-31 03:02:40",
+      "ForumTopicID": 6815,
+      "Hashes": [
+        "a9bb49d6cbb338e2195d8735097ccf87"
+      ]
+    },
+    {
+      "Title": "Bishoujo Senshi Sailor Moon",
+      "ID": 18279,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/068525.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2022-08-02 12:08:04",
+      "ForumTopicID": 14490,
+      "Hashes": [
+        "4e578af4d6439c42c4f59ff25b7997d4",
+        "fe14d7bb1b96753954cc7cdab3577d00"
+      ]
+    },
+    {
+      "Title": "Brandish",
+      "ID": 7962,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/110891.png",
+      "NumAchievements": 68,
+      "NumLeaderboards": 5,
+      "Points": 368,
+      "DateModified": "2025-08-22 04:05:33",
+      "ForumTopicID": 30549,
+      "Hashes": [
+        "eefcabb4e6b5aba08615cfc84519b1c4"
+      ]
+    },
+    {
+      "Title": "Browning",
+      "ID": 28811,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/091061.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 132,
+      "DateModified": "2025-12-27 23:10:49",
+      "ForumTopicID": 33597,
+      "Hashes": [
+        "8ea46d9914c68b1ec53a7e215b1fce16"
+      ]
+    },
+    {
+      "Title": "Buster Bros.",
+      "ID": 13184,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/113171.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 3,
+      "Points": 685,
+      "DateModified": "2022-03-30 09:57:13",
+      "ForumTopicID": 8585,
+      "Hashes": [
+        "1cb4520e76f34ede3dd46833183a139f"
+      ]
+    },
+    {
+      "Title": "Cho Aniki",
+      "ID": 14636,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/027810.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 1,
+      "Points": 600,
+      "DateModified": "2026-02-09 21:14:10",
+      "ForumTopicID": 9616,
+      "Hashes": [
+        "45fd2a4d3922dd40d3852d42a0140e84"
+      ]
+    },
+    {
+      "Title": "Chou Jikuu Yousai Macross 2036",
+      "ID": 9709,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093538.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 3,
+      "Points": 175,
+      "DateModified": "2025-11-15 15:23:30",
+      "ForumTopicID": 25799,
+      "Hashes": [
+        "55eb44cb8b534a2431a494b7b1b38403"
+      ]
+    },
+    {
+      "Title": "Chou Jikuu Yousai Macross: Eien no Love Song",
+      "ID": 16980,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090442.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 0,
+      "Points": 195,
+      "DateModified": "2024-06-07 21:49:40",
+      "ForumTopicID": 26060,
+      "Hashes": [
+        "99a5972efda850ed1ad0df1e1036d353"
+      ]
+    },
+    {
+      "Title": "Cosmic Fantasy 2",
+      "ID": 12890,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/020072.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 239,
+      "DateModified": "2024-07-25 22:21:47",
+      "ForumTopicID": 26337,
+      "Hashes": [
+        "029acd762699125e33d7f795eb688969"
+      ]
+    },
+    {
+      "Title": "Cosmic Fantasy: Bouken Shounen Yuu",
+      "ID": 28009,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/089004.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 247,
+      "DateModified": "2024-07-18 17:11:01",
+      "ForumTopicID": 25217,
+      "Hashes": [
+        "7d0a680f3759ca0ab44a1dcae7828716"
+      ]
+    },
+    {
+      "Title": "Cotton: Fantastic Night Dreams",
+      "ID": 9174,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/088316.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 3,
+      "Points": 470,
+      "DateModified": "2023-09-23 13:48:25",
+      "ForumTopicID": 3858,
+      "Hashes": [
+        "1e17a1196f3ba16a35c4dbce71071306"
+      ]
+    },
+    {
+      "Title": "Dead of the Brain 1 and 2",
+      "ID": 13166,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/019000.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 85,
+      "DateModified": "2024-09-01 12:51:14",
+      "ForumTopicID": 25273,
+      "Hashes": [
+        "e441fad7de8fdc71d25b104ae45d90fb"
+      ]
+    },
+    {
+      "Title": "Double Dragon II: The Revenge",
+      "ID": 15590,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/048750.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2024-04-18 15:32:14",
+      "ForumTopicID": 10966,
+      "Hashes": [
+        "c1ab1e21cd2db6c241235196ab2908e5"
+      ]
+    },
+    {
+      "Title": "Download 2",
+      "ID": 13189,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/112533.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 10,
+      "Points": 215,
+      "DateModified": "2025-05-22 21:16:32",
+      "ForumTopicID": 30927,
+      "Hashes": [
+        "9eb8f91f467550acdbf77e9f5ad20115"
+      ]
+    },
+    {
+      "Title": "Dragon Knight & Graffiti",
+      "ID": 22065,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/066293.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 181,
+      "DateModified": "2023-08-12 04:53:26",
+      "ForumTopicID": 19705,
+      "Hashes": [
+        "f59130faf3ba7ee26aff9ec7214aed1a"
+      ]
+    },
+    {
+      "Title": "Dragon Knight II",
+      "ID": 22081,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/066635.png",
+      "NumAchievements": 54,
+      "NumLeaderboards": 0,
+      "Points": 274,
+      "DateModified": "2023-08-12 04:53:49",
+      "ForumTopicID": 19812,
+      "Hashes": [
+        "14a0319e0b87b67cb97523dd1a87b9be"
+      ]
+    },
+    {
+      "Title": "Dragon Slayer: The Legend of Heroes",
+      "ID": 12889,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/088358.png",
+      "NumAchievements": 51,
+      "NumLeaderboards": 1,
+      "Points": 336,
+      "DateModified": "2024-06-25 08:53:28",
+      "ForumTopicID": 25216,
+      "Hashes": [
+        "1154e293ff16c1bc4f2a52027760a639"
+      ]
+    },
+    {
+      "Title": "Faussete Amour",
+      "ID": 13133,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093289.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 190,
+      "DateModified": "2024-07-12 18:14:30",
+      "ForumTopicID": 14176,
+      "Hashes": [
+        "a85ef88465f287c7095ad9a6a1c26ce6"
+      ]
+    },
+    {
+      "Title": "Fighting Street",
+      "ID": 9165,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/025446.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-07-16 18:25:54",
+      "ForumTopicID": 3850,
+      "Hashes": [
+        "1f674638e2aa39c45a955a608b90181a"
+      ]
+    },
+    {
+      "Title": "Final Zone II",
+      "ID": 14104,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/059968.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 110,
+      "DateModified": "2022-07-18 08:20:34",
+      "ForumTopicID": 17303,
+      "Hashes": [
+        "8eee6c4f0210aec421fbb1b0fc767b78"
+      ]
+    },
+    {
+      "Title": "Garou Densetsu 2: Aratanaru Tatakai",
+      "ID": 28760,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/113275.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 4,
+      "Points": 283,
+      "DateModified": "2026-02-05 02:56:00",
+      "ForumTopicID": 32870,
+      "Hashes": [
+        "ad48889cc1be550f470cb993148a8bfa"
+      ]
+    },
+    {
+      "Title": "Gate of Thunder",
+      "ID": 8866,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/048376.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 3,
+      "Points": 670,
+      "DateModified": "2021-09-01 17:10:24",
+      "ForumTopicID": 3615,
+      "Hashes": [
+        "2fa9f811db92264e29d00135d265e431"
+      ]
+    },
+    {
+      "Title": "Ginga Fukei Densetsu Sapphire",
+      "ID": 8868,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/009032.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 3,
+      "Points": 295,
+      "DateModified": "2025-07-27 15:23:23",
+      "ForumTopicID": 3614,
+      "Hashes": [
+        "b01d1404a3a2370e2099a4cf68b5a99f"
+      ]
+    },
+    {
+      "Title": "Ginga Ojousama Densetsu Yuna",
+      "ID": 13615,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/100109.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2025-09-03 15:03:10",
+      "ForumTopicID": 19990,
+      "Hashes": [
+        "12888594bfafea9afa707ce6c2eb75db",
+        "87c94b395f18fa2bc467c8c6d1c9688d"
+      ]
+    },
+    {
+      "Title": "Godzilla",
+      "ID": 6204,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/025450.png",
+      "NumAchievements": 51,
+      "NumLeaderboards": 3,
+      "Points": 505,
+      "DateModified": "2024-07-09 19:57:13",
+      "ForumTopicID": 4253,
+      "Hashes": [
+        "06d22a4f258f931d4e2c8783fa484906"
+      ]
+    },
+    {
+      "Title": "Golden Axe",
+      "ID": 13196,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/101737.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 215,
+      "DateModified": "2024-10-16 22:29:52",
+      "ForumTopicID": 27964,
+      "Hashes": [
+        "ed4644e14ad30b9eb22569b9c73a50e9"
+      ]
+    },
+    {
+      "Title": "Gotzendiener",
+      "ID": 13414,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/019999.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 40,
+      "DateModified": "2022-03-22 10:39:02",
+      "ForumTopicID": 15695,
+      "Hashes": [
+        "ac3500d1a4cd9efc7fe97a3bbb120ad0"
+      ]
+    },
+    {
+      "Title": "Gradius II: Gofer no Yabou",
+      "ID": 8865,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/063181.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 435,
+      "DateModified": "2022-12-11 06:35:51",
+      "ForumTopicID": 3617,
+      "Hashes": [
+        "190ac11eb121e8a47b26dc09502cc0f3"
+      ]
+    },
+    {
+      "Title": "Juuouki",
+      "ID": 28822,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/091152.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 142,
+      "DateModified": "2024-04-30 12:53:46",
+      "ForumTopicID": 26016,
+      "Hashes": [
+        "27fb01740a50bcd3c67564946ec7dee0"
+      ]
+    },
+    {
+      "Title": "L-DIS",
+      "ID": 8841,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090826.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 6,
+      "Points": 160,
+      "DateModified": "2025-06-07 00:34:23",
+      "ForumTopicID": 30568,
+      "Hashes": [
+        "1c2f4cd16cc7f711e5d0ab87fb96f2b0"
+      ]
+    },
+    {
+      "Title": "Loom",
+      "ID": 9531,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/052033.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 66,
+      "DateModified": "2024-05-14 02:20:41",
+      "ForumTopicID": 14902,
+      "Hashes": [
+        "c2d6798a81893b3003b5e96a343789be"
+      ]
+    },
+    {
+      "Title": "Lords of Thunder",
+      "ID": 8867,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/084150.png",
+      "NumAchievements": 59,
+      "NumLeaderboards": 3,
+      "Points": 620,
+      "DateModified": "2023-08-10 20:23:22",
+      "ForumTopicID": 12871,
+      "Hashes": [
+        "e89383d69ad11d101a6897e11d1754b4"
+      ]
+    },
+    {
+      "Title": "Might and Magic III: Isles of Terra",
+      "ID": 14096,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/050298.png",
+      "NumAchievements": 180,
+      "NumLeaderboards": 0,
+      "Points": 955,
+      "DateModified": "2022-05-02 08:55:22",
+      "ForumTopicID": 14182,
+      "Hashes": [
+        "9a5a705b23f4a9ab99a3d372eec24b83"
+      ]
+    },
+    {
+      "Title": "Monster Lair",
+      "ID": 13306,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090586.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 1,
+      "Points": 229,
+      "DateModified": "2024-04-29 15:44:39",
+      "ForumTopicID": 26267,
+      "Hashes": [
+        "387a34b07aeb78b01fa43af74467cd40"
+      ]
+    },
+    {
+      "Title": "Monster Lair [Subset - Multiplayer]",
+      "ID": 29713,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/095608.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 1,
+      "Points": 214,
+      "DateModified": "2024-04-29 21:34:59",
+      "ForumTopicID": 26307,
+      "Hashes": [
+        "fba17fbdac86949f29b0741eec404fd3"
+      ]
+    },
+    {
+      "Title": "Motteke Tamago",
+      "ID": 13188,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/074476.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2023-06-04 01:55:51",
+      "ForumTopicID": 21832,
+      "Hashes": [
+        "caecf273fe97d88aeb6d0c8c9fd43cb9"
+      ]
+    },
+    {
+      "Title": "Mugen Senshi Valis: The Legend of a Fantasm Soldier",
+      "ID": 14480,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/116331.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 11,
+      "Points": 470,
+      "DateModified": "2024-07-15 15:30:58",
+      "ForumTopicID": 14996,
+      "Hashes": [
+        "06f0e44efa25ba6e6a9cf7f5b08ec782"
+      ]
+    },
+    {
+      "Title": "Popful Mail",
+      "ID": 9882,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/060808.png",
+      "NumAchievements": 113,
+      "NumLeaderboards": 53,
+      "Points": 979,
+      "DateModified": "2025-10-05 21:59:12",
+      "ForumTopicID": 17649,
+      "Hashes": [
+        "a0fef3e9b4f74bf51c4cc6dd6b7f9ff7"
+      ]
+    },
+    {
+      "Title": "Prince of Persia",
+      "ID": 9021,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090602.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 1,
+      "Points": 138,
+      "DateModified": "2025-06-07 20:39:57",
+      "ForumTopicID": 30435,
+      "Hashes": [
+        "197a96c252a12ba83c3770914aa1b81f"
+      ]
+    },
+    {
+      "Title": "Puyo Puyo CD",
+      "ID": 13185,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/050432.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 4,
+      "Points": 234,
+      "DateModified": "2024-08-24 02:31:59",
+      "ForumTopicID": 14419,
+      "Hashes": [
+        "c9d0afcd0f73b7d718de90aeac84fa68"
+      ]
+    },
+    {
+      "Title": "R-Type Complete",
+      "ID": 8864,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/095536.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 6,
+      "Points": 270,
+      "DateModified": "2024-05-02 15:31:44",
+      "ForumTopicID": 26288,
+      "Hashes": [
+        "f36f5b025322dd874f0d0fc5f109c615"
+      ]
+    },
+    {
+      "Title": "Seirei Senshi Spriggan",
+      "ID": 14637,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/064986.png",
+      "NumAchievements": 70,
+      "NumLeaderboards": 2,
+      "Points": 1190,
+      "DateModified": "2026-01-01 16:21:14",
+      "ForumTopicID": 18067,
+      "Hashes": [
+        "fd49772941ca4e58b06b9bea02f588df"
+      ]
+    },
+    {
+      "Title": "Shadow of the Beast",
+      "ID": 12841,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090880.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 3,
+      "Points": 365,
+      "DateModified": "2024-08-23 09:46:55",
+      "ForumTopicID": 26191,
+      "Hashes": [
+        "bd5f54e4403f76846c4970f93d5056cf",
+        "26c91b29ae514cac6acb50b420fb26a9"
+      ]
+    },
+    {
+      "Title": "Shanghai II",
+      "ID": 13187,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/083880.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 213,
+      "DateModified": "2025-07-28 23:10:22",
+      "ForumTopicID": 23852,
+      "Hashes": [
+        "1062a9cbaebf758318892535432d9525"
+      ]
+    },
+    {
+      "Title": "Shanghai III: Dragon's Eye",
+      "ID": 13309,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/088744.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 16,
+      "Points": 170,
+      "DateModified": "2024-02-10 18:12:19",
+      "ForumTopicID": 25186,
+      "Hashes": [
+        "fb24b18c853d867ef9aecd5125e37e83"
+      ]
+    },
+    {
+      "Title": "Shapeshifter",
+      "ID": 9874,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/089501.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 2,
+      "Points": 238,
+      "DateModified": "2024-05-05 02:39:29",
+      "ForumTopicID": 25503,
+      "Hashes": [
+        "a2fe587695345dd0251b371856278ddf"
+      ]
+    },
+    {
+      "Title": "Splash Lake",
+      "ID": 7961,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/052596.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 6,
+      "Points": 316,
+      "DateModified": "2024-04-12 03:54:25",
+      "ForumTopicID": 15086,
+      "Hashes": [
+        "e6910e893ba3028336254113113850a9"
+      ]
+    },
+    {
+      "Title": "Star Parodier",
+      "ID": 14028,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/052569.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 2,
+      "Points": 351,
+      "DateModified": "2025-05-16 22:28:16",
+      "ForumTopicID": 12378,
+      "Hashes": [
+        "a99711ee026979c45612fc3918509e30"
+      ]
+    },
+    {
+      "Title": "Startling Odyssey II: Maryuu Sensou",
+      "ID": 16985,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/094701.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 340,
+      "DateModified": "2024-11-10 16:01:45",
+      "ForumTopicID": 26115,
+      "Hashes": [
+        "8f8783064f8e97d0ebf437c00aad39fa"
+      ]
+    },
+    {
+      "Title": "Steam Heart's",
+      "ID": 8560,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/064519.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 395,
+      "DateModified": "2025-01-14 15:49:39",
+      "ForumTopicID": 7689,
+      "Hashes": [
+        "8c6b0f93db82c2de485e8c63cd65570f"
+      ]
+    },
+    {
+      "Title": "Summer Carnival '92: Alzadick",
+      "ID": 16986,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093938.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 5,
+      "Points": 70,
+      "DateModified": "2023-03-06 01:53:22",
+      "ForumTopicID": 20578,
+      "Hashes": [
+        "c279f880841ca158769beb6de6098959"
+      ]
+    },
+    {
+      "Title": "Summer Carnival '93: Nexzr Special",
+      "ID": 9871,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/060213.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 4,
+      "Points": 230,
+      "DateModified": "2023-10-18 05:02:33",
+      "ForumTopicID": 15653,
+      "Hashes": [
+        "471054c4638ecd62b358ca1e1d4e1773"
+      ]
+    },
+    {
+      "Title": "Sylphia",
+      "ID": 13134,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/018945.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 700,
+      "DateModified": "2024-03-29 09:21:22",
+      "ForumTopicID": 7403,
+      "Hashes": [
+        "979c98d2ab744520ba3a8a8d93c0571b"
+      ]
+    },
+    {
+      "Title": "Tengai Makyou: Ziria",
+      "ID": 27679,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093696.png",
+      "NumAchievements": 123,
+      "NumLeaderboards": 14,
+      "Points": 666,
+      "DateModified": "2025-09-17 20:35:10",
+      "ForumTopicID": 24658,
+      "Hashes": [
+        "6a5357c92dd8313ca3ebc80593f77cea",
+        "80703df09e4bfb3f46fabd4cc1c359ce",
+        "0ad5651a92e838d5174ebc3078440200"
+      ]
+    },
+    {
+      "Title": "The Dynastic Hero",
+      "ID": 2603,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/060215.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 0,
+      "Points": 325,
+      "DateModified": "2023-01-09 20:13:54",
+      "ForumTopicID": 19485,
+      "Hashes": [
+        "d120a2d1099b1101a1897b8cb3996f83"
+      ]
+    },
+    {
+      "Title": "The Manhole",
+      "ID": 8851,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/093725.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 3,
+      "Points": 75,
+      "DateModified": "2024-08-03 19:23:31",
+      "ForumTopicID": 26053,
+      "Hashes": [
+        "d676d3db9c23c506048e9980d7c627db"
+      ]
+    },
+    {
+      "Title": "Travel Epuru",
+      "ID": 28810,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/090925.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 190,
+      "DateModified": "2024-07-08 19:41:28",
+      "ForumTopicID": 25694,
+      "Hashes": [
+        "65ae6e2d2122b1465b6c0694e861a4fe"
+      ]
+    },
+    {
+      "Title": "Valis II",
+      "ID": 12892,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/115493.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 375,
+      "DateModified": "2025-02-02 20:07:13",
+      "ForumTopicID": 15440,
+      "Hashes": [
+        "8c5932e35676429dcf9ed7331b941f58"
+      ]
+    },
+    {
+      "Title": "Valis III",
+      "ID": 12893,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/069418.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 1,
+      "Points": 375,
+      "DateModified": "2023-08-18 03:04:54",
+      "ForumTopicID": 20634,
+      "Hashes": [
+        "4dcba80f9d31634d90447c66e033d062"
+      ]
+    },
+    {
+      "Title": "Valis IV",
+      "ID": 16987,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/069228.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 328,
+      "DateModified": "2025-07-07 00:16:45",
+      "ForumTopicID": 20608,
+      "Hashes": [
+        "22a58f0f9169be2f9d18634d7c0234b9"
+      ]
+    },
+    {
+      "Title": "Vasteel",
+      "ID": 12888,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/091610.png",
+      "NumAchievements": 71,
+      "NumLeaderboards": 62,
+      "Points": 668,
+      "DateModified": "2024-05-08 22:42:58",
+      "ForumTopicID": 25417,
+      "Hashes": [
+        "f4e63bd19d179d54a1d4417781a1aacf"
+      ]
+    },
+    {
+      "Title": "Xak III: The Eternal Recurrence",
+      "ID": 13415,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/099588.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 0,
+      "Points": 289,
+      "DateModified": "2024-07-24 20:18:19",
+      "ForumTopicID": 18254,
+      "Hashes": [
+        "4a172b994fbb95dbf5e34256b86aeacb"
+      ]
+    },
+    {
+      "Title": "Ys III: Wanderers from Ys",
+      "ID": 8838,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/120101.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 295,
+      "DateModified": "2025-11-04 16:24:45",
+      "ForumTopicID": 3610,
+      "Hashes": [
+        "5f00e6cf276b34927c819b376ba27cc4"
+      ]
+    },
+    {
+      "Title": "Ys IV: The Dawn of Ys",
+      "ID": 8839,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/009025.png",
+      "NumAchievements": 90,
+      "NumLeaderboards": 0,
+      "Points": 666,
+      "DateModified": "2025-01-28 15:31:27",
+      "ForumTopicID": 3612,
+      "Hashes": [
+        "b77ae59195812ed30d1d5dd29cee1510",
+        "f17f1c4108d55ca132515fa0bab27088"
+      ]
+    },
+    {
+      "Title": "Ys: Book I & II",
+      "ID": 6700,
+      "ConsoleID": 76,
+      "ConsoleName": "PC Engine CD/TurboGrafx-CD",
+      "ImageIcon": "/Images/041026.png",
+      "NumAchievements": 142,
+      "NumLeaderboards": 0,
+      "Points": 1200,
+      "DateModified": "2026-01-23 04:16:49",
+      "ForumTopicID": 3587,
+      "Hashes": [
+        "e9f07a66e2e793bdbf8538ac110bfb7c"
+      ]
+    }
+  ]
+}

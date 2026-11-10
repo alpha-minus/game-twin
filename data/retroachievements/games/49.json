@@ -1,0 +1,327 @@
+{
+  "consoleId": 49,
+  "consoleName": "PC-FX",
+  "games": [
+    {
+      "Title": "~Homebrew~ Simple Battle FX",
+      "ID": 19912,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/059196.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 8,
+      "DateModified": "2022-06-12 04:31:54",
+      "ForumTopicID": 16964,
+      "Hashes": [
+        "3c576145aee0c0b78245bbae4870be8a"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Soviet Union 2010",
+      "ID": 16462,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/060520.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 165,
+      "DateModified": "2025-11-30 23:05:08",
+      "ForumTopicID": 16883,
+      "Hashes": [
+        "770aaf1214a145ba2b1511b0de752a24"
+      ]
+    },
+    {
+      "Title": "Battle Heat!",
+      "ID": 13339,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/046169.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 0,
+      "Points": 184,
+      "DateModified": "2021-07-30 21:13:30",
+      "ForumTopicID": 13568,
+      "Hashes": [
+        "7511f808929b912962e468daba4fe844"
+      ]
+    },
+    {
+      "Title": "Chip-chan Kick!",
+      "ID": 9961,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/109727.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 1,
+      "Points": 200,
+      "DateModified": "2022-04-23 14:41:32",
+      "ForumTopicID": 12820,
+      "Hashes": [
+        "a83a3f08d17c4da8ac8f8e8e370c7b53"
+      ]
+    },
+    {
+      "Title": "Choujin Heiki Zeroigar",
+      "ID": 9940,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/064439.png",
+      "NumAchievements": 53,
+      "NumLeaderboards": 0,
+      "Points": 285,
+      "DateModified": "2023-08-21 20:17:07",
+      "ForumTopicID": 11021,
+      "Hashes": [
+        "980b1c05ffa2a6c388d4364f29a758c9",
+        "b4aa155ab9b800311efb3d70631189ed"
+      ]
+    },
+    {
+      "Title": "Farland Story FX",
+      "ID": 8112,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/045198.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 192,
+      "DateModified": "2021-06-15 17:33:43",
+      "ForumTopicID": 13081,
+      "Hashes": [
+        "33ceed42dba0b58bec1e0e1249cd4582",
+        "6be42cbb531a2102b275ccf9e9007322"
+      ]
+    },
+    {
+      "Title": "Ginga Ojousama Densetsu Yuna FX: Kanashimi no Selene",
+      "ID": 16434,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/067182.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 6,
+      "Points": 115,
+      "DateModified": "2024-06-29 02:56:09",
+      "ForumTopicID": 22668,
+      "Hashes": [
+        "d193dee874bafbda2122340bfb7cd715"
+      ]
+    },
+    {
+      "Title": "J. B. Harold: Blue Chicago Blues",
+      "ID": 16436,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/081429.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 68,
+      "DateModified": "2023-08-26 06:34:38",
+      "ForumTopicID": 23056,
+      "Hashes": [
+        "4eaaad6532c74a9ffdff85a971afe43c"
+      ]
+    },
+    {
+      "Title": "Kishin Douji Zenki FX: Vajura Fight",
+      "ID": 9525,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/059022.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 345,
+      "DateModified": "2022-06-10 23:24:20",
+      "ForumTopicID": 11018,
+      "Hashes": [
+        "75b75e4bb1337e55ba75ac3cefc24844"
+      ]
+    },
+    {
+      "Title": "Last Imperial Prince",
+      "ID": 9373,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/048992.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 310,
+      "DateModified": "2023-01-16 15:47:21",
+      "ForumTopicID": 14110,
+      "Hashes": [
+        "b62aad2fb95226bf6ae234a0deb9b53f",
+        "c434170699bfd0273842ce563e9c42e0"
+      ]
+    },
+    {
+      "Title": "Pachio-kun FX: Maboroshi no Shima Daisakusen",
+      "ID": 16450,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/080510.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 30,
+      "Points": 235,
+      "DateModified": "2023-08-15 15:41:34",
+      "ForumTopicID": 22851,
+      "Hashes": [
+        "9c79291556d0b54a88c27420eced095a"
+      ]
+    },
+    {
+      "Title": "Pia Carrot e Youkoso!! We've Been Waiting for You",
+      "ID": 9786,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/123614.png",
+      "NumAchievements": 100,
+      "NumLeaderboards": 0,
+      "Points": 500,
+      "DateModified": "2026-02-23 02:45:31",
+      "ForumTopicID": 16879,
+      "Hashes": [
+        "7112e47698346656e5ba5656e11c0a86",
+        "cdcdafd82876f1fbf532237c05b9e1fe"
+      ]
+    },
+    {
+      "Title": "Power Dolls FX",
+      "ID": 16454,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/061252.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 11,
+      "Points": 125,
+      "DateModified": "2022-08-30 16:25:31",
+      "ForumTopicID": 17923,
+      "Hashes": [
+        "1982933e6620687f0bf5b90f7a38dfdc"
+      ]
+    },
+    {
+      "Title": "Return to Zork",
+      "ID": 16455,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/108412.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 220,
+      "DateModified": "2025-03-21 16:40:53",
+      "ForumTopicID": 29884,
+      "Hashes": [
+        "52edc3b3b0998ff36fd43c55dcdbc968"
+      ]
+    },
+    {
+      "Title": "Ruruli Ra Rura",
+      "ID": 16456,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/068124.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 114,
+      "DateModified": "2023-06-23 13:49:40",
+      "ForumTopicID": 13302,
+      "Hashes": [
+        "2d67b1f38dd790b291b4909d81bba85b",
+        "c363414552441e754f484d7fdf6a4381"
+      ]
+    },
+    {
+      "Title": "Shanghai: Banri no Choujou",
+      "ID": 16458,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/059235.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 1,
+      "Points": 183,
+      "DateModified": "2025-12-22 02:54:39",
+      "ForumTopicID": 12036,
+      "Hashes": [
+        "b66c6490791269a180ff82097ee762a0"
+      ]
+    },
+    {
+      "Title": "Super Power League FX",
+      "ID": 16463,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/082980.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 5,
+      "Points": 495,
+      "DateModified": "2024-10-11 01:08:20",
+      "ForumTopicID": 23556,
+      "Hashes": [
+        "8db3639a1aedaecf03bc90a3830dde43"
+      ]
+    },
+    {
+      "Title": "Super Real Mahjong P.V FX",
+      "ID": 16464,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/098417.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 3,
+      "Points": 170,
+      "DateModified": "2024-06-25 19:33:33",
+      "ForumTopicID": 26881,
+      "Hashes": [
+        "de08e432ae7ccfc242587893c7409530"
+      ]
+    },
+    {
+      "Title": "Team Innocent: The Point of No Return",
+      "ID": 16465,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/121798.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 3,
+      "Points": 353,
+      "DateModified": "2025-12-21 03:46:34",
+      "ForumTopicID": 33651,
+      "Hashes": [
+        "3827b255e716ef0670378fb6e0b47fb1",
+        "02ebdbd5b1a2193143b45296ea15fbb8"
+      ]
+    },
+    {
+      "Title": "Tengai Makyou: Karakuri Kakutoden",
+      "ID": 9995,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/078791.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 118,
+      "DateModified": "2023-12-04 07:36:15",
+      "ForumTopicID": 22705,
+      "Hashes": [
+        "8cf787a9459f25def0245b5bcee16bfd"
+      ]
+    },
+    {
+      "Title": "Tokimeki Card Paradise: Koi no Royal Straight Flush",
+      "ID": 16467,
+      "ConsoleID": 49,
+      "ConsoleName": "PC-FX",
+      "ImageIcon": "/Images/120895.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 88,
+      "DateModified": "2023-03-24 15:37:28",
+      "ForumTopicID": 20913,
+      "Hashes": [
+        "3e7dbbeaba3a3e2bfe5d8b257b90e1a5"
+      ]
+    }
+  ]
+}

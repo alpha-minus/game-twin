@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Celeste",
+    "guideId": "3474899136",
+    "appId": 504230
+  },
+  {
+    "title": "Hollow Knight",
+    "guideId": "936948247",
+    "appId": 367520
+  },
+  {
+    "title": "The Binding of Isaac",
+    "guideId": "144481984",
+    "appId": 113200
+  },
+  {
+    "title": "The Binding of Isaac: Rebirth",
+    "guideId": "1441000071",
+    "appId": 250900
+  },
+  {
+    "title": "Stardew Valley",
+    "guideId": "633984426",
+    "appId": 413150
+  },
+  {
+    "title": "Hades",
+    "guideId": "2231460116",
+    "appId": 1145360
+  },
+  {
+    "title": "Undertale",
+    "guideId": "744043357",
+    "appId": 391540
+  },
+  {
+    "title": "Terraria",
+    "guideId": "2443724964",
+    "appId": 105600
+  },
+  {
+    "title": "Dead Cells",
+    "guideId": "1214490016",
+    "appId": 588650
+  },
+  {
+    "title": "Cuphead",
+    "guideId": "1907320872",
+    "appId": 268910
+  },
+  {
+    "title": "Ori and the Blind Forest",
+    "guideId": "408259781",
+    "appId": 261570
+  },
+  {
+    "title": "Slay the Spire",
+    "guideId": "1460377149",
+    "appId": 646570
+  },
+  {
+    "title": "Enter the Gungeon",
+    "guideId": "674927619",
+    "appId": 311690
+  },
+  {
+    "title": "RimWorld",
+    "guideId": "1641979313",
+    "appId": 294100
+  },
+  {
+    "title": "Factorio",
+    "guideId": "2833904868",
+    "appId": 427520
+  },
+  {
+    "title": "Vampire Survivors",
+    "guideId": "2909479490",
+    "appId": 1794680
+  },
+  {
+    "title": "Baba Is You",
+    "guideId": "1788142140",
+    "appId": 736260
+  },
+  {
+    "title": "Katana ZERO",
+    "guideId": "3513758129",
+    "appId": 460950
+  },
+  {
+    "title": "Inscryption",
+    "guideId": "2729609882",
+    "appId": 1092790
+  },
+  {
+    "title": "Disco Elysium",
+    "guideId": "1948691016",
+    "appId": 632470
+  },
+  {
+    "title": "Outer Wilds",
+    "guideId": "2877628495",
+    "appId": 753640
+  },
+  {
+    "title": "Hotline Miami",
+    "guideId": "727999644",
+    "appId": 219150
+  },
+  {
+    "title": "Subnautica",
+    "guideId": "1933076955",
+    "appId": 264710
+  },
+  {
+    "title": "The Witness",
+    "guideId": "3014458084",
+    "appId": 210970
+  },
+  {
+    "title": "Return of the Obra Dinn",
+    "guideId": "1565813913",
+    "appId": 653530
+  },
+  {
+    "title": "Darkest Dungeon",
+    "guideId": "1774409726",
+    "appId": 262060
+  },
+  {
+    "title": "Tunic",
+    "guideId": "2964524669",
+    "appId": 553420
+  },
+  {
+    "title": "Pizza Tower",
+    "guideId": "2925090271",
+    "appId": 2231450
+  },
+  {
+    "title": "Hyper Light Drifter",
+    "guideId": "658199351",
+    "appId": 257850
+  },
+  {
+    "title": "Cult of the Lamb",
+    "guideId": "3125472409",
+    "appId": 1313140
+  },
+  {
+    "title": "Sea of Stars",
+    "guideId": "3027488934",
+    "appId": 1244090
+  },
+  {
+    "title": "Deltarune",
+    "guideId": "3539334825",
+    "appId": 1671210
+  },
+  {
+    "title": "Gris",
+    "guideId": "1590842073",
+    "appId": 683320
+  },
+  {
+    "title": "Dredge",
+    "guideId": "2956335676",
+    "appId": 1562430
+  },
+  {
+    "title": "Blasphemous",
+    "guideId": "2590480741",
+    "appId": 774361
+  },
+  {
+    "title": "Spelunky",
+    "guideId": "168149060",
+    "appId": 239350
+  },
+  {
+    "title": "Transistor",
+    "guideId": "262238260",
+    "appId": 237930
+  },
+  {
+    "title": "Bastion",
+    "guideId": "2584710379",
+    "appId": 107100
+  },
+  {
+    "title": "Hollow Knight: Silksong",
+    "guideId": "3562089042",
+    "appId": 1030300
+  },
+  {
+    "title": "Hades II",
+    "guideId": "3241108536",
+    "appId": 1145350
+  },
+  {
+    "title": "Ori and the Will of the Wisps",
+    "guideId": "2081423964",
+    "appId": 1057090
+  },
+  {
+    "title": "Risk of Rain 2",
+    "guideId": "2144504869",
+    "appId": 632360
+  },
+  {
+    "title": "Rogue Legacy 2",
+    "guideId": "2803310331",
+    "appId": 1253920
+  },
+  {
+    "title": "Darkest Dungeon II",
+    "guideId": "2973257745",
+    "appId": 1940340
+  },
+  {
+    "title": "Slay the Spire 2",
+    "guideId": "3679325258",
+    "appId": 2868840
+  },
+  {
+    "title": "Subnautica: Below Zero",
+    "guideId": "2100915424",
+    "appId": 848450
+  }
+]

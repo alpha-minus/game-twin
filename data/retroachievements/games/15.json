@@ -1,0 +1,1801 @@
+{
+  "consoleId": 15,
+  "consoleName": "Game Gear",
+  "games": [
+    {
+      "Title": "~Homebrew~ Hamburgers En Route to Switzerland",
+      "ID": 28834,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/091274.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 95,
+      "DateModified": "2024-05-28 16:30:05",
+      "ForumTopicID": 25723,
+      "Hashes": [
+        "c91f1bcc0b4ab1abac998ce8a02bbafb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Snepzhen Solitaire",
+      "ID": 30932,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/102412.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 19,
+      "DateModified": "2024-09-23 19:36:42",
+      "ForumTopicID": 28178,
+      "Hashes": [
+        "aca63448b5d887239fc8821760d36efb"
+      ]
+    },
+    {
+      "Title": "~Homebrew~ Swabby",
+      "ID": 26880,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/084803.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 40,
+      "DateModified": "2023-10-25 02:11:57",
+      "ForumTopicID": 24173,
+      "Hashes": [
+        "db672d52225564b6f520e8a0a4b1a4c7"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Cave Dude",
+      "ID": 20603,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/080784.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 2,
+      "Points": 285,
+      "DateModified": "2023-09-27 17:03:56",
+      "ForumTopicID": 22944,
+      "Hashes": [
+        "933770b934e2f4eb2b6e3918f0955d40"
+      ]
+    },
+    {
+      "Title": "~Prototype~ Crazy Faces",
+      "ID": 14723,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/104525.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2022-05-26 02:29:01",
+      "ForumTopicID": 9750,
+      "Hashes": [
+        "0336bd86c59096a6b9a069ec0ddd94b2"
+      ]
+    },
+    {
+      "Title": "Aerial Assault",
+      "ID": 12515,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/062336.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 168,
+      "DateModified": "2025-01-26 00:01:39",
+      "ForumTopicID": 6494,
+      "Hashes": [
+        "b6fb54e60f8992daaa35e98a712ff2cb"
+      ]
+    },
+    {
+      "Title": "Aladdin",
+      "ID": 13397,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/023585.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 245,
+      "DateModified": "2022-11-30 18:17:04",
+      "ForumTopicID": 7661,
+      "Hashes": [
+        "1ab3a94109af90a333a68479a02a5643",
+        "258abbcd90fe78e19c53c39ce9150106"
+      ]
+    },
+    {
+      "Title": "Alien 3",
+      "ID": 24340,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/118604.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 21,
+      "Points": 453,
+      "DateModified": "2026-01-28 20:27:31",
+      "ForumTopicID": 32391,
+      "Hashes": [
+        "653310b476cab68eeb8d3520c26b9755"
+      ]
+    },
+    {
+      "Title": "Arena: Maze of Death",
+      "ID": 25387,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/082342.png",
+      "NumAchievements": 64,
+      "NumLeaderboards": 6,
+      "Points": 603,
+      "DateModified": "2024-10-31 03:49:03",
+      "ForumTopicID": 22955,
+      "Hashes": [
+        "ce3e5094025b10c3885ff1da53a46d2f"
+      ]
+    },
+    {
+      "Title": "Ax Battler: A Legend of Golden Axe",
+      "ID": 12419,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/065699.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 310,
+      "DateModified": "2025-04-15 17:29:41",
+      "ForumTopicID": 6911,
+      "Hashes": [
+        "71e87c98e849c71dfd9a21a4a9ff56b4"
+      ]
+    },
+    {
+      "Title": "Batman Returns",
+      "ID": 14284,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/049432.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 0,
+      "Points": 250,
+      "DateModified": "2024-10-23 04:02:13",
+      "ForumTopicID": 14513,
+      "Hashes": [
+        "1e8cfd2f30e9ad733f602cf2de696ba9"
+      ]
+    },
+    {
+      "Title": "Battleship: The Classic Naval Combat Game",
+      "ID": 28803,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/090299.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2025-11-27 13:54:24",
+      "ForumTopicID": 25655,
+      "Hashes": [
+        "0a40a863596797aa68340948b53fd6ef"
+      ]
+    },
+    {
+      "Title": "Bishoujo Senshi Sailor Moon S",
+      "ID": 12619,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/036715.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2025-10-22 13:32:05",
+      "ForumTopicID": 11395,
+      "Hashes": [
+        "33ca01d639aef0b2fecf2d059175abbe",
+        "e3f4a587902a5010539a4f86db93c0c2"
+      ]
+    },
+    {
+      "Title": "Bubble Bobble",
+      "ID": 13046,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/113969.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 2,
+      "Points": 442,
+      "DateModified": "2024-04-11 15:27:16",
+      "ForumTopicID": 19204,
+      "Hashes": [
+        "4f08cab3e252c2e3979ef33e9e59f294"
+      ]
+    },
+    {
+      "Title": "Bugs Bunny in Double Trouble",
+      "ID": 12659,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/071251.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 1,
+      "Points": 250,
+      "DateModified": "2024-11-03 20:47:32",
+      "ForumTopicID": 21081,
+      "Hashes": [
+        "04770c2c01095a6e3fde211a125d8964"
+      ]
+    },
+    {
+      "Title": "Castle of Illusion starring Mickey Mouse",
+      "ID": 11714,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/124245.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 3,
+      "Points": 248,
+      "DateModified": "2026-02-11 16:55:53",
+      "ForumTopicID": 34412,
+      "Hashes": [
+        "16b6ea96908c17d4389a5907710a0f4e"
+      ]
+    },
+    {
+      "Title": "Chuck Rock",
+      "ID": 13238,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/023222.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 3,
+      "Points": 402,
+      "DateModified": "2019-10-11 03:26:01",
+      "ForumTopicID": 8147,
+      "Hashes": [
+        "86a3221d3d74133c84f658939fd6e928"
+      ]
+    },
+    {
+      "Title": "Coca-Cola Kid",
+      "ID": 11802,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/044791.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 10,
+      "Points": 210,
+      "DateModified": "2021-10-01 19:40:29",
+      "ForumTopicID": 14915,
+      "Hashes": [
+        "d259f6b3a437b7df069abb935553007a",
+        "dbede5c20828e3d251b05356d9176c79"
+      ]
+    },
+    {
+      "Title": "Columns",
+      "ID": 12915,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/073572.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 30,
+      "Points": 400,
+      "DateModified": "2023-06-04 20:06:22",
+      "ForumTopicID": 21590,
+      "Hashes": [
+        "90bd4681e3e4b07445eaf35e83b223db"
+      ]
+    },
+    {
+      "Title": "Crayon Shin-chan: Taiketsu! Kantam Panic!!",
+      "ID": 29324,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/093991.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2024-05-20 11:01:59",
+      "ForumTopicID": 26147,
+      "Hashes": [
+        "3788f49e16ddb70d0af7b2cf63456246"
+      ]
+    },
+    {
+      "Title": "Crystal Warriors",
+      "ID": 11711,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/047103.png",
+      "NumAchievements": 73,
+      "NumLeaderboards": 0,
+      "Points": 725,
+      "DateModified": "2024-12-23 19:48:46",
+      "ForumTopicID": 6226,
+      "Hashes": [
+        "35d3fc09fcf22e35db4bac8cee9967f3"
+      ]
+    },
+    {
+      "Title": "Defenders of Oasis",
+      "ID": 11713,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/098433.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 334,
+      "DateModified": "2025-03-19 17:08:21",
+      "ForumTopicID": 6227,
+      "Hashes": [
+        "8430050c60db46b3887cf7d7cf2f206f"
+      ]
+    },
+    {
+      "Title": "Devilish",
+      "ID": 13283,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/084082.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 7,
+      "Points": 480,
+      "DateModified": "2025-10-03 18:46:48",
+      "ForumTopicID": 22717,
+      "Hashes": [
+        "f0ceed28d0e83bc4adc688d06d12bf2e"
+      ]
+    },
+    {
+      "Title": "Double Dragon",
+      "ID": 12622,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/055632.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 2,
+      "Points": 675,
+      "DateModified": "2019-10-17 01:33:01",
+      "ForumTopicID": 8803,
+      "Hashes": [
+        "b45d73e40ce8f6e76dced24ee921871a"
+      ]
+    },
+    {
+      "Title": "Dr. Robotnik's Mean Bean Machine",
+      "ID": 19575,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108655.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 16,
+      "Points": 336,
+      "DateModified": "2025-08-05 03:35:53",
+      "ForumTopicID": 22587,
+      "Hashes": [
+        "6565ddcb2e41bf9ce5771a62d30aa700"
+      ]
+    },
+    {
+      "Title": "Dragon Crystal",
+      "ID": 12768,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/023502.png",
+      "NumAchievements": 72,
+      "NumLeaderboards": 3,
+      "Points": 352,
+      "DateModified": "2024-06-28 22:32:04",
+      "ForumTopicID": 8445,
+      "Hashes": [
+        "8431baccd169025f79c9cbc44e31622d"
+      ]
+    },
+    {
+      "Title": "Earthworm Jim",
+      "ID": 14289,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/064555.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 291,
+      "DateModified": "2023-08-12 03:57:56",
+      "ForumTopicID": 19205,
+      "Hashes": [
+        "c25af3925fd6973af62bdd6d0c5f61ca"
+      ]
+    },
+    {
+      "Title": "Ecco: The Tides of Time",
+      "ID": 12995,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/018337.png",
+      "NumAchievements": 39,
+      "NumLeaderboards": 5,
+      "Points": 333,
+      "DateModified": "2022-03-18 01:07:17",
+      "ForumTopicID": 7275,
+      "Hashes": [
+        "8f8cbaef1a8e1becfcc7f07b134a3d83"
+      ]
+    },
+    {
+      "Title": "Eternal Legend",
+      "ID": 14297,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/064169.png",
+      "NumAchievements": 66,
+      "NumLeaderboards": 1,
+      "Points": 581,
+      "DateModified": "2023-06-21 14:37:27",
+      "ForumTopicID": 19023,
+      "Hashes": [
+        "c58d6291da8a4919328b8f42be8640a7",
+        "e8f49ea568e174b50079f725ce29f45d"
+      ]
+    },
+    {
+      "Title": "Fatal Fury Special",
+      "ID": 17999,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/048826.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 265,
+      "DateModified": "2022-12-23 19:18:22",
+      "ForumTopicID": 18401,
+      "Hashes": [
+        "4292c099f98cc0c6d03025f0729f64df"
+      ]
+    },
+    {
+      "Title": "Garfield: Caught in the Act",
+      "ID": 13047,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/115968.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 183,
+      "DateModified": "2026-02-19 18:06:04",
+      "ForumTopicID": 27966,
+      "Hashes": [
+        "8766ad6ab161ffc7796a543325a82fb6"
+      ]
+    },
+    {
+      "Title": "GG Aleste",
+      "ID": 14300,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/047592.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 2,
+      "Points": 130,
+      "DateModified": "2022-11-26 14:12:00",
+      "ForumTopicID": 11678,
+      "Hashes": [
+        "43301e7c15fe11f66b29b00e6ec47a52"
+      ]
+    },
+    {
+      "Title": "GG Aleste 3",
+      "ID": 27591,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/086239.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 4,
+      "Points": 388,
+      "DateModified": "2023-12-06 23:23:50",
+      "ForumTopicID": 24600,
+      "Hashes": [
+        "41f9b360571a8aae3b01e780e90a9f68"
+      ]
+    },
+    {
+      "Title": "GG Portrait: Pai Chan",
+      "ID": 17035,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/039278.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 5,
+      "DateModified": "2025-07-31 00:32:02",
+      "ForumTopicID": 11680,
+      "Hashes": [
+        "3dbd51ce27c7eeee98aaeccdb96affb6"
+      ]
+    },
+    {
+      "Title": "GG Portrait: Yuuki Akira",
+      "ID": 17036,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/060810.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 7,
+      "DateModified": "2025-07-26 00:05:17",
+      "ForumTopicID": 11681,
+      "Hashes": [
+        "82d3c23cf9617174aa47bed8e76438df"
+      ]
+    },
+    {
+      "Title": "Gunstar Heroes",
+      "ID": 12624,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/116294.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 3,
+      "Points": 220,
+      "DateModified": "2025-08-16 16:35:28",
+      "ForumTopicID": 31821,
+      "Hashes": [
+        "c46d46f3ab4873cb1ed7ae8b9b70f2b4"
+      ]
+    },
+    {
+      "Title": "Halley Wars",
+      "ID": 13107,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/018693.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 1,
+      "Points": 400,
+      "DateModified": "2023-10-16 00:15:41",
+      "ForumTopicID": 7338,
+      "Hashes": [
+        "1ef93397c3c6d2049b0701d69255a22b"
+      ]
+    },
+    {
+      "Title": "Junction",
+      "ID": 18734,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/054550.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 61,
+      "Points": 400,
+      "DateModified": "2024-09-02 02:20:04",
+      "ForumTopicID": 20223,
+      "Hashes": [
+        "7b089a66acc807a71adc58c9bd679ecc",
+        "7dd2ef762d2284a0e551447a9ee11458"
+      ]
+    },
+    {
+      "Title": "Jurassic Park",
+      "ID": 12846,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/062975.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 510,
+      "DateModified": "2022-11-22 03:36:12",
+      "ForumTopicID": 7051,
+      "Hashes": [
+        "a3158baab261c5ddbcd4328d01e33a94"
+      ]
+    },
+    {
+      "Title": "Kick & Rush | World Cup Soccer",
+      "ID": 22426,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/075739.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 1,
+      "Points": 220,
+      "DateModified": "2023-09-06 03:16:55",
+      "ForumTopicID": 22231,
+      "Hashes": [
+        "686cbd73ff62c8decdef3e76890a3e83",
+        "c7570d82d91dc353d7df445453fc0646"
+      ]
+    },
+    {
+      "Title": "Kishin Douji Zenki",
+      "ID": 12896,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/057578.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 15,
+      "Points": 490,
+      "DateModified": "2023-04-23 03:51:03",
+      "ForumTopicID": 16440,
+      "Hashes": [
+        "ac6ed281ac8e9d71af186602951cfd7a",
+        "b0f8f7a3b573468f1d65b660c173dc82"
+      ]
+    },
+    {
+      "Title": "Land of Illusion starring Mickey Mouse",
+      "ID": 12625,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/113784.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 0,
+      "Points": 323,
+      "DateModified": "2023-05-09 15:25:46",
+      "ForumTopicID": 8128,
+      "Hashes": [
+        "4f423e63523bafdc7311d790850ace58"
+      ]
+    },
+    {
+      "Title": "Last Action Hero",
+      "ID": 15544,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/029853.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 225,
+      "DateModified": "2022-02-23 03:17:31",
+      "ForumTopicID": 9989,
+      "Hashes": [
+        "153243555c10f79ccfc854945472e5ed"
+      ]
+    },
+    {
+      "Title": "Legend of Illusion starring Mickey Mouse",
+      "ID": 12626,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/061486.png",
+      "NumAchievements": 37,
+      "NumLeaderboards": 3,
+      "Points": 230,
+      "DateModified": "2022-09-13 00:22:14",
+      "ForumTopicID": 17991,
+      "Hashes": [
+        "6d106d9c80b9d0cdc4f555be3c3677d3"
+      ]
+    },
+    {
+      "Title": "Lunar: Sanposuru Gakuen",
+      "ID": 12629,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/052061.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 0,
+      "Points": 169,
+      "DateModified": "2022-01-30 01:57:57",
+      "ForumTopicID": 14866,
+      "Hashes": [
+        "3dccee17f3f355413e5ade333b2f70a0",
+        "72cea1d3e02b74f10293aff3f2677683"
+      ]
+    },
+    {
+      "Title": "Magical Puzzle Popils",
+      "ID": 17330,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/095988.png",
+      "NumAchievements": 42,
+      "NumLeaderboards": 101,
+      "Points": 370,
+      "DateModified": "2025-01-02 03:22:18",
+      "ForumTopicID": 26377,
+      "Hashes": [
+        "e496ff2196c372f4d6111538950d25ca"
+      ]
+    },
+    {
+      "Title": "Magical Taruruuto-kun",
+      "ID": 12898,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/042866.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 362,
+      "DateModified": "2023-06-07 14:22:28",
+      "ForumTopicID": 9171,
+      "Hashes": [
+        "3af0c6ddf5f00a493e1f159fcedc0933"
+      ]
+    },
+    {
+      "Title": "Mahou Kishi Rayearth",
+      "ID": 12630,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/097795.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 540,
+      "DateModified": "2023-07-18 21:44:31",
+      "ForumTopicID": 8616,
+      "Hashes": [
+        "846d48d0f4024c8094117599d0e1eef1",
+        "b9b1a0f7d84c6d01fa53c56d87d23d53"
+      ]
+    },
+    {
+      "Title": "Mappy",
+      "ID": 12632,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/092686.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 4,
+      "Points": 222,
+      "DateModified": "2024-05-12 17:01:40",
+      "ForumTopicID": 23802,
+      "Hashes": [
+        "a15c5219f766d516d1b8d9a09b9a2bb4"
+      ]
+    },
+    {
+      "Title": "Mega Man",
+      "ID": 12633,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/029872.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 505,
+      "DateModified": "2024-06-12 17:51:27",
+      "ForumTopicID": 6585,
+      "Hashes": [
+        "8583950be61ffbaf0f63dde8dded2ab3"
+      ]
+    },
+    {
+      "Title": "Megami Tensei Gaiden: Last Bible Special",
+      "ID": 12882,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/123945.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 0,
+      "Points": 355,
+      "DateModified": "2024-05-08 15:19:20",
+      "ForumTopicID": 23446,
+      "Hashes": [
+        "37caaea150b3064a06253adc20b9e641",
+        "aab2b02c831252f6a2eb369df39f7c73"
+      ]
+    },
+    {
+      "Title": "Mickey's Ultimate Challenge",
+      "ID": 12654,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/121021.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 3,
+      "Points": 34,
+      "DateModified": "2024-02-05 04:38:45",
+      "ForumTopicID": 7831,
+      "Hashes": [
+        "66e41e9f596eeec8127d12426f928791"
+      ]
+    },
+    {
+      "Title": "Mighty Morphin Power Rangers",
+      "ID": 12636,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/023381.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 252,
+      "DateModified": "2022-11-22 03:02:02",
+      "ForumTopicID": 8359,
+      "Hashes": [
+        "7fcb774aa2b207cf16d2ddfe618351c0"
+      ]
+    },
+    {
+      "Title": "Mighty Morphin Power Rangers: The Movie",
+      "ID": 12635,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/105324.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 0,
+      "Points": 270,
+      "DateModified": "2024-05-14 20:15:00",
+      "ForumTopicID": 15871,
+      "Hashes": [
+        "f9acd8f01caa8d11150a53b37b435aa2"
+      ]
+    },
+    {
+      "Title": "Moldorian: Hikari to Yami no Sister",
+      "ID": 13656,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/048549.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 165,
+      "DateModified": "2022-08-08 19:51:16",
+      "ForumTopicID": 14004,
+      "Hashes": [
+        "95fb42e84a2b08acce481b0894ea3cea",
+        "bec8e889d2a7652763ef5d4723f21725"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat",
+      "ID": 14060,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/106807.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 0,
+      "Points": 157,
+      "DateModified": "2025-10-18 20:30:30",
+      "ForumTopicID": 13215,
+      "Hashes": [
+        "f9971dc9d78214f94856f6e886b1c8c2"
+      ]
+    },
+    {
+      "Title": "Mortal Kombat II",
+      "ID": 12737,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/072203.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 439,
+      "DateModified": "2024-10-25 11:11:47",
+      "ForumTopicID": 6696,
+      "Hashes": [
+        "159256f5a372f2e409ecb343a3946001"
+      ]
+    },
+    {
+      "Title": "Nazo Puyo",
+      "ID": 20259,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/074182.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2023-10-01 09:20:41",
+      "ForumTopicID": 21803,
+      "Hashes": [
+        "1f7f13111353aeb49205bb3fc1697dd8"
+      ]
+    },
+    {
+      "Title": "Nazo Puyo 2",
+      "ID": 20244,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/081446.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 200,
+      "DateModified": "2023-10-12 17:34:19",
+      "ForumTopicID": 22529,
+      "Hashes": [
+        "2896235a36c793e99eeb1d18fb2b4a0b"
+      ]
+    },
+    {
+      "Title": "Ninja Gaiden",
+      "ID": 12623,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/120890.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 0,
+      "Points": 333,
+      "DateModified": "2023-08-02 18:00:13",
+      "ForumTopicID": 9677,
+      "Hashes": [
+        "41d1ede8ab1ce9940b61c8fa1fc6724d",
+        "764388b8b5dc2e762fab9badd0eca6ba"
+      ]
+    },
+    {
+      "Title": "Ninku Gaiden: Hiroyuki Daikatsugeki",
+      "ID": 14330,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/072798.png",
+      "NumAchievements": 63,
+      "NumLeaderboards": 30,
+      "Points": 840,
+      "DateModified": "2022-11-21 05:48:54",
+      "ForumTopicID": 8786,
+      "Hashes": [
+        "e9b45d6455e0753b8e0e825a36458253"
+      ]
+    },
+    {
+      "Title": "OutRun",
+      "ID": 12405,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/034600.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 4,
+      "Points": 350,
+      "DateModified": "2022-12-25 15:01:10",
+      "ForumTopicID": 19302,
+      "Hashes": [
+        "31ba1de018853ead9b43b522df540c0c",
+        "6d6fba255ce324e80915f65f5d27cb14"
+      ]
+    },
+    {
+      "Title": "Panzer Dragoon Mini",
+      "ID": 13105,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/072799.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 110,
+      "DateModified": "2025-12-16 22:43:16",
+      "ForumTopicID": 7335,
+      "Hashes": [
+        "4d0d6d25dfef7e1a509d828f157d515f"
+      ]
+    },
+    {
+      "Title": "Pengo",
+      "ID": 12251,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/016574.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 220,
+      "DateModified": "2025-04-09 04:11:29",
+      "ForumTopicID": 13479,
+      "Hashes": [
+        "95cea3a33a3f5915942904b4817b2010",
+        "f431bc2798fa03d51a9c45d107c66bcf"
+      ]
+    },
+    {
+      "Title": "Phantasy Star Adventure",
+      "ID": 12883,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/018706.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 3,
+      "Points": 150,
+      "DateModified": "2023-08-28 15:18:52",
+      "ForumTopicID": 7340,
+      "Hashes": [
+        "c069464b6a0f9fa547c22133f143b75c"
+      ]
+    },
+    {
+      "Title": "Phantasy Star Gaiden",
+      "ID": 12884,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/019593.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 0,
+      "Points": 130,
+      "DateModified": "2023-07-16 21:59:46",
+      "ForumTopicID": 7522,
+      "Hashes": [
+        "39aa719b13cd1c50c30232cf5ac80059",
+        "54be96ca21885145108f1c02e4d88eba",
+        "ba091114cbc5a4b3482e6887094070bb"
+      ]
+    },
+    {
+      "Title": "Pop Breaker",
+      "ID": 14301,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/069917.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 50,
+      "Points": 249,
+      "DateModified": "2026-01-25 02:41:21",
+      "ForumTopicID": 29838,
+      "Hashes": [
+        "e0e2fbd5834c04574795c923b0147f39"
+      ]
+    },
+    {
+      "Title": "Popeye no Beach Volleyball",
+      "ID": 12637,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/111972.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 4,
+      "Points": 80,
+      "DateModified": "2025-05-13 17:22:49",
+      "ForumTopicID": 30844,
+      "Hashes": [
+        "39d854c9902cf8ca34f32767424be8af"
+      ]
+    },
+    {
+      "Title": "Power Strike II",
+      "ID": 13239,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/047591.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 4,
+      "Points": 300,
+      "DateModified": "2025-01-03 20:31:21",
+      "ForumTopicID": 13866,
+      "Hashes": [
+        "d5836ec389ec2c81bd54728b96b87152"
+      ]
+    },
+    {
+      "Title": "Prince of Persia",
+      "ID": 13407,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/073854.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 250,
+      "DateModified": "2021-04-13 22:08:56",
+      "ForumTopicID": 9105,
+      "Hashes": [
+        "0d636c8d86dafd4f2c337e34e94b1e41"
+      ]
+    },
+    {
+      "Title": "Psychic World",
+      "ID": 14059,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/115984.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 196,
+      "DateModified": "2025-07-31 18:52:46",
+      "ForumTopicID": 20204,
+      "Hashes": [
+        "52cfddc12af6a3a64030f62ccf6aca83",
+        "a764b44555aadb48c519e7c85bdf7895"
+      ]
+    },
+    {
+      "Title": "Puzzle & Action: Tant-R",
+      "ID": 26242,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/097884.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 198,
+      "DateModified": "2024-10-09 12:35:44",
+      "ForumTopicID": 26739,
+      "Hashes": [
+        "dcec1000aea3882b218b0cc0aed5a5d8"
+      ]
+    },
+    {
+      "Title": "Rastan Saga",
+      "ID": 17698,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/044924.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 0,
+      "Points": 311,
+      "DateModified": "2021-06-13 16:43:02",
+      "ForumTopicID": 13018,
+      "Hashes": [
+        "fd82af26ebbed24f57c4eea8eddf3136"
+      ]
+    },
+    {
+      "Title": "Ristar",
+      "ID": 13242,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/115361.png",
+      "NumAchievements": 80,
+      "NumLeaderboards": 3,
+      "Points": 655,
+      "DateModified": "2021-12-12 11:04:58",
+      "ForumTopicID": 13194,
+      "Hashes": [
+        "06f0a495fbb70fad50246da715f8add7"
+      ]
+    },
+    {
+      "Title": "Ronald in the Magical World",
+      "ID": 17557,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/043158.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 0,
+      "Points": 100,
+      "DateModified": "2024-07-27 15:51:47",
+      "ForumTopicID": 12724,
+      "Hashes": [
+        "34e9b284e61fb9a2cad4878451579295"
+      ]
+    },
+    {
+      "Title": "Royal Stone: Hirakareshi Toki no Tobira",
+      "ID": 12673,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/044547.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 450,
+      "DateModified": "2024-12-12 21:49:35",
+      "ForumTopicID": 6564,
+      "Hashes": [
+        "0e3fecf6ebb236531743fcef29ed7f64",
+        "c05b51ea07c8017a6d12badaea9daf29"
+      ]
+    },
+    {
+      "Title": "Samurai Shodown",
+      "ID": 22407,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/116019.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 205,
+      "DateModified": "2025-07-29 08:38:24",
+      "ForumTopicID": 20564,
+      "Hashes": [
+        "4898db4b63c7024842e748fb81c95a55"
+      ]
+    },
+    {
+      "Title": "Shining Force Gaiden: Ensei Jaishin no Kuni e",
+      "ID": 12638,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/075416.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 545,
+      "DateModified": "2025-11-17 08:02:01",
+      "ForumTopicID": 8705,
+      "Hashes": [
+        "f96d7da86e4f63d66175b1903f976b2c"
+      ]
+    },
+    {
+      "Title": "Shining Force Gaiden: Final Conflict",
+      "ID": 12640,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/064468.png",
+      "NumAchievements": 47,
+      "NumLeaderboards": 0,
+      "Points": 410,
+      "DateModified": "2024-12-13 03:55:19",
+      "ForumTopicID": 8376,
+      "Hashes": [
+        "219b1a3f5e055fce7245d869e1fc9249",
+        "b7b023b6c716c8c984c3268a962cf99b"
+      ]
+    },
+    {
+      "Title": "Shining Force: The Sword of Hajya",
+      "ID": 12639,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/035964.png",
+      "NumAchievements": 55,
+      "NumLeaderboards": 0,
+      "Points": 275,
+      "DateModified": "2023-08-29 15:14:47",
+      "ForumTopicID": 7761,
+      "Hashes": [
+        "4c749140795a0fb69a06574d5187cd25",
+        "6079e87a1668c314b1a71d62572039da"
+      ]
+    },
+    {
+      "Title": "Sonic Blast",
+      "ID": 12644,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108345.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 17,
+      "Points": 300,
+      "DateModified": "2025-01-19 20:19:15",
+      "ForumTopicID": 8121,
+      "Hashes": [
+        "56e1561d981a9a7c240cdd8d5580ccf0"
+      ]
+    },
+    {
+      "Title": "Sonic Chaos",
+      "ID": 12645,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/107954.png",
+      "NumAchievements": 34,
+      "NumLeaderboards": 0,
+      "Points": 319,
+      "DateModified": "2024-12-25 20:41:11",
+      "ForumTopicID": 6577,
+      "Hashes": [
+        "895ca34f733c445341e5ca1642527690"
+      ]
+    },
+    {
+      "Title": "Sonic Drift",
+      "ID": 12648,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108341.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 1,
+      "Points": 474,
+      "DateModified": "2025-12-04 03:08:50",
+      "ForumTopicID": 12010,
+      "Hashes": [
+        "8093ef0eeb147f2a938fae3e5a26d8b3"
+      ]
+    },
+    {
+      "Title": "Sonic Drift 2",
+      "ID": 12649,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108340.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 126,
+      "Points": 385,
+      "DateModified": "2025-09-03 18:24:20",
+      "ForumTopicID": 6578,
+      "Hashes": [
+        "b39d1e9a40dfd3508ee4003cd28da452"
+      ]
+    },
+    {
+      "Title": "Sonic Labyrinth",
+      "ID": 12647,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108347.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 15,
+      "Points": 120,
+      "DateModified": "2023-08-13 18:50:27",
+      "ForumTopicID": 10391,
+      "Hashes": [
+        "aa6598585b2cdb92a14476beeb34991b"
+      ]
+    },
+    {
+      "Title": "Sonic the Hedgehog",
+      "ID": 12651,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/107952.png",
+      "NumAchievements": 27,
+      "NumLeaderboards": 1,
+      "Points": 380,
+      "DateModified": "2023-03-27 20:59:31",
+      "ForumTopicID": 11784,
+      "Hashes": [
+        "8a95b36139206a5ba13a38bb626aee25"
+      ]
+    },
+    {
+      "Title": "Sonic the Hedgehog 2",
+      "ID": 12652,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/107953.png",
+      "NumAchievements": 31,
+      "NumLeaderboards": 21,
+      "Points": 360,
+      "DateModified": "2023-02-18 14:27:10",
+      "ForumTopicID": 10626,
+      "Hashes": [
+        "9c64846563d8b9a24400471322e53fb5"
+      ]
+    },
+    {
+      "Title": "Sonic the Hedgehog Spinball",
+      "ID": 12650,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108346.png",
+      "NumAchievements": 35,
+      "NumLeaderboards": 2,
+      "Points": 200,
+      "DateModified": "2025-01-31 04:51:48",
+      "ForumTopicID": 8091,
+      "Hashes": [
+        "8e3b44fda375ad9748b678e9c6b45502"
+      ]
+    },
+    {
+      "Title": "Sonic the Hedgehog: Triple Trouble",
+      "ID": 12646,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/107960.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 18,
+      "Points": 343,
+      "DateModified": "2025-08-27 01:56:38",
+      "ForumTopicID": 10921,
+      "Hashes": [
+        "f0f7e4dfe2908f0030e64fd9ed843422"
+      ]
+    },
+    {
+      "Title": "Spider-Man: Return of the Sinister Six",
+      "ID": 12835,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/017441.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 1,
+      "Points": 410,
+      "DateModified": "2021-03-17 04:04:58",
+      "ForumTopicID": 7049,
+      "Hashes": [
+        "aba3b030ca9c78288f74ddd02c7ab5ab"
+      ]
+    },
+    {
+      "Title": "Star Trek: The Next Generation - The Advanced Holodeck Tutorial",
+      "ID": 20094,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/061969.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 136,
+      "Points": 195,
+      "DateModified": "2022-10-06 23:44:23",
+      "ForumTopicID": 17338,
+      "Hashes": [
+        "b8d1dafa4077b7afcb8989c23246bbcb"
+      ]
+    },
+    {
+      "Title": "Star Wars",
+      "ID": 26246,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/088670.png",
+      "NumAchievements": 45,
+      "NumLeaderboards": 2,
+      "Points": 250,
+      "DateModified": "2025-09-06 05:49:58",
+      "ForumTopicID": 25182,
+      "Hashes": [
+        "b1b543a313bf406d1cd049ac84b31f26"
+      ]
+    },
+    {
+      "Title": "Streets of Rage",
+      "ID": 12761,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/072439.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 180,
+      "DateModified": "2025-10-23 07:26:46",
+      "ForumTopicID": 7326,
+      "Hashes": [
+        "1ece7480d21fb862a65233ba126282d3"
+      ]
+    },
+    {
+      "Title": "Streets of Rage 2",
+      "ID": 13237,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/088548.png",
+      "NumAchievements": 65,
+      "NumLeaderboards": 6,
+      "Points": 466,
+      "DateModified": "2025-07-15 17:41:50",
+      "ForumTopicID": 12257,
+      "Hashes": [
+        "5566e332f860dc0f9da1507fd7feb1cd"
+      ]
+    },
+    {
+      "Title": "Sylvan Tale",
+      "ID": 12517,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/059506.png",
+      "NumAchievements": 44,
+      "NumLeaderboards": 0,
+      "Points": 435,
+      "DateModified": "2025-09-02 21:38:00",
+      "ForumTopicID": 6496,
+      "Hashes": [
+        "2c802c2e6a61509309a76f76e4e947f7",
+        "6657230e92f13ed98474523efc29d6b3"
+      ]
+    },
+    {
+      "Title": "Tails Adventure",
+      "ID": 11743,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108343.png",
+      "NumAchievements": 46,
+      "NumLeaderboards": 0,
+      "Points": 465,
+      "DateModified": "2024-04-14 06:22:28",
+      "ForumTopicID": 6259,
+      "Hashes": [
+        "a8bdb1beed088ff83c725c5af6b85e1f"
+      ]
+    },
+    {
+      "Title": "Tails' Skypatrol",
+      "ID": 12763,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/108342.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 7,
+      "Points": 245,
+      "DateModified": "2025-12-20 23:08:46",
+      "ForumTopicID": 6750,
+      "Hashes": [
+        "18cfb9986478e6ff96f6ce878d261c8c",
+        "ffb364bbaf72881cf7571e7ec388490d"
+      ]
+    },
+    {
+      "Title": "Tama and Friends Sanchoume Kouen: Tamalympic",
+      "ID": 12524,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/041105.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2019-10-10 23:32:01",
+      "ForumTopicID": 6497,
+      "Hashes": [
+        "ac7aebc91fc607150ad8dbf286a61e36"
+      ]
+    },
+    {
+      "Title": "Tarot no Yakata",
+      "ID": 17863,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/049521.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 6,
+      "DateModified": "2021-11-01 15:34:57",
+      "ForumTopicID": 13571,
+      "Hashes": [
+        "0ac77a4b8ef41442d5bfa2148be8efcd"
+      ]
+    },
+    {
+      "Title": "Taz-Mania",
+      "ID": 17382,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/060979.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 85,
+      "DateModified": "2022-08-14 16:44:43",
+      "ForumTopicID": 17764,
+      "Hashes": [
+        "70220f584b2d4f69e5efa9a3268a4a88"
+      ]
+    },
+    {
+      "Title": "Tempo Jr.",
+      "ID": 12656,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/075529.png",
+      "NumAchievements": 38,
+      "NumLeaderboards": 2,
+      "Points": 419,
+      "DateModified": "2025-03-09 11:34:50",
+      "ForumTopicID": 22103,
+      "Hashes": [
+        "d5d52e216698b34a3dbe95d5990c52c8"
+      ]
+    },
+    {
+      "Title": "The Berenstain Bears' Camping Adventure",
+      "ID": 12516,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/086244.png",
+      "NumAchievements": 48,
+      "NumLeaderboards": 0,
+      "Points": 293,
+      "DateModified": "2022-03-09 22:42:47",
+      "ForumTopicID": 6495,
+      "Hashes": [
+        "0063255819682649ed682a50a0e8a440"
+      ]
+    },
+    {
+      "Title": "The GG Shinobi",
+      "ID": 12385,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/047613.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 495,
+      "DateModified": "2021-09-18 20:45:45",
+      "ForumTopicID": 10059,
+      "Hashes": [
+        "21d2e4e7c508e6abbb12bb96c7aac868",
+        "8fa7438dec1403f2e9d7b1ca60b29f1a"
+      ]
+    },
+    {
+      "Title": "The GG Shinobi II: The Silent Fury",
+      "ID": 11712,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/047616.png",
+      "NumAchievements": 50,
+      "NumLeaderboards": 0,
+      "Points": 495,
+      "DateModified": "2021-11-03 21:52:16",
+      "ForumTopicID": 6900,
+      "Hashes": [
+        "48d741774004eab9c19c1dd43758bf2b"
+      ]
+    },
+    {
+      "Title": "The Incredible Crash Dummies",
+      "ID": 13042,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/110189.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 94,
+      "DateModified": "2025-04-08 00:00:01",
+      "ForumTopicID": 30429,
+      "Hashes": [
+        "4d7fafe13d1aa4c9ea893bd4ec2f8332"
+      ]
+    },
+    {
+      "Title": "The Lion King",
+      "ID": 17699,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/114541.png",
+      "NumAchievements": 28,
+      "NumLeaderboards": 15,
+      "Points": 199,
+      "DateModified": "2024-09-09 20:09:11",
+      "ForumTopicID": 13019,
+      "Hashes": [
+        "62328f27bcda54d1882a265bf8378688"
+      ]
+    },
+    {
+      "Title": "The Lost World: Jurassic Park",
+      "ID": 12847,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/017498.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 0,
+      "Points": 84,
+      "DateModified": "2024-06-10 14:23:29",
+      "ForumTopicID": 7048,
+      "Hashes": [
+        "68d9f394bf0dd0382a8052e60b3b8a1b"
+      ]
+    },
+    {
+      "Title": "The Lucky Dime Caper starring Donald Duck",
+      "ID": 12627,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/086243.png",
+      "NumAchievements": 25,
+      "NumLeaderboards": 1,
+      "Points": 174,
+      "DateModified": "2026-02-17 20:46:56",
+      "ForumTopicID": 23352,
+      "Hashes": [
+        "78a7964b341ccc4379a837ee998805c7"
+      ]
+    },
+    {
+      "Title": "The Smurfs",
+      "ID": 12907,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/067985.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 0,
+      "Points": 305,
+      "DateModified": "2021-06-20 21:20:43",
+      "ForumTopicID": 7205,
+      "Hashes": [
+        "c8337c47ed211075b9acf4867d8c0e18"
+      ]
+    },
+    {
+      "Title": "Tom and Jerry: The Movie",
+      "ID": 25718,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/121551.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 1,
+      "Points": 126,
+      "DateModified": "2023-09-16 07:36:50",
+      "ForumTopicID": 23387,
+      "Hashes": [
+        "c0246eed0c11ebe7a9b144a00ed61df1"
+      ]
+    },
+    {
+      "Title": "Vampire: Master of Darkness",
+      "ID": 12657,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/024568.png",
+      "NumAchievements": 43,
+      "NumLeaderboards": 6,
+      "Points": 415,
+      "DateModified": "2023-03-14 15:35:28",
+      "ForumTopicID": 17977,
+      "Hashes": [
+        "1e068538747f6d4d99888221a50b7e06",
+        "a999c2f72c71c22be50e343e54ff4d73"
+      ]
+    },
+    {
+      "Title": "Virtua Fighter Animation",
+      "ID": 14299,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/106631.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2023-10-21 00:57:52",
+      "ForumTopicID": 24072,
+      "Hashes": [
+        "db315b11c28f8be4ecdac77759e889de"
+      ]
+    },
+    {
+      "Title": "VR Troopers",
+      "ID": 14232,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/089683.png",
+      "NumAchievements": 49,
+      "NumLeaderboards": 5,
+      "Points": 231,
+      "DateModified": "2024-05-21 02:47:13",
+      "ForumTopicID": 25544,
+      "Hashes": [
+        "1093dbdc69a36330973cfb76c292c0ef"
+      ]
+    },
+    {
+      "Title": "Wonder Boy",
+      "ID": 12564,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/040114.png",
+      "NumAchievements": 40,
+      "NumLeaderboards": 0,
+      "Points": 240,
+      "DateModified": "2023-05-16 23:42:43",
+      "ForumTopicID": 11861,
+      "Hashes": [
+        "917c3e4f4c50d6506e64e2f05b945d9c"
+      ]
+    },
+    {
+      "Title": "X-Men",
+      "ID": 13394,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/100401.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 190,
+      "DateModified": "2024-08-09 00:30:15",
+      "ForumTopicID": 27500,
+      "Hashes": [
+        "21d75ed09b6f73037544894580933a0b"
+      ]
+    },
+    {
+      "Title": "X-Men: Gamesmaster's Legacy",
+      "ID": 13396,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/124919.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 0,
+      "Points": 150,
+      "DateModified": "2026-02-26 05:14:03",
+      "ForumTopicID": 34656,
+      "Hashes": [
+        "571ac03b80e3075c699cd583bf8651fd"
+      ]
+    },
+    {
+      "Title": "X-Men: Mojo World",
+      "ID": 26255,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/125010.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 145,
+      "DateModified": "2026-03-01 16:31:52",
+      "ForumTopicID": 34701,
+      "Hashes": [
+        "ca15f2ba2507ebd836c42d9d10231eb1"
+      ]
+    },
+    {
+      "Title": "Yu Yu Hakusho 2: Gekitou! Nanakyou no Tatakai",
+      "ID": 14448,
+      "ConsoleID": 15,
+      "ConsoleName": "Game Gear",
+      "ImageIcon": "/Images/086272.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 8,
+      "Points": 111,
+      "DateModified": "2023-11-30 02:25:09",
+      "ForumTopicID": 24581,
+      "Hashes": [
+        "3ccef570d91851265472c90d523971b4",
+        "8d7984d68a71f4a816f18f07a211b694"
+      ]
+    }
+  ]
+}

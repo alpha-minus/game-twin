@@ -1,0 +1,1525 @@
+{
+  "consoleId": 71,
+  "consoleName": "Arduboy",
+  "games": [
+    {
+      "Title": "1944: Return to Midway",
+      "ID": 21470,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/070473.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 5,
+      "Points": 137,
+      "DateModified": "2025-06-19 00:46:34",
+      "ForumTopicID": 20933,
+      "Hashes": [
+        "38a60f2d30b656bc6b7d54e4c32036f8"
+      ]
+    },
+    {
+      "Title": "1nvader",
+      "ID": 7911,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057233.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 79,
+      "DateModified": "2022-05-08 19:04:35",
+      "ForumTopicID": 16298,
+      "Hashes": [
+        "4ab84300d714610cbb7cda1f6a826730",
+        "cee7f24fab74cef92ff1e03cd76d38cb"
+      ]
+    },
+    {
+      "Title": "2048",
+      "ID": 29892,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/120045.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 91,
+      "DateModified": "2026-01-05 18:47:38",
+      "ForumTopicID": 33089,
+      "Hashes": [
+        "e8ec91f0a78813a95e17f56cf0b94525"
+      ]
+    },
+    {
+      "Title": "Ard-Drivin",
+      "ID": 21384,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/098922.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2024-06-25 02:48:39",
+      "ForumTopicID": 27007,
+      "Hashes": [
+        "0857ab1f220c666ec0f4d8232caa77e2"
+      ]
+    },
+    {
+      "Title": "Ardu Turf Masters",
+      "ID": 29898,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/108603.png",
+      "NumAchievements": 22,
+      "NumLeaderboards": 19,
+      "Points": 100,
+      "DateModified": "2024-11-25 00:04:10",
+      "ForumTopicID": 28749,
+      "Hashes": [
+        "094779213579bf610c1d43d94f6e4ebb"
+      ]
+    },
+    {
+      "Title": "Ardu-EZ Button",
+      "ID": 19548,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057628.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 7,
+      "DateModified": "2022-08-16 14:40:15",
+      "ForumTopicID": 16457,
+      "Hashes": [
+        "33bbab25de35f4f7bf51432fb7fe1ade"
+      ]
+    },
+    {
+      "Title": "Ardu-Man",
+      "ID": 9250,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057425.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 60,
+      "DateModified": "2022-05-09 15:30:49",
+      "ForumTopicID": 16271,
+      "Hashes": [
+        "1a808e185a1e9f9199b55ef84e94b8ef"
+      ]
+    },
+    {
+      "Title": "Arduboy Says",
+      "ID": 29900,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/106159.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2025-05-14 05:07:15",
+      "ForumTopicID": 29121,
+      "Hashes": [
+        "890f6eff0cfa64ab0f03b5742b1019d5"
+      ]
+    },
+    {
+      "Title": "ARDUBULLETs",
+      "ID": 29902,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/121658.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 63,
+      "DateModified": "2025-12-17 13:12:34",
+      "ForumTopicID": 33553,
+      "Hashes": [
+        "951e1b8f38636343fa8503bd96056304"
+      ]
+    },
+    {
+      "Title": "ArduGods",
+      "ID": 19516,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057686.png",
+      "NumAchievements": 15,
+      "NumLeaderboards": 5,
+      "Points": 80,
+      "DateModified": "2022-05-14 04:02:25",
+      "ForumTopicID": 16454,
+      "Hashes": [
+        "c221e3fb053b088512941b91380cdd0a"
+      ]
+    },
+    {
+      "Title": "ArduGolf: 18-Hole Mini Golf",
+      "ID": 19855,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/060743.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2022-07-31 22:02:07",
+      "ForumTopicID": 16815,
+      "Hashes": [
+        "d1b63c148314a8b34f8344aa65e47422"
+      ]
+    },
+    {
+      "Title": "Arduminer",
+      "ID": 10664,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057268.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2024-12-04 14:47:11",
+      "ForumTopicID": 16362,
+      "Hashes": [
+        "801b00d363215ee39921db752d127cc1"
+      ]
+    },
+    {
+      "Title": "ArduRacer",
+      "ID": 28138,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/088551.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2025-05-17 13:37:14",
+      "ForumTopicID": 24935,
+      "Hashes": [
+        "4959dc52e38115b3324e833f15cbf060"
+      ]
+    },
+    {
+      "Title": "ArduRogue",
+      "ID": 29905,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/102311.png",
+      "NumAchievements": 33,
+      "NumLeaderboards": 1,
+      "Points": 168,
+      "DateModified": "2024-12-02 00:06:06",
+      "ForumTopicID": 28071,
+      "Hashes": [
+        "d0f8b93d78f1fc7852f98990fd0940d7"
+      ]
+    },
+    {
+      "Title": "Ardusweeper",
+      "ID": 8633,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057132.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 3,
+      "Points": 36,
+      "DateModified": "2023-05-06 23:30:19",
+      "ForumTopicID": 16336,
+      "Hashes": [
+        "56eb9ab3af384d4cbb2aa74b1d2cbe2d"
+      ]
+    },
+    {
+      "Title": "Arduventure: Trail of the Blade",
+      "ID": 11124,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057736.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2022-05-17 19:19:37",
+      "ForumTopicID": 16472,
+      "Hashes": [
+        "e99120c72e53b6aaf7676b4494059c02"
+      ]
+    },
+    {
+      "Title": "Ardynia",
+      "ID": 5840,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057180.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 0,
+      "Points": 134,
+      "DateModified": "2023-06-03 04:44:10",
+      "ForumTopicID": 16274,
+      "Hashes": [
+        "73d6ed9d2fe4d7be3cab822065971d00"
+      ]
+    },
+    {
+      "Title": "ARtillery",
+      "ID": 29908,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/121248.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2025-12-04 21:59:10",
+      "ForumTopicID": 33440,
+      "Hashes": [
+        "d227c87e9009f13db6057944d164a78a"
+      ]
+    },
+    {
+      "Title": "BiriBiriBeat",
+      "ID": 19511,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057606.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 9,
+      "Points": 146,
+      "DateModified": "2022-05-11 15:36:22",
+      "ForumTopicID": 16443,
+      "Hashes": [
+        "5b1c604f166f9023c1b13895228d18f9"
+      ]
+    },
+    {
+      "Title": "BitWars",
+      "ID": 29919,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/123213.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 2,
+      "Points": 45,
+      "DateModified": "2026-02-04 15:08:54",
+      "ForumTopicID": 34039,
+      "Hashes": [
+        "2d17fc9797e4490d92ad5bf94f3ec3e4"
+      ]
+    },
+    {
+      "Title": "Blackjack",
+      "ID": 7871,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057084.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2022-05-18 21:38:43",
+      "ForumTopicID": 16334,
+      "Hashes": [
+        "b9c04db6fa3ebbc25acad67690095373",
+        "dd3007b20a47a02f8e8c33a2104878bd"
+      ]
+    },
+    {
+      "Title": "Blade Runner",
+      "ID": 21408,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/102578.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 4,
+      "Points": 49,
+      "DateModified": "2024-09-25 23:33:36",
+      "ForumTopicID": 28223,
+      "Hashes": [
+        "7764002c201c8349dea7376b2821c37b"
+      ]
+    },
+    {
+      "Title": "Blob Attack",
+      "ID": 29920,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/109603.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 26,
+      "DateModified": "2025-05-19 20:02:03",
+      "ForumTopicID": 30217,
+      "Hashes": [
+        "1d9ca90ed3ba671ff91bdbe57710575c"
+      ]
+    },
+    {
+      "Title": "Blocks",
+      "ID": 29924,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/099362.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 33,
+      "Points": 31,
+      "DateModified": "2026-01-05 23:14:29",
+      "ForumTopicID": 26953,
+      "Hashes": [
+        "f73f4f6714539fa8ae5a55ef32d420ca"
+      ]
+    },
+    {
+      "Title": "Bytes and Knights",
+      "ID": 33059,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/108767.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2025-08-01 10:57:27",
+      "ForumTopicID": 29993,
+      "Hashes": [
+        "2f75d4f8d0865685d6669587923b38d9"
+      ]
+    },
+    {
+      "Title": "CastleBoy",
+      "ID": 10665,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057439.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 155,
+      "DateModified": "2022-05-08 22:52:56",
+      "ForumTopicID": 16268,
+      "Hashes": [
+        "a733217c030dc768c4effc2a0295de6a"
+      ]
+    },
+    {
+      "Title": "Cat Mines",
+      "ID": 21381,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/087864.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 3,
+      "Points": 37,
+      "DateModified": "2025-06-09 11:17:42",
+      "ForumTopicID": 24733,
+      "Hashes": [
+        "5c49a9f8bd8eb721d1195399e160d7d4"
+      ]
+    },
+    {
+      "Title": "Catacombs of the Damned",
+      "ID": 13862,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057345.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 43,
+      "DateModified": "2022-05-05 08:05:22",
+      "ForumTopicID": 16370,
+      "Hashes": [
+        "c34f0985b8ebef2e8359ca5b228b6c40"
+      ]
+    },
+    {
+      "Title": "Cattle Quest",
+      "ID": 21421,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/110654.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 24,
+      "DateModified": "2025-04-29 23:14:46",
+      "ForumTopicID": 20073,
+      "Hashes": [
+        "a3e5f1a0fbfef7d05f93fd762585aaf1"
+      ]
+    },
+    {
+      "Title": "Chri-Bocchi Cat",
+      "ID": 21400,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/065566.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 49,
+      "DateModified": "2025-06-24 23:27:01",
+      "ForumTopicID": 19474,
+      "Hashes": [
+        "44de0080719b914d0d1c7bff26abeb76"
+      ]
+    },
+    {
+      "Title": "Circuit Dude",
+      "ID": 8779,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057109.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 96,
+      "DateModified": "2022-05-03 06:28:00",
+      "ForumTopicID": 16333,
+      "Hashes": [
+        "3d1c0410a1236b94dada9f9b4eae41e7"
+      ]
+    },
+    {
+      "Title": "Cooties Attack!",
+      "ID": 9219,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057434.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 4,
+      "Points": 132,
+      "DateModified": "2022-05-05 19:46:34",
+      "ForumTopicID": 16390,
+      "Hashes": [
+        "be7af750131954405ea874d8c307ee0c"
+      ]
+    },
+    {
+      "Title": "Crates 3D",
+      "ID": 23788,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/107977.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 17,
+      "Points": 100,
+      "DateModified": "2025-02-20 16:52:00",
+      "ForumTopicID": 28860,
+      "Hashes": [
+        "57970fbe146c65d4f66d3431c2e74735"
+      ]
+    },
+    {
+      "Title": "Crazy Kart",
+      "ID": 22869,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/121096.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 31,
+      "DateModified": "2023-03-13 22:43:20",
+      "ForumTopicID": 20773,
+      "Hashes": [
+        "4a0b8b8b9a31ddd9f3ff7a73a9fc0d50"
+      ]
+    },
+    {
+      "Title": "Dark and Under",
+      "ID": 11123,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056378.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2023-02-08 22:15:52",
+      "ForumTopicID": 16278,
+      "Hashes": [
+        "03e6ae7fc84878476d385f68e748000e"
+      ]
+    },
+    {
+      "Title": "Dazzle Dash",
+      "ID": 30914,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/102105.png",
+      "NumAchievements": 29,
+      "NumLeaderboards": 26,
+      "Points": 128,
+      "DateModified": "2025-08-01 04:19:11",
+      "ForumTopicID": 28072,
+      "Hashes": [
+        "7da09de005f835102d3880db5a1635be"
+      ]
+    },
+    {
+      "Title": "Dice of Fate",
+      "ID": 19577,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057889.png",
+      "NumAchievements": 18,
+      "NumLeaderboards": 0,
+      "Points": 18,
+      "DateModified": "2022-05-17 05:00:52",
+      "ForumTopicID": 16575,
+      "Hashes": [
+        "11bdbd6a5ac361e2307528e29fbcee14"
+      ]
+    },
+    {
+      "Title": "Dinosaur",
+      "ID": 21383,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/088215.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 46,
+      "DateModified": "2023-07-15 16:04:22",
+      "ForumTopicID": 22582,
+      "Hashes": [
+        "438a2a90e24d06c78fa3e2baa7e120e5"
+      ]
+    },
+    {
+      "Title": "Electrocardioground FX",
+      "ID": 29339,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/094344.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 1,
+      "Points": 73,
+      "DateModified": "2024-07-21 10:20:07",
+      "ForumTopicID": 26169,
+      "Hashes": [
+        "cb860501a5f16a84fe2359e4498d0fe4"
+      ]
+    },
+    {
+      "Title": "Fill the Cup",
+      "ID": 19518,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/096557.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 37,
+      "DateModified": "2023-04-11 19:06:36",
+      "ForumTopicID": 18951,
+      "Hashes": [
+        "eb154494abb4500c5c5f223c091cf7ae"
+      ]
+    },
+    {
+      "Title": "Fire Panic",
+      "ID": 19512,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057664.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 4,
+      "Points": 158,
+      "DateModified": "2022-05-11 12:18:22",
+      "ForumTopicID": 16455,
+      "Hashes": [
+        "9ff3d81181c550c74bb9d4a60326c741"
+      ]
+    },
+    {
+      "Title": "Flappy Ball",
+      "ID": 5816,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056451.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 75,
+      "DateModified": "2022-05-22 23:36:48",
+      "ForumTopicID": 16367,
+      "Hashes": [
+        "311a72eba1acd599d7888fe36d01fcb4"
+      ]
+    },
+    {
+      "Title": "Flappy Birdie",
+      "ID": 8691,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057863.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 3,
+      "Points": 136,
+      "DateModified": "2022-05-08 19:25:17",
+      "ForumTopicID": 16295,
+      "Hashes": [
+        "0e6d0272a0257667cda05d5d7cc5afad"
+      ]
+    },
+    {
+      "Title": "Floor Fall",
+      "ID": 21386,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/074658.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 1,
+      "Points": 21,
+      "DateModified": "2023-07-14 18:16:46",
+      "ForumTopicID": 21968,
+      "Hashes": [
+        "c5428424f0fe46c1c557f772ee26d37b"
+      ]
+    },
+    {
+      "Title": "Fluffles Rainy Day",
+      "ID": 21500,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/069803.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 15,
+      "DateModified": "2023-03-15 03:32:05",
+      "ForumTopicID": 20780,
+      "Hashes": [
+        "e432835a71588e7a1e4499f175f78881"
+      ]
+    },
+    {
+      "Title": "Galactea",
+      "ID": 21414,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/077496.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 2,
+      "Points": 95,
+      "DateModified": "2025-03-19 01:56:32",
+      "ForumTopicID": 22581,
+      "Hashes": [
+        "f32e34cbaaac81e0cac800d861281425"
+      ]
+    },
+    {
+      "Title": "Hangman",
+      "ID": 8624,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/059537.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 17,
+      "DateModified": "2025-07-10 07:30:50",
+      "ForumTopicID": 16314,
+      "Hashes": [
+        "14b5019f0f86731d8fa1e1c3a560b73d"
+      ]
+    },
+    {
+      "Title": "Holidate",
+      "ID": 21466,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/088655.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 10,
+      "DateModified": "2024-01-28 13:59:48",
+      "ForumTopicID": 25207,
+      "Hashes": [
+        "e5866b4518ed4c68067f0b249ab4af52"
+      ]
+    },
+    {
+      "Title": "Kemono Patrol",
+      "ID": 23777,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/108861.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 14,
+      "DateModified": "2025-03-12 20:14:50",
+      "ForumTopicID": 30008,
+      "Hashes": [
+        "bab2d1c54921bded4b03875bc90b2569"
+      ]
+    },
+    {
+      "Title": "Knight Move",
+      "ID": 33095,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/109284.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 4,
+      "Points": 115,
+      "DateModified": "2025-05-22 08:26:24",
+      "ForumTopicID": 30117,
+      "Hashes": [
+        "b29f86eea51fb11bc388a09c4f09e43f"
+      ]
+    },
+    {
+      "Title": "Kong",
+      "ID": 7912,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056942.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 4,
+      "Points": 75,
+      "DateModified": "2022-06-19 04:05:25",
+      "ForumTopicID": 16292,
+      "Hashes": [
+        "57c1fa57baaacce9b1c64d7e95c6b4e0"
+      ]
+    },
+    {
+      "Title": "Kong II",
+      "ID": 20318,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/061004.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 50,
+      "DateModified": "2022-08-21 23:36:03",
+      "ForumTopicID": 17784,
+      "Hashes": [
+        "6d082e8eaa6f39460872cdcaebf311ad"
+      ]
+    },
+    {
+      "Title": "Lagunita",
+      "ID": 9218,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057658.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2022-05-09 21:06:14",
+      "ForumTopicID": 16398,
+      "Hashes": [
+        "0898dc4c50f290dc09530a266696ca4a"
+      ]
+    },
+    {
+      "Title": "LongCat",
+      "ID": 19529,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057508.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 0,
+      "Points": 65,
+      "DateModified": "2022-06-18 16:16:46",
+      "ForumTopicID": 16425,
+      "Hashes": [
+        "c736efcb011fc606b9d66545bc14b27d"
+      ]
+    },
+    {
+      "Title": "MallARD Hunt",
+      "ID": 19522,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057608.png",
+      "NumAchievements": 10,
+      "NumLeaderboards": 1,
+      "Points": 70,
+      "DateModified": "2022-05-08 19:59:38",
+      "ForumTopicID": 16450,
+      "Hashes": [
+        "1f97890993d9fb44ccf9bf033122a1f2"
+      ]
+    },
+    {
+      "Title": "Micro Tank",
+      "ID": 8658,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057135.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 3,
+      "Points": 246,
+      "DateModified": "2022-08-26 05:26:25",
+      "ForumTopicID": 16318,
+      "Hashes": [
+        "758308f5c0fcb54fbf9702889f1db52a"
+      ]
+    },
+    {
+      "Title": "Micro TD",
+      "ID": 11126,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/059791.png",
+      "NumAchievements": 21,
+      "NumLeaderboards": 5,
+      "Points": 135,
+      "DateModified": "2022-07-07 19:17:02",
+      "ForumTopicID": 17199,
+      "Hashes": [
+        "de5e77cebaa017d595f4d9fc8d2c542c"
+      ]
+    },
+    {
+      "Title": "MicroCity",
+      "ID": 11132,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/066497.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 62,
+      "DateModified": "2025-03-25 19:37:34",
+      "ForumTopicID": 16302,
+      "Hashes": [
+        "6717a1b1e960d013ef61eceea6ea0006"
+      ]
+    },
+    {
+      "Title": "Midnight Wild",
+      "ID": 7910,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057055.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 1,
+      "Points": 89,
+      "DateModified": "2022-05-08 19:06:48",
+      "ForumTopicID": 16324,
+      "Hashes": [
+        "85ea7d6ac8a595c4fc76a699de6f79be"
+      ]
+    },
+    {
+      "Title": "Mini Rogue",
+      "ID": 9267,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057251.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 4,
+      "Points": 96,
+      "DateModified": "2022-05-08 20:24:44",
+      "ForumTopicID": 16310,
+      "Hashes": [
+        "95a6e026f2c59a5b73dfa90867df9f07"
+      ]
+    },
+    {
+      "Title": "Monpals",
+      "ID": 19519,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057724.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2022-10-18 05:05:53",
+      "ForumTopicID": 16467,
+      "Hashes": [
+        "8cff835493bf90ca063d03bbed4671f2"
+      ]
+    },
+    {
+      "Title": "Mystic Balloon",
+      "ID": 11125,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/102660.png",
+      "NumAchievements": 17,
+      "NumLeaderboards": 18,
+      "Points": 206,
+      "DateModified": "2025-05-12 02:18:20",
+      "ForumTopicID": 28147,
+      "Hashes": [
+        "4f36f3dc5e0b111304b6969f1366bc65"
+      ]
+    },
+    {
+      "Title": "Ninja Fuzzgrawth",
+      "ID": 3660,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057542.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 3,
+      "Points": 144,
+      "DateModified": "2022-05-08 19:01:28",
+      "ForumTopicID": 16299,
+      "Hashes": [
+        "e938c3bd3f51bbde769cd266fddd775d"
+      ]
+    },
+    {
+      "Title": "Not Just a Hat Rack",
+      "ID": 8689,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/087502.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 43,
+      "Points": 160,
+      "DateModified": "2022-05-11 22:25:15",
+      "ForumTopicID": 16284,
+      "Hashes": [
+        "c5b6c80b75cd53605903c7c81779af91"
+      ]
+    },
+    {
+      "Title": "Oil Panic",
+      "ID": 8632,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056995.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 80,
+      "DateModified": "2022-05-08 19:03:21",
+      "ForumTopicID": 16282,
+      "Hashes": [
+        "3ae26dd1c90a5fbff1109ca62815103e"
+      ]
+    },
+    {
+      "Title": "Omega Horizon",
+      "ID": 11121,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056917.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 0,
+      "Points": 50,
+      "DateModified": "2023-08-12 03:18:29",
+      "ForumTopicID": 16277,
+      "Hashes": [
+        "41ffd1a661c6424e41efc471a199425d"
+      ]
+    },
+    {
+      "Title": "Paqman",
+      "ID": 8676,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/063800.png",
+      "NumAchievements": 41,
+      "NumLeaderboards": 12,
+      "Points": 367,
+      "DateModified": "2023-07-14 23:53:07",
+      "ForumTopicID": 16387,
+      "Hashes": [
+        "6d764ed131ab107fe1e30df996d88bf5",
+        "e5f1e8878437136dcc9df3651873e829"
+      ]
+    },
+    {
+      "Title": "PiCross",
+      "ID": 9251,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057231.png",
+      "NumAchievements": 60,
+      "NumLeaderboards": 0,
+      "Points": 190,
+      "DateModified": "2022-05-03 04:38:46",
+      "ForumTopicID": 16291,
+      "Hashes": [
+        "75db0d4c0c57d8268b1ecaef6f688c68"
+      ]
+    },
+    {
+      "Title": "Pipes",
+      "ID": 8626,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056960.png",
+      "NumAchievements": 30,
+      "NumLeaderboards": 0,
+      "Points": 125,
+      "DateModified": "2022-05-09 02:25:31",
+      "ForumTopicID": 16296,
+      "Hashes": [
+        "1774d69cc164843f96ca10d6b72d21bb"
+      ]
+    },
+    {
+      "Title": "Quarto!",
+      "ID": 35173,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/119354.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 45,
+      "DateModified": "2025-10-20 01:23:43",
+      "ForumTopicID": 32877,
+      "Hashes": [
+        "6a2ab0ba8d2ecb2921d0a41e79d37202"
+      ]
+    },
+    {
+      "Title": "Rayne the Rogue",
+      "ID": 19513,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/068399.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 2,
+      "Points": 85,
+      "DateModified": "2024-05-16 17:10:30",
+      "ForumTopicID": 20396,
+      "Hashes": [
+        "49468ac181d6b6eacb034e1b5e396475"
+      ]
+    },
+    {
+      "Title": "Rhythum",
+      "ID": 26482,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/093487.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2024-04-01 03:46:32",
+      "ForumTopicID": 25987,
+      "Hashes": [
+        "d615c970c6accc128745c1680e2beb6c"
+      ]
+    },
+    {
+      "Title": "Rick and Morty Game",
+      "ID": 7935,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056958.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 13,
+      "DateModified": "2022-10-07 15:56:55",
+      "ForumTopicID": 16303,
+      "Hashes": [
+        "7c806db164a90b6cc7dda291d40c267b"
+      ]
+    },
+    {
+      "Title": "Rick Ardurous",
+      "ID": 32475,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/107941.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 1,
+      "Points": 30,
+      "DateModified": "2025-03-25 00:21:06",
+      "ForumTopicID": 29018,
+      "Hashes": [
+        "742d297c1d0f0c2a58d64be4a00a8462"
+      ]
+    },
+    {
+      "Title": "Road Trip",
+      "ID": 8678,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/069633.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 60,
+      "DateModified": "2023-03-10 12:35:12",
+      "ForumTopicID": 16327,
+      "Hashes": [
+        "12c7a6d38e6c0dbaf4b20a61c3a20374"
+      ]
+    },
+    {
+      "Title": "Santa's Factory",
+      "ID": 21473,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/086475.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 34,
+      "DateModified": "2023-12-06 15:34:35",
+      "ForumTopicID": 24648,
+      "Hashes": [
+        "d65b44b7b77db44aa8d08d57f0210175"
+      ]
+    },
+    {
+      "Title": "Shattered Lands: Towers of Perdition",
+      "ID": 8778,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057165.png",
+      "NumAchievements": 23,
+      "NumLeaderboards": 0,
+      "Points": 105,
+      "DateModified": "2025-08-25 12:35:17",
+      "ForumTopicID": 16288,
+      "Hashes": [
+        "f3c23d302106643bc61836c01366d392"
+      ]
+    },
+    {
+      "Title": "Single Ennead",
+      "ID": 21876,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/066787.png",
+      "NumAchievements": 19,
+      "NumLeaderboards": 0,
+      "Points": 140,
+      "DateModified": "2023-01-18 03:30:20",
+      "ForumTopicID": 19413,
+      "Hashes": [
+        "2db76e2fd023434da45e5ab93e62172f"
+      ]
+    },
+    {
+      "Title": "Sirene",
+      "ID": 9215,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/081848.png",
+      "NumAchievements": 16,
+      "NumLeaderboards": 1,
+      "Points": 86,
+      "DateModified": "2023-09-01 00:05:34",
+      "ForumTopicID": 16393,
+      "Hashes": [
+        "52aaf42affe980549f64183865486e17"
+      ]
+    },
+    {
+      "Title": "Sliding Tiles",
+      "ID": 29879,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/098109.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 10,
+      "Points": 20,
+      "DateModified": "2024-06-08 10:54:00",
+      "ForumTopicID": 26838,
+      "Hashes": [
+        "bc7b7565daabdf505b619ce1f45013b2"
+      ]
+    },
+    {
+      "Title": "SpaceCab",
+      "ID": 19515,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/102225.png",
+      "NumAchievements": 24,
+      "NumLeaderboards": 1,
+      "Points": 180,
+      "DateModified": "2025-09-18 23:39:41",
+      "ForumTopicID": 32218,
+      "Hashes": [
+        "9ea09acd5c73b8298c64911e4ccb83f2"
+      ]
+    },
+    {
+      "Title": "Spooky Walking Simulator",
+      "ID": 38057,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/124711.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 54,
+      "DateModified": "2026-02-22 20:37:55",
+      "ForumTopicID": 34592,
+      "Hashes": [
+        "23f8643db43fdda595c3d2e56baef643"
+      ]
+    },
+    {
+      "Title": "Squid Jump",
+      "ID": 26074,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/108662.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 1,
+      "Points": 67,
+      "DateModified": "2024-04-08 06:41:29",
+      "ForumTopicID": 26020,
+      "Hashes": [
+        "9af6d3c564e9ee7093559f77f55ff50e"
+      ]
+    },
+    {
+      "Title": "Star Honor",
+      "ID": 11671,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057309.png",
+      "NumAchievements": 14,
+      "NumLeaderboards": 3,
+      "Points": 65,
+      "DateModified": "2024-11-24 04:35:34",
+      "ForumTopicID": 16304,
+      "Hashes": [
+        "463a980cf9eae9b9d67467a97c0bbf31"
+      ]
+    },
+    {
+      "Title": "Starduino Classic",
+      "ID": 9237,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057120.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 1,
+      "Points": 65,
+      "DateModified": "2024-12-22 16:24:17",
+      "ForumTopicID": 16286,
+      "Hashes": [
+        "c6a44113fbe290233ddeadd9e9d9b9d2"
+      ]
+    },
+    {
+      "Title": "Stonk Simulator",
+      "ID": 28355,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/114475.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 0,
+      "Points": 30,
+      "DateModified": "2025-07-03 16:31:24",
+      "ForumTopicID": 31396,
+      "Hashes": [
+        "2974a9bdae2e6abb1da642e4b363b4e9"
+      ]
+    },
+    {
+      "Title": "Sudoku-NBP",
+      "ID": 8690,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057321.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 0,
+      "Points": 32,
+      "DateModified": "2024-05-07 20:49:02",
+      "ForumTopicID": 16368,
+      "Hashes": [
+        "e732ecc69f205751c8aa69d10aefdcf0"
+      ]
+    },
+    {
+      "Title": "Tackle Box",
+      "ID": 5843,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057273.png",
+      "NumAchievements": 11,
+      "NumLeaderboards": 3,
+      "Points": 62,
+      "DateModified": "2023-09-05 10:21:37",
+      "ForumTopicID": 16273,
+      "Hashes": [
+        "40657e770e91b7317bd583fc70bd23db"
+      ]
+    },
+    {
+      "Title": "The Bounce",
+      "ID": 5838,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057210.png",
+      "NumAchievements": 26,
+      "NumLeaderboards": 15,
+      "Points": 120,
+      "DateModified": "2022-07-14 00:34:53",
+      "ForumTopicID": 16294,
+      "Hashes": [
+        "f557ab3e1ab9a3b6a6b550ff3b6a3d52"
+      ]
+    },
+    {
+      "Title": "The Crawl",
+      "ID": 7913,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/056988.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 0,
+      "Points": 20,
+      "DateModified": "2023-08-18 02:18:06",
+      "ForumTopicID": 16306,
+      "Hashes": [
+        "cdd759fc287232a1633cf75702ab6ac8"
+      ]
+    },
+    {
+      "Title": "The Curse of Astarok",
+      "ID": 20068,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/060110.png",
+      "NumAchievements": 13,
+      "NumLeaderboards": 0,
+      "Points": 71,
+      "DateModified": "2025-02-23 19:27:23",
+      "ForumTopicID": 17238,
+      "Hashes": [
+        "6462757dc4075ac696e882b957ab1d2b"
+      ]
+    },
+    {
+      "Title": "The Social Distance Game",
+      "ID": 11680,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/093092.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 2,
+      "Points": 27,
+      "DateModified": "2023-04-30 17:59:50",
+      "ForumTopicID": 16466,
+      "Hashes": [
+        "ca8b689bed5ce47072a2d04b90806f10"
+      ]
+    },
+    {
+      "Title": "Tiny 2048",
+      "ID": 25683,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/082150.png",
+      "NumAchievements": 9,
+      "NumLeaderboards": 2,
+      "Points": 56,
+      "DateModified": "2024-11-27 16:16:34",
+      "ForumTopicID": 23253,
+      "Hashes": [
+        "47104536519ec9378175f3e2e69e002b"
+      ]
+    },
+    {
+      "Title": "Tiny Sokoban",
+      "ID": 19547,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057762.png",
+      "NumAchievements": 52,
+      "NumLeaderboards": 0,
+      "Points": 104,
+      "DateModified": "2022-05-12 22:52:16",
+      "ForumTopicID": 16451,
+      "Hashes": [
+        "c1021b50977c48f87aeebff2e3fee0e5"
+      ]
+    },
+    {
+      "Title": "Tiny-DDug",
+      "ID": 23778,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/073709.png",
+      "NumAchievements": 6,
+      "NumLeaderboards": 1,
+      "Points": 17,
+      "DateModified": "2023-05-26 19:32:28",
+      "ForumTopicID": 21728,
+      "Hashes": [
+        "8bd37792042f85b18e7641c6eb841ffc"
+      ]
+    },
+    {
+      "Title": "Tower of Pain",
+      "ID": 19520,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057574.png",
+      "NumAchievements": 32,
+      "NumLeaderboards": 1,
+      "Points": 207,
+      "DateModified": "2023-04-24 03:07:15",
+      "ForumTopicID": 16428,
+      "Hashes": [
+        "bfe58e5d1406f6345e26de2a4551d74a"
+      ]
+    },
+    {
+      "Title": "Turtle Bridge",
+      "ID": 7880,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/057688.png",
+      "NumAchievements": 8,
+      "NumLeaderboards": 2,
+      "Points": 48,
+      "DateModified": "2022-06-16 17:13:30",
+      "ForumTopicID": 16281,
+      "Hashes": [
+        "0bcad72bba1d84882763b0f02328226f"
+      ]
+    },
+    {
+      "Title": "Under the Tower",
+      "ID": 9286,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/091377.png",
+      "NumAchievements": 12,
+      "NumLeaderboards": 0,
+      "Points": 70,
+      "DateModified": "2024-06-12 05:06:06",
+      "ForumTopicID": 26837,
+      "Hashes": [
+        "4927d3169aba8925ca356522b0ac827c"
+      ]
+    },
+    {
+      "Title": "Virus LQP-79",
+      "ID": 11127,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/070154.png",
+      "NumAchievements": 36,
+      "NumLeaderboards": 3,
+      "Points": 220,
+      "DateModified": "2024-11-17 23:28:07",
+      "ForumTopicID": 20896,
+      "Hashes": [
+        "07fe9a67d03c1a78ac4595a4b2c1119f",
+        "aacc854ebb449e34c1c5c518c97c6b1e"
+      ]
+    },
+    {
+      "Title": "Yatzy",
+      "ID": 23781,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/105090.png",
+      "NumAchievements": 20,
+      "NumLeaderboards": 2,
+      "Points": 110,
+      "DateModified": "2024-12-13 03:24:53",
+      "ForumTopicID": 28861,
+      "Hashes": [
+        "d816989a627a49d388f5517c983aa747"
+      ]
+    },
+    {
+      "Title": "Zoo at Midnight",
+      "ID": 25180,
+      "ConsoleID": 71,
+      "ConsoleName": "Arduboy",
+      "ImageIcon": "/Images/077225.png",
+      "NumAchievements": 7,
+      "NumLeaderboards": 4,
+      "Points": 36,
+      "DateModified": "2023-07-14 16:12:52",
+      "ForumTopicID": 22559,
+      "Hashes": [
+        "c8459bc68c1a7bb1886ea092bf107cf3"
+      ]
+    }
+  ]
+}

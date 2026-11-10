@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!--
+  Supplemental GameFAQs featured-FAQ entries not present in the FOTM snapshot.
+  The regenerator reads every *.mht / *.html in this directory; entries here are
+  merged in (first occurrence across all files wins on dedup). One anchor per
+  game, matching the FOTM page's link shape:
+    <a href="https://gamefaqs.gamespot.com/{platform}/{id}-{slug}/faqs/{faqid}">Title (PLATFORM)</a>
+
+  A single guide that covers multiple games gets one anchor PER game, all
+  pointing at the same FAQ URL but titled after each individual game, so a vault
+  named after just one of them still resolves to the shared guide. (Their
+  canonical titles differ, so the entries don't dedupe against each other.)
+-->
+<html>
+<body>
+<a href="https://gamefaqs.gamespot.com/ps5/383909-silent-hill-2/faqs/81517">Silent Hill 2 (PS5)</a>
+
+<!-- One SNES guide covers both Dragon Quest I and II → split into per-game entries. -->
+<a href="https://gamefaqs.gamespot.com/snes/564868-dragon-quest-i-and-ii/faqs/82562">Dragon Quest I (SNES)</a>
+<a href="https://gamefaqs.gamespot.com/snes/564868-dragon-quest-i-and-ii/faqs/82562">Dragon Quest II (SNES)</a>
+</body>
+</html>

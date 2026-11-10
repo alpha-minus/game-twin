@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Cleartext stays permitted: the in-app browser opens guide sites the user
+    types, and a share of the old fan sites are plain http. The app's own
+    endpoints are all https literals in code, and executable downloads
+    (self-update, emulator catalog) refuse non-https URLs before fetching.
+
+    Trust anchors are system only. A user-installed CA must not be able to
+    read license activation, Gemini traffic, or rewrite an APK download. The
+    debug source set overrides this file to allow user CAs for proxy work.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

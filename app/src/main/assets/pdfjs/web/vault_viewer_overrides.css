@@ -1,0 +1,13 @@
+/* Vault viewer overrides: hide default toolbar and sidebar; UI is driven from the app. */
+#toolbarContainer {
+  display: none !important;
+}
+#sidebarContainer {
+  display: none !important;
+}
+
+#viewerContainer {
+  position: fixed !important;
+  inset: 0 !important;
+  overflow: auto !important;
+}
